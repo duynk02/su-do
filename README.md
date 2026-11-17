@@ -23,7 +23,7 @@ npm run build
 npm start
 ```
 
-`next build` xuất website tĩnh vào `out/`. `npm start` dùng server tĩnh Node cục bộ (không phải `next start`). Không cần backend, .env, tài khoản hay token bản đồ. Không có remote Git hoặc triển khai công khai.
+`next build` xuất website tĩnh vào `out/`. `npm start` dùng server tĩnh Node cục bộ (không phải `next start`). Không cần backend, .env, tài khoản hay token bản đồ. Chưa triển khai công khai.
 
 ## Kiểm thử trình duyệt
 
@@ -47,7 +47,7 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 ## Cấu trúc và lựa chọn kỹ thuật
 
 - Next.js App Router + TypeScript, static export: nội dung đọc được từ HTML, không cần máy chủ ứng dụng.
-- `src/data/schema.ts`: các thực thể sử học; `history.ts`: nội dung; `sources.ts`: nguồn đã thực sự đọc.
+- `src/data/schema.ts`: các thực thể sử học; `history.ts`: nội dung và liên kết; `biographies.ts`: tiểu sử nhân vật theo đoạn có nguồn; `sources.ts`: nguồn đã thực sự đọc.
 - `src/lib/history.ts`: tìm kiếm không dấu, quy ước thời gian, đọc/ghi URL.
 - Bản đồ SVG dùng d3-geo, tải module và GeoJSON khi cần; không cần WebGL. Đã đọc [tài liệu d3-geo](https://d3js.org/d3-geo) và [Next.js static exports](https://nextjs.org/docs/app/guides/static-exports).
 - Natural Earth public domain, dữ liệu địa lý hiện đại lưu cục bộ. Không gọi tile server; không có phí API hoặc hạn ngạch từ nhà cung cấp bản đồ. Hạ tầng hosting tương lai có thể có phí riêng.
@@ -57,6 +57,8 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 Để đổi nguồn bản đồ, thay GeoJSON và phép chiếu trong `atlas-map.tsx`, cập nhật `MAP_DATA_PROVENANCE.md`; giữ riêng lớp tham chiếu hiện đại. Không cần đổi mô hình nội dung hoặc đăng ký token khi dùng dữ liệu cục bộ tương đương.
 
 ## Giới hạn biên soạn
+
+23 hồ sơ nhân vật có đoạn giới thiệu tiểu sử. Trần Nhân Tông và Dương Nhật Lễ có thêm các phần về xuất thân, hoạt động, lên ngôi/rời ngôi và liên kết sự kiện. Niên đại sống được bổ sung khi nguồn hỗ trợ; năm sinh của Nhật Lễ và năm mất của Thiếu Đế vẫn để chưa rõ. Những cách ghi ngày hoặc thời gian mang tôn hiệu khác nhau được lưu trong chú thích nguồn.
 
 Chưa có biên tập viên/chuyên gia lịch sử duyệt. “Đã đối chiếu nguồn” chỉ nói về việc so sánh nguồn. Chưa có dữ liệu ranh giới lịch sử đủ căn cứ; website không dựng polygon lãnh thổ. Các địa điểm không đủ tọa độ vẫn nằm trong danh sách văn bản.
 

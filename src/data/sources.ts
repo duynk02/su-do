@@ -10,15 +10,16 @@ export const sources: Source[] = [
     id: "the-thu",
     title: "Thế thứ các triều vua Việt Nam",
     author: "Nguyễn Khắc Thuần",
-    publisher: "Nhà xuất bản Giáo dục; bản chuyển dạng tại thuviensach.vn",
+    publisher: "Trường Sư phạm, Đại học Cần Thơ — bản chuyển dạng sách",
     year: null,
-    url: "https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf",
+    url: "https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html",
     type: "research",
-    upstream: "Bản ghi đầu tài liệu dẫn vnthuquan.net, phát hành Nguyễn Kim Vỹ",
+    upstream:
+      "Thế thứ các triều vua Việt Nam của Nguyễn Khắc Thuần; trước đây đã đọc bản PDF chuyển dạng tại thuviensach.vn",
     readLocation:
-      "Phần ‘II – Thế thứ các vua thời Trần’, các mục 1–13; lời nói đầu và đề tựa",
+      "Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13; chương 4, mục Lý Chiêu Hoàng",
     limits:
-      "Đã đọc bản chuyển dạng, chưa đối chiếu bản in/giấy phép phân phối PDF; không lưu hoặc phân phối lại sách. Lời nói đầu đề 1995 không được dùng như năm xuất bản. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án khác bài biên niên; giữ tên được sách ghi và lưu biến thể có nguồn để tìm kiếm.",
+      "Đã đọc bản chuyển dạng tại Đại học Cần Thơ và bản PDF trước đó, chưa đối chiếu bản in. Hai bản chuyển dạng là cùng một công trình, không tính là hai nguồn độc lập. Các niên đại giữ độ chính xác năm; mốc Thượng hoàng Nhân Tông 1293–1299 trong sách được phân biệt với thời gian còn mang tôn hiệu đến khi mất năm 1308. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án được lưu cho tìm kiếm.",
   }),
   source({
     id: "nhan-tong-heritage",
@@ -33,6 +34,65 @@ export const sources: Source[] = [
     readLocation: "Đoạn giới thiệu: sinh 1258, mất 1308, trị vì 1278–1293",
     limits:
       "Bài tưởng niệm chỉ dùng niên đại; không dùng lời tán dương làm kết luận khách quan. Mốc lên ngôi 1278 khác bài biên niên ghi 1279; chưa tự giải thích bằng chuyển lịch.",
+  }),
+  source({
+    id: "nhan-tong-journey",
+    title:
+      "Lễ dâng hương tưởng niệm 710 năm ngày mất Phật hoàng Trần Nhân Tông",
+    author: null,
+    publisher: "Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội",
+    year: 2018,
+    url: "https://hoangthanhthanglong.vn/le-dang-huong-tuong-niem-710-nam-ngay-mat-phat-hoang-tran-nhan-tong/",
+    type: "heritage",
+    upstream: null,
+    readLocation:
+      "Các đoạn về kháng chiến 1285/1288, nhường ngôi 1293, xuất gia Yên Tử 1299, Pháp Loa và am Ngọa Vân 1308",
+    limits:
+      "Bài giới thiệu di sản mang tính tưởng niệm. Chỉ dùng các dấu mốc và hoạt động được nêu; không dùng lời tán dương làm nhận định khách quan. Ngày mất 1 tháng 11 trong bài khác ngày 3 tháng 11 trong Thế thứ; chỉ xuất bản năm 1308.",
+  }),
+  source({
+    id: "nhat-le-court",
+    title: "Nàng công chúa dẹp loạn cứu vương triều",
+    author: "Lê Thái Dũng",
+    publisher: "Bảo tàng Lịch sử Quốc gia (đăng lại)",
+    year: 2012,
+    url: "https://baotanglichsu.vn/vi/Articles/2001/66421/nang-cong-chua-dep-loan-cuu-vuong-trieu.html",
+    type: "museum",
+    upstream:
+      "phunutoday.vn; bài dẫn Đại Việt sử ký toàn thư và Đại Việt sử ký tiền biên",
+    readLocation:
+      "Phần ‘Một quyết định sai lầm khiến xã tắc ngả nghiêng’ và các đoạn về Nguyên Trác, Thiên Ninh, Trần Phủ, việc phế Nhật Lễ tháng 11 năm 1370",
+    limits:
+      "Bài phổ thông dẫn sử liệu, chưa thay thế việc kiểm tra bản sử gốc. Phân biệt ghi chép về huyết thống và động cơ chính trị với dữ kiện hiện đại; không lặp lời miệt thị nghề nghiệp, lời thoại hoặc mô tả cảm xúc.",
+  }),
+  source({
+    id: "quoc-tuan-biography",
+    title: "Hưng Đạo Đại Vương – Trần Quốc Tuấn",
+    author: null,
+    publisher: "Ủy ban Nhà nước về người Việt Nam ở nước ngoài",
+    year: 2007,
+    url: "https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/hung-ao-ai-vuong-tran-quoc-tuan.html",
+    type: "chronology",
+    upstream: null,
+    readLocation:
+      "Đoạn mở đầu 1228–1300; các đoạn về Trần Liễu, Trần Quang Khải, quyền tiết chế và Hịch tướng sĩ",
+    limits:
+      "Bài giới thiệu mang tính tôn vinh; không dùng lời đánh giá tuyệt đối hoặc gán quyền tổng chỉ huy cả ba cuộc chiến chỉ từ đoạn tóm tắt. Năm sinh 1228 được ghi xấp xỉ do còn có cách ghi dè dặt trong nghiên cứu.",
+  }),
+  source({
+    id: "vietnam-su-luoc-tran",
+    title: "Việt Nam sử lược, quyển I — cuối đời Nhân Tông và đời Anh Tông",
+    author: "Trần Trọng Kim",
+    publisher: "Wikisource — bản chuyển dạng kèm ảnh trang sách",
+    year: null,
+    url: "https://vi.wikisource.org/wiki/Trang:Viet_Nam_Su_Luoc_1.djvu/180",
+    type: "chronology",
+    upstream:
+      "Việt Nam sử lược, quyển I, trang in 167–168; các trang djvu/179 và djvu/180",
+    readLocation:
+      "Trang in 167: Nhân Tông đi tu và quan hệ với Champa; trang 168: Nhân Tông Thượng hoàng mất năm 1308",
+    limits:
+      "Sử biên soạn đầu thế kỷ XX, cần đối chiếu nguồn khác. Chỉ dùng việc tôn hiệu Thượng hoàng còn được ghi khi Nhân Tông mất năm 1308 và các mốc đã đối chiếu; không lặp nhận định về tập tục Champa hoặc lời phán xét. Chưa xác nhận ấn bản của bản quét.",
   }),
   source({
     id: "toan-thu-phe-de",

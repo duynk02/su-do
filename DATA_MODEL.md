@@ -1,13 +1,13 @@
 # Mô hình dữ liệu
 
-Các interface TypeScript tại `src/data/schema.ts`. Nội dung tại `history.ts`, nguồn tại `sources.ts`; component không là nơi lưu các đoạn biên khảo.
+Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết tại `history.ts`, tiểu sử tại `biographies.ts`, nguồn tại `sources.ts`; component không là nơi lưu các đoạn biên khảo.
 
 | Thực thể | Vai trò |
 |---|---|
 | Period | Khung thời kỳ biên tập; có thể gồm nhiều chính quyền và thời gian chồng lấn |
 | Polity | Chính quyền/thực thể chính trị, độc lập với tên triều |
 | Dynasty | Triều đại, trỏ Polity; phiên bản này dùng Đại Việt cho phạm vi cuối Lý đang biên soạn, không khẳng định quốc hiệu này áp dụng cho toàn bộ đầu triều Lý |
-| Person | ID duy nhất; tên húy, miếu hiệu, tên thường gọi và biến thể tìm kiếm |
+| Person | ID duy nhất; tên húy, miếu hiệu, niên hiệu, niên đại sống, tên thường gọi, đoạn giới thiệu và các phần tiểu sử trỏ Claim |
 | RoleTenure | Giữ một chức vị trong một khoảng thời gian; vua và thượng hoàng có thể chồng lấn |
 | Relationship | Cạnh có hướng với loại cha/mẹ–con, hôn nhân, anh/em, kế vị hoặc chính trị; không suy ra các cạnh khác |
 | Event | Bối cảnh, diễn biến, kết quả trỏ Claim; hệ quả gợi mở là câu hỏi biên tập riêng |
@@ -28,6 +28,12 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung tại `history.
 - Chỉ có `normalized` khi có `conversion.method` và `conversion.sourceId`. Không dùng JavaScript Date để đổi niên đại cổ.
 - Các Period có thể giao nhau: cuối Lý–đầu Trần, Tây Sơn–cuối Lê. Không suy sự kế vị duy nhất từ thứ tự mảng.
 - Ranh 1901 nội bộ dùng cho phạm vi đọc bao gồm năm 1900, không phải năm kết thúc nhà Nguyễn. Mốc cổ đại là khung biên tập, không phải ngày lập quốc.
+
+## Tiểu sử nhân vật
+
+`biographies.ts` lưu đoạn giới thiệu và các phần tiểu sử cùng vị trí nguồn của từng đoạn. `history.ts` chuyển chúng thành Claim/Citation, gắn `summaryClaimIds` và `biographySections` vào Person. Mỗi mục sự kiện vẫn dùng Event ID; mở từ hồ sơ sẽ cập nhật năm, URL và bài đọc theo cùng luồng điều hướng. Audit kiểm tra cả Claim trong các phần tiểu sử.
+
+`life` là cách ghi có nguồn, có thể gồm phần chưa biết như “Chưa rõ năm sinh – 1370”. Không lấy năm bắt đầu hoặc kết thúc trị vì thay cho năm sinh/mất. Vai trò Thượng hoàng của Nhân Tông 1293–1308 ghi thời gian mang tôn hiệu; mốc xuất gia Yên Tử 1299 là sự kiện riêng. Dị biệt của Thế thứ về giai đoạn 1293–1299 được lưu tại Claim vai trò.
 
 ## Thêm thời kỳ mà không sửa logic cốt lõi
 

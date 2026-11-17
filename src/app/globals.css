@@ -1223,6 +1223,13 @@ button {
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
 }
+.biography-section {
+  margin: 28px 0;
+}
+.biography-section h3 {
+  font: 500 20px/1.5 var(--serif);
+  margin: 0 0 14px;
+}
 .role-comparison > div {
   display: flex;
   flex-direction: column;

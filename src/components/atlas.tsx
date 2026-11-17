@@ -61,6 +61,8 @@ export default function Atlas() {
     }
   }, [readerKey, mobilePane]);
   useEffect(() => {
+    const previousScrollRestoration = window.history.scrollRestoration;
+    window.history.scrollRestoration = "manual";
     stateRef.current = readState(window.location.search);
     setState(stateRef.current);
     setMounted(true);
@@ -69,7 +71,10 @@ export default function Atlas() {
       setState(stateRef.current);
     };
     window.addEventListener("popstate", pop);
-    return () => window.removeEventListener("popstate", pop);
+    return () => {
+      window.removeEventListener("popstate", pop);
+      window.history.scrollRestoration = previousScrollRestoration;
+    };
   }, []);
   useEffect(() => {
     setYearInput(String(state.year <= 0 ? state.year - 1 : state.year));
@@ -582,9 +587,7 @@ export default function Atlas() {
           onSelect={selectSearch}
         />
       )}
-      {libraryOpen && (
-        <LibraryDialog onClose={() => setLibraryOpen(false)} />
-      )}
+      {libraryOpen && <LibraryDialog onClose={() => setLibraryOpen(false)} />}
       {evidence && (
         <EvidenceDialog claimId={evidence} onClose={() => setEvidence(null)} />
       )}

@@ -523,6 +523,9 @@ function PersonReader({
   actions: ReaderActions;
 }) {
   const roles = tenures.filter((t) => t.personId === person.id);
+  const aliases = person.aliases.filter(
+    (name) => name !== person.name && name !== person.personalName,
+  );
   return (
     <>
       <button className="back-link" onClick={() => actions.onView("people")}>
@@ -537,6 +540,11 @@ function PersonReader({
       <p className="chapter-question">
         {person.title ?? person.templeName ?? "Người giữ ngôi thời Trần"}
       </p>
+      <div className="person-introduction">
+        {person.summaryClaimIds.map((id) => (
+          <ClaimText key={id} id={id} onClaim={actions.onClaim} />
+        ))}
+      </div>
       <dl className="person-names">
         {person.personalName && (
           <>
@@ -550,23 +558,32 @@ function PersonReader({
             <dd>{person.templeName}</dd>
           </>
         )}
-        {!!person.aliases.length && (
+        {!!aliases.length && (
           <>
             <dt>Tên gọi khác</dt>
-            <dd>
-              {person.aliases.filter((a) => a !== person.name).join(" · ") ||
-                "Không có tên khác đã biên soạn"}
-            </dd>
+            <dd>{aliases.join(" · ")}</dd>
           </>
         )}
-        <dt>Niên đại sống</dt>
-        <dd>
-          {person.life ??
-            "Chưa rõ"}
-        </dd>
+        {person.life && (
+          <>
+            <dt>Niên đại sống</dt>
+            <dd>{person.life}</dd>
+          </>
+        )}
+        {!!person.eraNames?.length && (
+          <>
+            <dt>Niên hiệu</dt>
+            <dd>{person.eraNames.join(" · ")}</dd>
+          </>
+        )}
       </dl>
-      {person.summaryClaimIds.map((id) => (
-        <ClaimText key={id} id={id} onClaim={actions.onClaim} />
+      {person.biographySections?.map((section) => (
+        <section className="biography-section" key={section.title}>
+          <h3>{section.title}</h3>
+          {section.claimIds.map((id) => (
+            <ClaimText key={id} id={id} onClaim={actions.onClaim} />
+          ))}
+        </section>
       ))}
       {person.note && (
         <aside className="editorial-note">
@@ -744,6 +761,7 @@ export function Reader({
         <div className="event-index">
           {events
             .filter((e) => (period.id === "ho" ? e.id === "nha-ho-1400" : true))
+            .sort((a, b) => a.date.start - b.date.start)
             .map((e) => (
               <button key={e.id} onClick={() => actions.onEvent(e.id)}>
                 <time>{e.date.label}</time>
@@ -864,9 +882,7 @@ export function Reader({
                 <ClaimText key={id} id={id} onClaim={actions.onClaim} />
               ))
             ) : (
-              <p>
-                Chưa có bài đọc chi tiết cho thời kỳ này.
-              </p>
+              <p>Chưa có bài đọc chi tiết cho thời kỳ này.</p>
             )}
             <button
               className="primary-action"

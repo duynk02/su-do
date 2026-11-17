@@ -4,13 +4,13 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 
 ## the-thu — Thế thứ các triều vua Việt Nam
 
-- URL: [mở nguồn](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf)
-- Tác giả: Nguyễn Khắc Thuần. Cơ quan/nhà xuất bản: Nhà xuất bản Giáo dục; bản chuyển dạng tại thuviensach.vn.
+- URL: [mở nguồn](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html)
+- Tác giả: Nguyễn Khắc Thuần. Cơ quan/nhà xuất bản: Trường Sư phạm, Đại học Cần Thơ — bản chuyển dạng sách.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: research. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: Phần ‘II – Thế thứ các vua thời Trần’, các mục 1–13; lời nói đầu và đề tựa.
-- Nguồn bài đăng lại: Bản ghi đầu tài liệu dẫn vnthuquan.net, phát hành Nguyễn Kim Vỹ.
-- Giới hạn: Đã đọc bản chuyển dạng, chưa đối chiếu bản in/giấy phép phân phối PDF; không lưu hoặc phân phối lại sách. Lời nói đầu đề 1995 không được dùng như năm xuất bản. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án khác bài biên niên; giữ tên được sách ghi và lưu biến thể có nguồn để tìm kiếm.
+- Vị trí thực sự đọc: Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13; chương 4, mục Lý Chiêu Hoàng.
+- Nguồn bài đăng lại: Thế thứ các triều vua Việt Nam của Nguyễn Khắc Thuần; trước đây đã đọc bản PDF chuyển dạng tại thuviensach.vn.
+- Giới hạn: Đã đọc bản chuyển dạng tại Đại học Cần Thơ và bản PDF trước đó, chưa đối chiếu bản in. Hai bản chuyển dạng là cùng một công trình, không tính là hai nguồn độc lập. Các niên đại giữ độ chính xác năm; mốc Thượng hoàng Nhân Tông 1293–1299 trong sách được phân biệt với thời gian còn mang tôn hiệu đến khi mất năm 1308. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án được lưu cho tìm kiếm.
 
 ## nhan-tong-heritage — Lễ dâng hương kỷ niệm 715 năm huý nhật Đức Vua, Phật Hoàng Trần Nhân Tông
 
@@ -21,6 +21,46 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Vị trí thực sự đọc: Đoạn giới thiệu: sinh 1258, mất 1308, trị vì 1278–1293.
 - Nguồn bài đăng lại: không xác định là bài đăng lại.
 - Giới hạn: Bài tưởng niệm chỉ dùng niên đại; không dùng lời tán dương làm kết luận khách quan. Mốc lên ngôi 1278 khác bài biên niên ghi 1279; chưa tự giải thích bằng chuyển lịch.
+
+## nhan-tong-journey — Lễ dâng hương tưởng niệm 710 năm ngày mất Phật hoàng Trần Nhân Tông
+
+- URL: [mở nguồn](https://hoangthanhthanglong.vn/le-dang-huong-tuong-niem-710-nam-ngay-mat-phat-hoang-tran-nhan-tong/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội.
+- Năm: 2018. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn về kháng chiến 1285/1288, nhường ngôi 1293, xuất gia Yên Tử 1299, Pháp Loa và am Ngọa Vân 1308.
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài giới thiệu di sản mang tính tưởng niệm. Chỉ dùng các dấu mốc và hoạt động được nêu; không dùng lời tán dương làm nhận định khách quan. Ngày mất 1 tháng 11 trong bài khác ngày 3 tháng 11 trong Thế thứ; chỉ xuất bản năm 1308.
+
+## nhat-le-court — Nàng công chúa dẹp loạn cứu vương triều
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/2001/66421/nang-cong-chua-dep-loan-cuu-vuong-trieu.html)
+- Tác giả: Lê Thái Dũng. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia (đăng lại).
+- Năm: 2012. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Phần ‘Một quyết định sai lầm khiến xã tắc ngả nghiêng’ và các đoạn về Nguyên Trác, Thiên Ninh, Trần Phủ, việc phế Nhật Lễ tháng 11 năm 1370.
+- Nguồn bài đăng lại: phunutoday.vn; bài dẫn Đại Việt sử ký toàn thư và Đại Việt sử ký tiền biên.
+- Giới hạn: Bài phổ thông dẫn sử liệu, chưa thay thế việc kiểm tra bản sử gốc. Phân biệt ghi chép về huyết thống và động cơ chính trị với dữ kiện hiện đại; không lặp lời miệt thị nghề nghiệp, lời thoại hoặc mô tả cảm xúc.
+
+## quoc-tuan-biography — Hưng Đạo Đại Vương – Trần Quốc Tuấn
+
+- URL: [mở nguồn](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/hung-ao-ai-vuong-tran-quoc-tuan.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Ủy ban Nhà nước về người Việt Nam ở nước ngoài.
+- Năm: 2007. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Đoạn mở đầu 1228–1300; các đoạn về Trần Liễu, Trần Quang Khải, quyền tiết chế và Hịch tướng sĩ.
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài giới thiệu mang tính tôn vinh; không dùng lời đánh giá tuyệt đối hoặc gán quyền tổng chỉ huy cả ba cuộc chiến chỉ từ đoạn tóm tắt. Năm sinh 1228 được ghi xấp xỉ do còn có cách ghi dè dặt trong nghiên cứu.
+
+## vietnam-su-luoc-tran — Việt Nam sử lược, quyển I — cuối đời Nhân Tông và đời Anh Tông
+
+- URL: [mở nguồn](https://vi.wikisource.org/wiki/Trang:Viet_Nam_Su_Luoc_1.djvu/180)
+- Tác giả: Trần Trọng Kim. Cơ quan/nhà xuất bản: Wikisource — bản chuyển dạng kèm ảnh trang sách.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Trang in 167: Nhân Tông đi tu và quan hệ với Champa; trang 168: Nhân Tông Thượng hoàng mất năm 1308.
+- Nguồn bài đăng lại: Việt Nam sử lược, quyển I, trang in 167–168; các trang djvu/179 và djvu/180.
+- Giới hạn: Sử biên soạn đầu thế kỷ XX, cần đối chiếu nguồn khác. Chỉ dùng việc tôn hiệu Thượng hoàng còn được ghi khi Nhân Tông mất năm 1308 và các mốc đã đối chiếu; không lặp nhận định về tập tục Champa hoặc lời phán xét. Chưa xác nhận ấn bản của bản quét.
 
 ## toan-thu-phe-de — Đại Việt sử ký toàn thư — Phế Đế, quyển VIII, tờ 1a
 

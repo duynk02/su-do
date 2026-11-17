@@ -57,6 +57,9 @@ test("search matches accented names, personal names and temple names", () => {
   assert.ok(
     searchHistory("tran hung dao").some((r) => r.id === "tran-quoc-tuan"),
   );
+  assert.ok(
+    searchHistory("phat hoang").some((r) => r.id === "tran-nhan-tong"),
+  );
   assert.equal(foldText("Đại Việt"), "dai viet");
   assert.deepEqual(searchHistory("xxyyzz"), []);
 });

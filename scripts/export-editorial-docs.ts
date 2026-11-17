@@ -35,6 +35,8 @@ const audit = [
   "- Chuyển Lý–Trần: giữ mốc 1225/1226; ngày 11 tháng Chạp và 21 tháng 10 trong hai bài được lưu riêng. Chưa tự chuyển lịch.",
   "- Trần Thừa: tách vai trò Thượng hoàng và miếu hiệu truy tôn khỏi trị vì. Thứ tự anh/em với Trần Tự Khánh khác nguồn; không dựng thứ bậc.",
   "- Nhân Tông: dùng 1278 theo Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long; bài biên niên ghi 1279. Không tự giải thích dị biệt bằng lịch khi chưa khảo cứu.",
+  "- Nhân Tông: Thế thứ ghi thời gian Thượng hoàng trước xuất gia 1293–1299, trong khi Việt Nam sử lược còn gọi Nhân Tông Thượng hoàng lúc mất năm 1308. Vai trò 1293–1308 là thời gian mang tôn hiệu; không đồng nhất với trực tiếp điều hành chính sự. Ngày mất 1/11 trong bài di sản khác 3/11 trong Thế thứ; hồ sơ chỉ ghi năm 1308.",
+  "- Dương Nhật Lễ: tách việc thực sự giữ ngôi 1369–1370 khỏi huyết thống. Xuất thân và bạo lực cung đình được trình bày là ghi chép sử liệu được dẫn lại; không dùng lời miệt thị nghề diễn xướng hoặc suy đoán động cơ. Chưa xác định năm sinh.",
   "- Tên húy: dùng Hiện, Nhung, An theo Thế thứ; lưu Hiệu, Ngung, Án từ bài biên niên như biến thể tìm kiếm. Tên Hiện được kiểm tra ở bản số hóa Toàn thư, quyển VIII, tờ 1a.",
   "- Dương Nhật Lễ: giữ trong chuỗi ngôi vua, không suy ra huyết thống và không lặp phán xét đạo đức của sử quan.",
   "- Bạch Đằng: hai bài đăng năm 2013 và 2019 khác nhận định về cọc ngang dòng chính; chưa có báo cáo khai quật gốc, nên không dựng chiến thuật hoặc hình học.",

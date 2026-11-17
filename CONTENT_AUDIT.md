@@ -7,6 +7,8 @@ Bản đầu có dẫn nguồn, chưa có người biên tập chuyên môn duy�
 - Chuyển Lý–Trần: giữ mốc 1225/1226; ngày 11 tháng Chạp và 21 tháng 10 trong hai bài được lưu riêng. Chưa tự chuyển lịch.
 - Trần Thừa: tách vai trò Thượng hoàng và miếu hiệu truy tôn khỏi trị vì. Thứ tự anh/em với Trần Tự Khánh khác nguồn; không dựng thứ bậc.
 - Nhân Tông: dùng 1278 theo Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long; bài biên niên ghi 1279. Không tự giải thích dị biệt bằng lịch khi chưa khảo cứu.
+- Nhân Tông: Thế thứ ghi thời gian Thượng hoàng trước xuất gia 1293–1299, trong khi Việt Nam sử lược còn gọi Nhân Tông Thượng hoàng lúc mất năm 1308. Vai trò 1293–1308 là thời gian mang tôn hiệu; không đồng nhất với trực tiếp điều hành chính sự. Ngày mất 1/11 trong bài di sản khác 3/11 trong Thế thứ; hồ sơ chỉ ghi năm 1308.
+- Dương Nhật Lễ: tách việc thực sự giữ ngôi 1369–1370 khỏi huyết thống. Xuất thân và bạo lực cung đình được trình bày là ghi chép sử liệu được dẫn lại; không dùng lời miệt thị nghề diễn xướng hoặc suy đoán động cơ. Chưa xác định năm sinh.
 - Tên húy: dùng Hiện, Nhung, An theo Thế thứ; lưu Hiệu, Ngung, Án từ bài biên niên như biến thể tìm kiếm. Tên Hiện được kiểm tra ở bản số hóa Toàn thư, quyển VIII, tờ 1a.
 - Dương Nhật Lễ: giữ trong chuỗi ngôi vua, không suy ra huyết thống và không lặp phán xét đạo đức của sử quan.
 - Bạch Đằng: hai bài đăng năm 2013 và 2019 khác nhận định về cọc ngang dòng chính; chưa có báo cáo khai quật gốc, nên không dựng chiến thuật hoặc hình học.
@@ -176,7 +178,7 @@ Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
 
 ### nhat-le-reign
 
-Dương Nhật Lễ ở ngôi trong 1369–1370, giữa Trần Dụ Tông và Trần Nghệ Tông. Dù thường được tách khỏi số các vua họ Trần, ông vẫn phải có mặt trong chuỗi người giữ ngôi. Ghi chép về xuất thân là lời của sử liệu, không phải suy luận từ họ tên.
+Dương Nhật Lễ giữ ngôi hoàng đế Đại Việt trong 1369–1370, dùng niên hiệu Đại Định. Ông kế vị Trần Dụ Tông và bị phế khi Trần Phủ, tức Trần Nghệ Tông, lên ngôi năm 1370.
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
@@ -212,7 +214,7 @@ Trần Thái Tông (Trần Cảnh): ở ngôi 1225/1226–1258.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-thanh-tong
 
@@ -220,7 +222,7 @@ Trần Thánh Tông (Trần Hoảng): ở ngôi 1258–1278.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-nhan-tong
 
@@ -228,7 +230,7 @@ Trần Nhân Tông (Trần Khâm): ở ngôi 1278–1293.
 
 Loại: evidence. Trạng thái: Đã đối chiếu nguồn. Bài biên niên scov.gov.vn ghi 1279, trong khi Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long ghi 1278.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Lễ dâng hương kỷ niệm 715 năm huý nhật Đức Vua, Phật Hoàng Trần Nhân Tông](https://hoangthanhthanglong.vn/le-dang-huong-tuong-niem-715-nam-ngay-mat-duc-vua-phat-hoang-tran-nhan-tong-tai-hoang-thanh-thang-long/) — Đoạn giới thiệu niên đại trị vì 1278–1293. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-anh-tong
@@ -237,7 +239,7 @@ Trần Anh Tông (Trần Thuyên): ở ngôi 1293–1314.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Anh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Anh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-minh-tong
 
@@ -245,7 +247,7 @@ Trần Minh Tông (Trần Mạnh): ở ngôi 1314–1329.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Minh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Minh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-hien-tong
 
@@ -253,7 +255,7 @@ Trần Hiến Tông (Trần Vượng): ở ngôi 1329–1341.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Hiến Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Hiến Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-du-tong
 
@@ -261,7 +263,7 @@ Trần Dụ Tông (Trần Hạo): ở ngôi 1341–1369.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Dụ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Dụ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-nghe-tong
 
@@ -269,7 +271,7 @@ Trần Nghệ Tông (Trần Phủ): ở ngôi 1370–1372.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Nghệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Nghệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-due-tong
 
@@ -277,7 +279,7 @@ Trần Duệ Tông (Trần Kính): ở ngôi 1372–1377.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Duệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Duệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-phe-de
 
@@ -285,7 +287,7 @@ Trần Phế Đế (Trần Hiện): ở ngôi 1377–1388.
 
 Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Phế Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Phế Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Đại Việt sử ký toàn thư — Phế Đế, quyển VIII, tờ 1a](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/49-Phe-De?uiLang=en) — Quyển VIII, tờ 1a, tên húy Hiện. Phạm vi: Hỗ trợ tên húy, không thay thế nguồn nhiệm kỳ
 
 ### reign-tran-thuan-tong
@@ -294,7 +296,7 @@ Trần Thuận Tông (Trần Nhung): ở ngôi 1388–1398.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Thuận Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Thuận Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-thieu-de
 
@@ -302,7 +304,261 @@ Trần Thiếu Đế (Trần An): ở ngôi 1398–1400.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
-- [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Phần II – Thế thứ các vua thời Trần, mục Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-canh
+
+Trần Thái Tông, tên húy Trần Cảnh, là con Trần Thừa và là người mở đầu triều Trần. Ông nhận ngôi từ Lý Chiêu Hoàng sau cuộc hôn nhân gắn với việc chuyển triều năm 1225/1226. Năm 1258, sau cuộc kháng chiến chống Mông Cổ, ông nhường ngôi cho con là Trần Hoảng, tức Trần Thánh Tông, rồi làm Thái thượng hoàng đến khi mất năm 1277.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ai là tác giả chiếu nhường ngôi của Lý Chiêu Hoàng?](https://baotanglichsu.vn/VI/Articles/3098/14781/ai-la-tac-gia-chieu-nhuong-ngoi-cua-ly-chieu-hoang.html) — Các đoạn về hôn nhân và chiếu nhường ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thanh-tong
+
+Trần Thánh Tông, tên húy Trần Hoảng, là con trưởng của Trần Thái Tông và hoàng hậu Thuận Thiên. Ông lên ngôi năm 1258, trị vì đến năm 1278 rồi truyền ngôi cho Trần Khâm, tức Trần Nhân Tông. Trên cương vị Thái thượng hoàng, ông tiếp tục tham gia chính sự và cùng vua Nhân Tông lãnh đạo Đại Việt trong hai cuộc kháng chiến chống Nguyên năm 1285 và 1287–1288.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [XIV. Nhà Trần (1225–1400), phần 1](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xiv.-nha-tran-175-nam-1225-1400-quoc-hieu-dai-viet-kinh-do-thang-long-phan-1-.html) — Mục 2 và mục 3, vai trò Thánh Tông trong kháng chiến. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-nhan-tong
+
+Trần Nhân Tông, tên húy Trần Khâm, là vị hoàng đế thứ ba của nhà Trần, thường được biết đến với danh xưng Phật hoàng. Ông trị vì Đại Việt trong những năm 1278–1293, sau đó nhường ngôi cho Trần Anh Tông và làm Thái thượng hoàng. Cuộc đời ông gắn với hai cuộc kháng chiến chống Nguyên và việc sáng lập Thiền phái Trúc Lâm Yên Tử sau khi xuất gia.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lễ dâng hương kỷ niệm 715 năm huý nhật Đức Vua, Phật Hoàng Trần Nhân Tông](https://hoangthanhthanglong.vn/le-dang-huong-tuong-niem-715-nam-ngay-mat-duc-vua-phat-hoang-tran-nhan-tong-tai-hoang-thanh-thang-long/) — Đoạn giới thiệu về vua thứ ba, niên đại trị vì và Thiền phái Trúc Lâm. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-nhan-tong-section-1-1
+
+Ông sinh năm 1258 tại Thăng Long, là con trưởng của Trần Thánh Tông và Nguyên Thánh Thiên Cảm hoàng hậu. Được lập làm thái tử năm 1274, Trần Khâm nhận ngôi từ vua cha năm 1278. Thánh Tông lui về làm Thái thượng hoàng và tiếp tục cùng con giải quyết việc nước.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-nhan-tong-section-2-1
+
+Trong các cuộc xâm lược năm 1285 và 1287–1288, Nhân Tông cùng Thượng hoàng Trần Thánh Tông và Quốc công tiết chế Trần Quốc Tuấn lãnh đạo việc kháng chiến. Triều đình rời Thăng Long để giữ lực lượng, sau đó phản công; chiến thắng Bạch Đằng năm 1288 là một dấu mốc kết thúc cuộc xâm lược lần thứ ba.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Chủ đề Nước Đại Việt thời Trần (phần 2)](https://thcsnguyenduq1.hcm.edu.vn/khoi-7/lich-su-7-chu-de-nuoc-dai-viet-thoi-tran-phan-2/ct/73803/548583) — Mục II và III: diễn biến, kết quả kháng chiến. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lễ dâng hương tưởng niệm 710 năm ngày mất Phật hoàng Trần Nhân Tông](https://hoangthanhthanglong.vn/le-dang-huong-tuong-niem-710-nam-ngay-mat-phat-hoang-tran-nhan-tong/) — Đoạn về Bình Than, Diên Hồng và các chiến thắng 1285, 1288. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-nhan-tong-section-3-1
+
+Năm 1293, ông truyền ngôi cho con là Trần Thuyên, tức Trần Anh Tông, rồi lui về Thiên Trường. Năm 1299, ông xuất gia tại Yên Tử, mang hiệu Hương Vân Đại Đầu Đà, sau đổi là Trúc Lâm Đại sĩ. Ông trở thành vị tổ đầu tiên của Thiền phái Trúc Lâm; năm 1308 truyền tổ vị cho Pháp Loa và qua đời tại am Ngọa Vân.
+
+Loại: evidence. Trạng thái: Đang biên soạn. Nguồn di sản ghi ngày mất là 1 tháng 11 năm Mậu Thân; Thế thứ ghi 3 tháng 11. Hai nguồn cùng ghi năm 1308.
+
+- [Lễ dâng hương tưởng niệm 710 năm ngày mất Phật hoàng Trần Nhân Tông](https://hoangthanhthanglong.vn/le-dang-huong-tuong-niem-710-nam-ngay-mat-phat-hoang-tran-nhan-tong/) — Các đoạn nhường ngôi 1293, xuất gia 1299, truyền thừa và am Ngọa Vân năm 1308. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-anh-tong
+
+Trần Anh Tông, tên húy Trần Thuyên, là con trưởng của Trần Nhân Tông và Bảo Thánh hoàng hậu. Ông nhận ngôi năm 1293, dùng niên hiệu Hưng Long trong suốt thời gian trị vì. Triều đại của ông có cuộc hôn nhân Huyền Trân–Chế Mân năm 1306. Năm 1314, ông truyền ngôi cho Trần Minh Tông, tiếp tục làm Thái thượng hoàng đến khi mất năm 1320.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Anh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Công chúa Huyền Trân với xứ Huế](https://svhttdl.hue.gov.vn/thong-tin-tu-lieu/cong-chua-huyen-tran-voi-xu-hue.html) — Đoạn mở đầu về cuộc hôn nhân năm 1306. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-minh-tong
+
+Trần Minh Tông, tên húy Trần Mạnh, là con của Trần Anh Tông. Được lập làm thái tử năm 1305, ông kế vị năm 1314 và trị vì đến năm 1329 với hai niên hiệu Đại Khánh, Khai Thái. Sau khi truyền ngôi cho Trần Hiến Tông, ông tiếp tục giữ vai trò Thái thượng hoàng cho đến khi mất năm 1357, qua các đời Hiến Tông và Dụ Tông.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Minh Tông, Trần Hiến Tông và Trần Dụ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-hien-tong
+
+Trần Hiến Tông, tên húy Trần Vượng, là con Trần Minh Tông và Minh Từ hoàng thái phi. Ông được lập làm thái tử rồi nhận ngôi năm 1329, khi vua cha lui về làm Thái thượng hoàng. Hiến Tông dùng niên hiệu Khai Hựu, ở ngôi đến khi mất năm 1341; người kế vị là em ông, Trần Dụ Tông.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Hiến Tông và Trần Dụ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-du-tong
+
+Trần Dụ Tông, tên húy Trần Hạo, là con Trần Minh Tông và Hiến Từ hoàng hậu, em của Trần Hiến Tông. Ông được đưa lên ngôi năm 1341 và trị vì đến năm 1369. Khi ông mất mà không có con nối ngôi, Dương Nhật Lễ được chọn kế vị, mở đầu cuộc khủng hoảng kế vị 1369–1370 trong hoàng tộc Trần.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Dụ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Dương Nhật Lễ [1369–1370]](https://www.diendan.org/phe-binh-nghien-cuu/duong-nhat-le) — Đoạn mở đầu và mục tháng 6 năm 1369. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-duong-nhat-le
+
+Dương Nhật Lễ giữ ngôi hoàng đế Đại Việt từ năm 1369 đến năm 1370, sau Trần Dụ Tông và trước Trần Nghệ Tông, với niên hiệu Đại Định. Ông được đưa lên ngôi với tư cách con của Cung Túc vương Trần Nguyên Dục. Xuất thân được sử liệu ghi lại và cuộc xung đột với tôn thất họ Trần khiến việc kế vị của ông trở thành một biến động lớn cuối triều Trần.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Dương Nhật Lễ [1369–1370]](https://www.diendan.org/phe-binh-nghien-cuu/duong-nhat-le) — Đầu bài, mục tháng 6 năm 1369 và tháng 11 năm 1370. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-duong-nhat-le-section-1-1
+
+Theo ghi chép trong Cương mục được Hồ Bạch Thảo dẫn lại, mẹ Nhật Lễ đã mang thai với người làm nghề diễn xướng tên Dương Khương trước khi trở thành vợ Cung Túc vương Trần Nguyên Dục; Nguyên Dục nhận Nhật Lễ làm con. Khi Dụ Tông mất năm 1369 mà không có con kế tự, di chiếu của vua cùng sự ủng hộ của Hiến Từ Thái hậu đưa Nhật Lễ lên ngôi với danh nghĩa thuộc nhánh Cung Túc vương.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Dương Nhật Lễ [1369–1370]](https://www.diendan.org/phe-binh-nghien-cuu/duong-nhat-le) — Mục tháng 6 năm 1369, đoạn dẫn Cương mục, Chính biên, quyển 10 về Nguyên Dục và Hiến Từ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-duong-nhat-le-section-2-1
+
+Nhật Lễ thực sự đã giữ ngôi vua và điều hành triều đình trong giai đoạn 1369–1370. Vì vậy, chuỗi người nối ngôi thời Trần có vị trí của ông giữa Dụ Tông và Nghệ Tông, dù sử liệu không coi ông là người mang huyết thống họ Trần. Thế thứ các triều vua Việt Nam cũng liệt kê Dương Nhật Lễ thành một mục riêng trong phần các vua thời Trần.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Dương Nhật Lễ, giữa mục Trần Dụ Tông và Trần Nghệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-duong-nhat-le-section-3-1
+
+Sử liệu chép việc Nhật Lễ giết Hiến Từ Thái hậu cuối năm 1369 và có ý định trở lại họ Dương. Tháng 9 năm 1370, âm mưu lật đổ ông của Trần Nguyên Trác thất bại, dẫn đến việc nhiều người trong phe chống đối bị giết. Xung đột tiếp tục khi Trần Phủ, Trần Kính, Trần Nguyên Đán và công chúa Thiên Ninh tập hợp lực lượng chống Nhật Lễ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nàng công chúa dẹp loạn cứu vương triều](https://baotanglichsu.vn/vi/Articles/2001/66421/nang-cong-chua-dep-loan-cuu-vuong-trieu.html) — Các đoạn cuối năm 1369, âm mưu tháng 9 và việc hội quân của tôn thất năm 1370. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-duong-nhat-le-section-3-2
+
+Tháng 11 năm 1370, phe tôn thất phế Nhật Lễ xuống làm Hôn Đức công và tôn Trần Phủ lên ngôi, tức Trần Nghệ Tông. Nhật Lễ bị bắt giam; theo sử liệu được bài nghiên cứu dẫn lại, sau khi giết Ngô Lang trong nơi giam giữ, ông cùng con là Liễu bị xử chết. Năm sinh của Nhật Lễ chưa được xác định.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Dương Nhật Lễ [1369–1370]](https://www.diendan.org/phe-binh-nghien-cuu/duong-nhat-le) — Mục tháng 11 năm 1370, đoạn dẫn Cương mục về phế truất, Ngô Lang và cái chết của Nhật Lễ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-nghe-tong
+
+Trần Nghệ Tông, tên húy Trần Phủ, là con Trần Minh Tông. Ông lên ngôi năm 1370 sau khi cùng các thành viên hoàng tộc lật đổ Dương Nhật Lễ. Năm 1372, Nghệ Tông truyền ngôi cho em là Trần Kính, tức Trần Duệ Tông, rồi giữ vai trò Thái thượng hoàng đến năm 1394. Ảnh hưởng của ông kéo dài qua nhiều đời vua cuối Trần.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Nghệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-due-tong
+
+Trần Duệ Tông, tên húy Trần Kính, là con Trần Minh Tông và em Trần Nghệ Tông. Sau khi tham gia việc chống Dương Nhật Lễ, ông được lập làm thái tử rồi nhận ngôi từ Nghệ Tông năm 1372. Ông dùng niên hiệu Long Khánh và mất trong cuộc tiến quân đánh Champa năm 1377; con ông là Trần Hiện được đưa lên ngôi sau đó.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Duệ Tông và Trần Phế Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nàng công chúa dẹp loạn cứu vương triều](https://baotanglichsu.vn/vi/Articles/2001/66421/nang-cong-chua-dep-loan-cuu-vuong-trieu.html) — Các đoạn về Cung Tuyên vương Trần Kính trong biến động 1370. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-phe-de
+
+Trần Phế Đế, tên húy Trần Hiện, là con trưởng của Trần Duệ Tông. Ông lên ngôi năm 1377 sau khi vua cha mất trong chiến dịch đánh Champa, trong khi Thượng hoàng Trần Nghệ Tông vẫn có ảnh hưởng lớn đến triều chính. Đến năm 1388, ông bị phế và bị bức tử; Trần Thuận Tông là người kế vị.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Phế Đế và Trần Thuận Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thuan-tong
+
+Trần Thuận Tông, tên húy Trần Nhung, là con út của Trần Nghệ Tông và là con rể Hồ Quý Ly. Ông lên ngôi năm 1388, trong giai đoạn quyền lực của Hồ Quý Ly ngày càng tăng. Năm 1398, ông phải nhường ngôi cho con là Trần An, tức Trần Thiếu Đế. Năm sau, ông bị Hồ Quý Ly sai người bức tử.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thuận Tông và Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thieu-de
+
+Trần Thiếu Đế, tên húy Trần An, là con Trần Thuận Tông và Khâm Thánh hoàng hậu, cháu ngoại Hồ Quý Ly. Ông được đưa lên ngôi khi còn nhỏ vào năm 1398. Năm 1400, Hồ Quý Ly thay ngôi, lập nhà Hồ và giáng ông làm Bảo Ninh Đại vương. Năm mất của Trần Thiếu Đế chưa được xác định trong nguồn đang dẫn.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thua
+
+Trần Thừa là con Trần Lý, anh em với Trần Tự Khánh và Trần Thị Dung, đồng thời là cha của Trần Cảnh. Ông tham gia thế lực họ Trần cuối triều Lý và được tôn làm Thái thượng hoàng sau khi con lên ngôi. Trần Thừa không trực tiếp ở ngôi hoàng đế; Thái Tổ là miếu hiệu được truy tôn. Ông mất năm 1234.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Kỳ lạ ‘Vua’ sáng nghiệp nhà Trần chưa từng ở bệ rồng](https://baotanglichsu.vn/vi/Articles/2001/65615/ky-la-vua-sang-nghiep-nha-tran-chua-tung-o-be-rong.html) — Các phần về gia đình và ‘Trở thành Thái tổ’. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [XIV. Nhà Trần (1225–1400), phần 1](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xiv.-nha-tran-175-nam-1225-1400-quoc-hieu-dai-viet-kinh-do-thang-long-phan-1-.html) — Mục Trần Thái Tông, vai trò Trần Thừa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-chieu-hoang
+
+Lý Chiêu Hoàng, còn gọi Chiêu Thánh, là con Lý Huệ Tông và Trần Thị Dung. Bà được đưa lên ngôi khi còn nhỏ, trở thành vị vua cuối cùng của nhà Lý. Sau cuộc hôn nhân với Trần Cảnh, bà nhường ngôi trong mốc chuyển triều 1225/1226. Sự kiện này kết thúc triều Lý và mở đầu nhà Trần, trong bối cảnh họ Trần đã nắm quyền lực trong cung đình.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, mục 9 – Lý Chiêu Hoàng: cha mẹ, năm sinh và năm mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ai là tác giả chiếu nhường ngôi của Lý Chiêu Hoàng?](https://baotanglichsu.vn/VI/Articles/3098/14781/ai-la-tac-gia-chieu-nhuong-ngoi-cua-ly-chieu-hoang.html) — Các đoạn Chiêu Thánh lên ngôi, hôn nhân và nhường ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thu-do
+
+Trần Thủ Độ giữ chức Điện tiền chỉ huy sứ dưới triều Lý và nắm lực lượng bảo vệ cung đình. Ông cùng những người trong họ Trần tổ chức việc kết hôn giữa Lý Chiêu Hoàng và Trần Cảnh, rồi chuyển giao ngôi vua. Quyền lực của ông gắn với bộ máy cung đình và việc hình thành triều Trần, trong khi người trực tiếp nhận ngôi hoàng đế là Trần Cảnh.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Ai là tác giả chiếu nhường ngôi của Lý Chiêu Hoàng?](https://baotanglichsu.vn/VI/Articles/3098/14781/ai-la-tac-gia-chieu-nhuong-ngoi-cua-ly-chieu-hoang.html) — Các đoạn Điện tiền chỉ huy sứ, việc cung cấm và hôn nhân chuyển ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thi-dung
+
+Trần Thị Dung là con Trần Lý, anh em với Trần Thừa và Trần Tự Khánh. Bà là mẹ Lý Chiêu Hoàng và giữ vị trí Thái hậu trong giai đoạn cuối triều Lý. Quan hệ hoàng tộc đặt bà vào trung tâm việc kiểm soát cung đình; bà cùng Trần Thủ Độ tham gia quá trình dẫn tới hôn nhân của Chiêu Hoàng với Trần Cảnh và việc chuyển ngôi sang nhà Trần.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Kỳ lạ ‘Vua’ sáng nghiệp nhà Trần chưa từng ở bệ rồng](https://baotanglichsu.vn/vi/Articles/2001/65615/ky-la-vua-sang-nghiep-nha-tran-chua-tung-o-be-rong.html) — Đoạn về gia đình Trần Lý. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ai là tác giả chiếu nhường ngôi của Lý Chiêu Hoàng?](https://baotanglichsu.vn/VI/Articles/3098/14781/ai-la-tac-gia-chieu-nhuong-ngoi-cua-ly-chieu-hoang.html) — Các đoạn về Thái hậu Trần Thị Dung và quá trình chuyển ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-ly
+
+Trần Lý là hào trưởng ở Hải Ấp, thuộc một gia đình gắn với nghề đánh cá và có thế lực địa phương. Ông là cha của Trần Thừa, Trần Tự Khánh và Trần Thị Dung, ông nội Trần Cảnh. Hoạt động của gia đình ông nằm trong bối cảnh quyền lực triều Lý suy yếu và các lực lượng địa phương tham gia tranh giành ảnh hưởng đầu thế kỷ XIII.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lịch sử Việt Nam, tập 2 — phần cuối triều Lý](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/193-356.pdf) — Trang in 347–355, đoạn Hải Ấp và Trần Lý. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Kỳ lạ ‘Vua’ sáng nghiệp nhà Trần chưa từng ở bệ rồng](https://baotanglichsu.vn/vi/Articles/2001/65615/ky-la-vua-sang-nghiep-nha-tran-chua-tung-o-be-rong.html) — Đoạn gia tộc ‘Từ phận ngư, tiều’. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-tu-khanh
+
+Trần Tự Khánh là con Trần Lý, anh em với Trần Thừa và Trần Thị Dung. Trong những biến động cuối triều Lý, ông là một nhân vật quân sự quan trọng của họ Trần. Cùng Trần Thừa, ông góp phần mở rộng ảnh hưởng từ căn cứ địa phương đến triều đình, tạo nên bối cảnh quyền lực trước khi Trần Cảnh nhận ngôi vua.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lịch sử Việt Nam, tập 2 — phần cuối triều Lý](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/193-356.pdf) — Trang in 347–355, các đoạn về lực lượng Trần Tự Khánh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Kỳ lạ ‘Vua’ sáng nghiệp nhà Trần chưa từng ở bệ rồng](https://baotanglichsu.vn/vi/Articles/2001/65615/ky-la-vua-sang-nghiep-nha-tran-chua-tung-o-be-rong.html) — Đoạn về các con của Trần Lý. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-quoc-tuan
+
+Trần Quốc Tuấn, thường gọi Trần Hưng Đạo, là một vương hầu và người chỉ huy quân sự của triều Trần, con của An Sinh vương Trần Liễu. Ông giữ vai trò Quốc công tiết chế trong kháng chiến chống Nguyên, gắn với các chiến dịch năm 1285 và 1287–1288, đặc biệt là chiến thắng Bạch Đằng. Ông còn được biết đến với Hịch tướng sĩ và di sản quân sự thời Trần.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Hưng Đạo Đại Vương – Trần Quốc Tuấn](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/hung-ao-ai-vuong-tran-quoc-tuan.html) — Các đoạn mở đầu, quyền tiết chế và Hịch tướng sĩ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Chủ đề Nước Đại Việt thời Trần (phần 2)](https://thcsnguyenduq1.hcm.edu.vn/khoi-7/lich-su-7-chu-de-nuoc-dai-viet-thoi-tran-phan-2/ct/73803/548583) — Mục II và III: vai trò Trần Quốc Tuấn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-huyen-tran
+
+Huyền Trân là con gái Trần Nhân Tông, gắn với cuộc hôn nhân với vua Champa Chế Mân năm 1306. Sự kiện đi cùng việc chuyển hai châu Ô và Lý cho Đại Việt. Cuộc đời bà thường được nhắc đến trong lịch sử quan hệ giữa hai nước, nơi hôn nhân hoàng gia, ngoại giao và biến đổi không gian chính trị có liên hệ chặt chẽ với nhau.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Công chúa Huyền Trân với xứ Huế](https://svhttdl.hue.gov.vn/thong-tin-tu-lieu/cong-chua-huyen-tran-voi-xu-hue.html) — Đoạn mở đầu về công chúa, Chế Mân, mốc 1306 và hai châu Ô, Lý. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-che-man
+
+Chế Mân là vua Champa và là người kết hôn với công chúa Huyền Trân của Đại Việt năm 1306. Cuộc hôn nhân được ghi nhận cùng việc chuyển hai châu Ô và Lý cho Đại Việt. Ông là nhân vật liên quan trực tiếp đến lịch sử ngoại giao và quan hệ giữa Champa với triều Trần đầu thế kỷ XIV.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Công chúa Huyền Trân với xứ Huế](https://svhttdl.hue.gov.vn/thong-tin-tu-lieu/cong-chua-huyen-tran-voi-xu-hue.html) — Đoạn về vua Champa Chế Mân và cuộc hôn nhân năm 1306. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ho-quy-ly
+
+Hồ Quý Ly, còn mang họ Lê trong một giai đoạn, là nhân vật nắm quyền lực ngày càng lớn vào cuối triều Trần. Ông thúc đẩy các chính sách như tiền giấy năm 1396 và hạn điền năm 1397, trước khi thay ngôi nhà Trần năm 1400. Triều Hồ được thành lập với quốc hiệu Đại Ngu, đặt kinh đô ở Tây Đô.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Hồ Quý Ly và những cải cách lớn về kinh tế](https://baotanglichsu.vn/VI/Articles/3098/13166/ho-quy-ly-va-nhung-cai-cach-lon-ve-kinh-te.html) — Các đoạn tiền giấy và hạn điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [XV. Nhà Hồ (1400–1407): quốc hiệu Đại Ngu, kinh đô Tây Đô](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html) — Mục Hồ Quý Ly, quốc hiệu và kinh đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### retired-thai-tong
 
@@ -319,6 +575,15 @@ Trần Thánh Tông nhường ngôi năm 1278; làm Thượng hoàng và mất n
 Loại: evidence. Trạng thái: Đang biên soạn.
 
 - [XIV. Nhà Trần (1225–1400), phần 1](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xiv.-nha-tran-175-nam-1225-1400-quoc-hieu-dai-viet-kinh-do-thang-long-phan-1-.html) — Mục 2. Trần Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### retired-nhan-tong
+
+Trần Nhân Tông nhường ngôi năm 1293 và mang tôn hiệu Thái thượng hoàng. Việt Nam sử lược vẫn gọi ông là Nhân Tông Thượng hoàng khi ghi việc ông mất năm 1308, dù ông đã xuất gia tu hành trước đó.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn. Thế thứ tính giai đoạn Thượng hoàng trước khi xuất gia là 1293–1299; Việt Nam sử lược còn dùng tôn hiệu Thượng hoàng khi ghi năm mất 1308. Khoảng 1293–1308 ở đây là thời gian mang tôn hiệu, không khẳng định ông trực tiếp điều hành triều chính suốt khoảng đó.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, mục Trần Nhân Tông: nhường ngôi năm 1293, xuất gia năm 1299. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Việt Nam sử lược, quyển I — cuối đời Nhân Tông và đời Anh Tông](https://vi.wikisource.org/wiki/Trang:Viet_Nam_Su_Luoc_1.djvu/180) — Trang in 168, đoạn Nhân Tông Thượng hoàng mất năm Mậu Thân 1308. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ## Còn thiếu
 

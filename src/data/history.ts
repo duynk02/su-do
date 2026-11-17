@@ -15,6 +15,7 @@ import {
   type MediaAsset,
   type ReviewRecord,
 } from "./schema";
+import { biographies } from "./biographies";
 export { sources } from "./sources";
 
 export const claims: Claim[] = [];
@@ -202,7 +203,7 @@ claim(
 );
 claim(
   "nhat-le-reign",
-  "Dương Nhật Lễ ở ngôi trong 1369–1370, giữa Trần Dụ Tông và Trần Nghệ Tông. Dù thường được tách khỏi số các vua họ Trần, ông vẫn phải có mặt trong chuỗi người giữ ngôi. Ghi chép về xuất thân là lời của sử liệu, không phải suy luận từ họ tên.",
+  "Dương Nhật Lễ giữ ngôi hoàng đế Đại Việt trong 1369–1370, dùng niên hiệu Đại Định. Ông kế vị Trần Dụ Tông và bị phế khi Trần Phủ, tức Trần Nghệ Tông, lên ngôi năm 1370.",
   [
     [
       "nhat-le",
@@ -396,6 +397,44 @@ people.push(
     eventIds: ["nha-ho-1400"],
   },
 );
+for (const [personId, biography] of Object.entries(biographies)) {
+  const person = people.find((p) => p.id === personId);
+  if (!person) throw new Error(`Biography has no person: ${personId}`);
+  const summaryId = `bio-${personId}`;
+  claim(summaryId, biography.summary.text, biography.summary.refs, {
+    kind: biography.summary.kind ?? "evidence",
+    note: biography.summary.note,
+  });
+  person.summaryClaimIds = [summaryId];
+  person.title = biography.title ?? person.title;
+  person.life = biography.life ?? person.life;
+  person.eraNames = biography.eraNames ?? person.eraNames;
+  person.aliases = [
+    ...new Set([...person.aliases, ...(biography.aliases ?? [])]),
+  ];
+  person.eventIds = biography.eventIds ?? person.eventIds;
+  person.biographySections =
+    biography.sections?.map((section, index) => ({
+      title: section.title,
+      claimIds: section.claims.map((entry, entryIndex) =>
+        claim(
+          `${summaryId}-section-${index + 1}-${entryIndex + 1}`,
+          entry.text,
+          entry.refs,
+          {
+            kind: entry.kind ?? "evidence",
+            note: entry.note,
+          },
+        ),
+      ),
+    })) ?? [];
+  if (biography.relatedClaimIds?.length)
+    person.biographySections.push({
+      title: "Hoạt động và dấu mốc",
+      claimIds: biography.relatedClaimIds,
+    });
+  if (personId === "duong-nhat-le") person.note = undefined;
+}
 export const tenures: RoleTenure[] = rulerRows.map(
   ([id, name, , start, end, label]) => ({
     id: `role-${id}`,
@@ -445,6 +484,32 @@ tenures.push(
         "retired-thanh-tong",
         "Trần Thánh Tông nhường ngôi năm 1278; làm Thượng hoàng và mất năm 1290.",
         [["tran-chronology", "Mục 2. Trần Thánh Tông"]],
+      ),
+    ],
+  },
+  {
+    id: "retired-nhan-tong",
+    personId: "tran-nhan-tong",
+    role: "retired",
+    label: "Thái thượng hoàng",
+    date: date(1293, 1308, "1293–1308"),
+    claimIds: [
+      claim(
+        "retired-nhan-tong",
+        "Trần Nhân Tông nhường ngôi năm 1293 và mang tôn hiệu Thái thượng hoàng. Việt Nam sử lược vẫn gọi ông là Nhân Tông Thượng hoàng khi ghi việc ông mất năm 1308, dù ông đã xuất gia tu hành trước đó.",
+        [
+          [
+            "the-thu",
+            "Chương 5, mục Trần Nhân Tông: nhường ngôi năm 1293, xuất gia năm 1299",
+          ],
+          [
+            "vietnam-su-luoc-tran",
+            "Trang in 168, đoạn Nhân Tông Thượng hoàng mất năm Mậu Thân 1308",
+          ],
+        ],
+        {
+          note: "Thế thứ tính giai đoạn Thượng hoàng trước khi xuất gia là 1293–1299; Việt Nam sử lược còn dùng tôn hiệu Thượng hoàng khi ghi năm mất 1308. Khoảng 1293–1308 ở đây là thời gian mang tôn hiệu, không khẳng định ông trực tiếp điều hành triều chính suốt khoảng đó.",
+        },
       ),
     ],
   },
@@ -518,6 +583,30 @@ export const relationships: Relationship[] = [
     claimIds: ["huyen-marriage"],
     status: "draft",
   },
+  ...[
+    ["tran-canh", "tran-thanh-tong"],
+    ["tran-thanh-tong", "tran-nhan-tong"],
+    ["tran-nhan-tong", "tran-anh-tong"],
+    ["tran-nhan-tong", "huyen-tran"],
+    ["tran-anh-tong", "tran-minh-tong"],
+    ["tran-minh-tong", "tran-hien-tong"],
+    ["tran-minh-tong", "tran-du-tong"],
+    ["tran-minh-tong", "tran-nghe-tong"],
+    ["tran-minh-tong", "tran-due-tong"],
+    ["tran-due-tong", "tran-phe-de"],
+    ["tran-nghe-tong", "tran-thuan-tong"],
+    ["tran-thuan-tong", "tran-thieu-de"],
+  ].map(([from, to]) => ({
+    id: `parent-${from}-${to}`,
+    from,
+    to,
+    type: "parent" as const,
+    label: "Cha – con",
+    claimIds: [
+      to === "tran-nhan-tong" ? "bio-tran-nhan-tong-section-1-1" : `bio-${to}`,
+    ],
+    status: "draft" as const,
+  })),
   ...rulerRows.slice(0, -1).map((row, i) => ({
     id: `succession-${i}`,
     from: row[0],
@@ -705,8 +794,7 @@ export const events: HistoricalEvent[] = [
     consequence:
       "Việc tạm rời kinh đô và giữ được lực lượng có thể thay đổi cách hiểu về một cuộc phòng thủ ra sao?",
     consequenceKind: "editorial-question",
-    precisionNote:
-      "Vị trí Đông Bộ Đầu chưa được xác định chắc chắn.",
+    precisionNote: "Vị trí Đông Bộ Đầu chưa được xác định chắc chắn.",
   },
   {
     id: "khang-chien-1285",
@@ -742,7 +830,7 @@ export const events: HistoricalEvent[] = [
     name: "Huyền Trân và Chế Mân",
     date: date(1306, 1306, "1306"),
     placeIds: [],
-    personIds: ["huyen-tran", "che-man"],
+    personIds: ["huyen-tran", "che-man", "tran-nhan-tong", "tran-anh-tong"],
     contextClaimIds: ["huyen-marriage"],
     developmentClaimIds: [],
     resultClaimIds: [],
@@ -767,6 +855,108 @@ export const events: HistoricalEvent[] = [
     precisionNote: "",
   },
 ];
+
+events.push(
+  {
+    id: "nhan-tong-ke-vi",
+    name: "Trần Nhân Tông lên ngôi",
+    date: date(
+      1278,
+      1278,
+      "1278",
+      "Ngày 22 tháng 10 năm Mậu Dần (1278), theo Thế thứ",
+    ),
+    placeIds: ["thang-long"],
+    personIds: ["tran-thanh-tong", "tran-nhan-tong"],
+    contextClaimIds: ["bio-tran-nhan-tong"],
+    developmentClaimIds: ["bio-tran-nhan-tong-section-1-1"],
+    resultClaimIds: ["reign-tran-nhan-tong"],
+    consequence:
+      "Việc vua cha tiếp tục giữ vai trò Thượng hoàng ảnh hưởng thế nào tới cơ chế quyền lực đầu đời Nhân Tông?",
+    consequenceKind: "editorial-question",
+    precisionNote: "",
+  },
+  {
+    id: "nhan-tong-nhuong-ngoi",
+    name: "Trần Nhân Tông nhường ngôi cho Anh Tông",
+    date: date(1293, 1293, "1293", "Tháng 3 năm Quý Tỵ (1293), theo Thế thứ"),
+    placeIds: ["thang-long"],
+    personIds: ["tran-nhan-tong", "tran-anh-tong"],
+    contextClaimIds: ["bio-tran-nhan-tong"],
+    developmentClaimIds: ["bio-tran-nhan-tong-section-3-1"],
+    resultClaimIds: ["bio-tran-anh-tong"],
+    consequence:
+      "Nhường ngôi có làm chấm dứt ngay ảnh hưởng của nhà vua đối với việc nước?",
+    consequenceKind: "editorial-question",
+    precisionNote: "",
+  },
+  {
+    id: "nhan-tong-yen-tu",
+    name: "Trần Nhân Tông xuất gia tại Yên Tử",
+    date: date(1299, 1299, "1299"),
+    placeIds: ["yen-tu"],
+    personIds: ["tran-nhan-tong"],
+    contextClaimIds: ["bio-tran-nhan-tong"],
+    developmentClaimIds: ["bio-tran-nhan-tong-section-3-1"],
+    resultClaimIds: ["truc-lam"],
+    consequence:
+      "Truyền thống Trúc Lâm cho thấy mối liên hệ nào giữa lịch sử chính trị và lịch sử tôn giáo thời Trần?",
+    consequenceKind: "editorial-question",
+    precisionNote: "Yên Tử",
+  },
+  {
+    id: "nhat-le-len-ngoi",
+    name: "Dương Nhật Lễ được lập làm vua",
+    date: date(
+      1369,
+      1369,
+      "1369",
+      "Tháng 6 năm Kỷ Dậu (1369), theo Cương mục được dẫn trong bài nghiên cứu",
+    ),
+    placeIds: ["thang-long"],
+    personIds: ["tran-du-tong", "duong-nhat-le"],
+    contextClaimIds: ["bio-tran-du-tong"],
+    developmentClaimIds: ["bio-duong-nhat-le-section-1-1"],
+    resultClaimIds: ["nhat-le-reign"],
+    consequence:
+      "Danh nghĩa con của Cung Túc vương và sự ủng hộ của Hiến Từ Thái hậu đã tạo cơ sở kế vị như thế nào?",
+    consequenceKind: "editorial-question",
+    precisionNote: "",
+  },
+  {
+    id: "nhat-le-bien-dong",
+    name: "Xung đột cung đình thời Dương Nhật Lễ",
+    date: date(1369, 1370, "1369–1370"),
+    placeIds: ["thang-long"],
+    personIds: ["duong-nhat-le", "tran-nghe-tong", "tran-due-tong"],
+    contextClaimIds: ["bio-duong-nhat-le-section-1-1"],
+    developmentClaimIds: ["bio-duong-nhat-le-section-3-1"],
+    resultClaimIds: [],
+    consequence:
+      "Khủng hoảng kế vị chuyển thành xung đột giữa các lực lượng trong hoàng tộc ra sao?",
+    consequenceKind: "editorial-question",
+    precisionNote: "",
+  },
+  {
+    id: "nhat-le-bi-phe",
+    name: "Dương Nhật Lễ bị phế, Trần Nghệ Tông lên ngôi",
+    date: date(
+      1370,
+      1370,
+      "1370",
+      "Tháng 11 năm Canh Tuất (1370), theo Cương mục được dẫn trong bài nghiên cứu",
+    ),
+    placeIds: ["thang-long"],
+    personIds: ["duong-nhat-le", "tran-nghe-tong", "tran-due-tong"],
+    contextClaimIds: ["bio-duong-nhat-le-section-3-1"],
+    developmentClaimIds: ["bio-duong-nhat-le-section-3-2"],
+    resultClaimIds: ["bio-tran-nghe-tong"],
+    consequence:
+      "Việc đưa Trần Phủ lên ngôi đã kết thúc sự cầm quyền của Nhật Lễ nhưng đặt ra những vấn đề gì cho cuối triều Trần?",
+    consequenceKind: "editorial-question",
+    precisionNote: "",
+  },
+);
 
 export const chapters: StoryChapter[] = [
   {
@@ -928,8 +1118,7 @@ export const periods: Period[] = [
     polityIds: [],
     dynastyIds: [],
     claimIds: [],
-    summary:
-      "Nội dung thời dựng nước và Bắc thuộc đang được biên soạn.",
+    summary: "Nội dung thời dựng nước và Bắc thuộc đang được biên soạn.",
   },
   {
     id: "the-ky-x",
@@ -939,8 +1128,7 @@ export const periods: Period[] = [
     polityIds: [],
     dynastyIds: [],
     claimIds: [],
-    summary:
-      "Nội dung về Ngô, Đinh và Tiền Lê đang được biên soạn.",
+    summary: "Nội dung về Ngô, Đinh và Tiền Lê đang được biên soạn.",
   },
   {
     id: "ly",
@@ -990,8 +1178,7 @@ export const periods: Period[] = [
     polityIds: [],
     dynastyIds: [],
     claimIds: [],
-    summary:
-      "Nội dung về thời Minh và khởi nghĩa Lam Sơn đang được biên soạn.",
+    summary: "Nội dung về thời Minh và khởi nghĩa Lam Sơn đang được biên soạn.",
   },
   {
     id: "le-so",
@@ -1001,8 +1188,7 @@ export const periods: Period[] = [
     polityIds: [],
     dynastyIds: [],
     claimIds: [],
-    summary:
-      "Nội dung chuyên sâu về nhà Lê sơ đang được biên soạn.",
+    summary: "Nội dung chuyên sâu về nhà Lê sơ đang được biên soạn.",
   },
   {
     id: "le-mac",
@@ -1029,8 +1215,7 @@ export const periods: Period[] = [
     polityIds: [],
     dynastyIds: [],
     claimIds: [],
-    summary:
-      "Nội dung về Tây Sơn đang được biên soạn.",
+    summary: "Nội dung về Tây Sơn đang được biên soạn.",
   },
   {
     id: "nguyen",

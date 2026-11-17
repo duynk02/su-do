@@ -18,6 +18,7 @@ Luồng chính: chọn Trần → đọc cuối Lý → mở Trần Cảnh từ 
 - Bản đồ: pan bằng kéo/phím mũi tên, zoom bằng nút hoặc +/−, Home khôi phục. Nền hiện đại, biên giới hiện đại mặc định tắt. Không có polygon lịch sử.
 - Nguồn: nút số cạnh khẳng định mở hộp thoại; Escape đóng và khôi phục focus. Danh mục nguồn mở trực tiếp từ đầu trang hoặc cuối bài.
 - Tìm kiếm: không phân biệt dấu, hỗ trợ tên húy, miếu hiệu, tên thường gọi; có trạng thái không kết quả.
+- Nhân vật: đoạn giới thiệu tiểu sử đặt ngay dưới tên; các phần nội dung có nguồn đi trước bảng vai trò, quan hệ và sự kiện. Hai hồ sơ Nhân Tông/Nhật Lễ có phần xuất thân, lên ngôi và những biến động chính; không dùng nhiệm kỳ làm toàn bộ tiểu sử.
 - URL lưu thời kỳ, chương, năm, chế độ, loại bài và thực thể; reload, Back/forward khôi phục lựa chọn. Không hứa lưu vị trí cuộn hoặc góc camera.
 - Mobile: bộ chọn thời kỳ + mục lục; hai vùng Bản đồ/Bài đọc, một luồng cuộn trang. Nội dung không phụ thuộc WebGL.
 

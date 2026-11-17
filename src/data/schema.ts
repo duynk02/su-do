@@ -93,6 +93,7 @@ export interface Person {
   title?: string;
   life?: string;
   summaryClaimIds: string[];
+  biographySections?: { title: string; claimIds: string[] }[];
   eventIds: string[];
   note?: string;
 }

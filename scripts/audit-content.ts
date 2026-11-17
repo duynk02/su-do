@@ -99,6 +99,11 @@ export function auditContent() {
   }
   for (const p of people) {
     ref(p.summaryClaimIds, claims, p.id);
+    for (const section of p.biographySections ?? []) {
+      if (!section.title || !section.claimIds.length)
+        errors.push(`Empty biography section: ${p.id}`);
+      ref(section.claimIds, claims, `${p.id} biography`);
+    }
     ref(p.eventIds, events, p.id);
   }
   for (const e of events) {
