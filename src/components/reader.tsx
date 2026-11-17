@@ -14,6 +14,7 @@ import {
 } from "@/data/history";
 import { statusLabels, type Person, type StoryChapter } from "@/data/schema";
 import { claimById, type AtlasState } from "@/lib/history";
+import { layoutRelations } from "@/lib/relations-layout";
 import { Icon } from "./icon";
 
 export interface ReaderActions {
@@ -87,25 +88,7 @@ function Relations({
         (r) => directPeople.has(r.from) || directPeople.has(r.to),
       )
     : direct;
-  const nodeIds = [...new Set(edges.flatMap((r) => [r.from, r.to]))].filter(
-    (id) => id !== person.id,
-  );
-  const shownIds = nodeIds.slice(0, 8);
-  const center = { x: 260, y: 210 };
-  const height = 420;
-  const positions = new Map([
-    [person.id, center],
-    ...shownIds.map((id, i): [string, { x: number; y: number }] => {
-      const angle = (2 * Math.PI * i) / shownIds.length - Math.PI / 2;
-      return [
-        id,
-        {
-          x: center.x + Math.sin(angle) * 174,
-          y: center.y - Math.cos(angle) * 136,
-        },
-      ];
-    }),
-  ]);
+  const graph = layoutRelations(person.id, edges);
   return (
     <section className="relations-section">
       <div className="section-label">
@@ -114,7 +97,7 @@ function Relations({
       {direct.length ? (
         <>
           <svg
-            viewBox={`0 0 520 ${height}`}
+            viewBox={`0 0 ${graph.width} ${graph.height}`}
             className="relations-graph"
             role="img"
             aria-label={`Đồ thị quan hệ gần của ${person.name}. Chi tiết và nút chọn có trong danh sách bên dưới.`}
@@ -131,78 +114,91 @@ function Relations({
                 <path d="M0 0 5 2.5 0 5" fill="#899489" />
               </marker>
             </defs>
-            {edges
-              .filter((r) => positions.has(r.from) && positions.has(r.to))
-              .map((r, i) => {
-                const a = positions.get(r.from)!,
-                  b = positions.get(r.to)!;
-                const dx = b.x - a.x,
-                  dy = b.y - a.y;
-                const length = Math.hypot(dx, dy);
-                const clip = Math.min(
-                  dx ? 65 / Math.abs(dx) : Infinity,
-                  dy ? 19 / Math.abs(dy) : Infinity,
-                );
-                const separation = r.type === "succession" ? 6 : 0;
-                const shiftX = (-dy / length) * separation,
-                  shiftY = (dx / length) * separation;
-                const labelLift = Math.abs(dy) < 25 ? -30 : i % 2 ? 14 : -10;
-                return (
-                  <g key={r.id}>
+            <g className="relationship-paths">
+              {graph.edges.map((r) => (
+                <path
+                  key={r.id}
+                  data-relationship={r.id}
+                  d={r.path}
+                  fill="none"
+                  stroke={r.type === "marriage" ? "#a13d2d" : "#899489"}
+                  strokeWidth={r.type === "parent" ? 1.5 : 1}
+                  strokeDasharray={
+                    r.type === "succession"
+                      ? "5 4"
+                      : r.type === "political"
+                        ? "2 3"
+                        : undefined
+                  }
+                  markerEnd={
+                    r.type === "parent" || r.type === "succession"
+                      ? "url(#relation-arrow)"
+                      : undefined
+                  }
+                />
+              ))}
+            </g>
+            <g className="relationship-leaders">
+              {graph.edges.map(
+                (r) =>
+                  r.labelBox.leaderEnd && (
                     <line
-                      x1={a.x + dx * clip + shiftX}
-                      y1={a.y + dy * clip + shiftY}
-                      x2={b.x - dx * clip + shiftX}
-                      y2={b.y - dy * clip + shiftY}
-                      stroke={r.type === "marriage" ? "#a13d2d" : "#899489"}
-                      strokeWidth={r.type === "parent" ? 1.5 : 1}
-                      strokeDasharray={
-                        r.type === "succession"
-                          ? "5 4"
-                          : r.type === "political"
-                            ? "2 3"
-                            : undefined
-                      }
-                      markerEnd={
-                        r.type === "parent" || r.type === "succession"
-                          ? "url(#relation-arrow)"
-                          : undefined
-                      }
+                      key={r.id}
+                      x1={r.labelBox.anchor.x}
+                      y1={r.labelBox.anchor.y}
+                      x2={r.labelBox.leaderEnd.x}
+                      y2={r.labelBox.leaderEnd.y}
+                      stroke="#a8b29f"
+                      strokeWidth="0.8"
                     />
-                    <text
-                      x={(a.x + b.x) / 2}
-                      y={(a.y + b.y) / 2 + labelLift}
-                      textAnchor="middle"
-                      className="relationship-label"
-                    >
-                      {r.label}
-                    </text>
-                  </g>
-                );
-              })}
-            {[person.id, ...shownIds].map((id) => {
-              const p = positions.get(id)!;
-              return (
-                <g key={id}>
-                  <rect
-                    x={p.x - 65}
-                    y={p.y - 19}
-                    width="130"
-                    height="38"
-                    fill={id === person.id ? "#a13d2d" : "#f6f4ed"}
-                    stroke={id === person.id ? "#a13d2d" : "#cccdbf"}
-                  />
-                  <text
-                    x={p.x}
-                    y={p.y + 5}
-                    textAnchor="middle"
-                    fill={id === person.id ? "#fffaf0" : "#29382f"}
-                  >
-                    {pName(id)}
-                  </text>
-                </g>
-              );
-            })}
+                  ),
+              )}
+            </g>
+            {graph.nodes.map((p) => (
+              <g key={p.id} className="relationship-node" data-person={p.id}>
+                <rect
+                  x={p.x - 65}
+                  y={p.y - 19}
+                  width="130"
+                  height="38"
+                  fill={p.id === person.id ? "#a13d2d" : "#f6f4ed"}
+                  stroke={p.id === person.id ? "#a13d2d" : "#cccdbf"}
+                />
+                <text
+                  x={p.x}
+                  y={p.y + 5}
+                  textAnchor="middle"
+                  fill={p.id === person.id ? "#fffaf0" : "#29382f"}
+                >
+                  {pName(p.id)}
+                </text>
+              </g>
+            ))}
+            {graph.edges.map((r) => (
+              <g
+                key={r.id}
+                className="relationship-caption"
+                data-relationship={r.id}
+              >
+                <rect
+                  x={r.labelBox.x - r.labelBox.width / 2}
+                  y={r.labelBox.y - r.labelBox.height / 2}
+                  width={r.labelBox.width}
+                  height={r.labelBox.height}
+                  rx="3"
+                  fill="#f4f3e9"
+                />
+                <text
+                  x={r.labelBox.x}
+                  y={r.labelBox.y}
+                  dominantBaseline="central"
+                  textAnchor="middle"
+                  className="relationship-label"
+                >
+                  {r.label}
+                </text>
+              </g>
+            ))}
           </svg>
           <ul className="relationship-list">
             {edges.map((r) => (

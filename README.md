@@ -49,6 +49,7 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 - Next.js App Router + TypeScript, static export: nội dung đọc được từ HTML, không cần máy chủ ứng dụng.
 - `src/data/schema.ts`: các thực thể sử học; `history.ts`: nội dung và liên kết; `biographies.ts`: tiểu sử nhân vật theo đoạn có nguồn; `sources.ts`: nguồn đã thực sự đọc.
 - `src/lib/history.ts`: tìm kiếm không dấu, quy ước thời gian, đọc/ghi URL.
+- `src/lib/relations-layout.ts`: bố trí nút, tách các cạnh cùng cặp và tránh va chạm nhãn trên sơ đồ quan hệ.
 - Bản đồ SVG dùng d3-geo, tải module và GeoJSON khi cần; không cần WebGL. Đã đọc [tài liệu d3-geo](https://d3js.org/d3-geo) và [Next.js static exports](https://nextjs.org/docs/app/guides/static-exports).
 - Natural Earth public domain, dữ liệu địa lý hiện đại lưu cục bộ. Không gọi tile server; không có phí API hoặc hạn ngạch từ nhà cung cấp bản đồ. Hạ tầng hosting tương lai có thể có phí riêng.
 - Đồ thị quan hệ SVG có danh sách văn bản cùng các nút điều hướng; không thêm thư viện đồ thị lớn cho quy mô hiện tại.

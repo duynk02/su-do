@@ -16,6 +16,12 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 
 ## Kiểm tra đã thực hiện
 
+Sửa chồng nhãn quan hệ:
+- Đã tách các quan hệ cùng cặp nhân vật sang các đường cong riêng, giữ loại nét và chiều mũi tên. Vị trí nhãn được kiểm tra với ô nhân vật và các nhãn đã đặt; đường dẫn mảnh nối nhãn phải dịch xa với cạnh tương ứng. Chữ được vẽ trên cùng để đường nối không che nội dung.
+- 12/12 kiểm thử logic/dữ liệu đạt, gồm kiểm tra cặp cạnh ngược chiều và toàn bộ 23 hồ sơ ở cả chế độ gần/mở rộng. Build và TypeScript đạt.
+- Playwright cuối: 40 ca production đạt, 2 ca đối chứng hydration development được bỏ qua đúng cấu hình. Tám ca mới đo hộp chữ thực sau khi tải font trên desktop/mobile cho Nhân Tông, Minh Tông, Trần Cảnh và Nhật Lễ ở cả hai chế độ sơ đồ; không có chữ chồng chữ hoặc ô nhân vật.
+- Đã mở xem ảnh Nhân Tông và sơ đồ Minh Tông mở rộng; ảnh hồi quy `docs/screenshots/relations-*.png` cùng ảnh phả hệ và hồ sơ mobile được cập nhật. Giữ nguyên thay đổi có sẵn trong `next-env.d.ts` ngoài commit.
+
 Mở rộng tiểu sử nhân vật:
 - Cả 23 hồ sơ có đoạn giới thiệu được dẫn nguồn. Nhân Tông có xuất thân/lên ngôi, kháng chiến và giai đoạn Thượng hoàng–tu hành; Nhật Lễ có nguyên nhân được chọn, vị trí trong chuỗi vua và biến động cung đình 1369–1370. Không sao chép nguyên văn đoạn Wikipedia được đưa làm ví dụ.
 - Bổ sung sáu sự kiện và 12 quan hệ cha–con có nguồn; danh mục sự kiện được xếp theo năm. Tìm “Phật hoàng” mở được Nhân Tông. Đã phân biệt đời sống, trị vì, mang tôn hiệu Thượng hoàng và xuất gia.

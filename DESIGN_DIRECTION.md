@@ -45,3 +45,7 @@ Giới hạn còn lại: nhãn địa điểm có thể chen nhau khi zoom/pan t
 - Nhãn địa điểm hiển thị 14px, nhãn phụ kinh đô 13px theo kích thước thực trên màn hình; cỡ chữ không bị thu theo camera. Ở góc nhìn hẹp, bản đồ giảm nhãn khi zoom nhỏ hoặc khi tập trung một địa điểm; danh sách văn bản vẫn truy cập được.
 - Đo kích thước chân bản đồ bằng ResizeObserver để các nút zoom nằm phía trên chú giải. Nhãn chừa khoảng cho điều khiển và chú thích cuối bản đồ.
 - Kiểm tra bằng trình duyệt ở 1920×1080, 1440×960, 1024×768, 390×844 và 360×800; ảnh `docs/screenshots/readability-<chiều rộng>.png` ghi trạng thái thực tế.
+
+## Nhãn trên sơ đồ quan hệ
+
+Các cạnh cùng một cặp nhân vật được tách bằng đường cong riêng, kể cả khi hai cạnh có hướng ngược nhau. Vị trí nhãn được tính theo từng cặp, kiểm tra khoảng trống với các nhãn khác và ô nhân vật. Nhãn cần dịch khỏi đường nối có một đường dẫn mảnh trở lại cạnh tương ứng. Lớp đường nối được vẽ trước ô nhân vật và chữ, tránh đường đi xuyên qua chữ. Kiểu nét, hướng mũi tên và nguồn của từng quan hệ được giữ riêng.
