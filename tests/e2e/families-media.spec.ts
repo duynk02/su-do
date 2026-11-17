@@ -24,13 +24,13 @@ test("sourced profile images load, retain credits and adapt to the reader width"
         ),
       )
       .toBe(true);
-    await expect(image).toHaveAttribute("alt", /Tượng|Lăng|Di tích/);
+    await expect(image).toHaveAttribute("alt", /Tượng|Lăng|Di tích|Minh họa/);
     await expect(figure.locator(".person-image-credit")).toContainText(
-      /CC BY|Public domain/,
+      /CC BY|Public domain|Phật giáo Việt Nam|Hội Nhà văn Việt Nam|Hoàng Hoa Mai/,
     );
     await expect(figure.locator("a").first()).toHaveAttribute(
       "href",
-      /^https:\/\/commons.wikimedia.org\/wiki\/File:/,
+      /^https:\//,
     );
     const heading = (await page.locator(".person-heading").boundingBox())!;
     const title = (await page.locator(".person-heading h2").boundingBox())!;
@@ -43,7 +43,11 @@ test("sourced profile images load, retain credits and adapt to the reader width"
         () => document.documentElement.scrollWidth <= innerWidth,
       ),
     ).toBe(true);
-    if (id === "tran-thanh-tong" || id === "tran-nhan-tong") {
+    if (
+      ["tran-canh", "tran-thanh-tong", "tran-nhan-tong", "ho-quy-ly"].includes(
+        id,
+      )
+    ) {
       await page.evaluate(() => document.fonts.ready);
       await page.screenshot({
         path: `docs/screenshots/profile-image-${id}-${testInfo.project.name}.png`,

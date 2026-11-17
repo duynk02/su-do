@@ -164,7 +164,6 @@ export function auditContent() {
         !m.alt ||
         !m.width ||
         !m.height ||
-        !m.licenseUrl ||
         !m.src.startsWith("/images/people/")
       )
         errors.push(`Incomplete person image: ${m.id}`);

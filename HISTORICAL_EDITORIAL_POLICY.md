@@ -8,14 +8,16 @@
 6. Thời gian trị vì, Thái thượng hoàng, miếu hiệu, niên hiệu và truy tôn không đồng nhất. Người được truy tôn không được chèn vào chuỗi vua trực tiếp trị vì.
 7. Quan hệ là cạnh có nguồn; không suy huyết thống từ cùng họ hoặc kế vị. Biến thể tên vẫn trỏ cùng một Person ID.
 8. Không lấy tọa độ đền tưởng niệm làm vị trí sự kiện; không sáng tác polygon và đường hành quân. Hình học cần nguồn, mốc thời gian, phương pháp, quyền và giới hạn. Thiếu hình học thì công bố thiếu và giữ nội dung đọc được.
-9. Chỉ tóm lược nguồn; không phân phối lại sách/PDF/ảnh không có quyền. Tư liệu cổ cũng cần đọc trong bối cảnh biên soạn. Ảnh hiện vật và tái dựng cần nhãn, niên đại, tác giả và giấy phép.
+9. Chỉ tóm lược nguồn; không phân phối lại sách/PDF nguyên văn. Tư liệu cổ cần đọc trong bối cảnh biên soạn. Ảnh có phân loại, nguồn đăng và niên đại khi biết; tác giả/giấy phép chưa xác định được phải ghi trung thực trong hồ sơ ảnh.
 10. Test chỉ kiểm tra cấu trúc/tham chiếu/hành vi. Biên tập viên phải kiểm tra nguồn thực sự hỗ trợ từng khẳng định trước khi duyệt.
 
 ## Hình minh họa và những nhánh gia đình có ý nghĩa
 
-Khi bổ sung hoặc làm sâu một bài, chủ động xem xét ảnh tư liệu, hiện vật, di tích hoặc hình minh họa giúp hiểu nội dung. Với hồ sơ vua và nhân vật nổi bật, ưu tiên hình có nhận diện và quyền sử dụng rõ ràng ở phần đầu hồ sơ. Không có hình đủ căn cứ thì giữ hồ sơ bằng chữ; không dùng chân dung AI hoặc lấy ảnh không rõ người cho đủ chỗ.
+Khi bổ sung hoặc làm sâu một bài, chủ động xem xét hình giúp hiểu nội dung. Với hồ sơ vua và nhân vật nổi bật, ưu tiên chân dung/tranh minh họa đúng nhân vật, tiếp theo là hình tượng hoặc tượng thờ; chỉ dùng di tích, lăng hoặc hiện vật khi chưa tìm được hình thể hiện nhân vật. Không chọn hai ảnh lăng tương tự nhau thay cho hai nhân vật khi có hình nhân vật riêng.
 
-Ảnh tượng thờ, tranh tưởng niệm và di tích phải được gọi đúng loại; không mô tả thành chân dung đương thời. Lưu URL mô tả gốc, tác giả, giấy phép/liên kết giấy phép, kích thước, ngày truy cập và thay đổi đối với ảnh; ghi công ngay cạnh ảnh. Bản ảnh tối ưu lưu cục bộ, tránh phụ thuộc hotlink. Hồ sơ quyền của ảnh nhân vật ở `public/images/people/provenance.json`.
+Theo lựa chọn của người dùng, giấy phép mở không phải điều kiện để chọn ảnh cho bản local. Giữ nguồn đăng và thông tin tác giả/quyền nếu biết; giấy phép chưa rõ ghi chưa xác định, không tự gán Creative Commons hoặc Public Domain. Không thêm bước xin xác nhận chỉ vì nguồn không công bố giấy phép mở. Không có hình đủ căn cứ nhận diện thì giữ hồ sơ bằng chữ; không tự tạo chân dung AI để thay sử liệu.
+
+Ảnh tượng thờ, tranh tưởng niệm và di tích phải được gọi đúng loại; không mô tả thành chân dung đương thời. Lưu URL gốc, nguồn đăng, tác giả và giấy phép/liên kết giấy phép khi biết, kích thước, ngày truy cập và thay đổi đối với ảnh; hiện nguồn/tác giả ngắn gọn cạnh ảnh. Không hiện lời cảnh báo giấy phép trong luồng đọc. Bản ảnh lưu cục bộ, tránh phụ thuộc hotlink. Hồ sơ ảnh ở `public/images/people/provenance.json`; hình từ video chỉ dùng để minh họa, không thay nguồn sử liệu.
 
 Quan hệ gia đình cần giải thích vai trò lịch sử, nhất là bên ngoại, hôn nhân và nhánh liên quan chuyển ngôi. Thêm người và cạnh có nguồn khi cần để nối mạch, đồng thời trình bày ảnh hưởng chính trị riêng với huyết thống. Hôn nhân ở các giai đoạn khác nhau cần có mốc phân biệt.
 

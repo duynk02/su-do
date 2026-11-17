@@ -394,16 +394,16 @@ function PersonReader({
               <span>{image.title}</span>
               <span className="person-image-credit">
                 <a href={imageSource.url} target="_blank" rel="noreferrer">
-                  {image.creator}
+                  {image.credit ?? image.creator}
                 </a>
-                {" · "}
-                <a
-                  href={image.licenseUrl ?? imageSource.url}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  {image.license}
-                </a>
+                {image.licenseUrl && (
+                  <>
+                    {" · "}
+                    <a href={image.licenseUrl} target="_blank" rel="noreferrer">
+                      {image.license}
+                    </a>
+                  </>
+                )}
               </span>
             </figcaption>
           </figure>

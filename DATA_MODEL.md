@@ -37,7 +37,7 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 
 `contextYear` là năm ngữ cảnh đã có trong tiểu sử, dùng khi mở hồ sơ người không có nhiệm kỳ: ví dụ Huy Ninh 1371, Khâm Thánh 1389, Bảo Thánh 1274. Không phải năm sinh. Các nhân vật và liên kết gia đình bổ sung ở `families.ts`; nội dung vẫn ở `biographies.ts` với Claim/Citation.
 
-Ảnh nhân vật đăng ký từ `public/images/people/provenance.json` qua `person-media.ts`, tạo đồng thời MediaAsset và Source. `Person.mediaAssetId` chọn hình đại diện cho phần đầu hồ sơ; `kind` phân biệt ảnh tượng, ảnh di tích, tranh, hiện vật và tái dựng. Audit kiểm tra ảnh trỏ đúng nguồn/người, đủ tác giả, giấy phép, alt và kích thước. Ảnh không dùng thay bằng chứng cho nhận định lịch sử.
+Ảnh nhân vật đăng ký từ `public/images/people/provenance.json` qua `person-media.ts`, tạo đồng thời MediaAsset và Source. `Person.mediaAssetId` chọn hình đại diện cho phần đầu hồ sơ; `kind` phân biệt ảnh tượng, ảnh di tích, tranh, hiện vật và tái dựng. Nguồn có thể là Commons, trang cơ quan hoặc báo chí; `publisher`/`sourceId`/`readLocation` trong catalog ghi đúng nơi đăng. `credit` là dòng ghi công ngắn để không gán cơ quan đăng thành họa sĩ. Audit kiểm tra ảnh trỏ đúng nguồn/người, có hồ sơ quyền, alt và kích thước; `licenseUrl` có thể trống khi chưa rõ giấy phép, không gán giấy phép mở. Ảnh không dùng thay bằng chứng cho nhận định lịch sử.
 
 ## Trình bày quan hệ
 

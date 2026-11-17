@@ -194,6 +194,7 @@ export interface MediaAsset {
     | "heritage-photo"
     | "painting";
   creator: string;
+  credit?: string;
   license: string;
   sourceId: string;
   note: string;

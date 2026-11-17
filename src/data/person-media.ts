@@ -9,9 +9,10 @@ export const personMediaAssets: MediaAsset[] = catalog.assets.map((asset) => ({
   date: asset.date,
   kind: asset.kind as MediaAsset["kind"],
   creator: asset.creator,
+  credit: asset.credit,
   license: asset.license,
-  licenseUrl: asset.licenseUrl,
-  sourceId: `commons-${asset.personIds[0]}`,
+  licenseUrl: asset.licenseUrl ?? undefined,
+  sourceId: asset.sourceId ?? `commons-${asset.personIds[0]}`,
   note: asset.note,
   width: asset.width,
   height: asset.height,
@@ -19,10 +20,10 @@ export const personMediaAssets: MediaAsset[] = catalog.assets.map((asset) => ({
 }));
 
 export const personMediaSources: Source[] = catalog.assets.map((asset) => ({
-  id: `commons-${asset.personIds[0]}`,
+  id: asset.sourceId ?? `commons-${asset.personIds[0]}`,
   title: asset.title,
-  author: asset.creator,
-  publisher: "Wikimedia Commons",
+  author: asset.creator === "Chưa xác định" ? null : asset.creator,
+  publisher: asset.publisher ?? "Wikimedia Commons",
   year: null,
   edition: null,
   url: asset.sourceUrl,
@@ -30,6 +31,7 @@ export const personMediaSources: Source[] = catalog.assets.map((asset) => ({
   type: "collection",
   upstream: asset.originalUrl,
   readLocation:
+    asset.readLocation ??
     "Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh.",
   limits: `${asset.note} ${asset.changes}`,
 }));

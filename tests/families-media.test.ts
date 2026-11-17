@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
+import { createHash } from "node:crypto";
 import {
   claims,
   mediaAssets,
@@ -85,7 +86,7 @@ test("pivotal maternal branches connect Quoc Tuan to Anh Tong without false moth
   );
 });
 
-test("profile images are local photographs with complete visible rights and source metadata", () => {
+test("profile illustrations have local files, source metadata and honest rights records", () => {
   const profiles = people.filter((person) => person.mediaAssetId);
   assert.ok(profiles.length >= 6);
   for (const person of profiles) {
@@ -94,17 +95,34 @@ test("profile images are local photographs with complete visible rights and sour
     )!;
     assert.ok(asset.personIds?.includes(person.id));
     assert.ok(asset.width! >= 400 && asset.height! >= 300);
-    assert.match(asset.kind, /^(statue|heritage)-photo$/);
+    assert.match(asset.kind, /^(statue-photo|heritage-photo|painting)$/);
     assert.match(asset.note, /không phải chân dung/);
-    assert.ok(asset.creator && asset.license && asset.licenseUrl && asset.alt);
+    assert.ok(asset.creator && asset.license && asset.alt);
+    if (asset.licenseUrl) assert.match(asset.licenseUrl, /^https:\/\//);
+    else assert.equal(asset.license, "Chưa xác định giấy phép tái sử dụng");
     assert.ok(
       sources
         .find((source) => source.id === asset.sourceId)
-        ?.url.startsWith("https://commons.wikimedia.org/wiki/File:"),
+        ?.url.startsWith("https://"),
     );
     const bytes = readFileSync(
       new URL(`../public${asset.src}`, import.meta.url),
     );
     assert.deepEqual([...bytes.subarray(0, 3)], [0xff, 0xd8, 0xff]);
   }
+});
+
+test("Thai Tong and Thanh Tong use distinct depictions of people instead of tomb photos", () => {
+  const hashes = ["tran-canh", "tran-thanh-tong"].map((id) => {
+    const person = people.find((entry) => entry.id === id)!;
+    const image = mediaAssets.find(
+      (asset) => asset.id === person.mediaAssetId,
+    )!;
+    assert.ok(["painting", "statue-photo"].includes(image.kind));
+    assert.ok(!image.src.includes("tomb"));
+    return createHash("sha256")
+      .update(readFileSync(new URL(`../public${image.src}`, import.meta.url)))
+      .digest("hex");
+  });
+  assert.notEqual(hashes[0], hashes[1]);
 });

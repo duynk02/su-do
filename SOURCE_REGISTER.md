@@ -2,25 +2,25 @@
 
 Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.ts`. Không đồng nghĩa mọi bài là nghiên cứu gốc hoặc đã được chuyên gia duyệt. Trường không xác nhận được giữ trống/null thay vì suy đoán.
 
-## commons-tran-canh — Lăng Trần Thái Tông ở Long Hưng
+## portrait-tran-canh — Minh họa Trần Thái Tông (Trần Cảnh)
 
-- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng.jpg)
-- Tác giả: Pvloc90. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- URL: [mở nguồn](https://phatgiao.org.vn/tu-tuong-thien-hoc-cua-duc-vua-tran-thai-tong-i-d44956.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Phật giáo Việt Nam.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: collection. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
-- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/e/ee/L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng.jpg.
-- Giới hạn: Ảnh di tích lăng tại Long Hưng, chụp năm 2011; không phải chân dung. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+- Vị trí thực sự đọc: Hình và chú thích Đức vua Trần Thái Tông ngay sau đoạn tiểu sử; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://i.ex-cdn.com/phatgiao.org.vn/files/content/2020/12/11/vua-tran-thai-tong-0835.jpg.
+- Giới hạn: Tranh được bài nguồn xác định là Trần Thái Tông, tên Trần Cảnh; không phải chân dung được xác nhận vẽ khi nhân vật còn sống. Chỉ dùng hình và nhận diện nhân vật, không lấy nội dung bài thay sử liệu. Lưu ảnh gốc của trang nguồn; không cắt, không chỉnh màu.
 
-## commons-tran-thanh-tong — Lăng Trần Thánh Tông ở Long Hưng
+## portrait-tran-thanh-tong — Tượng thờ Trần Thánh Tông
 
-- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng.jpg)
-- Tác giả: Pvloc90. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- URL: [mở nguồn](https://vanvn.vn/tran-thanh-tong-hoang-de-danh-giac-va-tu-thien/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Hội Nhà văn Việt Nam.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: collection. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
-- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/0/0d/L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng.jpg.
-- Giới hạn: Ảnh di tích lăng tại Long Hưng, chụp năm 2011; không phải chân dung. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+- Vị trí thực sự đọc: Ảnh đầu bài với chú thích Tượng thờ Trần Thánh Tông; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://vanvn.vn/wp-content/uploads/2024/07/tran-thanh-tong.-Vanvn.jpg.
+- Giới hạn: Ảnh có chú thích Tượng thờ Trần Thánh Tông trên trang nguồn; hình tượng tưởng niệm, không phải chân dung đương thời. Chưa xác định tác giả ảnh và địa điểm tượng từ bài này. Lưu ảnh gốc của trang nguồn; không cắt, không chỉnh màu.
 
 ## commons-tran-nhan-tong — Tượng thờ Trần Nhân Tông tại Huế
 
@@ -52,15 +52,15 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/f/fe/HuyenTran.jpg.
 - Giới hạn: Ảnh tượng thờ do Lưu Ly chụp, công bố năm 2008–2009; hình tượng tưởng niệm, không phải chân dung đương thời. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
 
-## commons-ho-quy-ly — Di tích thành nhà Hồ
+## portrait-ho-quy-ly — Minh họa chân dung Hồ Quý Ly
 
-- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Ho_dynasty%27s_citadel,_Vietnam.jpg)
-- Tác giả: Loi Nguyen Duc. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- URL: [mở nguồn](https://thegioidisan.vn/vi/cach-nhin-moi-ve-hoang-de-ho-quy-ly.html)
+- Tác giả: Hoàng Hoa Mai. Cơ quan/nhà xuất bản: Tạp chí Thế giới Di sản.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: collection. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
-- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/0/06/Ho_dynasty%27s_citadel%2C_Vietnam.jpg.
-- Giới hạn: Di tích gắn với công cuộc xây dựng Tây Đô thời Hồ Quý Ly; không phải chân dung. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+- Vị trí thực sự đọc: Hình với chú thích Bức tranh chân dung Hoàng đế Hồ Quý Ly; đối chiếu tác giả tranh với báo Nhân Dân..
+- Nguồn bài đăng lại: https://thegioidisan.vn/assets/media/2016/Thang%208/hoang-de-hoang-quy-ly1_1.jpg.
+- Giới hạn: Tranh sơn dầu của Hoàng Hoa Mai, không phải chân dung đương thời. Đối chiếu hình và tên họa sĩ trong bài Bức tranh khắc họa thành công chân dung một danh nhân lịch sử trên báo Nhân Dân (18/11/2012). Không dùng nhận định lịch sử của bài nguồn ảnh để thay nội dung đã đối chiếu. Lưu ảnh gốc của trang nguồn; không cắt, không chỉnh màu.
 
 ## toan-thu-family — Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ
 
