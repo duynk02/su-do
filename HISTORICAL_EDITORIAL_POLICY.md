@@ -11,6 +11,14 @@
 9. Chỉ tóm lược nguồn; không phân phối lại sách/PDF/ảnh không có quyền. Tư liệu cổ cũng cần đọc trong bối cảnh biên soạn. Ảnh hiện vật và tái dựng cần nhãn, niên đại, tác giả và giấy phép.
 10. Test chỉ kiểm tra cấu trúc/tham chiếu/hành vi. Biên tập viên phải kiểm tra nguồn thực sự hỗ trợ từng khẳng định trước khi duyệt.
 
+## Hình minh họa và những nhánh gia đình có ý nghĩa
+
+Khi bổ sung hoặc làm sâu một bài, chủ động xem xét ảnh tư liệu, hiện vật, di tích hoặc hình minh họa giúp hiểu nội dung. Với hồ sơ vua và nhân vật nổi bật, ưu tiên hình có nhận diện và quyền sử dụng rõ ràng ở phần đầu hồ sơ. Không có hình đủ căn cứ thì giữ hồ sơ bằng chữ; không dùng chân dung AI hoặc lấy ảnh không rõ người cho đủ chỗ.
+
+Ảnh tượng thờ, tranh tưởng niệm và di tích phải được gọi đúng loại; không mô tả thành chân dung đương thời. Lưu URL mô tả gốc, tác giả, giấy phép/liên kết giấy phép, kích thước, ngày truy cập và thay đổi đối với ảnh; ghi công ngay cạnh ảnh. Bản ảnh tối ưu lưu cục bộ, tránh phụ thuộc hotlink. Hồ sơ quyền của ảnh nhân vật ở `public/images/people/provenance.json`.
+
+Quan hệ gia đình cần giải thích vai trò lịch sử, nhất là bên ngoại, hôn nhân và nhánh liên quan chuyển ngôi. Thêm người và cạnh có nguồn khi cần để nối mạch, đồng thời trình bày ảnh hưởng chính trị riêng với huyết thống. Hôn nhân ở các giai đoạn khác nhau cần có mốc phân biệt.
+
 ## Khi thêm nội dung
 
 Đọc nguồn → lưu hồ sơ nguồn và vị trí đọc → tạo Claim/Citation → lưu điểm bất đồng → liên kết các thực thể → chạy audit và test → review diff → tạo local commit. Nội dung thiếu nguồn không được đặt `published: true`. Không thay bằng chứng bằng giao diện có vẻ chính xác.

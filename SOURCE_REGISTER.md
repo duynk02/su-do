@@ -2,6 +2,126 @@
 
 Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.ts`. Không đồng nghĩa mọi bài là nghiên cứu gốc hoặc đã được chuyên gia duyệt. Trường không xác nhận được giữ trống/null thay vì suy đoán.
 
+## commons-tran-canh — Lăng Trần Thái Tông ở Long Hưng
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng.jpg)
+- Tác giả: Pvloc90. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/e/ee/L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng.jpg.
+- Giới hạn: Ảnh di tích lăng tại Long Hưng, chụp năm 2011; không phải chân dung. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## commons-tran-thanh-tong — Lăng Trần Thánh Tông ở Long Hưng
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng.jpg)
+- Tác giả: Pvloc90. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/0/0d/L%C4%83ng_Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng.jpg.
+- Giới hạn: Ảnh di tích lăng tại Long Hưng, chụp năm 2011; không phải chân dung. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## commons-tran-nhan-tong — Tượng thờ Trần Nhân Tông tại Huế
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg)
+- Tác giả: Lưu Ly. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/1/18/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg.
+- Giới hạn: Ảnh tượng thờ tại Huế, công bố năm 2009; hình tượng tưởng niệm, không phải chân dung đương thời. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## commons-tran-quoc-tuan — Tượng Trần Hưng Đạo tại đền thờ ở Thành phố Hồ Chí Minh
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o.jpg)
+- Tác giả: Bùi Thụy Đào Nguyên. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/b/b9/T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o.jpg.
+- Giới hạn: Tượng tại sân đền thờ, 36 Võ Thị Sáu, ảnh chụp năm 2013; hình tượng tưởng niệm, không phải chân dung đương thời. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## commons-huyen-tran — Tượng thờ công chúa Huyền Trân
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:HuyenTran.jpg)
+- Tác giả: Lưu Ly. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/f/fe/HuyenTran.jpg.
+- Giới hạn: Ảnh tượng thờ do Lưu Ly chụp, công bố năm 2008–2009; hình tượng tưởng niệm, không phải chân dung đương thời. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## commons-ho-quy-ly — Di tích thành nhà Hồ
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Ho_dynasty%27s_citadel,_Vietnam.jpg)
+- Tác giả: Loi Nguyen Duc. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Description, Author, Date và Licensing trên trang mô tả tệp; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/0/06/Ho_dynasty%27s_citadel%2C_Vietnam.jpg.
+- Giới hạn: Di tích gắn với công cuộc xây dựng Tây Đô thời Hồ Quý Ly; không phải chân dung. Bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## toan-thu-family — Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ
+
+- URL: [mở nguồn](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bản chuyển dạng PDF lưu tại cổng Quản lý giáo dục.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: V tờ 34a (1274); VI tờ 9a–10b (1300); VII tờ 38a (1371); VIII tờ 37b–38b (1400–1401)..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển V–VIII.
+- Giới hạn: Bản chuyển dạng có lỗi đánh máy, chưa xác nhận đủ ấn bản và dịch giả. Dẫn số quyển/tờ của sử liệu, không dùng số trang PDF thay thế; lời bình sử quan không coi là dữ kiện trung lập.
+
+## toan-thu-thuan-tong — Đại Việt sử ký toàn thư — Thuận Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/50-Thuan-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Quyển VIII, tờ 14a: con út Nghệ Tông; tháng giêng năm 1389 lập con gái lớn Quý Ly làm hoàng hậu..
+- Nguồn bài đăng lại: Hán văn, phiên âm và bản dịch trên cùng trang.
+- Giới hạn: Phiên âm ghi Thánh Ngẫu, phần dịch ghi Thánh Ngâu; lưu hai biến thể, dùng tôn hiệu Khâm Thánh để gọi hồ sơ. Chưa xác nhận đủ thông tin ấn bản của phần dịch.
+
+## toan-thu-thanh-tong — Đại Việt sử ký toàn thư — Thánh Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/39-Thanh-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 25a, mở đầu kỷ Thánh Tông: cha Thái Tông, mẹ Hiển Từ Thuận Thiên Lý thị..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển V.
+- Giới hạn: Chỉ dùng quan hệ gia đình đã đọc; không chuyển ngày âm lịch thành ngày dương lịch.
+
+## toan-thu-anh-tong — Đại Việt sử ký toàn thư — Anh Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/41-Anh-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 1a: cha Nhân Tông, mẹ Khâm Từ Bảo Thánh hoàng thái hậu..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển VI.
+- Giới hạn: Dùng để đối chiếu quan hệ mẹ–con, không suy ra ngày sinh của Bảo Thánh từ niên đại vua con.
+
+## tran-marriages — Những cuộc hôn nhân kì cục triều Trần
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/3096/7839/nhung-cuoc-hon-nhan-ki-cuc-trieu-tran.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia — bài đăng lại.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các mục về Liễu–Thuận Thiên, Thái Tông–Thuận Thiên, Nhân Tông–Bảo Thánh..
+- Nguồn bài đăng lại: Bài phổ thông dẫn quan hệ trong hoàng tộc.
+- Giới hạn: Tiêu đề và lời đánh giá là cách trình bày của nguồn; chỉ dùng các quan hệ đã đối chiếu với Toàn thư/Thế thứ. Không sử dụng nhánh cuối Trần hoặc suy đoán đời tư từ bài này.
+
+## thieu-de-court — Trần Thiếu Đế [1398–1400]
+
+- URL: [mở nguồn](https://www.diendan.org/phe-binh-nghien-cuu/tran-thieu-de)
+- Tác giả: Hồ Bạch Thảo. Cơ quan/nhà xuất bản: Diễn Đàn.
+- Năm: 2021. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các mục 1398, tháng 4/1399, tháng 2/1400 và chú thích 4 về ông ngoại Thiếu Đế..
+- Nguồn bài đăng lại: Khâm định Việt sử thông giám cương mục, Chính biên, quyển 11.
+- Giới hạn: Khảo cứu dẫn sử liệu, không phải bản sử gốc. Không lặp lời phán xét, số người bị hại hay coi tuổi theo sử là tuổi dương lịch. Thiếu Đế được tha chết khi phế ngôi; không xác định năm mất về sau.
+
 ## the-thu — Thế thứ các triều vua Việt Nam
 
 - URL: [mở nguồn](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html)

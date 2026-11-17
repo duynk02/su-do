@@ -99,6 +99,7 @@ export function auditContent() {
   }
   for (const p of people) {
     ref(p.summaryClaimIds, claims, p.id);
+    if (p.mediaAssetId) ref([p.mediaAssetId], mediaAssets, `${p.id} image`);
     for (const section of p.biographySections ?? []) {
       if (!section.title || !section.claimIds.length)
         errors.push(`Empty biography section: ${p.id}`);
@@ -157,6 +158,17 @@ export function auditContent() {
   for (const m of mediaAssets) {
     ref([m.sourceId], sources, m.id);
     if (!m.license || !m.creator) errors.push(`Missing media rights: ${m.id}`);
+    if (m.personIds?.length) {
+      ref(m.personIds, people, m.id);
+      if (
+        !m.alt ||
+        !m.width ||
+        !m.height ||
+        !m.licenseUrl ||
+        !m.src.startsWith("/images/people/")
+      )
+        errors.push(`Incomplete person image: ${m.id}`);
+    }
   }
   const allEntities = Object.values(groups).flat() as { id: string }[];
   for (const r of reviews) ref(r.entityIds, allEntities, r.id);

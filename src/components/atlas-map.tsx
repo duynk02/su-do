@@ -4,7 +4,7 @@ import { geoGraticule, geoMercator, geoPath } from "d3-geo";
 import type { FeatureCollection } from "geojson";
 import type { Place } from "@/data/schema";
 import { formatYear } from "@/lib/history";
-import { Icon } from "./icon";
+import { CapitalSymbol, Icon } from "./icon";
 
 interface Props {
   contextNote?: string;
@@ -116,7 +116,7 @@ export default function AtlasMap({
       Math.min(3, Math.max(0.6, Math.round((v + amount) * 10) / 10)),
     );
   const labelOffsets: Record<string, [number, number]> = {
-    "thang-long": [-18, viewportScale < 0.65 ? 60 : 34],
+    "thang-long": [-18, viewportScale < 0.65 ? 60 : 40],
     "kiep-bac": [-40, viewportScale < 0.65 ? -30 : -84],
     "thai-mieu": [38, viewportScale < 0.65 ? 4 : -58],
     "yen-tu": [48, viewportScale < 0.65 ? 38 : -18],
@@ -352,14 +352,13 @@ export default function AtlasMap({
                   ) / viewportScale;
                 const margin = 16 / viewportScale;
                 const controlMargin = 76 / viewportScale;
-                const labelScreenX = Math.max(
+                let labelScreenX = Math.max(
                   dxPixels < 0 ? margin + textWidth : margin,
                   Math.min(
                     700 - controlMargin - (dxPixels < 0 ? 0 : textWidth),
                     screenX + dxPixels / viewportScale,
                   ),
                 );
-                const labelX = 350 + (labelScreenX - offset[0] - 350) / zoom;
                 const plotTop = (stageHeight - 800 * viewportScale) / 2;
                 const labelFloor =
                   (stageHeight -
@@ -369,10 +368,56 @@ export default function AtlasMap({
                     (p.type === "capital" ? 18 : 0)) /
                   viewportScale;
                 const screenY = offset[1] + 400 + (y - 400) * zoom;
-                const labelScreenY = Math.min(
+                let labelScreenY = Math.min(
                   labelFloor,
                   screenY + (dyPixels + compactClearance) / viewportScale,
                 );
+                // Keep nearby heritage labels clear of the fixed-size capital badge.
+                if (p.type !== "capital")
+                  for (const capital of dots.filter(
+                    (place) => place.type === "capital",
+                  )) {
+                    const [capitalX, capitalY] = projection(
+                      capital.coordinates!,
+                    )!;
+                    const cx = offset[0] + 350 + (capitalX - 350) * zoom;
+                    const cy = offset[1] + 400 + (capitalY - 400) * zoom;
+                    const clearance = 24 / viewportScale;
+                    const left = labelScreenX - (dxPixels < 0 ? textWidth : 0);
+                    const right = labelScreenX + (dxPixels < 0 ? 0 : textWidth);
+                    if (
+                      left < cx + clearance &&
+                      right > cx - clearance &&
+                      labelScreenY - 14 / viewportScale < cy + clearance &&
+                      labelScreenY + 4 / viewportScale > cy - clearance
+                    ) {
+                      const shiftedX =
+                        cx + (dxPixels < 0 ? -clearance : clearance);
+                      const min = dxPixels < 0 ? margin + textWidth : margin;
+                      const max =
+                        700 - controlMargin - (dxPixels < 0 ? 0 : textWidth);
+                      if (shiftedX >= min && shiftedX <= max)
+                        labelScreenX = shiftedX;
+                      else
+                        labelScreenY = Math.min(
+                          labelScreenY,
+                          cy - clearance - 12 / viewportScale,
+                        );
+                    }
+                  }
+                if (compact && p.type !== "capital") {
+                  const leftPx =
+                    (labelScreenX - (dxPixels < 0 ? textWidth : 0)) *
+                    viewportScale;
+                  const baselinePx = plotTop + labelScreenY * viewportScale;
+                  if (
+                    leftPx < 160 &&
+                    baselinePx + 4 > 148 &&
+                    baselinePx - 14 < 196
+                  )
+                    labelScreenY = (144 - plotTop) / viewportScale;
+                }
+                const labelX = 350 + (labelScreenX - offset[0] - 350) / zoom;
                 const labelY = 400 + (labelScreenY - offset[1] - 400) / zoom;
                 const active =
                   selectedPlace === p.id || highlighted.includes(p.id);
@@ -387,6 +432,7 @@ export default function AtlasMap({
                   <g
                     key={p.id}
                     data-place={p.id}
+                    data-place-type={p.type}
                     role="button"
                     tabIndex={0}
                     aria-label={`${p.name}. ${p.precision}`}
@@ -412,7 +458,7 @@ export default function AtlasMap({
                         vectorEffect="non-scaling-stroke"
                       />
                     )}
-                    {active && (
+                    {active && p.type !== "capital" && (
                       <circle
                         cx={x}
                         cy={y}
@@ -421,25 +467,44 @@ export default function AtlasMap({
                         opacity=".1"
                       />
                     )}
-                    <circle
-                      cx={x}
-                      cy={y}
-                      r={p.type === "capital" ? 7 : 5}
-                      fill="#faf9f2"
-                      stroke="currentColor"
-                      strokeWidth="1.5"
-                      vectorEffect="non-scaling-stroke"
-                    />
                     {p.type === "capital" ? (
-                      <rect
-                        x={x - 2}
-                        y={y - 2}
-                        width="4"
-                        height="4"
-                        fill="currentColor"
-                      />
+                      <g
+                        className="capital-marker"
+                        transform={`translate(${x} ${y}) scale(${1 / drawingScale})`}
+                      >
+                        {active && (
+                          <circle r="22" fill="currentColor" opacity=".12" />
+                        )}
+                        <circle
+                          r="16"
+                          fill="#fbfaf6"
+                          stroke="currentColor"
+                          strokeWidth="1.5"
+                        />
+                        <g
+                          transform="translate(-11 -12)"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="1.5"
+                          strokeLinejoin="round"
+                          strokeLinecap="round"
+                        >
+                          <CapitalSymbol />
+                        </g>
+                      </g>
                     ) : (
-                      <circle cx={x} cy={y} r="2" fill="currentColor" />
+                      <>
+                        <circle
+                          cx={x}
+                          cy={y}
+                          r="5"
+                          fill="#faf9f2"
+                          stroke="currentColor"
+                          strokeWidth="1.5"
+                          vectorEffect="non-scaling-stroke"
+                        />
+                        <circle cx={x} cy={y} r="2" fill="currentColor" />
+                      </>
                     )}
                     {showLabel && (
                       <text
@@ -495,7 +560,9 @@ export default function AtlasMap({
       <div ref={footerRef} className="map-bottom">
         <div className="map-legend">
           <span>
-            <i className="legend-capital" />
+            <span className="legend-capital">
+              <Icon name="capital" size={18} />
+            </span>
             Kinh đô
           </span>
           <span>

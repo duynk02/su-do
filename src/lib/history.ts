@@ -158,6 +158,7 @@ export function searchHistory(query: string): SearchResult[] {
 export function personYear(id: string) {
   return (
     tenures.find((t) => t.personId === id)?.date.start ??
+    people.find((person) => person.id === id)?.contextYear ??
     events.find((e) => e.personIds.includes(id))?.date.start ??
     1225
   );

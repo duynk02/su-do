@@ -178,7 +178,7 @@ function ChapterVisual({
         </div>
       );
     case "artifact": {
-      const asset = mediaAssets[0];
+      const asset = mediaAssets.find((entry) => entry.id === "bowl")!;
       return (
         <figure className="artifact">
           <img
@@ -355,20 +355,60 @@ function PersonReader({
   const aliases = person.aliases.filter(
     (name) => name !== person.name && name !== person.personalName,
   );
+  const image = mediaAssets.find((asset) => asset.id === person.mediaAssetId);
+  const imageSource =
+    image && sources.find((source) => source.id === image.sourceId);
   return (
-    <>
+    <article className="person-profile">
       <button className="back-link" onClick={() => actions.onView("people")}>
         <Icon name="arrow" size={13} style={{ transform: "rotate(180deg)" }} />{" "}
         Tất cả nhân vật
       </button>
-      <div className="person-title-mark" aria-hidden="true">
-        {person.name.split(" ").at(-1)?.slice(0, 1)}
+      <div className={`person-heading${image ? " has-image" : ""}`}>
+        <div>
+          <div className="person-title-mark" aria-hidden="true">
+            {person.name.split(" ").at(-1)?.slice(0, 1)}
+          </div>
+          <div className="eyebrow">Hồ sơ nhân vật</div>
+          <h2>{person.name}</h2>
+          <p className="chapter-question">
+            {person.title ?? person.templeName ?? "Nhân vật lịch sử"}
+          </p>
+        </div>
+        {image && imageSource && (
+          <figure className="person-image">
+            <a
+              href={imageSource.url}
+              target="_blank"
+              rel="noreferrer"
+              aria-label={`Xem ảnh và nguồn: ${image.title}`}
+            >
+              <img
+                src={image.src}
+                alt={image.alt ?? image.title}
+                width={image.width}
+                height={image.height}
+              />
+            </a>
+            <figcaption>
+              <span>{image.title}</span>
+              <span className="person-image-credit">
+                <a href={imageSource.url} target="_blank" rel="noreferrer">
+                  {image.creator}
+                </a>
+                {" · "}
+                <a
+                  href={image.licenseUrl ?? imageSource.url}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {image.license}
+                </a>
+              </span>
+            </figcaption>
+          </figure>
+        )}
       </div>
-      <div className="eyebrow">Hồ sơ nhân vật</div>
-      <h2>{person.name}</h2>
-      <p className="chapter-question">
-        {person.title ?? person.templeName ?? "Người giữ ngôi thời Trần"}
-      </p>
       <div className="person-introduction">
         {person.summaryClaimIds.map((id) => (
           <ClaimText key={id} id={id} onClaim={actions.onClaim} />
@@ -457,7 +497,7 @@ function PersonReader({
           ))}
         </section>
       )}
-    </>
+    </article>
   );
 }
 

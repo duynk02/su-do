@@ -22,7 +22,7 @@ Chọn phương án 1, với vùng đọc mở rộng khi bật chế độ câu
 - Hai họ chữ: Noto Serif cho tiêu đề/đoạn dẫn, Be Vietnam Pro cho nội dung và điều khiển; lưu font cục bộ với giấy phép OFL.
 - Nền #f6f4ed, giấy đọc #fbfaf6, mực #25362f, son #a13d2d; chữ hỗ trợ phải đủ tương phản.
 - Lưới khoảng cách 4/8/12/16/24/32px, không đóng từng đoạn thành card. Chữ nội dung tối thiểu 15–16px, dòng 1.7, không quá 65 ký tự khi có thể.
-- Kinh đô: hình vuông bên trong vòng; địa điểm: chấm tròn; vị trí tương đối: vòng nét đứt. Tên và loại điểm có trong danh sách văn bản.
+- Kinh đô: biểu tượng cổng thành trong vòng màu son, giữ kích thước thực khi zoom; địa điểm: chấm tròn; vị trí tương đối: vòng nét đứt. Cùng biểu tượng cổng thành xuất hiện trong chú giải; tên và loại điểm có trong danh sách văn bản.
 - Dữ liệu địa lý hiện đại luôn có chú thích. Lớp tham chiếu biên giới hiện đại mặc định tắt, có nhãn riêng.
 - Nhãn nguồn là nút số; mở hộp thoại có vị trí tra cứu, phạm vi hỗ trợ và xuất xứ. Escape đóng, focus được giữ và khôi phục.
 
@@ -51,3 +51,11 @@ Giới hạn còn lại: nhãn địa điểm có thể chen nhau khi zoom/pan t
 Tách ba chế độ Gia đình / Kế vị / Chính trị. Gia đình dùng bố cục theo tầng cha mẹ–con và đặt người phối ngẫu cạnh nhau; quan hệ cha mẹ nối từ từng người có nguồn, không nối con vào giữa đường hôn nhân. Kế vị là chuỗi riêng với niên đại trị vì, không bị hiểu thành huyết thống. Chính trị giữ nhãn mô tả trực tiếp.
 
 Mở rộng thêm một bậc theo loại quan hệ đang xem và hiển thị các liên kết đã biết giữa những người trong phạm vi đó. Bỏ giới hạn cứng chín nút. Chữ tên giữ 14px ở mức 100%; sơ đồ rộng cuộn ngang trong khung, có nút thu nhỏ/phóng to, về 100% và vừa khung. Mỗi ô có thể mở hồ sơ bằng chuột hoặc bàn phím. Danh sách văn bản và nguồn vẫn đọc được dưới sơ đồ.
+
+Các cuộc hôn nhân nối tiếp được bố trí để mỗi cặp nằm cạnh nhau khi có thể, với nhãn chỉ giai đoạn. Cạnh mẹ–con là dữ liệu riêng, không sinh từ đường hôn nhân. Nhãn chính trị đi theo nhánh đích để các nhánh nhiếp chính/cất nhắc không đè chữ lên nhau.
+
+## Hình trong hồ sơ
+
+Ảnh đặt bên phải tên và danh xưng khi vùng đọc đủ rộng; vùng hẹp xếp ảnh xuống dưới tiêu đề. Giữ trọn ảnh bằng `object-fit: contain`, không cắt đầu tượng hoặc phần nhận diện di tích. Chú thích ngắn gọi đúng tượng/di tích, kèm tác giả và liên kết giấy phép tối thiểu 13px. Nhấn ảnh mở trang mô tả nguồn. Không có ảnh phù hợp thì dùng bố cục chữ gọn, không để khung trống.
+
+Các lần thêm bài sau cần xem xét tư liệu trực quan có ích cho việc học, theo `HISTORICAL_EDITORIAL_POLICY.md`. Biểu tượng kinh đô là ký hiệu bản đồ, không phải bản vẽ phục dựng kiến trúc của một cung điện cụ thể.

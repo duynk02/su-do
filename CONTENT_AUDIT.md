@@ -13,6 +13,9 @@ Bản đầu có dẫn nguồn, chưa có người biên tập chuyên môn duy�
 - Dương Nhật Lễ: giữ trong chuỗi ngôi vua, không suy ra huyết thống và không lặp phán xét đạo đức của sử quan.
 - Bạch Đằng: hai bài đăng năm 2013 và 2019 khác nhận định về cọc ngang dòng chính; chưa có báo cáo khai quật gốc, nên không dựng chiến thuật hoặc hình học.
 - Không dùng nguồn Hồ có đoạn nói Thiếu Đế bị giết để viết chi tiết này; giữ phạm vi chuyển ngôi có căn cứ.
+- Thiếu Đế: Khâm Thánh là mẹ, Hồ Quý Ly/Huy Ninh là ông bà ngoại; Huy Ninh là con Minh Tông, em Nghệ Tông. Dẫn Cương mục và Toàn thư về nhiếp chính 1398, phế ngôi 1400, được tha chết vì là cháu ngoại; chưa xác định năm mất.
+- Khâm Thánh: bản dịch Toàn thư ghi Thánh Ngâu, phiên âm ghi Thánh Ngẫu; dùng tôn hiệu để gọi hồ sơ và giữ cả hai biến thể để tìm kiếm. Việc lập hoàng hậu năm 1389 không tự xác lập ngày cưới.
+- Thuận Thiên: hai cuộc hôn nhân thuộc giai đoạn khác nhau; không gán Quốc Tuấn là con Thuận Thiên hoặc Thánh Tông là con Trần Liễu. Bảo Thánh nối nhánh Quốc Tuấn với Anh Tông qua quan hệ mẹ–con đã đối chiếu.
 
 ## Khẳng định và vị trí dẫn
 
@@ -315,6 +318,15 @@ Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Ai là tác giả chiếu nhường ngôi của Lý Chiêu Hoàng?](https://baotanglichsu.vn/VI/Articles/3098/14781/ai-la-tac-gia-chieu-nhuong-ngoi-cua-ly-chieu-hoang.html) — Các đoạn về hôn nhân và chiếu nhường ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
+### bio-tran-canh-section-1-1
+
+Năm 1237, Thuận Thiên, vốn là vợ của Trần Liễu và là chị Lý Chiêu Hoàng, được đưa vào cung làm hoàng hậu của Trần Thái Tông. Liễu là anh của Thái Tông; việc đổi hôn nhân dẫn tới cuộc nổi dậy của ông. Về sau, Thuận Thiên sinh Trần Hoảng, người kế vị với miếu hiệu Thánh Tông. Những quan hệ này giải thích vì sao nhánh Trần Cảnh và nhánh Trần Liễu cùng xuất hiện trong phả hệ đầu triều.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Những cuộc hôn nhân kì cục triều Trần](https://baotanglichsu.vn/vi/Articles/3096/7839/nhung-cuoc-hon-nhan-ki-cuc-trieu-tran.html) — Các mục Liễu–Thuận Thiên và Thái Tông–Thuận Thiên. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Thánh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/39-Thanh-Tong-Hoang-De?uiLang=en) — Quyển V, tờ 25a: mẹ Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
 ### bio-tran-thanh-tong
 
 Trần Thánh Tông, tên húy Trần Hoảng, là con trưởng của Trần Thái Tông và hoàng hậu Thuận Thiên. Ông lên ngôi năm 1258, trị vì đến năm 1278 rồi truyền ngôi cho Trần Khâm, tức Trần Nhân Tông. Trên cương vị Thái thượng hoàng, ông tiếp tục tham gia chính sự và cùng vua Nhân Tông lãnh đạo Đại Việt trong hai cuộc kháng chiến chống Nguyên năm 1285 và 1287–1288.
@@ -440,6 +452,15 @@ Loại: evidence. Trạng thái: Đang biên soạn.
 
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Nghệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
+### bio-tran-nghe-tong-section-1-1
+
+Năm 1371, Nghệ Tông trao chức vụ trong Khu mật viện cho Hồ Quý Ly và gả em gái Huy Ninh cho ông. Về sau, con Nghệ Tông là Thuận Tông lấy Khâm Thánh, con gái Quý Ly và Huy Ninh. Hai nhánh con của Minh Tông vì thế gặp lại nhau trong gia đình Trần Thiếu Đế, trong khi Quý Ly ngày càng có ảnh hưởng lớn trong triều.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển VII, tờ 38a: cất nhắc Quý Ly, gả Huy Ninh năm 1371; VIII tờ 38b: con cái Huy Ninh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Thuận Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/50-Thuan-Tong-Hoang-De?uiLang=en) — Quyển VIII, tờ 14a: lập con gái Quý Ly làm hoàng hậu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
 ### bio-tran-due-tong
 
 Trần Duệ Tông, tên húy Trần Kính, là con Trần Minh Tông và em Trần Nghệ Tông. Sau khi tham gia việc chống Dương Nhật Lễ, ông được lập làm thái tử rồi nhận ngôi từ Nghệ Tông năm 1372. Ông dùng niên hiệu Long Khánh và mất trong cuộc tiến quân đánh Champa năm 1377; con ông là Trần Hiện được đưa lên ngôi sau đó.
@@ -465,12 +486,48 @@ Loại: evidence. Trạng thái: Đang biên soạn.
 
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thuận Tông và Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
+### bio-tran-thuan-tong-section-1-1
+
+Hoàng hậu của Thuận Tông là Khâm Thánh, con gái trưởng Hồ Quý Ly, được lập làm hoàng hậu năm 1389. Năm 1398, Quý Ly thúc ép Thuận Tông rời ngôi; con nhỏ Trần An lên thay, còn Quý Ly trực tiếp nắm quyền nhiếp chính. Sau khi đã rời ngôi, Thuận Tông tiếp tục bị giám sát và bị giết theo lệnh Quý Ly năm 1399.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Thuận Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/50-Thuan-Tong-Hoang-De?uiLang=en) — Quyển VIII, tờ 14a: lập hoàng hậu năm 1389. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Trần Thiếu Đế [1398–1400]](https://www.diendan.org/phe-binh-nghien-cuu/tran-thieu-de) — Các mục tháng 3/1398 và tháng 4/1399, dẫn Cương mục quyển 11. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
 ### bio-tran-thieu-de
 
 Trần Thiếu Đế, tên húy Trần An, là con Trần Thuận Tông và Khâm Thánh hoàng hậu, cháu ngoại Hồ Quý Ly. Ông được đưa lên ngôi khi còn nhỏ vào năm 1398. Năm 1400, Hồ Quý Ly thay ngôi, lập nhà Hồ và giáng ông làm Bảo Ninh Đại vương. Năm mất của Trần Thiếu Đế chưa được xác định trong nguồn đang dẫn.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thieu-de-section-1-1
+
+Cha Thiếu Đế là Trần Thuận Tông, ông nội là Trần Nghệ Tông. Mẹ ông là Khâm Thánh hoàng hậu, con gái Hồ Quý Ly và công chúa Huy Ninh; Huy Ninh là con Trần Minh Tông, em gái Nghệ Tông. Vì vậy, Quý Ly là ông ngoại của vị vua cuối triều Trần, còn quan hệ hoàng tộc của Thiếu Đế đi qua cả hai nhánh nội và ngoại.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển VII tờ 38a: Huy Ninh là em Nghệ Tông; VIII tờ 38b: Huy Ninh là con Minh Tông, mẹ Khâm Thánh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thieu-de-section-2-1
+
+Năm 1398, Thuận Tông rời ngôi và Trần An được đưa lên làm vua khi còn rất nhỏ, lấy niên hiệu Kiến Tân. Hồ Quý Ly lấy danh nghĩa ông ngoại của vua để nhiếp chính, nắm việc nước. Năm 1399, Thuận Tông bị giết; cùng năm, âm mưu chống Quý Ly của một nhóm đại thần tại hội thề Đốn Sơn thất bại, dẫn tới một đợt trấn áp trong triều.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Trần Thiếu Đế [1398–1400]](https://www.diendan.org/phe-binh-nghien-cuu/tran-thieu-de) — Các mục tháng 3/1398, tháng 4/1399 và đoạn hội thề Đốn Sơn, dẫn Cương mục quyển 11. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-thieu-de-section-3-1
+
+Năm 1400, Hồ Quý Ly phế Thiếu Đế, tự lên ngôi, đổi quốc hiệu thành Đại Ngu và lập nhà Hồ. Thiếu Đế bị giáng làm Bảo Ninh Đại vương. Sử liệu được dẫn ghi ông được tha chết vì là cháu ngoại Quý Ly; không có căn cứ từ những nguồn này để nói ông bị giết ngay khi nhà Trần chấm dứt. Cuộc đời của ông sau đó và năm mất chưa được xác định.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Trần Thiếu Đế [1398–1400]](https://www.diendan.org/phe-binh-nghien-cuu/tran-thieu-de) — Mục tháng 2/1400 và chú thích 4. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển VIII, tờ 37b: giáng làm Bảo Ninh Đại vương, được tha vì là cháu ngoại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### bio-tran-thua
@@ -535,6 +592,17 @@ Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
 - [Hưng Đạo Đại Vương – Trần Quốc Tuấn](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/hung-ao-ai-vuong-tran-quoc-tuan.html) — Các đoạn mở đầu, quyền tiết chế và Hịch tướng sĩ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Chủ đề Nước Đại Việt thời Trần (phần 2)](https://thcsnguyenduq1.hcm.edu.vn/khoi-7/lich-su-7-chu-de-nuoc-dai-viet-thoi-tran-phan-2/ct/73803/548583) — Mục II và III: vai trò Trần Quốc Tuấn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
+### bio-tran-quoc-tuan-section-1-1
+
+Trần Quốc Tuấn là con Trần Liễu, thuộc nhánh An Sinh. Liễu là anh Trần Thái Tông nên Quốc Tuấn và Trần Thánh Tông thuộc hai nhánh con của Trần Thừa. Con gái Quốc Tuấn là Bảo Thánh được gả cho thái tử Trần Khâm năm 1274; bà trở thành hoàng hậu của Nhân Tông và là mẹ Trần Anh Tông. Gia đình ông vì thế có quan hệ trực tiếp với các vua cùng thời bên cạnh vai trò quân sự.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Hưng Đạo Đại Vương – Trần Quốc Tuấn](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/hung-ao-ai-vuong-tran-quoc-tuan.html) — Đoạn xuất thân, cha là An Sinh vương Trần Liễu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những cuộc hôn nhân kì cục triều Trần](https://baotanglichsu.vn/vi/Articles/3096/7839/nhung-cuoc-hon-nhan-ki-cuc-trieu-tran.html) — Các mục Trần Liễu và Nhân Tông–Bảo Thánh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển V, tờ 34a: hôn nhân thái tử năm 1274. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Anh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/41-Anh-Tong-Hoang-De?uiLang=en) — Quyển VI, tờ 1a: mẹ Anh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
 ### bio-huyen-tran
 
 Huyền Trân là con gái Trần Nhân Tông, gắn với cuộc hôn nhân với vua Champa Chế Mân năm 1306. Sự kiện đi cùng việc chuyển hai châu Ô và Lý cho Đại Việt. Cuộc đời bà thường được nhắc đến trong lịch sử quan hệ giữa hai nước, nơi hôn nhân hoàng gia, ngoại giao và biến đổi không gian chính trị có liên hệ chặt chẽ với nhau.
@@ -559,6 +627,71 @@ Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
 
 - [Hồ Quý Ly và những cải cách lớn về kinh tế](https://baotanglichsu.vn/VI/Articles/3098/13166/ho-quy-ly-va-nhung-cai-cach-lon-ve-kinh-te.html) — Các đoạn tiền giấy và hạn điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [XV. Nhà Hồ (1400–1407): quốc hiệu Đại Ngu, kinh đô Tây Đô](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html) — Mục Hồ Quý Ly, quốc hiệu và kinh đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ho-quy-ly-section-1-1
+
+Năm 1371, Trần Nghệ Tông cất nhắc Quý Ly và gả em gái là công chúa Huy Ninh cho ông. Huy Ninh là con Trần Minh Tông; bà cùng Quý Ly có con gái Khâm Thánh. Khâm Thánh trở thành hoàng hậu của Trần Thuận Tông và sinh Trần Thiếu Đế. Do đó, Quý Ly vừa là người trong mạng lưới hôn nhân hoàng tộc, vừa là ông ngoại của vua cuối triều Trần.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển VII, tờ 38a: cất nhắc và hôn nhân năm 1371; VIII, tờ 38b: con cái Huy Ninh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Thuận Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/50-Thuan-Tong-Hoang-De?uiLang=en) — Quyển VIII, tờ 14a: con gái trưởng Quý Ly làm hoàng hậu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, phần II – Thế thứ các vua thời Trần, mục Trần Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ho-quy-ly-section-2-1
+
+Quý Ly ép Thuận Tông nhường ngôi cho Thiếu Đế năm 1398 rồi nắm quyền nhiếp chính. Sau cái chết của Thuận Tông và biến động Đốn Sơn năm 1399, ông tiếp tục củng cố quyền lực. Năm 1400, ông phế cháu ngoại, lập nhà Hồ. Quan hệ gia đình giải thích vị trí của ông trong triều, còn quá trình chuyển triều gắn với những hành động chính trị diễn ra trong nhiều năm.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Trần Thiếu Đế [1398–1400]](https://www.diendan.org/phe-binh-nghien-cuu/tran-thieu-de) — Các mục 1398–1400. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [XV. Nhà Hồ (1400–1407): quốc hiệu Đại Ngu, kinh đô Tây Đô](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html) — Mục Hồ Quý Ly: lập nhà Hồ năm 1400. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-huy-ninh
+
+Huy Ninh là con gái Trần Minh Tông và là em gái Trần Nghệ Tông. Năm 1371, Nghệ Tông gả bà cho Hồ Quý Ly. Bà là mẹ Khâm Thánh hoàng hậu và Hồ Hán Thương, vì vậy cũng là bà ngoại của Trần Thiếu Đế. Nhánh gia đình này kết nối hoàng tộc Trần với những người đứng đầu triều Hồ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển VII, tờ 38a (1371); VIII, tờ 38b: thân thế và con cái Huy Ninh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-kham-thanh
+
+Khâm Thánh là con gái trưởng Hồ Quý Ly và công chúa Huy Ninh. Bà được lập làm hoàng hậu của Trần Thuận Tông năm 1389 và là mẹ Trần Thiếu Đế. Khi con lên ngôi năm 1398, bà được tôn làm hoàng thái hậu. Qua bà, Thiếu Đế là cháu ngoại Hồ Quý Ly; đây là quan hệ gia đình trực tiếp của hai người ở thời điểm chuyển triều năm 1400.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Thuận Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/50-Thuan-Tong-Hoang-De?uiLang=en) — Quyển VIII, tờ 14a: Thánh Ngâu/Thánh Ngẫu và việc lập hoàng hậu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển VIII, tờ 38b: mẹ Khâm Thánh là Huy Ninh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Trần Thiếu Đế [1398–1400]](https://www.diendan.org/phe-binh-nghien-cuu/tran-thieu-de) — Mở đầu năm 1398 và chú thích 4. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-tran-lieu
+
+Trần Liễu là con Trần Thừa, anh của Trần Thái Tông và là cha Trần Quốc Tuấn. Năm 1237, việc triều đình đưa vợ ông là Thuận Thiên sang làm hoàng hậu của Thái Tông dẫn tới cuộc nổi dậy của Liễu; sau đó ông được tha. Nhánh An Sinh của ông có người con Quốc Tuấn giữ vai trò quan trọng trong các cuộc kháng chiến chống Nguyên.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Những cuộc hôn nhân kì cục triều Trần](https://baotanglichsu.vn/vi/Articles/3096/7839/nhung-cuoc-hon-nhan-ki-cuc-trieu-tran.html) — Các mục Liễu–Thuận Thiên và Thái Tông–Thuận Thiên. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hưng Đạo Đại Vương – Trần Quốc Tuấn](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/hung-ao-ai-vuong-tran-quoc-tuan.html) — Đoạn cha Quốc Tuấn là An Sinh vương Trần Liễu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-thuan-thien
+
+Thuận Thiên là con Lý Huệ Tông và Trần Thị Dung, chị của Lý Chiêu Hoàng. Bà từng là vợ Trần Liễu, sau đó được đưa sang làm hoàng hậu của Trần Thái Tông năm 1237. Bà là mẹ Trần Hoảng, tức Trần Thánh Tông. Hai cuộc hôn nhân của bà thuộc những giai đoạn khác nhau và gắn với biến động trong hoàng tộc đầu triều Trần.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Những cuộc hôn nhân kì cục triều Trần](https://baotanglichsu.vn/vi/Articles/3096/7839/nhung-cuoc-hon-nhan-ki-cuc-trieu-tran.html) — Các mục Liễu–Thuận Thiên và Thái Tông–Thuận Thiên. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Thánh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/39-Thanh-Tong-Hoang-De?uiLang=en) — Quyển V, tờ 25a: mẹ Thánh Tông là Hiển Từ Thuận Thiên Lý thị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-bao-thanh
+
+Bảo Thánh là con gái của Hưng Đạo vương Trần Quốc Tuấn. Năm 1274, bà được gả cho thái tử Trần Khâm, về sau là vua Trần Nhân Tông. Bà là mẹ Trần Anh Tông, được sử ghi với tôn hiệu Khâm Từ Bảo Thánh. Quan hệ này nối nhánh An Sinh của Quốc Tuấn với nhánh các vua Nhân Tông và Anh Tông.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Quyển V, tờ 34a: gả con gái trưởng Hưng Đạo cho thái tử năm 1274. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những cuộc hôn nhân kì cục triều Trần](https://baotanglichsu.vn/vi/Articles/3096/7839/nhung-cuoc-hon-nhan-ki-cuc-trieu-tran.html) — Mục Nhân Tông–Bảo Thánh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Anh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/41-Anh-Tong-Hoang-De?uiLang=en) — Quyển VI, tờ 1a: mẹ Anh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### retired-thai-tong
 

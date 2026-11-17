@@ -95,6 +95,8 @@ export interface Person {
   summaryClaimIds: string[];
   biographySections?: { title: string; claimIds: string[] }[];
   eventIds: string[];
+  mediaAssetId?: string;
+  contextYear?: number;
   note?: string;
 }
 export interface RoleTenure {
@@ -185,11 +187,21 @@ export interface MediaAsset {
   src: string;
   title: string;
   date: string;
-  kind: "artifact-photo" | "reconstruction";
+  kind:
+    | "artifact-photo"
+    | "reconstruction"
+    | "statue-photo"
+    | "heritage-photo"
+    | "painting";
   creator: string;
   license: string;
   sourceId: string;
   note: string;
+  alt?: string;
+  width?: number;
+  height?: number;
+  licenseUrl?: string;
+  personIds?: string[];
 }
 export interface ReviewRecord {
   id: string;

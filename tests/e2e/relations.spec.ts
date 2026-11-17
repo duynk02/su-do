@@ -5,6 +5,7 @@ for (const person of [
   "tran-minh-tong",
   "tran-canh",
   "duong-nhat-le",
+  "tran-thieu-de",
 ])
   test(`${person}: relationship views stay readable when expanded`, async ({
     page,

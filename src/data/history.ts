@@ -16,6 +16,8 @@ import {
   type ReviewRecord,
 } from "./schema";
 import { biographies } from "./biographies";
+import { personMediaAssets } from "./person-media";
+import { familyPeople, familyRelationships } from "./families";
 export { sources } from "./sources";
 
 export const claims: Claim[] = [];
@@ -391,12 +393,14 @@ people.push(
   {
     id: "ho-quy-ly",
     name: "Hồ Quý Ly",
+    contextYear: 1400,
     aliases: ["Lê Quý Ly"],
     title: "Người nắm quyền cuối Trần, lập nhà Hồ",
     summaryClaimIds: ["ho-reform-dates", "tran-ending"],
     eventIds: ["nha-ho-1400"],
   },
 );
+people.push(...familyPeople);
 for (const [personId, biography] of Object.entries(biographies)) {
   const person = people.find((p) => p.id === personId);
   if (!person) throw new Error(`Biography has no person: ${personId}`);
@@ -435,6 +439,12 @@ for (const [personId, biography] of Object.entries(biographies)) {
     });
   if (personId === "duong-nhat-le") person.note = undefined;
 }
+for (const asset of personMediaAssets)
+  for (const personId of asset.personIds ?? []) {
+    const person = people.find((entry) => entry.id === personId);
+    if (!person) throw new Error(`Image has no person: ${personId}`);
+    person.mediaAssetId = asset.id;
+  }
 export const tenures: RoleTenure[] = rulerRows.map(
   ([id, name, , start, end, label]) => ({
     id: `role-${id}`,
@@ -516,6 +526,7 @@ tenures.push(
 );
 
 export const relationships: Relationship[] = [
+  ...familyRelationships,
   ...["tran-thua", "tran-tu-khanh", "tran-thi-dung"].map((to) => ({
     id: `rel-ly-${to}`,
     from: "tran-ly",
@@ -752,6 +763,51 @@ export const places: Place[] = [
 ];
 
 export const events: HistoricalEvent[] = [
+  {
+    id: "hon-nhan-1237",
+    name: "Biến động hôn nhân trong hoàng tộc năm 1237",
+    date: date(1237, 1237, "1237"),
+    placeIds: [],
+    personIds: ["tran-canh", "tran-lieu", "thuan-thien", "ly-chieu-hoang"],
+    contextClaimIds: ["bio-thuan-thien"],
+    developmentClaimIds: ["bio-tran-canh-section-1-1"],
+    resultClaimIds: [],
+    consequence:
+      "Quan hệ hôn nhân và việc chọn người nối ngôi tác động đến các nhánh hoàng tộc như thế nào?",
+    consequenceKind: "editorial-question",
+    precisionNote:
+      "Giữ độ chính xác năm; không đặt tọa độ cho cuộc nổi dậy hoặc các địa điểm cung đình.",
+  },
+  {
+    id: "thieu-de-len-ngoi",
+    name: "Trần Thiếu Đế lên ngôi, Hồ Quý Ly nhiếp chính",
+    date: date(1398, 1398, "1398"),
+    placeIds: ["tay-do"],
+    personIds: ["tran-thieu-de", "tran-thuan-tong", "kham-thanh", "ho-quy-ly"],
+    contextClaimIds: ["bio-tran-thieu-de-section-1-1"],
+    developmentClaimIds: ["bio-tran-thuan-tong-section-1-1"],
+    resultClaimIds: ["bio-tran-thieu-de-section-2-1"],
+    consequence:
+      "Ngôi vua và quyền điều hành thực tế được phân chia ra sao khi Thiếu Đế còn nhỏ?",
+    consequenceKind: "editorial-question",
+    precisionNote:
+      "Tây Đô là địa điểm kinh đô đại diện; nguồn ghi tháng 3 theo lịch sử liệu, chưa quy đổi ngày dương lịch.",
+  },
+  {
+    id: "thuan-tong-bi-hai",
+    name: "Trần Thuận Tông bị sát hại",
+    date: date(1399, 1399, "1399"),
+    placeIds: [],
+    personIds: ["tran-thuan-tong", "tran-thieu-de", "ho-quy-ly"],
+    contextClaimIds: ["bio-tran-thuan-tong-section-1-1"],
+    developmentClaimIds: ["bio-tran-thieu-de-section-2-1"],
+    resultClaimIds: [],
+    consequence:
+      "Biến động năm 1399 đặt việc chuyển triều năm 1400 vào bối cảnh quyền lực nào?",
+    consequenceKind: "editorial-question",
+    precisionNote:
+      "Nguồn ghi quán Ngọc Thanh nhưng chưa có tọa độ đã đối chiếu; không đặt chấm chính xác trên bản đồ.",
+  },
   {
     id: "chuyen-trieu",
     name: "Từ triều Lý sang triều Trần",
@@ -1281,6 +1337,7 @@ export const mediaAssets: MediaAsset[] = [
     sourceId: "met-bowl",
     note: "Ảnh hiện vật 2021.182; không xác định chắc riêng triều vua. Nhãn Period của bảo tàng ghi ‘Tran or Ly Dynasty’.",
   },
+  ...personMediaAssets,
 ];
 export const reviews: ReviewRecord[] = [
   {

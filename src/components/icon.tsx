@@ -1,4 +1,13 @@
 import type { CSSProperties } from "react";
+
+export function CapitalSymbol() {
+  return (
+    <>
+      <path d="M3 20V11h18v9M2 11l3-4h14l3 4M7 7V4h10v3M5 4h14M2 20h20" />
+      <path d="M10 20v-4a2 2 0 0 1 4 0v4M6 14v2m12-2v2" />
+    </>
+  );
+}
 export function Icon({
   name,
   size = 18,
@@ -9,6 +18,7 @@ export function Icon({
   style?: CSSProperties;
 }) {
   const paths: Record<string, React.ReactNode> = {
+    capital: <CapitalSymbol />,
     search: (
       <>
         <circle cx="10.5" cy="10.5" r="6.5" />

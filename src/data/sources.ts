@@ -1,4 +1,5 @@
 import type { Source } from "./schema";
+import { personMediaSources } from "./person-media";
 const accessed = "2026-11-17";
 const source = (s: Omit<Source, "accessed" | "edition">): Source => ({
   ...s,
@@ -6,6 +7,90 @@ const source = (s: Omit<Source, "accessed" | "edition">): Source => ({
   edition: null,
 });
 export const sources: Source[] = [
+  ...personMediaSources,
+  source({
+    id: "toan-thu-family",
+    title: "Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ",
+    author: null,
+    publisher: "Bản chuyển dạng PDF lưu tại cổng Quản lý giáo dục",
+    year: null,
+    url: "https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf",
+    type: "chronology",
+    upstream: "Đại Việt sử ký toàn thư, Bản kỷ, quyển V–VIII",
+    readLocation:
+      "V tờ 34a (1274); VI tờ 9a–10b (1300); VII tờ 38a (1371); VIII tờ 37b–38b (1400–1401).",
+    limits:
+      "Bản chuyển dạng có lỗi đánh máy, chưa xác nhận đủ ấn bản và dịch giả. Dẫn số quyển/tờ của sử liệu, không dùng số trang PDF thay thế; lời bình sử quan không coi là dữ kiện trung lập.",
+  }),
+  source({
+    id: "toan-thu-thuan-tong",
+    title: "Đại Việt sử ký toàn thư — Thuận Tông hoàng đế",
+    author: null,
+    publisher: "Vietnamese Nôm Preservation Foundation — bản số hóa",
+    year: null,
+    url: "https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/50-Thuan-Tong-Hoang-De?uiLang=en",
+    type: "chronology",
+    upstream: "Hán văn, phiên âm và bản dịch trên cùng trang",
+    readLocation:
+      "Quyển VIII, tờ 14a: con út Nghệ Tông; tháng giêng năm 1389 lập con gái lớn Quý Ly làm hoàng hậu.",
+    limits:
+      "Phiên âm ghi Thánh Ngẫu, phần dịch ghi Thánh Ngâu; lưu hai biến thể, dùng tôn hiệu Khâm Thánh để gọi hồ sơ. Chưa xác nhận đủ thông tin ấn bản của phần dịch.",
+  }),
+  source({
+    id: "toan-thu-thanh-tong",
+    title: "Đại Việt sử ký toàn thư — Thánh Tông hoàng đế",
+    author: null,
+    publisher: "Vietnamese Nôm Preservation Foundation — bản số hóa",
+    year: null,
+    url: "https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/39-Thanh-Tong-Hoang-De?uiLang=en",
+    type: "chronology",
+    upstream: "Đại Việt sử ký toàn thư, Bản kỷ, quyển V",
+    readLocation:
+      "Tờ 25a, mở đầu kỷ Thánh Tông: cha Thái Tông, mẹ Hiển Từ Thuận Thiên Lý thị.",
+    limits:
+      "Chỉ dùng quan hệ gia đình đã đọc; không chuyển ngày âm lịch thành ngày dương lịch.",
+  }),
+  source({
+    id: "toan-thu-anh-tong",
+    title: "Đại Việt sử ký toàn thư — Anh Tông hoàng đế",
+    author: null,
+    publisher: "Vietnamese Nôm Preservation Foundation — bản số hóa",
+    year: null,
+    url: "https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/41-Anh-Tong-Hoang-De?uiLang=en",
+    type: "chronology",
+    upstream: "Đại Việt sử ký toàn thư, Bản kỷ, quyển VI",
+    readLocation: "Tờ 1a: cha Nhân Tông, mẹ Khâm Từ Bảo Thánh hoàng thái hậu.",
+    limits:
+      "Dùng để đối chiếu quan hệ mẹ–con, không suy ra ngày sinh của Bảo Thánh từ niên đại vua con.",
+  }),
+  source({
+    id: "tran-marriages",
+    title: "Những cuộc hôn nhân kì cục triều Trần",
+    author: null,
+    publisher: "Bảo tàng Lịch sử Quốc gia — bài đăng lại",
+    year: null,
+    url: "https://baotanglichsu.vn/vi/Articles/3096/7839/nhung-cuoc-hon-nhan-ki-cuc-trieu-tran.html",
+    type: "museum",
+    upstream: "Bài phổ thông dẫn quan hệ trong hoàng tộc",
+    readLocation:
+      "Các mục về Liễu–Thuận Thiên, Thái Tông–Thuận Thiên, Nhân Tông–Bảo Thánh.",
+    limits:
+      "Tiêu đề và lời đánh giá là cách trình bày của nguồn; chỉ dùng các quan hệ đã đối chiếu với Toàn thư/Thế thứ. Không sử dụng nhánh cuối Trần hoặc suy đoán đời tư từ bài này.",
+  }),
+  source({
+    id: "thieu-de-court",
+    title: "Trần Thiếu Đế [1398–1400]",
+    author: "Hồ Bạch Thảo",
+    publisher: "Diễn Đàn",
+    year: 2021,
+    url: "https://www.diendan.org/phe-binh-nghien-cuu/tran-thieu-de",
+    type: "research",
+    upstream: "Khâm định Việt sử thông giám cương mục, Chính biên, quyển 11",
+    readLocation:
+      "Các mục 1398, tháng 4/1399, tháng 2/1400 và chú thích 4 về ông ngoại Thiếu Đế.",
+    limits:
+      "Khảo cứu dẫn sử liệu, không phải bản sử gốc. Không lặp lời phán xét, số người bị hại hay coi tuổi theo sử là tuổi dương lịch. Thiếu Đế được tha chết khi phế ngôi; không xác định năm mất về sau.",
+  }),
   source({
     id: "the-thu",
     title: "Thế thứ các triều vua Việt Nam",

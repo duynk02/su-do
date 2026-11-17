@@ -6,15 +6,23 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 
 - Next.js/TypeScript xuất tĩnh, atlas responsive, chọn thời kỳ/mốc/chương, bản đồ SVG tải chậm và danh sách thay thế.
 - Nhân vật, quan hệ phân loại, chuỗi người giữ ngôi có Dương Nhật Lễ, tách Trần Thừa khỏi hoàng đế trị vì.
-- 23 hồ sơ có đoạn tiểu sử giới thiệu; Nhân Tông và Nhật Lễ có các phần nội dung chi tiết. Bổ sung niên đại sống có căn cứ, danh xưng Phật hoàng, niên hiệu, 12 quan hệ cha–con và sáu sự kiện liên quan có thể mở trực tiếp từ hồ sơ.
+- 28 hồ sơ có đoạn giới thiệu; Nhân Tông, Nhật Lễ, Thiếu Đế, Thuận Tông, Nghệ Tông, Quý Ly và Quốc Tuấn có các phần nội dung chi tiết. Có nhánh bên ngoại Thiếu Đế, nhánh An Sinh–Bảo Thánh và Thuận Thiên; thêm các sự kiện 1237, 1398, 1399 mở được từ hồ sơ.
 - Tìm kiếm có/không dấu và theo năm, liên kết trạng thái và Back/forward; chú thích nguồn mở tại chỗ, dữ kiện và diễn giải có phân loại.
-- Dữ liệu địa lý, ảnh hiện vật và font lưu cục bộ kèm nguồn/quyền sử dụng; thiếu dữ liệu ranh giới được thông báo.
-- 29 hồ sơ nguồn đã đọc, 68 khẳng định, 93 dẫn nguồn; bản biên niên được đối chiếu với Thế thứ, hồ sơ di sản và phần Toàn thư đã tiếp cận. Không coi số lượng nguồn là thước đo chất lượng lịch sử.
+- Dữ liệu địa lý, ảnh hiện vật, sáu ảnh tượng/di tích trong hồ sơ và font lưu cục bộ kèm nguồn/quyền sử dụng; thiếu dữ liệu ranh giới được thông báo. Kinh đô dùng biểu tượng cổng thành giữ cỡ khi zoom.
+- 41 hồ sơ nguồn đã đọc (gồm sáu nguồn ảnh), 82 khẳng định, 125 dẫn nguồn; bản biên niên được đối chiếu với Thế thứ, hồ sơ di sản và phần Toàn thư đã tiếp cận. Không coi số lượng nguồn là thước đo chất lượng lịch sử.
 - Danh mục nhân vật/sự kiện trống đúng thời kỳ chưa biên soạn; địa điểm giữ từ bài đọc khi lệch năm có ghi chú ngữ cảnh. Nút chọn nhân vật cập nhật năm giữ vai trò/sự kiện liên quan.
 - Chọn một bài/nhân vật/sự kiện mới đưa vùng đọc về đầu; mở chú thích hoặc dịch/zoom bản đồ giữ điểm đọc. Không dùng cuộn bài để tự đổi năm/camera.
 - Bộ tài liệu yêu cầu đã có; ảnh thực tế atlas desktop/mobile, bản đồ mobile, phả hệ, hiện vật và hộp nguồn trong `docs/screenshots/`.
 
 ## Kiểm tra đã thực hiện
+
+Phả hệ có bối cảnh lịch sử và ảnh trong hồ sơ:
+- Bổ sung Huy Ninh, Khâm Thánh, Trần Liễu, Thuận Thiên, Bảo Thánh và 19 liên kết gia đình/chính trị/kế vị có nguồn. Thiếu Đế có ba phần về phả hệ, nhiếp chính và mất ngôi; Quý Ly/Thuận Tông/Nghệ Tông/Quốc Tuấn/Thái Tông có thêm bối cảnh. Giữ đúng ông bà ngoại, hai cuộc hôn nhân Thuận Thiên và việc Thiếu Đế được tha chết khi phế ngôi; năm mất chưa biết.
+- Sáu ảnh cho Cảnh, Thánh Tông, Nhân Tông, Quốc Tuấn, Huyền Trân, Quý Ly: 626KB tổng, tải cục bộ; xem được trang mô tả và giấy phép, có ghi công 13px. Ảnh nằm cạnh tên ở vùng rộng và dưới tên ở vùng hẹp; không có ảnh thì không tạo khung rỗng. Đã mở xem ảnh thực trên desktop/mobile. Thiếu Đế, Thủ Độ chưa có hình đủ nhận diện/quyền; không gắn hình tùy ý.
+- Biểu tượng cổng thành và chú giải đồng bộ, kích thước không đổi khi zoom; chừa khoảng cho nhãn di sản gần kinh đô. Bộ xếp phả hệ giữ các cặp hôn nhân nối tiếp cạnh nhau khi có thể và tách nhãn chính trị theo nhánh đích.
+- Build/TypeScript và audit đạt: 17 kiểm thử logic/dữ liệu đạt, gồm 28 hồ sơ ở từng chế độ/phạm vi, mẹ–con đúng, ảnh JPEG cục bộ và hồ sơ quyền đầy đủ. Tài liệu nguồn/kiểm chứng đã xuất lại; yêu cầu chủ động xem xét minh họa và nhánh gia đình quan trọng được ghi vào chính sách biên tập.
+- Lượt Playwright cuối: 50 ca production đạt, 2 ca đối chứng development bỏ qua đúng cấu hình. Đã kiểm tra sáu ảnh tải đủ, tín dụng/giấy phép, bố cục theo chiều rộng cột, mở rộng phả hệ Thiếu Đế, tách nhiếp chính với huyết thống, icon giữ cỡ khi zoom, mở địa điểm bằng bàn phím và nhãn không chạm điều khiển ở 360/390/1024/1440/1920px. Ảnh `profile-image-*`, `family-thieu-de-*`, `capital-marker-*` và ảnh chuẩn có liên quan đã cập nhật.
+- Giữ `next-env.d.ts` có sẵn ngoài phạm vi commit. Chưa có chuyên gia lịch sử duyệt hoặc kiểm tra thiết bị cảm ứng thật/Safari/Firefox.
 
 Phả hệ phân tầng và tách loại quan hệ:
 - Đã thay bố cục vòng tròn bằng Gia đình theo tầng cha mẹ–con, đặt người phối ngẫu cùng hàng; Kế vị và Chính trị có chế độ riêng. Đường con nối từ đúng người có nguồn, không suy cha mẹ từ đường hôn nhân. Danh sách nguồn đi theo loại đang xem.

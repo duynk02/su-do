@@ -62,6 +62,21 @@ test("all profiles retain scoped people and clear labels in each direct and expa
           expanded,
         );
         const graph = layoutRelations(person.id, edges, view.id);
+        for (const edge of graph.edges) {
+          const from = graph.nodes.find((node) => node.id === edge.from)!;
+          const to = graph.nodes.find((node) => node.id === edge.to)!;
+          if (edge.type === "parent")
+            assert.ok(
+              from.y < to.y,
+              `${person.id}: parent must be above child`,
+            );
+          if (edge.type === "marriage")
+            assert.equal(
+              from.y,
+              to.y,
+              `${person.id}: spouses must share a tier`,
+            );
+        }
         assert.equal(graph.edges.length, edges.length);
         assert.equal(
           graph.nodes.length,

@@ -123,6 +123,44 @@ export function layoutRelations(
       const siblingLabels = edges.filter(
         (r) => members.includes(r.from) && members.includes(r.to),
       );
+      // A person can have successive spouses. Keep each known couple adjacent
+      // where possible, rather than drawing a marriage through another person's box.
+      if (members.length > 2 && members.length <= 7) {
+        const score = (order: string[]) =>
+          siblingLabels.reduce(
+            (sum, edge) =>
+              sum +
+              Math.max(
+                0,
+                Math.abs(order.indexOf(edge.from) - order.indexOf(edge.to)) - 1,
+              ) *
+                10000,
+            0,
+          ) +
+          order.reduce(
+            (sum, id, index) => sum + Math.abs(index - members.indexOf(id)),
+            0,
+          );
+        let best = [...members];
+        let bestScore = score(best);
+        const visit = (prefix: string[], rest: string[]) => {
+          if (!rest.length) {
+            const value = score(prefix);
+            if (value < bestScore) {
+              best = prefix;
+              bestScore = value;
+            }
+            return;
+          }
+          for (const id of rest)
+            visit(
+              [...prefix, id],
+              rest.filter((other) => other !== id),
+            );
+        };
+        visit([], members);
+        members.splice(0, members.length, ...best);
+      }
       const gap = Math.max(
         100,
         ...siblingLabels.map((r) => labelWidth(r.label) + 20),
@@ -229,7 +267,7 @@ export function layoutRelations(
         path = `M${start.x},${start.y} V${midY} H${end.x} V${end.y}`;
         if (r.type !== "parent")
           labelBox = {
-            x: (start.x + end.x) / 2 + labelWidth(r.label) / 2 + 14,
+            x: b.x,
             y: midY,
             width: labelWidth(r.label),
             height: 24,

@@ -7,7 +7,7 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 | Period | Khung thời kỳ biên tập; có thể gồm nhiều chính quyền và thời gian chồng lấn |
 | Polity | Chính quyền/thực thể chính trị, độc lập với tên triều |
 | Dynasty | Triều đại, trỏ Polity; phiên bản này dùng Đại Việt cho phạm vi cuối Lý đang biên soạn, không khẳng định quốc hiệu này áp dụng cho toàn bộ đầu triều Lý |
-| Person | ID duy nhất; tên húy, miếu hiệu, niên hiệu, niên đại sống, tên thường gọi, đoạn giới thiệu và các phần tiểu sử trỏ Claim |
+| Person | ID duy nhất; tên húy, miếu hiệu, niên hiệu, niên đại sống, tên thường gọi, đoạn giới thiệu và các phần tiểu sử trỏ Claim; ảnh trỏ MediaAsset |
 | RoleTenure | Giữ một chức vị trong một khoảng thời gian; vua và thượng hoàng có thể chồng lấn |
 | Relationship | Cạnh có hướng với loại cha/mẹ–con, hôn nhân, anh/em, kế vị hoặc chính trị; không suy ra các cạnh khác |
 | Event | Bối cảnh, diễn biến, kết quả trỏ Claim; hệ quả gợi mở là câu hỏi biên tập riêng |
@@ -17,7 +17,7 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 | Claim | Khẳng định nguyên tử có loại bằng chứng, trạng thái và cờ xuất bản |
 | Source | URL thật, tác giả/năm/ấn bản nullable, cơ quan, loại, nguồn gốc đăng lại, ngày truy cập, giới hạn |
 | Citation | Claim ID + Source ID + vị trí tra cứu thật + phần được hỗ trợ |
-| MediaAsset | Đường dẫn, tác giả, niên đại, loại tư liệu và giấy phép |
+| MediaAsset | Đường dẫn, tác giả, niên đại, loại tư liệu, giấy phép/liên kết, alt và kích thước; ảnh có thể gắn các Person ID |
 | ReviewRecord | Hành động đối chiếu/đọc nguồn và người/công cụ thực hiện; chưa có duyệt chuyên gia |
 
 ## Quy ước thời gian
@@ -34,6 +34,10 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 `biographies.ts` lưu đoạn giới thiệu và các phần tiểu sử cùng vị trí nguồn của từng đoạn. `history.ts` chuyển chúng thành Claim/Citation, gắn `summaryClaimIds` và `biographySections` vào Person. Mỗi mục sự kiện vẫn dùng Event ID; mở từ hồ sơ sẽ cập nhật năm, URL và bài đọc theo cùng luồng điều hướng. Audit kiểm tra cả Claim trong các phần tiểu sử.
 
 `life` là cách ghi có nguồn, có thể gồm phần chưa biết như “Chưa rõ năm sinh – 1370”. Không lấy năm bắt đầu hoặc kết thúc trị vì thay cho năm sinh/mất. Vai trò Thượng hoàng của Nhân Tông 1293–1308 ghi thời gian mang tôn hiệu; mốc xuất gia Yên Tử 1299 là sự kiện riêng. Dị biệt của Thế thứ về giai đoạn 1293–1299 được lưu tại Claim vai trò.
+
+`contextYear` là năm ngữ cảnh đã có trong tiểu sử, dùng khi mở hồ sơ người không có nhiệm kỳ: ví dụ Huy Ninh 1371, Khâm Thánh 1389, Bảo Thánh 1274. Không phải năm sinh. Các nhân vật và liên kết gia đình bổ sung ở `families.ts`; nội dung vẫn ở `biographies.ts` với Claim/Citation.
+
+Ảnh nhân vật đăng ký từ `public/images/people/provenance.json` qua `person-media.ts`, tạo đồng thời MediaAsset và Source. `Person.mediaAssetId` chọn hình đại diện cho phần đầu hồ sơ; `kind` phân biệt ảnh tượng, ảnh di tích, tranh, hiện vật và tái dựng. Audit kiểm tra ảnh trỏ đúng nguồn/người, đủ tác giả, giấy phép, alt và kích thước. Ảnh không dùng thay bằng chứng cho nhận định lịch sử.
 
 ## Trình bày quan hệ
 

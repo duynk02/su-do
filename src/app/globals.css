@@ -659,6 +659,9 @@ button {
 .map-marker.active {
   color: var(--accent);
 }
+.map-marker[data-place-type="capital"] {
+  color: var(--accent);
+}
 .map-marker:hover {
   color: var(--accent);
 }
@@ -748,10 +751,7 @@ button {
   display: inline-block;
 }
 .legend-capital {
-  background: var(--accent);
-  outline: 1px solid var(--accent);
-  outline-offset: 2px;
-  transform: scale(0.6);
+  color: var(--accent);
 }
 .legend-site {
   border: 1px solid #6b7a64;
@@ -1476,6 +1476,65 @@ button {
   font: 500 25px var(--serif);
   margin: 24px 0 18px;
   border: 1px solid #d1dac6;
+}
+.person-profile {
+  container-type: inline-size;
+}
+.person-heading {
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid var(--line);
+}
+.person-heading.has-image {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(160px, 38%);
+  gap: 24px;
+  align-items: center;
+  margin-top: 22px;
+}
+.person-heading.has-image .person-title-mark {
+  margin-top: 0;
+}
+.person-heading .chapter-question {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+.person-image {
+  margin: 0;
+  min-width: 0;
+}
+.person-image > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #edeae2;
+  border: 1px solid var(--line);
+  min-height: 150px;
+}
+.person-image img {
+  display: block;
+  width: 100%;
+  height: 210px;
+  object-fit: contain;
+}
+.person-image figcaption {
+  display: grid;
+  gap: 6px;
+  margin-top: 9px;
+  font-size: var(--text-note);
+  line-height: 1.65;
+  color: var(--muted);
+}
+.person-image-credit a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+@container (max-width: 440px) {
+  .person-heading.has-image {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
 }
 .back-link {
   display: flex;
