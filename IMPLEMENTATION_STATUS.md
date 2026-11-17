@@ -16,6 +16,11 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 
 ## Kiểm tra đã thực hiện
 
+Thứ bậc mốc thời gian:
+- Các mốc con của Nhà Trần được thụt thêm một cấp, có trục nhánh riêng và đường nối ngang tới từng mốc; nhánh dừng tại mốc cuối. Mốc con đang chọn có nền nhấn, đường nhánh màu son và `aria-current`.
+- Build/TypeScript đạt. Đã kiểm tra ở 1920×1080, 1440×960 và 1024×768: chữ mốc con vẫn tối thiểu 13px, thụt sâu hơn mốc cha ít nhất 22px, cả năm nút mở đúng sự kiện và không có cuộn ngang/lỗi runtime. Mobile 390×844 vẫn chọn thời kỳ bằng bộ chọn sẵn có.
+- Đã mở xem ảnh sidebar ở 1440/1024px; ảnh trong `docs/screenshots/timeline-hierarchy-*.png`. Giữ nguyên thay đổi có sẵn trong `next-env.d.ts` ngoài commit.
+
 Sao chép liên kết và thông báo:
 - Thay biểu tượng chia sẻ bằng biểu tượng hai trang chồng nhau cho thao tác sao chép. Thông báo đặt cố định ở góc trên bên phải, chữ 14px, tự tắt sau 4 giây; bấm lại sẽ tính lại thời gian và vẫn có nút đóng ngay.
 - Build/TypeScript đạt. Đã kiểm tra trình duyệt desktop 1440×960 và mobile 390×844: biểu tượng, URL gửi tới Clipboard API, vị trí thông báo, tự tắt, bấm lại, đóng thủ công và phản hồi khi clipboard bị từ chối đều đạt; không có lỗi runtime hoặc cuộn ngang.

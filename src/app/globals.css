@@ -394,8 +394,36 @@ button {
   box-shadow: 0 0 0 4px var(--accent-light);
 }
 .sub-timeline {
-  padding: 9px 0 7px 12px;
+  margin: 0 0 12px 18px;
+  padding: 8px 0 0;
   list-style: none;
+}
+.sub-timeline > li {
+  position: relative;
+  border-left: 1px solid #bcc5b5;
+  padding-left: 14px;
+}
+.sub-timeline > li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 18px;
+  width: 10px;
+  border-top: 1px solid #bcc5b5;
+}
+.sub-timeline > li:last-child {
+  border-left-color: transparent;
+}
+.sub-timeline > li:last-child::after {
+  content: "";
+  position: absolute;
+  left: -1px;
+  top: 0;
+  height: 18px;
+  border-left: 1px solid #bcc5b5;
+}
+.sub-timeline > li.active::before {
+  border-color: var(--accent);
 }
 .sub-timeline li button {
   display: flex;
@@ -404,7 +432,9 @@ button {
   text-align: left;
   font-size: var(--text-note);
   line-height: 1.6;
-  padding: 7px 0;
+  padding: 7px 4px;
+  width: 100%;
+  min-width: 0;
   color: var(--muted);
 }
 .sub-timeline time {
@@ -414,6 +444,7 @@ button {
 }
 .sub-timeline button.active {
   color: var(--accent);
+  background: var(--accent-light);
 }
 .timeline-foot {
   font-size: var(--text-note);

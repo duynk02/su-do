@@ -332,7 +332,10 @@ export default function Atlas() {
                   </span>
                 </button>
                 {state.period === p.id && p.id === "tran" && (
-                  <ol className="sub-timeline">
+                  <ol
+                    className="sub-timeline"
+                    aria-label="Các mốc trong thời kỳ nhà Trần"
+                  >
                     {[
                       {
                         id: "chuyen-trieu",
@@ -360,13 +363,19 @@ export default function Atlas() {
                         title: "Huyền Trân · Chế Mân",
                       },
                     ].map((e) => (
-                      <li key={e.id}>
+                      <li
+                        key={e.id}
+                        className={state.event === e.id ? "active" : undefined}
+                      >
                         <button
                           className={state.event === e.id ? "active" : ""}
+                          aria-current={
+                            state.event === e.id ? "true" : undefined
+                          }
                           onClick={() => onEvent(e.id)}
                         >
                           <time>{e.label}</time>
-                          {e.title}
+                          <span>{e.title}</span>
                         </button>
                       </li>
                     ))}
