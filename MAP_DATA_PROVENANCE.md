@@ -7,7 +7,7 @@
 - Đầu vào thực tế: [ne_50m_admin_0_countries.geojson](https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson), [ne_50m_rivers_lake_centerlines.geojson](https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_rivers_lake_centerlines.geojson).
 - Công cụ tạo: `scripts/prepare-assets.py`, chạy bởi trợ lý triển khai. Chọn feature khu vực, giữ geometry gốc, bỏ thuộc tính không cần; chọn sông có đỉnh trong vùng 99–113°Đ, 13–26°B. Không sửa hoặc tự tạo tọa độ.
 - Đầu ra: `public/maps/land.json`, `rivers.json`, `provenance.json`. Manifest ghi URL đầu vào và số feature. Không tải lại dữ liệu trong quá trình build; cập nhật dữ liệu phải có diff/review riêng.
-- Trình bày: Mercator qua d3-geo, SVG. Các nước cùng màu, mặc định không stroke ranh giới hành chính. Chỉ khi bật “Tham chiếu hiện đại” mới hiện đường phân chia và tên nước hiện đại.
+- Trình bày: Mercator qua d3-geo, SVG. Các nước cùng màu, mặc định không stroke ranh giới hành chính. Chỉ khi bật “Tham chiếu hiện đại” mới hiện đường phân chia hiện đại. Không đặt nhãn tên nước ở tọa độ phỏng đoán.
 - Không có tile server, API token hoặc chi phí/hạn ngạch nhà cung cấp trong vận hành bản này. GeoJSON được serve cùng site; hosting có thể có chi phí riêng.
 - Giới hạn: dữ liệu khái quát hóa mạnh, không dùng định vị di tích chính xác hoặc suy bờ biển/lòng sông trung đại. Vùng hiển thị không cắt theo biên giới Việt Nam hiện nay.
 

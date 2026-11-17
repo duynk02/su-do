@@ -127,7 +127,7 @@ export function searchHistory(query: string): SearchResult[] {
       label: e.name,
       detail: e.date.label,
       kind: "event" as const,
-      match: e.name,
+      match: `${e.name} ${e.date.label}`,
     })),
     ...places.map((p) => ({
       id: p.id,
@@ -141,14 +141,14 @@ export function searchHistory(query: string): SearchResult[] {
       label: p.name,
       detail: p.date.label,
       kind: "period" as const,
-      match: p.name,
+      match: `${p.name} ${p.date.label}`,
     })),
     ...chapters.map((c) => ({
       id: c.id,
       label: c.title,
       detail: `Chương ${c.number} · ${c.date.label}`,
       kind: "chapter" as const,
-      match: c.title,
+      match: `${c.title} ${c.date.label}`,
     })),
   ];
   return items
@@ -156,7 +156,11 @@ export function searchHistory(query: string): SearchResult[] {
     .map(({ match: _, ...item }) => item);
 }
 export function personYear(id: string) {
-  return tenures.find((t) => t.personId === id)?.date.start ?? 1225;
+  return (
+    tenures.find((t) => t.personId === id)?.date.start ??
+    events.find((e) => e.personIds.includes(id))?.date.start ??
+    1225
+  );
 }
 export function claimById(id: string) {
   return claims.find((c) => c.id === id);

@@ -19,6 +19,7 @@ import {
   readState,
   searchHistory,
   stateQuery,
+  personYear,
   visiblePlaces,
 } from "../src/lib/history";
 
@@ -100,4 +101,11 @@ test("all nine chapters and differing transition dates keep source provenance", 
     2,
   );
   assert.ok(claims.every((c) => c.status !== "editor-approved"));
+});
+
+test("search by year and character selection use related historical context", () => {
+  assert.ok(searchHistory("1288").some((r) => r.id === "bach-dang-1288"));
+  assert.equal(personYear("tran-thua"), 1226);
+  assert.equal(personYear("huyen-tran"), 1306);
+  assert.equal(personYear("ho-quy-ly"), 1400);
 });

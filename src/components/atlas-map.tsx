@@ -7,6 +7,7 @@ import { formatYear } from "@/lib/history";
 import { Icon } from "./icon";
 
 interface Props {
+  contextNote?: string;
   year: number;
   places: Place[];
   selectedPlace: string | null;
@@ -16,6 +17,7 @@ interface Props {
   wide: boolean;
 }
 export default function AtlasMap({
+  contextNote,
   year,
   places,
   selectedPlace,
@@ -303,19 +305,6 @@ export default function AtlasMap({
                 BIỂN ĐÔNG
               </text>
             )}
-            {modern && (
-              <g className="modern-labels">
-                <text x="100" y="250">
-                  LÀO
-                </text>
-                <text x="400" y="130">
-                  TRUNG QUỐC
-                </text>
-                <text x="280" y="600" transform="rotate(40 280 600)">
-                  VIỆT NAM
-                </text>
-              </g>
-            )}
             {placeLayer &&
               dots.map((p) => {
                 const [x, y] = projection(p.coordinates!)!;
@@ -443,6 +432,11 @@ export default function AtlasMap({
             Tìm hiểu
           </button>
         </div>
+        {contextNote && (
+          <p className="map-context-note" role="note">
+            {contextNote}
+          </p>
+        )}
         {modern && (
           <p className="modern-notice">
             Đang bật: Tham chiếu hiện đại · không phải ranh giới thời Trần.

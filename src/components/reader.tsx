@@ -91,8 +91,8 @@ function Relations({
     (id) => id !== person.id,
   );
   const shownIds = nodeIds.slice(0, 8);
-  const center = { x: 205, y: 175 };
-  const height = 350;
+  const center = { x: 260, y: 210 };
+  const height = 420;
   const positions = new Map([
     [person.id, center],
     ...shownIds.map((id, i): [string, { x: number; y: number }] => {
@@ -100,8 +100,8 @@ function Relations({
       return [
         id,
         {
-          x: center.x + Math.sin(angle) * 126,
-          y: center.y - Math.cos(angle) * 125,
+          x: center.x + Math.sin(angle) * 174,
+          y: center.y - Math.cos(angle) * 136,
         },
       ];
     }),
@@ -114,7 +114,7 @@ function Relations({
       {direct.length ? (
         <>
           <svg
-            viewBox={`0 0 410 ${height}`}
+            viewBox={`0 0 520 ${height}`}
             className="relations-graph"
             role="img"
             aria-label={`Đồ thị quan hệ gần của ${person.name}. Chi tiết và nút chọn có trong danh sách bên dưới.`}
@@ -136,14 +136,24 @@ function Relations({
               .map((r, i) => {
                 const a = positions.get(r.from)!,
                   b = positions.get(r.to)!;
-                const nudge = r.type === "succession" ? 12 : 0;
+                const dx = b.x - a.x,
+                  dy = b.y - a.y;
+                const length = Math.hypot(dx, dy);
+                const clip = Math.min(
+                  dx ? 65 / Math.abs(dx) : Infinity,
+                  dy ? 19 / Math.abs(dy) : Infinity,
+                );
+                const separation = r.type === "succession" ? 6 : 0;
+                const shiftX = (-dy / length) * separation,
+                  shiftY = (dx / length) * separation;
+                const labelLift = Math.abs(dy) < 25 ? -30 : i % 2 ? 14 : -10;
                 return (
                   <g key={r.id}>
                     <line
-                      x1={a.x}
-                      y1={a.y + nudge}
-                      x2={b.x}
-                      y2={b.y + nudge}
+                      x1={a.x + dx * clip + shiftX}
+                      y1={a.y + dy * clip + shiftY}
+                      x2={b.x - dx * clip + shiftX}
+                      y2={b.y - dy * clip + shiftY}
                       stroke={r.type === "marriage" ? "#a13d2d" : "#899489"}
                       strokeWidth={r.type === "parent" ? 1.5 : 1}
                       strokeDasharray={
@@ -161,7 +171,7 @@ function Relations({
                     />
                     <text
                       x={(a.x + b.x) / 2}
-                      y={(a.y + b.y) / 2 + (i % 2 ? 13 : -6)}
+                      y={(a.y + b.y) / 2 + labelLift}
                       textAnchor="middle"
                       className="relationship-label"
                     >
@@ -175,9 +185,9 @@ function Relations({
               return (
                 <g key={id}>
                   <rect
-                    x={p.x - 68}
+                    x={p.x - 65}
                     y={p.y - 19}
-                    width="136"
+                    width="130"
                     height="38"
                     fill={id === person.id ? "#a13d2d" : "#f6f4ed"}
                     stroke={id === person.id ? "#a13d2d" : "#cccdbf"}
@@ -649,6 +659,36 @@ export function Reader({
   const place = places.find((p) => p.id === state.place);
   if (state.view === "people" && person)
     return <PersonReader person={person} actions={actions} />;
+  if (
+    (state.view === "people" || state.view === "events") &&
+    period.id !== "tran" &&
+    !person &&
+    !event &&
+    !(period.id === "ho" && state.view === "events")
+  ) {
+    return (
+      <>
+        <div className="eyebrow">
+          {period.name} · {period.date.label}
+        </div>
+        <h2>{state.view === "people" ? "Nhân vật" : "Sự kiện"}</h2>
+        <p>
+          Chưa biên soạn danh mục{" "}
+          {state.view === "people" ? "nhân vật" : "sự kiện"} cho thời kỳ này.
+        </p>
+        <p className="fine-print">
+          Bạn có thể mở tổng quan thời kỳ hoặc trở về chương nhà Trần đã có dẫn
+          nguồn.
+        </p>
+        <button
+          className="primary-action"
+          onClick={() => actions.onPeriod("tran")}
+        >
+          Đọc chương nhà Trần <Icon name="arrow" size={16} />
+        </button>
+      </>
+    );
+  }
   if (state.view === "people")
     return (
       <>
@@ -737,13 +777,15 @@ export function Reader({
         <div className="eyebrow">Những mốc để đọc sâu</div>
         <h2>Sự kiện</h2>
         <div className="event-index">
-          {events.map((e) => (
-            <button key={e.id} onClick={() => actions.onEvent(e.id)}>
-              <time>{e.date.label}</time>
-              <strong>{e.name}</strong>
-              <Icon name="arrow" size={16} />
-            </button>
-          ))}
+          {events
+            .filter((e) => (period.id === "ho" ? e.id === "nha-ho-1400" : true))
+            .map((e) => (
+              <button key={e.id} onClick={() => actions.onEvent(e.id)}>
+                <time>{e.date.label}</time>
+                <strong>{e.name}</strong>
+                <Icon name="arrow" size={16} />
+              </button>
+            ))}
         </div>
       </>
     );

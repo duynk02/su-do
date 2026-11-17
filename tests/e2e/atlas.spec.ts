@@ -34,7 +34,7 @@ test("representative atlas renders without horizontal overflow or runtime errors
 
 test("Tran Canh connects father, spouse, transfer event and direct evidence", async ({
   page,
-}) => {
+}, testInfo) => {
   await page
     .getByRole("combobox", { name: "Chọn chương nhà Trần" })
     .selectOption("dau-trieu");
@@ -44,11 +44,16 @@ test("Tran Canh connects father, spouse, transfer event and direct evidence", as
     .click();
   await expect(
     page.getByRole("heading", { name: "Trần Cảnh", exact: true }),
-  ).toBeVisible();
+  ).toBeInViewport();
   await expect(page.locator(".relationship-list")).toContainText("Trần Thừa");
   await expect(page.locator(".relationship-list")).toContainText(
     "Lý Chiêu Hoàng",
   );
+  if (testInfo.project.name === "desktop")
+    await page.locator(".relations-graph").screenshot({
+      path: "docs/screenshots/genealogy-desktop.png",
+      scale: "css",
+    });
   await page
     .locator(".relationship-list")
     .getByRole("button", { name: "Nguồn quan hệ Trần Thừa và Trần Cảnh" })
@@ -133,7 +138,7 @@ test("browser history and reload restore the selected chapter", async ({
 
 test("source dialog exposes dates, disagreements and real external links", async ({
   page,
-}) => {
+}, testInfo) => {
   await page
     .getByRole("combobox", { name: "Chọn chương nhà Trần" })
     .selectOption("nhuong-ngoi");
@@ -146,6 +151,10 @@ test("source dialog exposes dates, disagreements and real external links", async
     "href",
     /^https:\/\/baotanglichsu.vn\//,
   );
+  await dialog.screenshot({
+    path: `docs/screenshots/evidence-${testInfo.project.name}.png`,
+    scale: "css",
+  });
   await page.keyboard.press("Escape");
   await expect(page.locator(".chapter-body .citation").last()).toBeFocused();
 });
@@ -155,6 +164,14 @@ test("year without territory data stays useful, and modern boundaries are opt in
 }, testInfo) => {
   if (testInfo.project.name === "mobile")
     await page.getByRole("button", { name: "Bản đồ", exact: true }).click();
+  if (testInfo.project.name === "mobile") {
+    await expect(page.locator(".geography")).toBeVisible();
+    await page.screenshot({
+      path: "docs/screenshots/map-mobile.png",
+      fullPage: true,
+      scale: "css",
+    });
+  }
   await page
     .getByRole("textbox", { name: "Đến năm", exact: true })
     .fill("1270");
@@ -237,4 +254,59 @@ test("reduced motion preserves chapter and keyboard dialog behavior", async ({
       fullPage: true,
       scale: "css",
     });
+});
+
+test("unwritten periods keep their own empty character and event catalogues", async ({
+  page,
+}, testInfo) => {
+  if (testInfo.project.name === "mobile")
+    await page.locator(".mobile-period-select select").selectOption("nguyen");
+  else
+    await page
+      .locator(".period-button")
+      .filter({ hasText: "Nhà Nguyễn" })
+      .click();
+  await page
+    .locator(".reader-tabs")
+    .getByRole("button", { name: "Nhân vật", exact: true })
+    .click();
+  await expect(page.locator(".reader-body")).toContainText(
+    "Chưa biên soạn danh mục nhân vật",
+  );
+  await expect(page.locator(".ruler-list")).toHaveCount(0);
+  await page
+    .locator(".reader-tabs")
+    .getByRole("button", { name: "Sự kiện", exact: true })
+    .click();
+  await expect(page.locator(".reader-body")).toContainText(
+    "Chưa biên soạn danh mục sự kiện",
+  );
+});
+
+test("dates outside the selected period disclose the contextual exception", async ({
+  page,
+}, testInfo) => {
+  await page.goto("/?period=tran&chapter=cuoi-ly&year=1500&view=story");
+  if (testInfo.project.name === "mobile")
+    await page.getByRole("button", { name: "Bản đồ", exact: true }).click();
+  await expect(page.locator(".map-context-note")).toContainText(
+    "Năm 1500 nằm ngoài khoảng",
+  );
+  await expect(page.locator(".map-context-note")).toContainText(
+    "điểm tham chiếu theo chương",
+  );
+  await page.locator(".geography").focus();
+  const original = await page
+    .locator(".geography > g")
+    .getAttribute("transform");
+  await page.keyboard.press("ArrowRight");
+  await expect(page.locator(".geography > g")).not.toHaveAttribute(
+    "transform",
+    original!,
+  );
+  await page.keyboard.press("Home");
+  await expect(page.locator(".geography > g")).toHaveAttribute(
+    "transform",
+    original!,
+  );
 });

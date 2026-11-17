@@ -30,4 +30,8 @@ Tránh hero quảng cáo, dashboard, bento, họa tiết giả cổ, gradient, c
 
 ## Kiểm tra thiết kế
 
-Ảnh màn hình và kết quả QA sẽ được ghi trong IMPLEMENTATION_STATUS.md sau khi ứng dụng chạy. Chưa có chuyên gia lịch sử duyệt nội dung; các điểm bất đồng phải luôn mở được trên giao diện.
+Ảnh thực tế trong `docs/screenshots/`: `atlas-desktop.png` (1440×960), `atlas-mobile.png` (390×844), `map-mobile.png`, `genealogy-desktop.png`, `artifact-desktop.png`, `evidence-desktop.png` và `evidence-mobile.png`. Atlas, trang đọc mobile, ảnh hiện vật, phả hệ và bản đồ mobile đã được mở xem; kết quả các kiểm thử được ghi trong IMPLEMENTATION_STATUS.md.
+
+Đã sửa nhãn và đầu mũi tên sơ đồ bị che bởi nút, tăng độ tách giữa các nút, tăng cỡ chữ vùng đọc/chú thích nguồn. Mobile được thiết kế với một vùng đọc hoặc bản đồ, không xếp ba cột thành ba ô cuộn.
+
+Giới hạn còn lại: nhãn địa điểm có thể chen nhau khi zoom/pan tùy ý; sơ đồ mở rộng giới hạn 9 nút và vẫn cần danh sách văn bản khi nhiều cạnh. Chưa kiểm tra thiết bị cảm ứng thật, Safari/Firefox hoặc đánh giá WCAG đầy đủ. Chưa có chuyên gia lịch sử duyệt nội dung; điểm bất đồng mở được trên giao diện. Không dùng chuyển động trang trí, hero, thống kê quảng cáo hoặc chân dung AI.

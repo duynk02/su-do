@@ -519,21 +519,19 @@ export const relationships: Relationship[] = [
     claimIds: ["huyen-marriage"],
     status: "draft",
   },
-  ...rulerRows
-    .slice(0, -1)
-    .map((row, i) => ({
-      id: `succession-${i}`,
-      from: row[0],
-      to: rulerRows[i + 1][0],
-      type: "succession" as const,
-      label: "Kế vị",
-      claimIds: [
-        row[0] === "duong-nhat-le" || rulerRows[i + 1][0] === "duong-nhat-le"
-          ? "nhat-le-reign"
-          : `reign-${rulerRows[i + 1][0]}`,
-      ],
-      status: "draft" as const,
-    })),
+  ...rulerRows.slice(0, -1).map((row, i) => ({
+    id: `succession-${i}`,
+    from: row[0],
+    to: rulerRows[i + 1][0],
+    type: "succession" as const,
+    label: "Kế vị",
+    claimIds: [
+      row[0] === "duong-nhat-le" || rulerRows[i + 1][0] === "duong-nhat-le"
+        ? "nhat-le-reign"
+        : `reign-${rulerRows[i + 1][0]}`,
+    ],
+    status: "draft" as const,
+  })),
 ];
 
 const dms = (d: number, m: number, s: number) => d + m / 60 + s / 3600;

@@ -38,6 +38,28 @@ export default function Atlas() {
   const [mounted, setMounted] = useState(false);
   const stateRef = useRef<AtlasState>(initialState);
   const readerRef = useRef<HTMLDivElement>(null);
+  const lastReaderKey = useRef("");
+  const readerKey = [
+    state.period,
+    state.view,
+    state.chapter,
+    state.person,
+    state.event,
+    state.view === "place" ? state.place : null,
+  ].join("|");
+  useEffect(() => {
+    const changed =
+      lastReaderKey.current && lastReaderKey.current !== readerKey;
+    lastReaderKey.current = readerKey;
+    if (!changed || !readerRef.current) return;
+    readerRef.current.scrollTop = 0;
+    if (
+      mobilePane === "reader" &&
+      window.matchMedia("(max-width: 900px)").matches
+    ) {
+      readerRef.current.scrollIntoView({ block: "start", behavior: "auto" });
+    }
+  }, [readerKey, mobilePane]);
   useEffect(() => {
     stateRef.current = readState(window.location.search);
     setState(stateRef.current);
@@ -51,6 +73,7 @@ export default function Atlas() {
   }, []);
   useEffect(() => {
     setYearInput(String(state.year <= 0 ? state.year - 1 : state.year));
+    setYearError("");
   }, [state.year]);
   const navigate = useCallback((patch: Partial<AtlasState>) => {
     const next = { ...stateRef.current, ...patch };
@@ -90,11 +113,12 @@ export default function Atlas() {
       place: null,
     });
     setMobilePane("reader");
-    if (readerRef.current) readerRef.current.scrollTop = 0;
   };
   const onPerson = (id: string) => {
+    const year = personYear(id);
     navigate({
-      period: "tran",
+      period: year >= 1400 ? "ho" : "tran",
+      year,
       view: "people",
       person: id,
       event: null,
@@ -135,15 +159,7 @@ export default function Atlas() {
   const selectSearch = (result: SearchResult) => {
     setSearchOpen(false);
     if (result.kind === "person") {
-      navigate({
-        period: "tran",
-        view: "people",
-        person: result.id,
-        event: null,
-        place: null,
-        year: personYear(result.id),
-      });
-      setMobilePane("reader");
+      onPerson(result.id);
     }
     if (result.kind === "event") onEvent(result.id);
     if (result.kind === "place") {
@@ -152,6 +168,8 @@ export default function Atlas() {
         period: p.periodIds.includes("tran") ? "tran" : "ho",
         view: "place",
         place: p.id,
+        person: null,
+        event: null,
         year: p.validFrom,
       });
       setMobilePane("reader");
@@ -173,6 +191,18 @@ export default function Atlas() {
       ),
     ).values(),
   ];
+  const contextNotes = [
+    state.year < period.date.start || state.year >= period.date.end
+      ? `Năm ${formatYear(state.year)} nằm ngoài khoảng ${period.date.label}. Bài đọc đang được giữ làm bối cảnh.`
+      : null,
+    availablePlaces.some(
+      (p) => state.year < p.validFrom || state.year >= p.validTo,
+    )
+      ? "Có địa điểm được giữ từ bài đọc ngoài khoảng liên hệ của năm đang xem; đây là điểm tham chiếu theo chương."
+      : null,
+  ]
+    .filter(Boolean)
+    .join(" ");
   const submitYear = (e: React.FormEvent) => {
     e.preventDefault();
     const value = Number(yearInput);
@@ -197,6 +227,7 @@ export default function Atlas() {
       year,
       period: p?.id ?? state.period,
       view: p?.id === state.period ? state.view : "overview",
+      person: null,
       event: null,
       place: null,
     });
@@ -417,6 +448,7 @@ export default function Atlas() {
               aria-label="Bản đồ và mốc thời gian"
             >
               <AtlasMap
+                contextNote={contextNotes}
                 year={state.year}
                 places={availablePlaces}
                 selectedPlace={state.place}

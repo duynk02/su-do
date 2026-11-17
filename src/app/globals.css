@@ -1518,7 +1518,7 @@ button {
   font-size: 11px;
 }
 .relationship-label {
-  font: 8px var(--sans);
+  font: 11px var(--sans);
   fill: #6a7662;
   paint-order: stroke;
   stroke: #f4f3e9;
@@ -2850,6 +2850,28 @@ button {
 }
 .claim-text {
   font-size: 15px;
+}
+.map-context-note {
+  margin: 8px 0;
+  padding: 8px 10px;
+  border-left: 2px solid #a48b60;
+  background: #f4f3e7;
+  font-size: 10px;
+  line-height: 1.8;
+  color: #655d45;
+}
+.evidence-list dl,
+.methods-content p,
+.source-library p {
+  font-size: 12px;
+}
+.reader-tabs > button,
+.header-nav,
+.header-search {
+  font-size: 12px;
+}
+.chapter-select select {
+  font-size: 11px;
 }
 .lead-paragraph {
   font-size: 16px;
