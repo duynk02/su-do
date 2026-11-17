@@ -13,7 +13,6 @@ interface Props {
   selectedPlace: string | null;
   highlighted: string[];
   onSelect: (id: string) => void;
-  onMethods: () => void;
   wide: boolean;
 }
 export default function AtlasMap({
@@ -23,7 +22,6 @@ export default function AtlasMap({
   selectedPlace,
   highlighted,
   onSelect,
-  onMethods,
   wide,
 }: Props) {
   const [data, setData] = useState<{
@@ -506,15 +504,12 @@ export default function AtlasMap({
           </span>
           <span>
             <i className="legend-uncertain" />
-            Vị trí tương đối: xem danh sách
+            Vị trí tương đối
           </span>
         </div>
         <div className="boundary-notice">
           <Icon name="info" size={15} />
           <span>Chưa có lớp ranh giới được đối chiếu cho mốc này.</span>
-          <button onClick={onMethods} aria-label="Đọc phương pháp bản đồ">
-            Tìm hiểu
-          </button>
         </div>
         {contextNote && (
           <p className="map-context-note" role="note">
@@ -563,8 +558,17 @@ export default function AtlasMap({
           </ul>
         )}
         <div className="map-credit">
-          <span>Nền địa lý hiện đại · Natural Earth, public domain</span>
-          <button onClick={onMethods}>Nguồn & giới hạn</button>
+          <span>
+            Nền địa lý hiện đại ·{" "}
+            <a
+              href="https://www.naturalearthdata.com/about/terms-of-use/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Natural Earth
+            </a>
+            , public domain
+          </span>
         </div>
       </div>
     </div>

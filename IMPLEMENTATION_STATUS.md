@@ -15,6 +15,13 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 
 ## Kiểm tra đã thực hiện
 
+Tinh gọn nội dung giao diện:
+- Đã bỏ phần Phương pháp, thông tin tính tọa độ/kiểu vị trí, ghi chú tỷ lệ/nội suy, giới hạn dựng sơ đồ, hướng dẫn đọc và thông tin biên tập lặp lại. Phương pháp và hồ sơ giới hạn nguồn vẫn được lưu trong tài liệu/dữ liệu dự án.
+- Giữ dẫn nguồn, thông tin xuất bản, chú giải cần để đọc bản đồ, trạng thái thiếu dữ liệu và những điểm bất định lịch sử. Danh mục tư liệu mở trực tiếp; trang Thăng Long không còn hai khối kỹ thuật được yêu cầu bỏ.
+- TypeScript, build, 10 kiểm thử logic/dữ liệu và audit tham chiếu đều đạt. 26 ca giao diện production đạt trong lượt toàn bộ; 2 ca cỡ chữ được cập nhật vì ghi chú năm đã xóa và chạy lại đạt trên cả năm độ rộng. Hai ca đối chứng hydration chỉ dành cho development được bỏ qua trên production.
+- Đã mở riêng trang Thăng Long trên desktop/mobile, kiểm tra danh mục 25 nguồn và liên kết bằng chứng; không có lỗi runtime. Ảnh giao diện trong `docs/screenshots/` được cập nhật.
+- Thay đổi có sẵn trong `next-env.d.ts` được giữ nguyên, ngoài commit của phiên này.
+
 Sửa lỗi hydration và khả năng đọc:
 - Đã tái hiện đúng cảnh báo bằng cách chèn thuộc tính cursor trước hydration trên dev server.
 - Đã giới hạn xử lý tại `html`/`body`: 4/4 ca development desktop/mobile đạt, gồm đối chứng sai khác trong bài đọc vẫn được phát hiện.

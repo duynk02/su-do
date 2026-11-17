@@ -26,15 +26,11 @@ test("secondary text and map labels remain legible across responsive widths", as
         ".brand-descriptor",
         ".intro-strip",
         ".chapter-select > span",
-        ".cause-chain small",
         ".reader-footer button",
         ".map-legend",
         ".boundary-notice",
-        ".boundary-notice button",
         ".map-list-toggle",
         ".map-credit",
-        ".map-credit button",
-        ".year-bar > span",
       ];
       const fonts = await page.evaluate(
         (selectors) =>
@@ -99,12 +95,6 @@ test("secondary text and map labels remain legible across responsive widths", as
         .getByRole("button", { name: "Thu nhỏ bản đồ", exact: true })
         .click();
       await expect.poll(effectiveLabelSize).toBeGreaterThanOrEqual(13.8);
-      const yearNote = await page.locator(".year-bar > span").boundingBox();
-      const yearBar = await page.locator(".year-bar").boundingBox();
-      if (yearNote)
-        expect(yearNote.y + yearNote.height).toBeLessThanOrEqual(
-          yearBar!.y + yearBar!.height + 1,
-        );
       await page
         .getByRole("button", { name: "Về góc nhìn ban đầu", exact: true })
         .click();

@@ -52,7 +52,7 @@ Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
 
 Mốc mở đầu triều Trần thường được ghi 1225 hoặc 1226. Bài về chiếu nhường ngôi ghi ngày 11 tháng Chạp năm Ất Dậu; bài biên niên ghi ngày 21 tháng 10 năm Ất Dậu. Sử Đồ giữ dị biệt này và chưa quy đổi sang ngày dương lịch.
 
-Loại: evidence. Trạng thái: Đã đối chiếu nguồn. Khác quy ước năm có thể liên quan hệ lịch; riêng hai cách ghi ngày trong các bài còn cần đối chiếu bản sử và nghiên cứu lịch pháp. Không chỉ dựa vào năm 1225/1226 để kết luận.
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn. Khác quy ước năm có thể liên quan hệ lịch; riêng hai cách ghi ngày trong các bài còn cần đối chiếu bản sử và nghiên cứu lịch pháp.
 
 - [Ai là tác giả chiếu nhường ngôi của Lý Chiêu Hoàng?](https://baotanglichsu.vn/VI/Articles/3098/14781/ai-la-tac-gia-chieu-nhuong-ngoi-cua-ly-chieu-hoang.html) — Đoạn ‘ngày 11 tháng Chạp năm Ất Dậu (1225)’. Phạm vi: Cách ghi ngày trong bài về chiếu nhường ngôi
 - [XIV. Nhà Trần (1225–1400), phần 1](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xiv.-nha-tran-175-nam-1225-1400-quoc-hieu-dai-viet-kinh-do-thang-long-phan-1-.html) — Mục 1, đoạn ‘ngày 21 tháng 10 năm Ất Dậu’. Phạm vi: Cách ghi khác trong bài biên niên; không xác lập hai sự kiện khác nhau
@@ -226,7 +226,7 @@ Loại: evidence. Trạng thái: Đang biên soạn.
 
 Trần Nhân Tông (Trần Khâm): ở ngôi 1278–1293.
 
-Loại: evidence. Trạng thái: Đã đối chiếu nguồn. Bài biên niên scov.gov.vn ghi 1279, trong khi Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long ghi 1278. Dùng 1278 cho làn nhiệm kỳ; chưa tự quy đổi ngày hoặc gộp hai quy ước.
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn. Bài biên niên scov.gov.vn ghi 1279, trong khi Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long ghi 1278.
 
 - [Thế thứ các triều vua Việt Nam](https://thuviensach.vn/img/pdf/12360-the-thu-cac-trieu-vua-viet-nam-thuviensach.vn.pdf) — Phần II – Thế thứ các vua thời Trần, mục Trần Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Lễ dâng hương kỷ niệm 715 năm huý nhật Đức Vua, Phật Hoàng Trần Nhân Tông](https://hoangthanhthanglong.vn/le-dang-huong-tuong-niem-715-nam-ngay-mat-duc-vua-phat-hoang-tran-nhan-tong-tai-hoang-thanh-thang-long/) — Đoạn giới thiệu niên đại trị vì 1278–1293. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.

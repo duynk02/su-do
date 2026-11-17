@@ -95,7 +95,7 @@ claim(
     ],
   ],
   {
-    note: "Khác quy ước năm có thể liên quan hệ lịch; riêng hai cách ghi ngày trong các bài còn cần đối chiếu bản sử và nghiên cứu lịch pháp. Không chỉ dựa vào năm 1225/1226 để kết luận.",
+    note: "Khác quy ước năm có thể liên quan hệ lịch; riêng hai cách ghi ngày trong các bài còn cần đối chiếu bản sử và nghiên cứu lịch pháp.",
   },
 );
 claim(
@@ -277,7 +277,7 @@ export const people: Person[] = rulerRows.map(
             refs,
             id === "tran-nhan-tong"
               ? {
-                  note: "Bài biên niên scov.gov.vn ghi 1279, trong khi Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long ghi 1278. Dùng 1278 cho làn nhiệm kỳ; chưa tự quy đổi ngày hoặc gộp hai quy ước.",
+                  note: "Bài biên niên scov.gov.vn ghi 1279, trong khi Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long ghi 1278.",
                 }
               : {},
           );
@@ -306,9 +306,9 @@ export const people: Person[] = rulerRows.map(
             : [],
       note:
         id === "duong-nhat-le"
-          ? "Tên thường dùng trong sử liệu; việc có mặt trong chuỗi ngôi vua không xác định quan hệ huyết thống."
+          ? "Tên thường dùng trong sử liệu."
           : variants[id]
-            ? "Tên húy dùng cách ghi trong Thế thứ; bài biên niên có biến thể được giữ trong tìm kiếm. Hai cách ghi không tạo hai nhân vật riêng."
+            ? "Tên húy theo Thế thứ; bài biên niên có cách ghi khác."
             : undefined,
     };
   },
@@ -322,7 +322,6 @@ people.push(
     title: "Thái thượng hoàng",
     summaryClaimIds: ["thua-role", "thua-dates"],
     eventIds: ["chuyen-trieu"],
-    note: "Không có nhiệm kỳ hoàng đế trực tiếp trị vì. Không đặt Trần Thừa vào trước Trần Cảnh trong danh sách các vua đang ở ngôi.",
   },
   {
     id: "ly-chieu-hoang",
@@ -707,7 +706,7 @@ export const events: HistoricalEvent[] = [
       "Việc tạm rời kinh đô và giữ được lực lượng có thể thay đổi cách hiểu về một cuộc phòng thủ ra sao?",
     consequenceKind: "editorial-question",
     precisionNote:
-      "Chỉ dùng năm; không quy đổi ngày âm lịch. Vị trí Đông Bộ Đầu là tương đối.",
+      "Vị trí Đông Bộ Đầu chưa được xác định chắc chắn.",
   },
   {
     id: "khang-chien-1285",
@@ -721,8 +720,7 @@ export const events: HistoricalEvent[] = [
     consequence:
       "Đặt cuộc phản công trong toàn bộ diễn biến giúp hiểu vai trò của bảo toàn lực lượng như thế nào?",
     consequenceKind: "editorial-question",
-    precisionNote:
-      "Không dựng tuyến hành quân chi tiết hoặc dùng quân số gây tranh luận.",
+    precisionNote: "",
   },
   {
     id: "bach-dang-1288",
@@ -737,7 +735,7 @@ export const events: HistoricalEvent[] = [
       "Một chiến thắng được xác lập có đồng nghĩa mọi chi tiết chiến thuật đều đã được biết chắc?",
     consequenceKind: "editorial-question",
     precisionNote:
-      "Không dùng đền Kiếp Bạc làm tọa độ trận Bạch Đằng. Chiến trường chưa được số hóa.",
+      "Vị trí chiến trường Bạch Đằng còn có những điểm chưa được xác định chắc chắn.",
   },
   {
     id: "hon-nhan-1306",
@@ -752,7 +750,7 @@ export const events: HistoricalEvent[] = [
       "Vì sao cần đặt hôn nhân trong cả quan hệ ngoại giao và bối cảnh khu vực?",
     consequenceKind: "editorial-question",
     precisionNote:
-      "Chưa đối chiếu vị trí hôn lễ và ranh giới hai châu Ô, Lý; không đặt điểm giả định.",
+      "Vị trí hôn lễ và ranh giới hai châu Ô, Lý chưa được xác định chắc chắn.",
   },
   {
     id: "nha-ho-1400",
@@ -766,7 +764,7 @@ export const events: HistoricalEvent[] = [
     consequence:
       "Một chính sách bắt đầu trước năm 1400 nên được đặt trong bối cảnh cuối Trần hay chỉ kể trong nhà Hồ?",
     consequenceKind: "editorial-question",
-    precisionNote: "Mốc năm theo nguồn; không quy đổi ngày tháng chuyển triều.",
+    precisionNote: "",
   },
 ];
 
@@ -931,7 +929,7 @@ export const periods: Period[] = [
     dynastyIds: [],
     claimIds: [],
     summary:
-      "Khung chương cho thời cổ đại và những giai đoạn trước thế kỷ X. Nội dung đang chờ biên soạn; không coi truyền thuyết về thời dựng nước là niên đại đã được xác lập.",
+      "Nội dung thời dựng nước và Bắc thuộc đang được biên soạn.",
   },
   {
     id: "the-ky-x",
@@ -942,7 +940,7 @@ export const periods: Period[] = [
     dynastyIds: [],
     claimIds: [],
     summary:
-      "Khung biên tập cho thế kỷ X và đầu thế kỷ XI. Chưa xuất bản câu chuyện hoặc lớp lãnh thổ của từng chính quyền.",
+      "Nội dung về Ngô, Đinh và Tiền Lê đang được biên soạn.",
   },
   {
     id: "ly",
@@ -971,7 +969,7 @@ export const periods: Period[] = [
       "tran-ending",
     ],
     summary:
-      "Triều Trần hình thành khi thế lực họ Trần đã gia tăng trong triều đình cuối Lý. Việc Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh mở ra một cơ chế quyền lực có cả vua và Thái thượng hoàng. Ba cuộc kháng chiến trong thế kỷ XIII là những dấu mốc nổi bật, bên cạnh đời sống nông nghiệp, khoa cử và Phật giáo Trúc Lâm. Cuối thế kỷ XIV, quyền lực chuyển dần sang Hồ Quý Ly; năm 1400 mở đầu triều Hồ. Chương này kết nối bối cảnh, nhân vật và địa điểm qua chín phần đọc có nguồn.",
+      "Triều Trần hình thành khi thế lực họ Trần đã gia tăng trong triều đình cuối Lý. Việc Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh mở ra một cơ chế quyền lực có cả vua và Thái thượng hoàng. Ba cuộc kháng chiến trong thế kỷ XIII là những dấu mốc nổi bật, bên cạnh đời sống nông nghiệp, khoa cử và Phật giáo Trúc Lâm. Cuối thế kỷ XIV, quyền lực chuyển dần sang Hồ Quý Ly; năm 1400 mở đầu triều Hồ.",
   },
   {
     id: "ho",
@@ -993,7 +991,7 @@ export const periods: Period[] = [
     dynastyIds: [],
     claimIds: [],
     summary:
-      "Chưa biên soạn. Khung thời kỳ này tách khỏi nhà Hồ và Lê sơ; chưa có nội dung sự kiện hay địa điểm được xuất bản.",
+      "Nội dung về thời Minh và khởi nghĩa Lam Sơn đang được biên soạn.",
   },
   {
     id: "le-so",
@@ -1004,7 +1002,7 @@ export const periods: Period[] = [
     dynastyIds: [],
     claimIds: [],
     summary:
-      "Chưa biên soạn nội dung chuyên sâu. Chọn nhà Trần để khám phá luồng học đã triển khai.",
+      "Nội dung chuyên sâu về nhà Lê sơ đang được biên soạn.",
   },
   {
     id: "le-mac",
@@ -1021,7 +1019,7 @@ export const periods: Period[] = [
       { name: "Nguyễn · Đàng Trong", date: "Cùng thời với chính quyền Trịnh" },
     ],
     summary:
-      "Khung nhiều làn cho các chính quyền đồng thời. Đường nối thời gian không biểu thị quan hệ kế vị giữa Lê–Mạc hoặc Trịnh–Nguyễn; lịch sử chi tiết của từng chính quyền chưa biên soạn.",
+      "Nội dung chi tiết về các chính quyền Lê–Mạc và Trịnh–Nguyễn đang được biên soạn.",
   },
   {
     id: "tay-son",
@@ -1032,7 +1030,7 @@ export const periods: Period[] = [
     dynastyIds: [],
     claimIds: [],
     summary:
-      "Khung thời kỳ có giao nhau với cuối giai đoạn trước. Chưa xuất bản câu chuyện; không trình bày đây là một chuỗi kế vị đơn giản của mọi chính quyền đương thời.",
+      "Nội dung về Tây Sơn đang được biên soạn.",
   },
   {
     id: "nguyen",

@@ -6,7 +6,7 @@ Kết nối thời gian, địa điểm, con người và nguyên nhân–diễn
 
 ## Phiên bản hiện tại
 
-Khung thời kỳ từ dựng nước đến 1900; tập trung nhà Trần với bối cảnh cuối Lý và chuyển Hồ. Chín phần có câu hỏi dẫn, đoạn biên khảo, trực quan phù hợp, liên kết người/sự kiện/địa điểm và nguồn mở tại chỗ. Những chủ đề thiếu nghiên cứu được ghi rõ trong bài; không đánh dấu toàn chương đã hoàn thành biên tập.
+Khung thời kỳ từ dựng nước đến 1900; tập trung nhà Trần với bối cảnh cuối Lý và chuyển Hồ. Chín phần có câu hỏi dẫn, đoạn biên khảo, trực quan phù hợp, liên kết người/sự kiện/địa điểm và nguồn mở tại chỗ. Giao diện giữ những điểm bất định lịch sử và trạng thái nội dung chưa có; phương pháp triển khai, hướng dẫn biên tập và quy tắc thiết kế nằm trong tài liệu dự án.
 
 Luồng chính: chọn Trần → đọc cuối Lý → mở Trần Cảnh từ chương chuyển ngôi hoặc bộ máy → xem quan hệ với Trần Thừa và Lý Chiêu Hoàng → mở sự kiện chuyển triều → xem địa điểm và nguồn.
 
@@ -16,7 +16,7 @@ Luồng chính: chọn Trần → đọc cuối Lý → mở Trần Cảnh từ 
 - Câu chuyện: vùng đọc rộng hơn, chọn chương hoặc Trước/Tiếp theo để đổi mốc/địa điểm; không tự phát.
 - Dải thời kỳ là thứ tự chương, không theo tỷ lệ năm. Giai đoạn Lê–Mạc/Trịnh–Nguyễn hiển thị làn đồng thời.
 - Bản đồ: pan bằng kéo/phím mũi tên, zoom bằng nút hoặc +/−, Home khôi phục. Nền hiện đại, biên giới hiện đại mặc định tắt. Không có polygon lịch sử.
-- Nguồn: nút số cạnh khẳng định mở hộp thoại; Escape đóng và khôi phục focus. Có danh mục nguồn/phương pháp toàn dự án.
+- Nguồn: nút số cạnh khẳng định mở hộp thoại; Escape đóng và khôi phục focus. Danh mục nguồn mở trực tiếp từ đầu trang hoặc cuối bài.
 - Tìm kiếm: không phân biệt dấu, hỗ trợ tên húy, miếu hiệu, tên thường gọi; có trạng thái không kết quả.
 - URL lưu thời kỳ, chương, năm, chế độ, loại bài và thực thể; reload, Back/forward khôi phục lựa chọn. Không hứa lưu vị trí cuộn hoặc góc camera.
 - Mobile: bộ chọn thời kỳ + mục lục; hai vùng Bản đồ/Bài đọc, một luồng cuộn trang. Nội dung không phụ thuộc WebGL.

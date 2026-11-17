@@ -323,12 +323,6 @@ button {
   color: var(--muted);
   line-height: 1.7;
 }
-.timeline-note {
-  font-size: var(--text-note);
-  color: var(--muted);
-  line-height: 1.7;
-  margin: 17px 0 24px;
-}
 .period-list {
   list-style: none;
   padding: 0 0 0 9px;
@@ -428,13 +422,6 @@ button {
   border-top: 1px solid var(--line);
   padding-top: 15px;
   line-height: 1.8;
-}
-.timeline-foot button {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 12px 0 0;
-  font-size: var(--text-note);
 }
 .timeline-parallel {
   display: grid;
@@ -758,12 +745,6 @@ button {
 .boundary-notice svg {
   margin-top: 1px;
 }
-.boundary-notice button {
-  font-size: var(--text-note);
-  text-decoration: underline;
-  white-space: nowrap;
-  margin-left: auto;
-}
 .map-list-toggle {
   display: flex;
   align-items: center;
@@ -786,7 +767,7 @@ button {
   border-top: 1px solid #c5d2c6;
   padding-top: 9px;
 }
-.map-credit button {
+.map-credit a {
   font-size: var(--text-note);
   text-decoration: underline;
   padding: 0;
@@ -1088,12 +1069,6 @@ button {
   font-size: 16px;
   color: #a2ae98;
 }
-.cause-chain small {
-  font-size: var(--text-note);
-  line-height: 1.7;
-  margin-top: 8px;
-  color: var(--muted);
-}
 .reading-prompt {
   margin: 27px 0;
   padding: 16px 0 16px 16px;
@@ -1237,14 +1212,6 @@ button {
   align-items: center;
   gap: 7px;
   font-size: var(--text-note);
-  color: var(--muted);
-}
-.reader-editorial-status {
-  margin-top: 32px;
-  padding-top: 18px;
-  border-top: 1px solid var(--line);
-  font-size: var(--text-note);
-  line-height: 1.9;
   color: var(--muted);
 }
 .role-comparison {
@@ -1435,12 +1402,6 @@ button {
   line-height: 1.8;
   color: var(--muted);
   border-inline: 1px solid var(--line);
-}
-.diplomacy-visual small {
-  grid-column: 1/-1;
-  margin-top: 22px;
-  font-size: var(--text-note);
-  color: var(--muted);
 }
 .ending-visual {
   display: grid;
@@ -1863,39 +1824,6 @@ button {
   font-size: 13px;
   padding: 10px 27px 35px;
 }
-.dialog-tabs {
-  display: flex;
-  gap: 20px;
-  margin: 0 27px;
-  border-bottom: 1px solid var(--line);
-}
-.dialog-tabs button {
-  padding: 19px 0;
-  font-size: var(--text-note);
-}
-.dialog-tabs button[aria-pressed="true"] {
-  color: var(--accent);
-  border-bottom: 2px solid var(--accent);
-}
-.methods-content {
-  padding: 25px 27px;
-}
-.methods-content .serif-lead {
-  font: 400 23px/1.8 var(--serif);
-  color: var(--accent);
-  margin-bottom: 26px;
-}
-.methods-content h3 {
-  font: 500 19px var(--serif);
-  margin: 28px 0 14px;
-}
-.methods-content p {
-  font-size: var(--text-note);
-  line-height: 1.95;
-}
-.methods-content .fine-print {
-  font-size: var(--text-note);
-}
 .source-library {
   list-style: none;
   padding: 0 27px;
@@ -2004,8 +1932,7 @@ button {
   .boundary-notice {
     font-size: var(--text-note);
   }
-  .map-credit,
-  .map-credit button {
+  .map-credit {
     font-size: var(--text-note);
   }
   .reader-tabs > button {
@@ -2027,9 +1954,6 @@ button {
     font-size: var(--text-note);
   }
   .chapter-kicker {
-    font-size: var(--text-note);
-  }
-  .reader-editorial-status {
     font-size: var(--text-note);
   }
 }
@@ -2179,11 +2103,7 @@ button {
     padding: 9px;
     flex-wrap: wrap;
   }
-  .boundary-notice button {
-    margin-left: 22px;
-  }
-  .map-credit,
-  .map-credit button {
+  .map-credit {
     font-size: var(--text-note);
   }
   .map-controls {
@@ -2273,7 +2193,6 @@ button {
     border-bottom: 1px solid var(--line);
   }
   .timeline-heading,
-  .timeline-note,
   .period-list,
   .timeline-foot {
     display: none;
@@ -2394,15 +2313,11 @@ button {
   .boundary-notice {
     font-size: var(--text-note);
   }
-  .boundary-notice button {
-    font-size: var(--text-note);
-  }
   .map-list-toggle {
     font-size: var(--text-note);
     padding-block: 14px;
   }
-  .map-credit,
-  .map-credit button {
+  .map-credit {
     font-size: var(--text-note);
   }
   .map-controls {
@@ -2491,9 +2406,6 @@ button {
   .cause-chain strong {
     font-size: 15px;
   }
-  .cause-chain small {
-    font-size: var(--text-note);
-  }
   .section-label {
     font-size: var(--text-note);
     margin-top: 32px;
@@ -2523,9 +2435,6 @@ button {
     font-size: var(--text-note);
   }
   .chapter-pagination > span {
-    font-size: var(--text-note);
-  }
-  .reader-editorial-status {
     font-size: var(--text-note);
   }
   .reader-footer {
@@ -2762,15 +2671,11 @@ button {
     font-size: var(--text-note);
     flex-wrap: wrap;
   }
-  .boundary-notice button {
-    margin-left: 22px;
-  }
   .map-legend {
     font-size: var(--text-note);
     gap: 12px;
   }
-  .map-credit,
-  .map-credit button {
+  .map-credit {
     font-size: var(--text-note);
   }
   .modal {
@@ -2810,19 +2715,6 @@ button {
   .modal > .editorial-note,
   .modal > .fine-print {
     margin-inline: 20px;
-  }
-  .methods-content {
-    padding-inline: 20px;
-  }
-  .methods-content p {
-    font-size: 13px;
-  }
-  .dialog-tabs {
-    margin-inline: 20px;
-    gap: 15px;
-  }
-  .dialog-tabs button {
-    font-size: var(--text-note);
   }
   .source-library {
     padding-inline: 20px;
@@ -2869,7 +2761,6 @@ button {
   color: #655d45;
 }
 .evidence-list dl,
-.methods-content p,
 .source-library p {
   font-size: var(--text-note);
 }

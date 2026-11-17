@@ -114,8 +114,6 @@ export function EvidenceDialog({
                 <dd>{c.location}</dd>
                 <dt>Phạm vi hỗ trợ</dt>
                 <dd>{c.supports}</dd>
-                <dt>Giới hạn nguồn</dt>
-                <dd>{source.limits}</dd>
                 {source.upstream && (
                   <>
                     <dt>Nguồn bài đăng lại</dt>
@@ -129,11 +127,6 @@ export function EvidenceDialog({
           );
         })}
       </ol>
-      <p className="fine-print">
-        Nguồn được đọc và đối chiếu bởi trợ lý biên soạn có hỗ trợ AI. Chưa có
-        biên tập viên hoặc chuyên gia lịch sử duyệt. Hai bài đăng lại cùng một
-        tài liệu không được tính là hai chứng cứ độc lập.
-      </p>
     </Modal>
   );
 }
@@ -166,9 +159,6 @@ export function SearchDialog({
           placeholder="Trần Cảnh, Thái Tông, Bạch Đằng…"
         />
       </label>
-      <p className="fine-print">
-        Tìm có dấu hoặc không dấu, theo tên húy, miếu hiệu và tên thường gọi.
-      </p>
       <div aria-live="polite" className="search-count">
         {query
           ? `${results.length} kết quả`
@@ -176,8 +166,7 @@ export function SearchDialog({
       </div>
       {query && !results.length && (
         <p className="search-empty">
-          Chưa có kết quả phù hợp. Thử tên ngắn hơn; nội dung ngoài chương Trần
-          còn đang biên soạn.
+          Chưa có kết quả phù hợp.
         </p>
       )}
       <ul className="search-results">
@@ -196,121 +185,36 @@ export function SearchDialog({
   );
 }
 
-export function LibraryDialog({
-  initialTab,
-  onClose,
-}: {
-  initialTab: "methods" | "sources";
-  onClose: () => void;
-}) {
-  const [tab, setTab] = useState(initialTab);
+export function LibraryDialog({ onClose }: { onClose: () => void }) {
   return (
-    <Modal title="Phương pháp & nguồn tư liệu" onClose={onClose} wide>
-      <div className="dialog-tabs">
-        <button
-          aria-pressed={tab === "methods"}
-          onClick={() => setTab("methods")}
-        >
-          Cách đọc Sử Đồ
-        </button>
-        <button
-          aria-pressed={tab === "sources"}
-          onClick={() => setTab("sources")}
-        >
-          Danh mục nguồn ({sources.length})
-        </button>
-      </div>
-      {tab === "methods" ? (
-        <div className="methods-content">
-          <p className="serif-lead">
-            Một bản đồ giúp định hướng.
-            <br />
-            Một chú thích giúp kiểm tra.
-          </p>
-          <h3>Bản đồ đang cho biết điều gì?</h3>
-          <p>
-            Nền đất liền và sông lấy từ Natural Earth, tỷ lệ gốc 1:50 triệu,
-            thuộc public domain. Đây là địa lý hiện đại để định hướng, không
-            phải bờ biển và lòng sông được phục dựng thời Trần.
-          </p>
-          <p>
-            Điểm Thăng Long, Thái Miếu, Kiếp Bạc, chùa Lân và Tây Đô dùng tọa độ
-            di sản công bố bởi UNESCO. Tọa độ đền Kiếp Bạc không được dùng làm
-            tọa độ trận Bạch Đằng. Hải Ấp, Đông Bộ Đầu và chiến trường Bạch Đằng
-            chưa có tọa độ đủ căn cứ, nên chỉ xuất hiện trong danh sách.
-          </p>
-          <aside className="editorial-note">
-            <strong>Chưa có lớp ranh giới được đối chiếu cho mốc này.</strong>
+    <Modal title={`Nguồn tư liệu (${sources.length})`} onClose={onClose} wide>
+      <ol className="source-library">
+        {sources.map((s) => (
+          <li key={s.id}>
+            <span className="source-kind">{s.type}</span>
+            <h3>
+              <a href={s.url} target="_blank" rel="noreferrer">
+                {s.title} <Icon name="external" size={13} />
+              </a>
+            </h3>
             <p>
-              Không có polygon lãnh thổ lịch sử, tuyến hành quân giả định hoặc
-              phép nội suy giữa các năm. Lớp tham chiếu hiện đại mặc định tắt và
-              được ghi riêng khi bật.
+              {s.author ?? "Chưa xác nhận tác giả"} · {s.publisher}
+              {s.year ? ` · ${s.year}` : ""}
             </p>
-          </aside>
-          <h3>Đọc nguồn và mức bất định</h3>
-          <p>
-            Nút số cạnh mỗi đoạn mở khẳng định cùng vị trí tra cứu, nguồn bài
-            đăng lại và giới hạn tiếp cận. “Đã đối chiếu nguồn” mô tả công việc
-            so sánh, không phải sự đồng thuận của chuyên gia. Nguồn đơn lẻ giữ
-            trạng thái đang biên soạn; chưa có nội dung được người biên tập
-            duyệt.
-          </p>
-          <h3>Ngày tháng và tên gọi</h3>
-          <p>
-            1225/1226 được giữ như một dị biệt cần nghiên cứu hệ lịch, không tự
-            gán ngày dương lịch. Trị vì, Thái thượng hoàng, miếu hiệu và danh
-            hiệu truy tôn được tách riêng. Giao diện không hiển thị năm 0.
-          </p>
-          <h3>Phạm vi phiên bản đầu</h3>
-          <p>
-            Chín phần nhà Trần đã có khung đọc và dẫn nguồn, với bối cảnh cuối
-            Lý và chuyển sang Hồ. Nhiệm kỳ các vua được lưu riêng, bao gồm Dương
-            Nhật Lễ. Các vai trò Thượng hoàng mới biên soạn một phần; chuyên đề
-            đê điều, văn học, kiến trúc và quan hệ khu vực cần nghiên cứu thêm.
-          </p>
-          <h3>Thao tác bằng bàn phím</h3>
-          <p>
-            Tab để chọn điều khiển; Enter hoặc Space để mở. Escape đóng hộp
-            thoại. Khi bản đồ được focus, dùng phím mũi tên để dịch, +/− để đổi
-            độ phóng và Home để khôi phục. Danh sách địa điểm là cách thay thế
-            cho thao tác trực tiếp trên bản đồ.
-          </p>
-          <p className="fine-print">
-            Không cần token bản đồ, dịch vụ tile hay tài khoản. Nội dung và tài
-            sản đã tải nằm trong dự án. Không có trình theo dõi hoặc chatbot làm
-            giao diện chính.
-          </p>
-        </div>
-      ) : (
-        <ol className="source-library">
-          {sources.map((s) => (
-            <li key={s.id}>
-              <span className="source-kind">{s.type}</span>
-              <h3>
-                <a href={s.url} target="_blank" rel="noreferrer">
-                  {s.title} <Icon name="external" size={13} />
-                </a>
-              </h3>
+            <p>
+              <strong>Phần trích dẫn:</strong> {s.readLocation}
+            </p>
+            <details>
+              <summary>Thông tin xuất bản</summary>
+              {s.upstream && <p>Nguồn gốc: {s.upstream}</p>}
               <p>
-                {s.author ?? "Chưa xác nhận tác giả"} · {s.publisher}
-                {s.year ? ` · ${s.year}` : ""}
+                Ấn bản: {s.edition ?? "chưa xác nhận / không áp dụng"}. Truy
+                cập {s.accessed}.
               </p>
-              <p>
-                <strong>Đã đọc:</strong> {s.readLocation}
-              </p>
-              <details>
-                <summary>Giới hạn và xuất xứ</summary>
-                <p>{s.limits}</p>
-                {s.upstream && <p>Nguồn gốc: {s.upstream}</p>}
-                <p>
-                  Ấn bản: {s.edition ?? "chưa xác nhận / không áp dụng"}. Truy
-                  cập {s.accessed}.
-                </p>
-              </details>
-            </li>
-          ))}
-        </ol>
-      )}
+            </details>
+          </li>
+        ))}
+      </ol>
     </Modal>
   );
 }

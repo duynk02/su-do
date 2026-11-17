@@ -30,7 +30,7 @@ export default function Atlas() {
   const [state, setState] = useState<AtlasState>(initialState);
   const [mobilePane, setMobilePane] = useState<"map" | "reader">("reader");
   const [searchOpen, setSearchOpen] = useState(false);
-  const [library, setLibrary] = useState<"methods" | "sources" | null>(null);
+  const [libraryOpen, setLibraryOpen] = useState(false);
   const [evidence, setEvidence] = useState<string | null>(null);
   const [yearInput, setYearInput] = useState("1225");
   const [yearError, setYearError] = useState("");
@@ -264,8 +264,7 @@ export default function Atlas() {
           <kbd>Tìm kiếm</kbd>
         </button>
         <nav className="header-nav" aria-label="Thông tin dự án">
-          <button onClick={() => setLibrary("methods")}>Phương pháp</button>
-          <button onClick={() => setLibrary("sources")}>
+          <button onClick={() => setLibraryOpen(true)}>
             Nguồn tư liệu <Icon name="external" size={13} />
           </button>
         </nav>
@@ -287,11 +286,6 @@ export default function Atlas() {
             <span className="eyebrow">Dòng thời gian</span>
             <span className="timeline-range">Từ thời dựng nước đến 1900</span>
           </div>
-          <p className="timeline-note">
-            Thứ tự thời kỳ
-            <br />
-            Không theo tỷ lệ năm
-          </p>
           <label className="mobile-period-select">
             Thời kỳ đang đọc
             <select
@@ -378,9 +372,6 @@ export default function Atlas() {
           </ol>
           <div className="timeline-foot">
             <span className="outline-dot" /> Chương khác đang biên soạn
-            <button onClick={() => setLibrary("methods")}>
-              Về dự án <Icon name="arrow" size={13} />
-            </button>
           </div>
         </aside>
         <section className="exploration" aria-label="Không gian khám phá">
@@ -392,7 +383,7 @@ export default function Atlas() {
                   ? "Đại Việt"
                   : period.id === "ho"
                     ? "Đại Ngu"
-                    : "Khung thời kỳ"}
+                    : period.date.label}
               </small>
             </div>
             <div
@@ -454,7 +445,6 @@ export default function Atlas() {
                 selectedPlace={state.place}
                 highlighted={highlighted}
                 onSelect={onPlace}
-                onMethods={() => setLibrary("methods")}
                 wide={chapter.id === "khu-vuc" && state.view === "story"}
               />
               <div className="year-bar">
@@ -472,11 +462,9 @@ export default function Atlas() {
                     <Icon name="arrow" size={16} />
                   </button>
                 </form>
-                <span>
-                  {state.year < 1225 && state.period === "tran"
-                    ? "Bối cảnh trước triều Trần"
-                    : "Không nội suy ranh giới giữa các mốc"}
-                </span>
+                {state.year < 1225 && state.period === "tran" && (
+                  <span>Bối cảnh trước triều Trần</span>
+                )}
               </div>
               {yearError && (
                 <p className="year-error" id="year-error" role="alert">
@@ -559,16 +547,12 @@ export default function Atlas() {
                 aria-label="Nội dung có thể cuộn"
               >
                 <Reader state={state} actions={actions} />
-                <div className="reader-editorial-status">
-                  <span className="outline-dot" /> Bản biên soạn có dẫn nguồn ·
-                  Chưa được biên tập viên duyệt
-                </div>
               </div>
               <div className="reader-footer">
                 <button onClick={() => actions.onView("overview")}>
                   Tổng quan thời kỳ <Icon name="arrow" size={13} />
                 </button>
-                <button onClick={() => setLibrary("sources")}>
+                <button onClick={() => setLibraryOpen(true)}>
                   Đọc nguồn <Icon name="external" size={12} />
                 </button>
               </div>
@@ -598,8 +582,8 @@ export default function Atlas() {
           onSelect={selectSearch}
         />
       )}
-      {library && (
-        <LibraryDialog initialTab={library} onClose={() => setLibrary(null)} />
+      {libraryOpen && (
+        <LibraryDialog onClose={() => setLibraryOpen(false)} />
       )}
       {evidence && (
         <EvidenceDialog claimId={evidence} onClose={() => setEvidence(null)} />

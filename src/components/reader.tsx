@@ -230,9 +230,8 @@ function Relations({
             <Icon name="arrow" size={15} />
           </button>
           <p className="fine-print">
-            Liền: cha/mẹ–con hoặc hôn nhân (có nhãn). Nét đứt: kế vị. Nét chấm:
-            chính trị. Kế vị không có nghĩa là cha–con. Sơ đồ giới hạn 9 nút;
-            danh sách chứa toàn bộ quan hệ đang mở.
+            Liền: cha/mẹ–con hoặc hôn nhân. Nét đứt: kế vị. Nét chấm: quan hệ
+            chính trị.
           </p>
         </>
       ) : (
@@ -245,9 +244,7 @@ function Relations({
 function RulerList({ actions }: { actions: ReaderActions }) {
   return (
     <section className="ruler-section">
-      <div className="section-label">
-        Chuỗi ngôi vua <span>Không theo tỷ lệ năm</span>
-      </div>
+      <div className="section-label">Chuỗi ngôi vua</div>
       <div className="ruler-list">
         {tenures
           .filter((t) => t.role === "reigning")
@@ -273,7 +270,7 @@ function RulerList({ actions }: { actions: ReaderActions }) {
           ))}
       </div>
       <div className="section-label retired-heading">
-        Làn Thái thượng hoàng <span>Phần đã biên soạn</span>
+        Thái thượng hoàng <span>Phần đã biên soạn</span>
       </div>
       <div className="retired-list">
         {tenures
@@ -285,10 +282,6 @@ function RulerList({ actions }: { actions: ReaderActions }) {
             </button>
           ))}
       </div>
-      <p className="fine-print">
-        Hai làn có thể chồng lấn. Danh sách Thượng hoàng hiện mới có ba người;
-        không ngầm hiểu các giai đoạn còn lại không có Thượng hoàng.
-      </p>
     </section>
   );
 }
@@ -303,18 +296,12 @@ function ChapterVisual({
   switch (chapter.visual) {
     case "context":
       return (
-        <div
-          className="cause-chain"
-          aria-label="Khung đọc nguyên nhân và hệ quả"
-        >
+        <div className="cause-chain" aria-label="Bối cảnh chuyển triều">
           <span>Thế lực địa phương</span>
           <i>↓</i>
           <span>Ảnh hưởng trong triều</span>
           <i>↓</i>
           <strong>Chuyển giao ngôi vua</strong>
-          <small>
-            Khung diễn giải để đọc chương · không phải một nguyên nhân duy nhất
-          </small>
         </div>
       );
     case "relations":
@@ -413,9 +400,6 @@ function ChapterVisual({
             Huyền Trân — Chế Mân
           </span>
           <span>Champa</span>
-          <small>
-            Sơ đồ quan hệ · không biểu thị lãnh thổ hay quyền kiểm soát
-          </small>
         </div>
       );
     case "ending":
@@ -465,16 +449,6 @@ function ChapterReader({
         ))}
       </div>
       <ChapterVisual chapter={chapter} actions={actions} />
-      {chapter.editorialNote && (
-        <aside className="editorial-note">
-          <strong>Giới hạn tư liệu</strong>
-          <p>{chapter.editorialNote}</p>
-        </aside>
-      )}
-      <div className="reading-prompt">
-        <span>Đọc để kết nối</span>
-        <p>{chapter.takeaway}</p>
-      </div>
       {!!chapter.personIds.length && (
         <section className="related-section">
           <div className="section-label">Người trong câu chuyện</div>
@@ -588,7 +562,7 @@ function PersonReader({
         <dt>Niên đại sống</dt>
         <dd>
           {person.life ??
-            "Chưa biên soạn đầy đủ; không suy từ thời gian giữ ngôi"}
+            "Chưa rõ"}
         </dd>
       </dl>
       {person.summaryClaimIds.map((id) => (
@@ -637,10 +611,6 @@ function PersonReader({
           ))}
         </section>
       )}
-      <p className="fine-print">
-        Ký tự đầu tên là ký hiệu điều hướng, không phải chân dung lịch sử. Hồ sơ
-        chưa được biên tập viên chuyên môn duyệt.
-      </p>
     </>
   );
 }
@@ -676,10 +646,6 @@ export function Reader({
           Chưa biên soạn danh mục{" "}
           {state.view === "people" ? "nhân vật" : "sự kiện"} cho thời kỳ này.
         </p>
-        <p className="fine-print">
-          Bạn có thể mở tổng quan thời kỳ hoặc trở về chương nhà Trần đã có dẫn
-          nguồn.
-        </p>
         <button
           className="primary-action"
           onClick={() => actions.onPeriod("tran")}
@@ -694,9 +660,6 @@ export function Reader({
       <>
         <div className="eyebrow">Hoàng tộc & những người đương thời</div>
         <h2>Nhân vật</h2>
-        <p className="chapter-question">
-          Đi từ một người đến các vai trò và mối quan hệ có nguồn.
-        </p>
         <PersonLinks
           ids={people.map((p) => p.id)}
           onPerson={actions.onPerson}
@@ -717,7 +680,9 @@ export function Reader({
         </button>
         <div className="eyebrow">{event.date.label}</div>
         <h2>{event.name}</h2>
-        <p className="location-precision">{event.precisionNote}</p>
+        {event.precisionNote && (
+          <p className="location-precision">{event.precisionNote}</p>
+        )}
         <div className="section-label">Bối cảnh & diễn biến</div>
         {[...event.contextClaimIds, ...event.developmentClaimIds].map((id) => (
           <ClaimText key={id} id={id} onClaim={actions.onClaim} />
@@ -731,7 +696,7 @@ export function Reader({
           </>
         )}
         <div className="reading-prompt">
-          <span>Câu hỏi kết nối hệ quả · gợi ý biên tập</span>
+          <span>Câu hỏi mở</span>
           <p>{event.consequence}</p>
         </div>
         <div className="section-label">Người liên quan</div>
@@ -764,7 +729,7 @@ export function Reader({
           {event.date.calendar === "lunisolar"
             ? "âm dương lịch theo nguồn"
             : "quy ước trong nguồn"}
-          . Không tự động chuyển đổi ngày.
+          .
         </p>
         {event.id === "chuyen-trieu" && (
           <ClaimText id="date-disagreement" onClaim={actions.onClaim} />
@@ -806,20 +771,6 @@ export function Reader({
         {place.claimIds.map((id) => (
           <ClaimText key={id} id={id} onClaim={actions.onClaim} />
         ))}
-        <dl className="person-names">
-          <dt>Phương pháp</dt>
-          <dd>{place.coordinateMethod}</dd>
-          <dt>Kiểu vị trí</dt>
-          <dd>
-            {place.locationType === "modern-memorial"
-              ? "Di tích tưởng niệm hiện đại"
-              : place.locationType === "representative"
-                ? "Điểm đại diện khu vực"
-                : place.locationType === "uncertain"
-                  ? "Chưa xác định chính xác"
-                  : "Vị trí khu di tích"}
-          </dd>
-        </dl>
         {place.coordinateSourceId && (
           <p className="fine-print">
             Nguồn tọa độ:{" "}
@@ -895,9 +846,6 @@ export function Reader({
                 <i />
               </div>
             ))}
-            <p>
-              Các làn biểu thị cùng tồn tại; độ dài dòng không theo tỷ lệ năm.
-            </p>
             <a
               href="https://upload.wikimedia.org/wikipedia/commons/f/f6/Viet_Nam_Su_Luoc_2.pdf"
               target="_blank"
@@ -917,8 +865,7 @@ export function Reader({
               ))
             ) : (
               <p>
-                Chưa có bài đọc chi tiết được xuất bản. Các mốc ở dải thời gian
-                là khung biên tập sơ bộ, đang chờ đối chiếu chuyên ngành.
+                Chưa có bài đọc chi tiết cho thời kỳ này.
               </p>
             )}
             <button
@@ -939,7 +886,7 @@ export function Reader({
           >
             bảng triều đại (tài liệu tham khảo sơ bộ)
           </a>
-          . Không dùng làm chứng cứ duy nhất cho vấn đề tranh luận.
+          .
         </p>
         <div className="period-pagination">
           {periods.findIndex((p) => p.id === period.id) > 0 && (

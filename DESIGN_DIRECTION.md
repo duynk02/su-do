@@ -11,7 +11,7 @@ Chọn phương án 1, với vùng đọc mở rộng khi bật chế độ câu
 
 ## Năm quyết định tạo bản sắc
 
-- Dải niên đại như mục lục atlas, ghi rõ không theo tỷ lệ năm; các chính quyền đồng thời dùng làn song song.
+- Dải niên đại như mục lục atlas; các chính quyền đồng thời dùng làn song song.
 - Bản đồ nền xanh xám nhạt và đất trung tính, không tô lãnh thổ lịch sử khi chưa có tư liệu.
 - Chương có số thứ tự, câu hỏi dẫn và chú thích nguồn ngay bên cạnh khẳng định.
 - Phả hệ dùng đường có nhãn; trị vì và thượng hoàng là hai làn riêng.
@@ -24,7 +24,9 @@ Chọn phương án 1, với vùng đọc mở rộng khi bật chế độ câu
 - Lưới khoảng cách 4/8/12/16/24/32px, không đóng từng đoạn thành card. Chữ nội dung tối thiểu 15–16px, dòng 1.7, không quá 65 ký tự khi có thể.
 - Kinh đô: hình vuông bên trong vòng; địa điểm: chấm tròn; vị trí tương đối: vòng nét đứt. Tên và loại điểm có trong danh sách văn bản.
 - Dữ liệu địa lý hiện đại luôn có chú thích. Lớp tham chiếu biên giới hiện đại mặc định tắt, có nhãn riêng.
-- Nhãn nguồn là nút số; mở hộp thoại có vị trí tra cứu, phạm vi hỗ trợ và giới hạn. Escape đóng, focus được giữ và khôi phục.
+- Nhãn nguồn là nút số; mở hộp thoại có vị trí tra cứu, phạm vi hỗ trợ và xuất xứ. Escape đóng, focus được giữ và khôi phục.
+
+Chỉ hiển thị nội dung phục vụ việc học và điều hướng. Phương pháp tính tọa độ, quy tắc tỷ lệ/nội suy, giới hạn dựng sơ đồ và hướng dẫn biên tập được lưu trong tài liệu dự án. Giao diện giữ dẫn nguồn, chú giải bản đồ, trạng thái chưa có dữ liệu và các điểm bất định lịch sử liên quan trực tiếp đến bài đọc. Danh mục nguồn mở trực tiếp, không kèm trang hướng dẫn sử dụng.
 
 Tránh hero quảng cáo, dashboard, bento, họa tiết giả cổ, gradient, chân dung AI và chuyển động trang trí. Không tự di chuyển bản đồ khi cuộn bài.
 
