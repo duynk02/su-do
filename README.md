@@ -32,7 +32,17 @@ npm run build
 npm run test:e2e
 ```
 
-Playwright tự mở server tĩnh và kiểm tra desktop/mobile. Cấu hình mặc định dùng Microsoft Edge đã có sẵn trên Windows. Khi dùng hệ điều hành khác, đổi `channel: "msedge"` trong playwright.config.ts hoặc cài Edge qua Playwright. Ảnh thực tế nằm trong `docs/screenshots/`.
+Playwright tự mở server tĩnh ở cổng **3100** và kiểm tra desktop/mobile, tách khỏi dev server thường dùng cổng 3000. Cấu hình mặc định dùng Microsoft Edge đã có sẵn trên Windows. Khi dùng hệ điều hành khác, đổi `channel: "msedge"` trong playwright.config.ts hoặc cài Edge qua Playwright. Ảnh thực tế nằm trong `docs/screenshots/`.
+
+Kiểm tra lỗi hydration cần React development để nhìn thấy cảnh báo thuộc tính. Khi dev server đang chạy ở 3000, dùng PowerShell:
+
+```powershell
+$env:SU_DO_TEST_PORT = "3000"
+$env:SU_DO_TEST_DEV = "1"
+npm.cmd run test:e2e -- hydration.spec.ts
+```
+
+Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor`/`style` lên `html` và `body` trước hydration, đồng thời có ca đối chứng xác nhận sai khác bên trong bài đọc vẫn được phát hiện. Layout chỉ cho phép khác biệt thuộc tính tại hai thẻ gốc; không tắt kiểm tra cho nội dung ứng dụng. Xóa hai biến môi trường thử nghiệm sau khi kiểm tra nếu tiếp tục dùng cùng cửa sổ PowerShell.
 
 ## Cấu trúc và lựa chọn kỹ thuật
 

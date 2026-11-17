@@ -15,6 +15,12 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 
 ## Kiểm tra đã thực hiện
 
+Sửa lỗi hydration và khả năng đọc:
+- Đã tái hiện đúng cảnh báo bằng cách chèn thuộc tính cursor trước hydration trên dev server.
+- Đã giới hạn xử lý tại `html`/`body`: 4/4 ca development desktop/mobile đạt, gồm đối chứng sai khác trong bài đọc vẫn được phát hiện.
+- Playwright dùng cổng riêng 3100 cho bản xuất tĩnh; phiên này giữ nguyên dev server có sẵn ở cổng 3000.
+- Đang hoàn thiện kiểm tra cỡ chữ và bố cục ở năm độ rộng 1920/1440/1024/390/360px.
+
 - TypeScript: đạt.
 - Audit tham chiếu dữ liệu: đạt.
 - 10 kiểm thử logic/dữ liệu: đạt.
@@ -30,4 +36,4 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 - Một số mốc/biến thể tên giữa các tài liệu cần bổ sung so sánh trước khi mở rộng nội dung.
 - Chuyên đề đời sống, đê điều, văn học, kiến trúc và quan hệ khu vực chưa đạt chiều sâu mong muốn; các thời kỳ ngoài nhà Trần chưa biên soạn sâu.
 
-Bước tiếp theo: người biên tập đối chiếu bản in cho các mốc còn khác nhau, bổ sung chuyên đề đời sống và vai trò Thượng hoàng còn thiếu, rồi duyệt từng khẳng định. Giữ cấu trúc atlas địa điểm cho đến khi có dữ liệu ranh giới đủ căn cứ. Đã tạo local commit; chưa tạo remote, push hoặc triển khai.
+Bước tiếp theo về nội dung: người biên tập đối chiếu bản in cho các mốc còn khác nhau, bổ sung chuyên đề đời sống và vai trò Thượng hoàng còn thiếu, rồi duyệt từng khẳng định. Giữ cấu trúc atlas địa điểm cho đến khi có dữ liệu ranh giới đủ căn cứ. Phiên này chỉ tạo local commit, không push hoặc triển khai.

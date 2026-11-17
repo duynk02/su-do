@@ -1,4 +1,6 @@
 import { defineConfig, devices } from "@playwright/test";
+const testPort = process.env.SU_DO_TEST_PORT ?? "3100";
+const baseURL = `http://127.0.0.1:${testPort}`;
 export default defineConfig({
   testDir: "./tests/e2e",
   fullyParallel: false,
@@ -7,14 +9,15 @@ export default defineConfig({
   reporter: "list",
   timeout: 30000,
   use: {
-    baseURL: "http://127.0.0.1:3000",
+    baseURL,
     headless: true,
     channel: "msedge",
     trace: "retain-on-failure",
   },
   webServer: {
     command: "node scripts/serve.mjs",
-    url: "http://127.0.0.1:3000",
+    env: { PORT: testPort },
+    url: baseURL,
     reuseExistingServer: !process.env.CI,
     timeout: 15000,
   },

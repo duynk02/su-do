@@ -12,8 +12,10 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="vi">
-      <body>{children}</body>
+    // Cursor/accessibility browser tools may add attributes before React hydrates.
+    // Tolerate attributes on these document shells only; descendants retain checks.
+    <html lang="vi" suppressHydrationWarning>
+      <body suppressHydrationWarning>{children}</body>
     </html>
   );
 }
