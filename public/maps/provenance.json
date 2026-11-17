@@ -1,0 +1,12 @@
+{
+  "generator": "scripts/prepare-assets.py",
+  "method": "Select Natural Earth country features for regional physical base; never historical territory. Rivers selected by regional vertex intersection. No invented or interpolated geometry.",
+  "inputs": [
+    "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson",
+    "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_rivers_lake_centerlines.geojson",
+    "https://images.metmuseum.org/CRDImages/as/original/DP-26130-001.jpg"
+  ],
+  "photoSha256": "1f73129116508eef48d3d5a7616028d7e690cf4b84668327fd32a3b5e6b30bce",
+  "countryFeatures": 11,
+  "riverFeatures": 10
+}
