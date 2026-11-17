@@ -16,6 +16,11 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 
 ## Kiểm tra đã thực hiện
 
+Sao chép liên kết và thông báo:
+- Thay biểu tượng chia sẻ bằng biểu tượng hai trang chồng nhau cho thao tác sao chép. Thông báo đặt cố định ở góc trên bên phải, chữ 14px, tự tắt sau 4 giây; bấm lại sẽ tính lại thời gian và vẫn có nút đóng ngay.
+- Build/TypeScript đạt. Đã kiểm tra trình duyệt desktop 1440×960 và mobile 390×844: biểu tượng, URL gửi tới Clipboard API, vị trí thông báo, tự tắt, bấm lại, đóng thủ công và phản hồi khi clipboard bị từ chối đều đạt; không có lỗi runtime hoặc cuộn ngang.
+- Clipboard API được giả lập trong bước kiểm tra để giữ nguyên clipboard của người dùng. Đã mở xem hai ảnh `docs/screenshots/copy-feedback-*.png`. Không chạy lại bộ dữ liệu/sơ đồ vì phần đó không thay đổi; `next-env.d.ts` có sẵn được giữ ngoài commit.
+
 Sửa chồng nhãn quan hệ:
 - Đã tách các quan hệ cùng cặp nhân vật sang các đường cong riêng, giữ loại nét và chiều mũi tên. Vị trí nhãn được kiểm tra với ô nhân vật và các nhãn đã đặt; đường dẫn mảnh nối nhãn phải dịch xa với cạnh tương ứng. Chữ được vẽ trên cùng để đường nối không che nội dung.
 - 12/12 kiểm thử logic/dữ liệu đạt, gồm kiểm tra cặp cạnh ngược chiều và toàn bộ 23 hồ sơ ở cả chế độ gần/mở rộng. Build và TypeScript đạt.

@@ -1866,24 +1866,31 @@ button {
 }
 .share-message {
   position: fixed;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
+  top: calc(env(safe-area-inset-top, 0px) + 16px);
+  right: calc(env(safe-area-inset-right, 0px) + 16px);
   padding: 14px 17px;
   background: var(--ink);
   color: #fff9ee;
   display: flex;
   gap: 20px;
   align-items: center;
-  font-size: var(--text-note);
+  font-size: var(--text-ui);
   z-index: 100;
-  max-width: 90vw;
+  max-width: min(420px, calc(100vw - 32px));
   box-shadow: 0 3px 20px #162b3225;
   line-height: 1.7;
 }
+.share-message > span {
+  min-width: 0;
+}
 .share-message button {
-  padding: 0;
+  padding: 4px;
+  min-width: 32px;
+  min-height: 32px;
   display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
   color: inherit;
 }
 @media (min-width: 1500px) {

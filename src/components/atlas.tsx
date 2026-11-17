@@ -34,7 +34,9 @@ export default function Atlas() {
   const [evidence, setEvidence] = useState<string | null>(null);
   const [yearInput, setYearInput] = useState("1225");
   const [yearError, setYearError] = useState("");
-  const [shareMessage, setShareMessage] = useState("");
+  const [shareMessage, setShareMessage] = useState<{ text: string } | null>(
+    null,
+  );
   const [mounted, setMounted] = useState(false);
   const stateRef = useRef<AtlasState>(initialState);
   const readerRef = useRef<HTMLDivElement>(null);
@@ -80,6 +82,11 @@ export default function Atlas() {
     setYearInput(String(state.year <= 0 ? state.year - 1 : state.year));
     setYearError("");
   }, [state.year]);
+  useEffect(() => {
+    if (!shareMessage) return;
+    const timer = window.setTimeout(() => setShareMessage(null), 4000);
+    return () => window.clearTimeout(timer);
+  }, [shareMessage]);
   const navigate = useCallback((patch: Partial<AtlasState>) => {
     const next = { ...stateRef.current, ...patch };
     stateRef.current = next;
@@ -508,6 +515,7 @@ export default function Atlas() {
                 <button
                   className="reader-share"
                   aria-label="Sao chép liên kết đang xem"
+                  title="Sao chép liên kết đang xem"
                   onClick={async () => {
                     try {
                       if (!window.location.search)
@@ -517,15 +525,15 @@ export default function Atlas() {
                           stateQuery(state),
                         );
                       await navigator.clipboard.writeText(window.location.href);
-                      setShareMessage("Đã sao chép liên kết");
+                      setShareMessage({ text: "Đã sao chép liên kết" });
                     } catch {
-                      setShareMessage(
-                        "Sao chép URL trên thanh địa chỉ để chia sẻ.",
-                      );
+                      setShareMessage({
+                        text: "Chưa sao chép được. Bạn có thể sao chép liên kết trên thanh địa chỉ.",
+                      });
                     }
                   }}
                 >
-                  <Icon name="share" size={17} />
+                  <Icon name="copy" size={17} />
                 </button>
               </div>
               {state.period === "tran" && (
@@ -571,10 +579,10 @@ export default function Atlas() {
           : ""}
       </div>
       {shareMessage && (
-        <div className="share-message" role="status">
-          {shareMessage}
+        <div className="share-message" role="status" aria-atomic="true">
+          <span>{shareMessage.text}</span>
           <button
-            onClick={() => setShareMessage("")}
+            onClick={() => setShareMessage(null)}
             aria-label="Đóng thông báo"
           >
             <Icon name="close" size={14} />
