@@ -1518,14 +1518,109 @@ button {
   font-size: var(--text-note);
   white-space: nowrap;
 }
-.relations-graph {
+.relations-section {
+  min-width: 0;
+}
+.relation-view-switch {
+  display: flex;
+  gap: 16px;
+  border-bottom: 1px solid var(--line);
+}
+.relation-view-switch button {
+  padding: 10px 0;
+  font-size: var(--text-ui);
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+}
+.relation-view-switch button[aria-pressed="true"] {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+.relation-view-switch button span {
+  color: var(--muted);
+  font-size: var(--text-note);
+  margin-left: 3px;
+}
+.relation-tools {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin: 12px 0;
+}
+.relation-tools .relation-scope {
+  font-size: var(--text-note);
+}
+.relation-zoom {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--line);
+}
+.relation-zoom button {
+  min-width: 30px;
+  height: 32px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--text-note);
+}
+.relation-zoom button:nth-child(2) {
+  min-width: 44px;
+}
+.relations-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: var(--text-note);
+  color: var(--muted);
+  margin: 0 0 10px;
+}
+.relations-legend span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.relations-legend i {
+  width: 18px;
+  border-top: 1.5px solid #899489;
+}
+.relations-legend .relation-marriage-key {
+  border-color: var(--accent);
+}
+.relations-viewport {
   width: 100%;
-  height: auto;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
   background: #f4f3e9;
+  border: 1px solid var(--line);
+  scrollbar-width: thin;
+  scrollbar-color: #b7c1ae #eeede2;
+}
+.relations-graph {
+  display: block;
+  max-width: none;
+  margin: 0 auto;
+  font-size: var(--text-ui);
+}
+.relationship-node {
+  cursor: pointer;
+}
+.relationship-node:hover rect,
+.relationship-node:focus-visible rect {
+  stroke: var(--accent);
+  stroke-width: 2;
+}
+.relation-person-name {
+  font: 500 14px var(--sans);
+}
+.relation-person-date {
   font-size: var(--text-note);
 }
 .relationship-label {
-  font: 13px var(--sans);
+  font: 14px var(--sans);
   fill: #6a7662;
   paint-order: stroke;
   stroke: #f4f3e9;
@@ -2522,9 +2617,6 @@ button {
   .role-comparison small,
   .role-comparison span {
     font-size: var(--text-note);
-  }
-  .relations-graph {
-    max-height: 410px;
   }
   .relationship-list li > button:first-child {
     font-size: var(--text-note);

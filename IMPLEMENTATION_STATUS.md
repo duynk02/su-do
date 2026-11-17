@@ -16,6 +16,12 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 
 ## Kiểm tra đã thực hiện
 
+Phả hệ phân tầng và tách loại quan hệ:
+- Đã thay bố cục vòng tròn bằng Gia đình theo tầng cha mẹ–con, đặt người phối ngẫu cùng hàng; Kế vị và Chính trị có chế độ riêng. Đường con nối từ đúng người có nguồn, không suy cha mẹ từ đường hôn nhân. Danh sách nguồn đi theo loại đang xem.
+- Mở rộng theo liên kết của chế độ đang chọn, giữ đủ các nhân vật/liên kết trong phạm vi và bỏ giới hạn cứng chín nút. Sơ đồ mặc định giữ tên 14px, cuộn ngang trong khung; có thu/phóng, về 100%, vừa khung cả hai chiều và mở hồ sơ từ ô bằng chuột/bàn phím.
+- Build và TypeScript đạt. 14 kiểm thử logic/dữ liệu đạt, gồm tách loại quan hệ, giữ đúng cha mẹ, đủ nút, không va chạm nhãn/ô ở cả 23 hồ sơ và trường hợp 12 người. Lượt Playwright cuối: 42 ca production đạt, 2 ca đối chứng hydration development bỏ qua đúng cấu hình; bao gồm đổi chế độ, mở rộng, cỡ chữ thực, vừa khung và điều hướng từ sơ đồ trên desktop/mobile.
+- Đã mở xem ảnh phả hệ Trần Cảnh và chuỗi kế vị riêng ở cỡ 100%, cùng sơ đồ Minh Tông mở rộng. Ảnh `family-tran-canh-expanded-*.png`, `succession-tran-canh-expanded-wide.png` và các ảnh quan hệ/hồ sơ được cập nhật. Giữ nguyên `next-env.d.ts` có sẵn ngoài commit.
+
 Thứ bậc mốc thời gian:
 - Các mốc con của Nhà Trần được thụt thêm một cấp, có trục nhánh riêng và đường nối ngang tới từng mốc; nhánh dừng tại mốc cuối. Mốc con đang chọn có nền nhấn, đường nhánh màu son và `aria-current`.
 - Build/TypeScript đạt. Đã kiểm tra ở 1920×1080, 1440×960 và 1024×768: chữ mốc con vẫn tối thiểu 13px, thụt sâu hơn mốc cha ít nhất 22px, cả năm nút mở đúng sự kiện và không có cuộn ngang/lỗi runtime. Mobile 390×844 vẫn chọn thời kỳ bằng bộ chọn sẵn có.

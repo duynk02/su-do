@@ -35,6 +35,10 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 
 `life` là cách ghi có nguồn, có thể gồm phần chưa biết như “Chưa rõ năm sinh – 1370”. Không lấy năm bắt đầu hoặc kết thúc trị vì thay cho năm sinh/mất. Vai trò Thượng hoàng của Nhân Tông 1293–1308 ghi thời gian mang tôn hiệu; mốc xuất gia Yên Tử 1299 là sự kiện riêng. Dị biệt của Thế thứ về giai đoạn 1293–1299 được lưu tại Claim vai trò.
 
+## Trình bày quan hệ
+
+Gia đình dùng cạnh `parent` để phân tầng, `marriage`/`sibling` để bố trí cùng hàng. Chỉ hiển thị các cạnh đã có, không tạo liên kết cha mẹ từ một hôn nhân. Các cạnh `succession` và `political` có chế độ xem riêng. Khi mở rộng, lấy các nhân vật trong hai bước liên kết của loại đang chọn và giữ các cạnh đã biết giữa họ; không cắt danh sách ở chín nút. Bố cục là thông tin trình bày, không thêm khẳng định lịch sử mới vào dữ liệu.
+
 ## Thêm thời kỳ mà không sửa logic cốt lõi
 
 1. Thêm Source đã đọc, Claim và Citation vào dữ liệu; chưa đủ nguồn thì giữ chưa xuất bản.

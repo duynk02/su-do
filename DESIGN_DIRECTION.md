@@ -36,7 +36,7 @@ Tránh hero quảng cáo, dashboard, bento, họa tiết giả cổ, gradient, c
 
 Đã sửa nhãn và đầu mũi tên sơ đồ bị che bởi nút, tăng độ tách giữa các nút, tăng cỡ chữ vùng đọc/chú thích nguồn. Mobile được thiết kế với một vùng đọc hoặc bản đồ, không xếp ba cột thành ba ô cuộn.
 
-Giới hạn còn lại: nhãn địa điểm có thể chen nhau khi zoom/pan tùy ý; sơ đồ mở rộng giới hạn 9 nút và vẫn cần danh sách văn bản khi nhiều cạnh. Chưa kiểm tra thiết bị cảm ứng thật, Safari/Firefox hoặc đánh giá WCAG đầy đủ. Chưa có chuyên gia lịch sử duyệt nội dung; điểm bất đồng mở được trên giao diện. Không dùng chuyển động trang trí, hero, thống kê quảng cáo hoặc chân dung AI.
+Giới hạn còn lại: nhãn địa điểm có thể chen nhau khi zoom/pan tùy ý; sơ đồ gia đình rộng cần cuộn ngang hoặc dùng thu phóng trong khung riêng. Chưa kiểm tra thiết bị cảm ứng thật, Safari/Firefox hoặc đánh giá WCAG đầy đủ. Chưa có chuyên gia lịch sử duyệt nội dung; điểm bất đồng mở được trên giao diện. Không dùng chuyển động trang trí, hero, thống kê quảng cáo hoặc chân dung AI.
 
 ## Cỡ chữ và khoảng trống cho nhãn
 
@@ -46,6 +46,8 @@ Giới hạn còn lại: nhãn địa điểm có thể chen nhau khi zoom/pan t
 - Đo kích thước chân bản đồ bằng ResizeObserver để các nút zoom nằm phía trên chú giải. Nhãn chừa khoảng cho điều khiển và chú thích cuối bản đồ.
 - Kiểm tra bằng trình duyệt ở 1920×1080, 1440×960, 1024×768, 390×844 và 360×800; ảnh `docs/screenshots/readability-<chiều rộng>.png` ghi trạng thái thực tế.
 
-## Nhãn trên sơ đồ quan hệ
+## Phả hệ và các loại quan hệ
 
-Các cạnh cùng một cặp nhân vật được tách bằng đường cong riêng, kể cả khi hai cạnh có hướng ngược nhau. Vị trí nhãn được tính theo từng cặp, kiểm tra khoảng trống với các nhãn khác và ô nhân vật. Nhãn cần dịch khỏi đường nối có một đường dẫn mảnh trở lại cạnh tương ứng. Lớp đường nối được vẽ trước ô nhân vật và chữ, tránh đường đi xuyên qua chữ. Kiểu nét, hướng mũi tên và nguồn của từng quan hệ được giữ riêng.
+Tách ba chế độ Gia đình / Kế vị / Chính trị. Gia đình dùng bố cục theo tầng cha mẹ–con và đặt người phối ngẫu cạnh nhau; quan hệ cha mẹ nối từ từng người có nguồn, không nối con vào giữa đường hôn nhân. Kế vị là chuỗi riêng với niên đại trị vì, không bị hiểu thành huyết thống. Chính trị giữ nhãn mô tả trực tiếp.
+
+Mở rộng thêm một bậc theo loại quan hệ đang xem và hiển thị các liên kết đã biết giữa những người trong phạm vi đó. Bỏ giới hạn cứng chín nút. Chữ tên giữ 14px ở mức 100%; sơ đồ rộng cuộn ngang trong khung, có nút thu nhỏ/phóng to, về 100% và vừa khung. Mỗi ô có thể mở hồ sơ bằng chuột hoặc bàn phím. Danh sách văn bản và nguồn vẫn đọc được dưới sơ đồ.

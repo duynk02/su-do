@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+
 import {
   chapters,
   citations,
@@ -8,13 +8,12 @@ import {
   people,
   periods,
   places,
-  relationships,
   sources,
   tenures,
 } from "@/data/history";
 import { statusLabels, type Person, type StoryChapter } from "@/data/schema";
 import { claimById, type AtlasState } from "@/lib/history";
-import { layoutRelations } from "@/lib/relations-layout";
+import { Relations } from "./relations";
 import { Icon } from "./icon";
 
 export interface ReaderActions {
@@ -68,172 +67,6 @@ export function PersonLinks({
         </button>
       ))}
     </div>
-  );
-}
-
-function Relations({
-  person,
-  actions,
-}: {
-  person: Person;
-  actions: ReaderActions;
-}) {
-  const [expand, setExpand] = useState(false);
-  const direct = relationships.filter(
-    (r) => r.from === person.id || r.to === person.id,
-  );
-  const directPeople = new Set(direct.flatMap((r) => [r.from, r.to]));
-  const edges = expand
-    ? relationships.filter(
-        (r) => directPeople.has(r.from) || directPeople.has(r.to),
-      )
-    : direct;
-  const graph = layoutRelations(person.id, edges);
-  return (
-    <section className="relations-section">
-      <div className="section-label">
-        Quan hệ gần <span>{direct.length} liên kết</span>
-      </div>
-      {direct.length ? (
-        <>
-          <svg
-            viewBox={`0 0 ${graph.width} ${graph.height}`}
-            className="relations-graph"
-            role="img"
-            aria-label={`Đồ thị quan hệ gần của ${person.name}. Chi tiết và nút chọn có trong danh sách bên dưới.`}
-          >
-            <defs>
-              <marker
-                id="relation-arrow"
-                markerWidth="5"
-                markerHeight="5"
-                refX="5"
-                refY="2.5"
-                orient="auto"
-              >
-                <path d="M0 0 5 2.5 0 5" fill="#899489" />
-              </marker>
-            </defs>
-            <g className="relationship-paths">
-              {graph.edges.map((r) => (
-                <path
-                  key={r.id}
-                  data-relationship={r.id}
-                  d={r.path}
-                  fill="none"
-                  stroke={r.type === "marriage" ? "#a13d2d" : "#899489"}
-                  strokeWidth={r.type === "parent" ? 1.5 : 1}
-                  strokeDasharray={
-                    r.type === "succession"
-                      ? "5 4"
-                      : r.type === "political"
-                        ? "2 3"
-                        : undefined
-                  }
-                  markerEnd={
-                    r.type === "parent" || r.type === "succession"
-                      ? "url(#relation-arrow)"
-                      : undefined
-                  }
-                />
-              ))}
-            </g>
-            <g className="relationship-leaders">
-              {graph.edges.map(
-                (r) =>
-                  r.labelBox.leaderEnd && (
-                    <line
-                      key={r.id}
-                      x1={r.labelBox.anchor.x}
-                      y1={r.labelBox.anchor.y}
-                      x2={r.labelBox.leaderEnd.x}
-                      y2={r.labelBox.leaderEnd.y}
-                      stroke="#a8b29f"
-                      strokeWidth="0.8"
-                    />
-                  ),
-              )}
-            </g>
-            {graph.nodes.map((p) => (
-              <g key={p.id} className="relationship-node" data-person={p.id}>
-                <rect
-                  x={p.x - 65}
-                  y={p.y - 19}
-                  width="130"
-                  height="38"
-                  fill={p.id === person.id ? "#a13d2d" : "#f6f4ed"}
-                  stroke={p.id === person.id ? "#a13d2d" : "#cccdbf"}
-                />
-                <text
-                  x={p.x}
-                  y={p.y + 5}
-                  textAnchor="middle"
-                  fill={p.id === person.id ? "#fffaf0" : "#29382f"}
-                >
-                  {pName(p.id)}
-                </text>
-              </g>
-            ))}
-            {graph.edges.map((r) => (
-              <g
-                key={r.id}
-                className="relationship-caption"
-                data-relationship={r.id}
-              >
-                <rect
-                  x={r.labelBox.x - r.labelBox.width / 2}
-                  y={r.labelBox.y - r.labelBox.height / 2}
-                  width={r.labelBox.width}
-                  height={r.labelBox.height}
-                  rx="3"
-                  fill="#f4f3e9"
-                />
-                <text
-                  x={r.labelBox.x}
-                  y={r.labelBox.y}
-                  dominantBaseline="central"
-                  textAnchor="middle"
-                  className="relationship-label"
-                >
-                  {r.label}
-                </text>
-              </g>
-            ))}
-          </svg>
-          <ul className="relationship-list">
-            {edges.map((r) => (
-              <li key={r.id}>
-                <button
-                  onClick={() =>
-                    actions.onPerson(r.from === person.id ? r.to : r.from)
-                  }
-                >
-                  {pName(r.from)} <span>{r.label.toLowerCase()}</span>{" "}
-                  {pName(r.to)}
-                </button>
-                <button
-                  className="citation"
-                  onClick={() => actions.onClaim(r.claimIds[0])}
-                  aria-label={`Nguồn quan hệ ${pName(r.from)} và ${pName(r.to)}`}
-                >
-                  ↗
-                </button>
-              </li>
-            ))}
-          </ul>
-          <button className="text-link" onClick={() => setExpand(!expand)}>
-            {expand ? "Thu về quan hệ gần" : "Mở thêm một bậc quan hệ"}{" "}
-            <Icon name="arrow" size={15} />
-          </button>
-          <p className="fine-print">
-            Liền: cha/mẹ–con hoặc hôn nhân. Nét đứt: kế vị. Nét chấm: quan hệ
-            chính trị.
-          </p>
-        </>
-      ) : (
-        <p>Chưa biên soạn quan hệ có nguồn cho nhân vật này.</p>
-      )}
-    </section>
   );
 }
 
