@@ -19,7 +19,11 @@ Sửa lỗi hydration và khả năng đọc:
 - Đã tái hiện đúng cảnh báo bằng cách chèn thuộc tính cursor trước hydration trên dev server.
 - Đã giới hạn xử lý tại `html`/`body`: 4/4 ca development desktop/mobile đạt, gồm đối chứng sai khác trong bài đọc vẫn được phát hiện.
 - Playwright dùng cổng riêng 3100 cho bản xuất tĩnh; phiên này giữ nguyên dev server có sẵn ở cổng 3000.
-- Đang hoàn thiện kiểm tra cỡ chữ và bố cục ở năm độ rộng 1920/1440/1024/390/360px.
+- Đã nâng chữ phụ/chú thích lên 13–14px và chữ bài đọc 16px, tăng tương phản, điều chỉnh hàng điều khiển để xuống dòng khi cần.
+- Nhãn địa điểm giữ cỡ 14px khi zoom; bố trí riêng trên màn hình hẹp và chừa khoảng cho nút lớp, zoom, chú giải. Năm độ rộng 1920/1440/1024/390/360px đã được đo và mở ảnh kiểm tra.
+- TypeScript và build bản xuất tĩnh đạt. Lượt kiểm thử cuối có 28/28 ca phù hợp production đạt; 2 ca đối chứng cảnh báo chỉ chạy ở development được bỏ qua trên production và đã đạt trong lượt dev 4/4.
+- Đã mở xem ảnh mới trên desktop 1920px và mobile 390/360px. Kiểm tra cỡ chữ hiển thị, va chạm nhãn với nút bản đồ/chú giải và cuộn ngang ở cả năm độ rộng đều đạt.
+- Giữ nguyên thay đổi `next-env.d.ts` đã có trước phiên sửa; không gộp tệp tự sinh này vào commit.
 
 - TypeScript: đạt.
 - Audit tham chiếu dữ liệu: đạt.

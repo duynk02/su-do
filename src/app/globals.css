@@ -23,7 +23,10 @@
   --paper: #f6f4ed;
   --page: #fbfaf6;
   --ink: #25362f;
-  --muted: #647067;
+  --muted: #526056;
+  --text-body: 16px;
+  --text-ui: 14px;
+  --text-note: 13px;
   --line: #d9dbd0;
   --accent: #a13d2d;
   --accent-light: #efe4da;
@@ -40,7 +43,7 @@ body {
   color: var(--ink);
   background: var(--paper);
   font-family: var(--sans);
-  font-size: 14px;
+  font-size: var(--text-body);
   -webkit-font-smoothing: antialiased;
 }
 button,
@@ -107,7 +110,7 @@ h3 {
   line-height: 1.6;
 }
 small {
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 button {
   transition:
@@ -141,7 +144,7 @@ button {
   top: 12px;
 }
 .eyebrow {
-  font-size: 10px;
+  font-size: var(--text-note);
   font-weight: 600;
   letter-spacing: 1.4px;
   text-transform: uppercase;
@@ -149,7 +152,7 @@ button {
   color: var(--muted);
 }
 .fine-print {
-  font-size: 11px;
+  font-size: var(--text-note);
   line-height: 1.85;
   color: var(--muted);
 }
@@ -158,7 +161,7 @@ button {
   align-items: center;
   gap: 8px;
   color: var(--accent);
-  font-size: 12px;
+  font-size: var(--text-note);
   padding: 6px 0;
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -178,7 +181,7 @@ button {
   color: #fff9ef;
   padding: 12px 17px;
   margin: 18px 0;
-  font-size: 12px;
+  font-size: var(--text-note);
 }
 .primary-action:hover:not(:disabled) {
   background: #873226;
@@ -201,7 +204,7 @@ button {
   overflow: hidden;
 }
 .site-header {
-  height: 83px;
+  height: 90px;
   display: flex;
   align-items: center;
   gap: 36px;
@@ -234,10 +237,10 @@ button {
   letter-spacing: -1.3px;
 }
 .brand-descriptor {
-  font-size: 8px;
+  font-size: var(--text-note);
   line-height: 1.7;
-  letter-spacing: 1.7px;
-  max-width: 84px;
+  letter-spacing: 0.7px;
+  max-width: 140px;
   white-space: normal;
   border-left: 1px solid var(--line);
   padding-left: 15px;
@@ -251,7 +254,7 @@ button {
   min-width: 180px;
   flex: 1;
   color: #727b72;
-  font-size: 11px;
+  font-size: var(--text-note);
   margin: auto;
   padding: 11px 14px;
   border: 1px solid var(--line);
@@ -259,8 +262,8 @@ button {
 }
 .header-search kbd {
   margin-left: auto;
-  font: 9px var(--sans);
-  color: #7b8177;
+  font: 13px var(--sans);
+  color: var(--muted);
   border: 1px solid #d4d6ca;
   padding: 2px 5px;
   white-space: nowrap;
@@ -268,7 +271,7 @@ button {
 .header-nav {
   display: flex;
   gap: 22px;
-  font-size: 11px;
+  font-size: var(--text-note);
   white-space: nowrap;
 }
 .header-nav button {
@@ -281,14 +284,16 @@ button {
   display: none;
 }
 .intro-strip {
-  height: 37px;
+  min-height: 48px;
+  height: auto;
+  padding-block: 8px;
   border-bottom: 1px solid var(--line);
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 32px;
   color: var(--muted);
-  font-size: 9px;
+  font-size: var(--text-ui);
   letter-spacing: 0.3px;
   flex-shrink: 0;
 }
@@ -314,13 +319,13 @@ button {
   gap: 7px;
 }
 .timeline-range {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
   line-height: 1.7;
 }
 .timeline-note {
-  font-size: 9px;
-  color: #7a8177;
+  font-size: var(--text-note);
+  color: var(--muted);
   line-height: 1.7;
   margin: 17px 0 24px;
 }
@@ -344,18 +349,18 @@ button {
   position: relative;
 }
 .period-button time {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
   line-height: 1.5;
 }
 .period-button strong {
-  font-size: 12px;
+  font-size: var(--text-note);
   font-weight: 400;
   line-height: 1.5;
 }
 .period-state {
-  font-size: 8px;
-  color: #7f847a;
+  font-size: var(--text-note);
+  color: var(--muted);
   line-height: 1.5;
 }
 .timeline-dot {
@@ -403,13 +408,13 @@ button {
   flex-direction: column;
   gap: 3px;
   text-align: left;
-  font-size: 8px;
+  font-size: var(--text-note);
   line-height: 1.6;
   padding: 7px 0;
   color: var(--muted);
 }
 .sub-timeline time {
-  font-size: 9px;
+  font-size: var(--text-note);
   font-weight: 600;
   font-variant-numeric: tabular-nums;
 }
@@ -417,7 +422,7 @@ button {
   color: var(--accent);
 }
 .timeline-foot {
-  font-size: 8px;
+  font-size: var(--text-note);
   color: var(--muted);
   margin-top: 25px;
   border-top: 1px solid var(--line);
@@ -429,7 +434,7 @@ button {
   align-items: center;
   gap: 8px;
   padding: 12px 0 0;
-  font-size: 10px;
+  font-size: var(--text-note);
 }
 .timeline-parallel {
   display: grid;
@@ -438,7 +443,7 @@ button {
   padding: 6px 0 7px 9px;
 }
 .timeline-parallel span {
-  font-size: 8px;
+  font-size: var(--text-note);
   line-height: 1.6;
   border-left: 2px solid #8e9e85;
   padding-left: 5px;
@@ -473,7 +478,7 @@ button {
 }
 .current-period small {
   color: var(--muted);
-  font-size: 10px;
+  font-size: var(--text-note);
   border-left: 1px solid var(--line);
   padding-left: 15px;
 }
@@ -487,7 +492,7 @@ button {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 10px;
+  font-size: var(--text-note);
   padding: 8px 10px;
   color: var(--muted);
 }
@@ -531,11 +536,11 @@ button {
   pointer-events: none;
 }
 .map-heading .eyebrow {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: #496058;
 }
 .map-date {
-  font-size: 8px;
+  font-size: var(--text-note);
   color: #496058;
   display: flex;
   gap: 7px;
@@ -551,13 +556,13 @@ button {
   position: absolute;
   top: 64px;
   left: 24px;
-  font-size: 8px;
+  font-size: var(--text-note);
   color: #4f655c;
   z-index: 1;
 }
 .map-layer-button {
   position: absolute;
-  top: 95px;
+  top: 122px;
   left: 24px;
   z-index: 3;
   display: flex;
@@ -566,20 +571,20 @@ button {
   background: var(--page);
   padding: 10px 12px;
   border: 1px solid #c8d2c7;
-  font-size: 10px;
+  font-size: var(--text-note);
 }
 .layer-panel {
   position: absolute;
-  top: 141px;
+  top: 176px;
   left: 24px;
   z-index: 5;
   background: var(--page);
   border: 1px solid #b9c7bb;
   box-shadow: 0 8px 25px #243c2e14;
-  width: 260px;
+  width: 300px;
   max-width: calc(100% - 48px);
   padding: 18px;
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .layer-panel strong {
   display: block;
@@ -597,7 +602,7 @@ button {
   margin-top: 3px;
 }
 .layer-panel p {
-  font-size: 10px;
+  font-size: var(--text-note);
   color: var(--muted);
   border-top: 1px solid var(--line);
   margin: 15px 0 0;
@@ -615,7 +620,7 @@ button {
   pointer-events: none;
 }
 .map-north span {
-  font-size: 10px;
+  font-size: var(--text-note);
 }
 .geography {
   height: 100%;
@@ -655,7 +660,7 @@ button {
   fill: currentColor;
 }
 .place-sublabel {
-  font: 400 8px var(--sans);
+  font: 400 13px var(--sans);
   paint-order: stroke;
   stroke: #ecece0;
   stroke-width: 4px;
@@ -668,7 +673,7 @@ button {
   opacity: 0.8;
 }
 .modern-labels text {
-  font: 11px var(--sans);
+  font: 13px var(--sans);
   fill: #627467;
   letter-spacing: 3px;
 }
@@ -682,8 +687,8 @@ button {
   box-shadow: 0 2px 8px #263c3010;
 }
 .map-controls button {
-  width: 34px;
-  height: 34px;
+  width: 44px;
+  height: 44px;
   background: var(--page);
   font-size: 22px;
   display: flex;
@@ -710,7 +715,7 @@ button {
   gap: 15px;
   flex-wrap: wrap;
   align-items: center;
-  font-size: 8px;
+  font-size: var(--text-ui);
   color: #4f6558;
   padding: 25px 0 14px;
 }
@@ -743,7 +748,7 @@ button {
   display: flex;
   gap: 7px;
   align-items: flex-start;
-  font-size: 9px;
+  font-size: var(--text-ui);
   line-height: 1.6;
   background: #f4f5eac9;
   border: 1px solid #c7d1c2;
@@ -754,7 +759,7 @@ button {
   margin-top: 1px;
 }
 .boundary-notice button {
-  font-size: 8px;
+  font-size: var(--text-note);
   text-decoration: underline;
   white-space: nowrap;
   margin-left: auto;
@@ -763,7 +768,7 @@ button {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 9px;
+  font-size: var(--text-ui);
   padding: 12px 0 10px;
   text-align: left;
 }
@@ -775,14 +780,14 @@ button {
   display: flex;
   justify-content: space-between;
   gap: 10px;
-  font-size: 7px;
-  color: #62766a;
+  font-size: var(--text-note);
+  color: #40594f;
   line-height: 1.6;
   border-top: 1px solid #c5d2c6;
   padding-top: 9px;
 }
 .map-credit button {
-  font-size: 7px;
+  font-size: var(--text-note);
   text-decoration: underline;
   padding: 0;
   white-space: nowrap;
@@ -800,19 +805,19 @@ button {
 }
 .map-place-list button {
   width: 100%;
-  font-size: 11px;
+  font-size: var(--text-note);
   text-align: left;
   padding: 8px 4px;
 }
 .map-place-list small {
   display: block;
   margin-top: 4px;
-  font-size: 8px;
+  font-size: var(--text-note);
   color: var(--muted);
   line-height: 1.6;
 }
 .modern-notice {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--accent);
   line-height: 1.5;
   margin: 8px 0;
@@ -825,15 +830,17 @@ button {
   padding: 12px;
   margin-top: 8px;
   border-left: 2px solid var(--accent);
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .selected-map-place span {
-  font-size: 9px;
+  font-size: var(--text-note);
   line-height: 1.7;
   color: var(--muted);
 }
 .year-bar {
-  height: 53px;
+  min-height: 76px;
+  height: auto;
+  padding-block: 12px;
   display: flex;
   gap: 15px;
   justify-content: space-between;
@@ -842,6 +849,7 @@ button {
   padding: 0 20px;
   background: #ecefe5;
   flex-shrink: 0;
+  flex-wrap: wrap;
 }
 .year-bar form {
   display: flex;
@@ -849,7 +857,7 @@ button {
   gap: 9px;
 }
 .year-bar label {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
   white-space: nowrap;
 }
@@ -869,9 +877,9 @@ button {
   padding: 4px;
 }
 .year-bar > span {
-  font-size: 7px;
+  font-size: var(--text-note);
   color: #687964;
-  max-width: 150px;
+  max-width: 210px;
   line-height: 1.6;
   text-align: right;
 }
@@ -883,7 +891,7 @@ button {
   z-index: 5;
   background: #fff9ee;
   padding: 12px;
-  font-size: 11px;
+  font-size: var(--text-note);
   color: var(--accent);
   border: 1px solid var(--accent);
 }
@@ -899,7 +907,7 @@ button {
   line-height: 2;
 }
 .map-loading small {
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .map-error {
   padding: 24px;
@@ -910,7 +918,7 @@ button {
   margin: 10px 0;
 }
 .map-error p {
-  font-size: 12px;
+  font-size: var(--text-note);
 }
 .map-skeleton {
   background: #dce7e3;
@@ -927,7 +935,7 @@ button {
 }
 .map-skeleton span {
   font-family: var(--sans);
-  font-size: 12px;
+  font-size: var(--text-note);
 }
 .reader-column {
   display: flex;
@@ -948,7 +956,7 @@ button {
 }
 .reader-tabs > button {
   height: 100%;
-  font-size: 10px;
+  font-size: var(--text-note);
   padding: 0 0;
   position: relative;
   white-space: nowrap;
@@ -977,13 +985,13 @@ button {
   gap: 14px;
   padding: 13px 25px 12px;
   border-bottom: 1px solid #e7e7dc;
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
   flex-shrink: 0;
 }
 .chapter-select > span {
   white-space: nowrap;
-  font-size: 8px;
+  font-size: var(--text-note);
   letter-spacing: 0.6px;
 }
 .chapter-select select {
@@ -992,7 +1000,7 @@ button {
   max-width: 100%;
   background: transparent;
   border: 0;
-  font-size: 10px;
+  font-size: var(--text-note);
   color: var(--ink);
   padding: 4px 12px 4px 0;
   text-overflow: ellipsis;
@@ -1012,7 +1020,7 @@ button {
   justify-content: space-between;
   gap: 12px;
   color: var(--muted);
-  font-size: 8px;
+  font-size: var(--text-note);
   letter-spacing: 0.3px;
 }
 .chapter-kicker > span:first-child {
@@ -1042,7 +1050,7 @@ button {
   display: inline-flex;
   color: var(--accent);
   background: #eee8dc;
-  font-size: 8px;
+  font-size: var(--text-note);
   line-height: 1;
   vertical-align: super;
   min-width: 18px;
@@ -1064,7 +1072,7 @@ button {
   border-left: 1px solid #b9c5b1;
   padding: 8px 0 8px 23px;
   margin: 29px 0 30px;
-  font-size: 11px;
+  font-size: var(--text-note);
   gap: 8px;
   position: relative;
 }
@@ -1081,7 +1089,7 @@ button {
   color: #a2ae98;
 }
 .cause-chain small {
-  font-size: 8px;
+  font-size: var(--text-note);
   line-height: 1.7;
   margin-top: 8px;
   color: var(--muted);
@@ -1092,7 +1100,7 @@ button {
   border-left: 2px solid #8c9d7d;
 }
 .reading-prompt > span {
-  font-size: 8px;
+  font-size: var(--text-note);
   letter-spacing: 0.8px;
   text-transform: uppercase;
   color: #6f7d60;
@@ -1104,7 +1112,7 @@ button {
   color: #55644c;
 }
 .section-label {
-  font-size: 9px;
+  font-size: var(--text-note);
   text-transform: uppercase;
   letter-spacing: 0.9px;
   font-weight: 600;
@@ -1116,7 +1124,7 @@ button {
   gap: 10px;
 }
 .section-label > span {
-  font-size: 8px;
+  font-size: var(--text-note);
   letter-spacing: 0;
   text-transform: none;
   font-weight: 400;
@@ -1155,14 +1163,14 @@ button {
   border-bottom: 1px solid #e1e4d8;
   padding: 13px 0;
   width: 100%;
-  font-size: 12px;
+  font-size: var(--text-note);
   line-height: 1.7;
 }
 .place-link {
   display: flex;
   align-items: center;
   gap: 7px;
-  font-size: 11px;
+  font-size: var(--text-note);
   border-bottom: 1px solid #e1e4d8;
   padding: 12px 0;
   width: 100%;
@@ -1170,7 +1178,7 @@ button {
   line-height: 1.6;
 }
 .place-link small {
-  font-size: 8px;
+  font-size: var(--text-note);
   margin-left: auto;
   color: var(--muted);
   text-align: right;
@@ -1180,16 +1188,16 @@ button {
   background: #f1ede2;
   padding: 14px 15px;
   margin: 22px 0;
-  font-size: 11px;
+  font-size: var(--text-note);
   line-height: 1.9;
 }
 .editorial-note strong {
-  font-size: 10px;
+  font-size: var(--text-note);
   color: #7f643f;
   font-weight: 600;
 }
 .editorial-note p {
-  font-size: 11px;
+  font-size: var(--text-note);
   line-height: 1.9;
   margin: 6px 0 0;
   color: #6d654f;
@@ -1202,17 +1210,17 @@ button {
   justify-content: space-between;
   gap: 12px;
   margin-top: 35px;
-  font-size: 10px;
+  font-size: var(--text-note);
 }
 .chapter-pagination button {
   display: flex;
   align-items: center;
   gap: 8px;
   padding: 5px 0;
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .chapter-pagination > span {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
 }
 .reader-footer {
@@ -1228,14 +1236,14 @@ button {
   display: flex;
   align-items: center;
   gap: 7px;
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
 }
 .reader-editorial-status {
   margin-top: 32px;
   padding-top: 18px;
   border-top: 1px solid var(--line);
-  font-size: 8px;
+  font-size: var(--text-note);
   line-height: 1.9;
   color: var(--muted);
 }
@@ -1255,7 +1263,7 @@ button {
 }
 .role-comparison small {
   color: var(--muted);
-  font-size: 9px;
+  font-size: var(--text-note);
 }
 .role-comparison button {
   display: flex;
@@ -1266,7 +1274,7 @@ button {
   text-align: left;
 }
 .role-comparison span {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
   line-height: 1.7;
 }
@@ -1278,11 +1286,11 @@ button {
   gap: 12px;
   border-top: 1px solid #e1e4d7;
   padding: 13px 0;
-  font-size: 11px;
+  font-size: var(--text-note);
   line-height: 1.6;
 }
 .ruler-index {
-  font-size: 8px;
+  font-size: var(--text-note);
   color: #96a08c;
   min-width: 15px;
 }
@@ -1293,13 +1301,13 @@ button {
 .ruler-list small {
   display: block;
   font-family: var(--sans);
-  font-size: 8px;
+  font-size: var(--text-note);
   color: var(--muted);
   margin-top: 4px;
 }
 .ruler-list time {
   margin-left: auto;
-  font-size: 9px;
+  font-size: var(--text-note);
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
   color: var(--muted);
@@ -1317,7 +1325,7 @@ button {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  font-size: 11px;
+  font-size: var(--text-note);
   border-left: 2px dashed #90a17c;
   width: 100%;
   padding: 9px 10px;
@@ -1325,7 +1333,7 @@ button {
   background: #f0f2e9;
 }
 .retired-list time {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
 }
 .war-sequence {
@@ -1336,7 +1344,7 @@ button {
   display: flex;
   gap: 12px;
   align-items: center;
-  font-size: 10px;
+  font-size: var(--text-note);
   line-height: 1.7;
   text-align: left;
   width: 100%;
@@ -1368,7 +1376,7 @@ button {
   flex-direction: column;
   gap: 7px;
   line-height: 1.7;
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--muted);
   border-top: 1px solid #d9d7ca;
 }
@@ -1377,13 +1385,13 @@ button {
   color: var(--ink);
 }
 .artifact-type {
-  font-size: 8px;
+  font-size: var(--text-note);
   letter-spacing: 0.8px;
   text-transform: uppercase;
   color: #866141;
 }
 .artifact .text-link {
-  font-size: 9px;
+  font-size: var(--text-note);
   padding-bottom: 0;
   align-self: flex-start;
 }
@@ -1395,7 +1403,7 @@ button {
   padding: 24px 0;
   margin: 25px 0;
   border-block: 1px solid var(--line);
-  font-size: 12px;
+  font-size: var(--text-note);
   text-align: center;
 }
 .transition-visual button {
@@ -1404,12 +1412,12 @@ button {
 }
 .transition-visual small {
   display: block;
-  font: 400 9px/1.7 var(--sans);
+  font: 400 13px/1.7 var(--sans);
   margin-top: 6px;
   color: var(--muted);
 }
 .transition-visual > span {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--accent);
 }
 .diplomacy-visual {
@@ -1423,7 +1431,7 @@ button {
   margin: 28px 0;
 }
 .diplomacy-visual > span:nth-child(2) {
-  font-size: 9px;
+  font-size: var(--text-note);
   line-height: 1.8;
   color: var(--muted);
   border-inline: 1px solid var(--line);
@@ -1431,7 +1439,7 @@ button {
 .diplomacy-visual small {
   grid-column: 1/-1;
   margin-top: 22px;
-  font-size: 8px;
+  font-size: var(--text-note);
   color: var(--muted);
 }
 .ending-visual {
@@ -1443,7 +1451,7 @@ button {
   padding-top: 20px;
 }
 .ending-visual span {
-  font-size: 10px;
+  font-size: var(--text-note);
   line-height: 1.7;
 }
 .ending-visual time {
@@ -1454,7 +1462,7 @@ button {
 }
 .ending-visual small {
   grid-column: 1/-1;
-  font-size: 8px;
+  font-size: var(--text-note);
   line-height: 1.8;
   color: var(--muted);
 }
@@ -1475,14 +1483,14 @@ button {
   gap: 6px;
   align-items: center;
   color: var(--muted);
-  font-size: 9px;
+  font-size: var(--text-note);
   padding: 0 0 10px;
 }
 .person-names {
   display: grid;
   grid-template-columns: 85px 1fr;
   gap: 10px 12px;
-  font-size: 10px;
+  font-size: var(--text-note);
   line-height: 1.9;
   margin: 22px 0 26px;
 }
@@ -1498,7 +1506,7 @@ button {
   gap: 10px;
   align-items: center;
   border-left: 2px solid var(--accent);
-  font-size: 10px;
+  font-size: var(--text-note);
   margin: 9px 0;
   background: #f0eee5;
 }
@@ -1508,17 +1516,17 @@ button {
 }
 .role-tenures time {
   margin-left: auto;
-  font-size: 11px;
+  font-size: var(--text-note);
   white-space: nowrap;
 }
 .relations-graph {
   width: 100%;
   height: auto;
   background: #f4f3e9;
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .relationship-label {
-  font: 11px var(--sans);
+  font: 13px var(--sans);
   fill: #6a7662;
   paint-order: stroke;
   stroke: #f4f3e9;
@@ -1538,14 +1546,14 @@ button {
   gap: 6px;
 }
 .relationship-list li > button:first-child {
-  font-size: 10px;
+  font-size: var(--text-note);
   text-align: left;
   padding: 0;
   line-height: 1.9;
 }
 .relationship-list li > button:first-child span {
   color: var(--muted);
-  font-size: 8px;
+  font-size: var(--text-note);
   margin: 0 4px;
 }
 .relationship-list .citation {
@@ -1570,19 +1578,19 @@ button {
   font: 500 22px var(--serif);
 }
 .event-index strong {
-  font-size: 12px;
+  font-size: var(--text-note);
   font-weight: 400;
   line-height: 1.7;
 }
 .location-precision {
-  font-size: 11px;
+  font-size: var(--text-note);
   line-height: 1.8;
   color: var(--muted);
   border-bottom: 1px solid var(--line);
   padding-bottom: 20px;
 }
 .status-line {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: #7f7256;
   display: flex;
   align-items: center;
@@ -1600,7 +1608,7 @@ button {
   flex-direction: column;
   gap: 14px;
   margin: 26px 0;
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .period-facts > div {
   display: flex;
@@ -1621,12 +1629,12 @@ button {
   width: 100%;
   border-top: 1px solid var(--line);
   padding: 15px 0;
-  font-size: 11px;
+  font-size: var(--text-note);
   text-align: left;
   line-height: 1.7;
 }
 .chapter-index button span {
-  font-size: 9px;
+  font-size: var(--text-note);
   color: var(--accent);
 }
 .chapter-index button svg {
@@ -1641,7 +1649,7 @@ button {
   gap: 10px;
 }
 .period-pagination button {
-  font-size: 10px;
+  font-size: var(--text-note);
   padding: 5px 0;
 }
 .parallel-lanes {
@@ -1658,10 +1666,10 @@ button {
   gap: 9px;
 }
 .parallel-lanes strong {
-  font-size: 12px;
+  font-size: var(--text-note);
 }
 .parallel-lanes span {
-  font-size: 9px;
+  font-size: var(--text-note);
   line-height: 1.8;
   color: var(--muted);
 }
@@ -1677,7 +1685,7 @@ button {
 }
 .parallel-lanes p,
 .parallel-lanes a {
-  font-size: 10px;
+  font-size: var(--text-note);
   line-height: 1.9;
 }
 .mobile-pane-switch {
@@ -1735,7 +1743,7 @@ button {
   display: flex;
   gap: 12px;
   flex-wrap: wrap;
-  font-size: 10px;
+  font-size: var(--text-note);
   color: var(--accent);
 }
 .evidence-status > span + span {
@@ -1766,7 +1774,7 @@ button {
   margin-left: 8px;
 }
 .source-byline {
-  font-size: 10px;
+  font-size: var(--text-note);
   color: var(--muted);
   line-height: 1.8;
   margin-bottom: 17px;
@@ -1775,7 +1783,7 @@ button {
   display: grid;
   grid-template-columns: 110px minmax(0, 1fr);
   gap: 13px 15px;
-  font-size: 11px;
+  font-size: var(--text-note);
   line-height: 1.9;
 }
 .evidence-list dt {
@@ -1808,10 +1816,10 @@ button {
 }
 .search-field ~ .fine-print {
   margin-top: 10px;
-  font-size: 10px;
+  font-size: var(--text-note);
 }
 .search-count {
-  font-size: 11px;
+  font-size: var(--text-note);
   color: var(--muted);
   margin: 20px 27px 14px;
 }
@@ -1833,7 +1841,7 @@ button {
   gap: 7px;
 }
 .search-results small {
-  font-size: 8px;
+  font-size: var(--text-note);
   color: var(--accent);
   text-transform: uppercase;
   letter-spacing: 0.8px;
@@ -1842,7 +1850,7 @@ button {
   font: 500 18px var(--serif);
 }
 .search-results span {
-  font-size: 10px;
+  font-size: var(--text-note);
   color: var(--muted);
   line-height: 1.8;
 }
@@ -1863,7 +1871,7 @@ button {
 }
 .dialog-tabs button {
   padding: 19px 0;
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .dialog-tabs button[aria-pressed="true"] {
   color: var(--accent);
@@ -1882,11 +1890,11 @@ button {
   margin: 28px 0 14px;
 }
 .methods-content p {
-  font-size: 12px;
+  font-size: var(--text-note);
   line-height: 1.95;
 }
 .methods-content .fine-print {
-  font-size: 10px;
+  font-size: var(--text-note);
 }
 .source-library {
   list-style: none;
@@ -1898,7 +1906,7 @@ button {
   border-bottom: 1px solid var(--line);
 }
 .source-kind {
-  font-size: 8px;
+  font-size: var(--text-note);
   text-transform: uppercase;
   color: var(--accent);
   letter-spacing: 1px;
@@ -1908,13 +1916,13 @@ button {
   margin: 10px 0;
 }
 .source-library p {
-  font-size: 10px;
+  font-size: var(--text-note);
   line-height: 1.9;
   color: var(--muted);
   margin-bottom: 12px;
 }
 .source-library summary {
-  font-size: 11px;
+  font-size: var(--text-note);
   cursor: pointer;
   padding: 5px 0;
 }
@@ -1932,7 +1940,7 @@ button {
   display: flex;
   gap: 20px;
   align-items: center;
-  font-size: 12px;
+  font-size: var(--text-note);
   z-index: 100;
   max-width: 90vw;
   box-shadow: 0 3px 20px #162b3225;
@@ -1967,44 +1975,44 @@ button {
   }
   .period-state,
   .period-button time {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .period-button {
     padding-block: 10px;
   }
   .sub-timeline li button {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .section-label {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .person-links button {
     font-size: 15px;
   }
   .header-search {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .header-nav {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .map-heading .eyebrow {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .map-caption-top {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .boundary-notice {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .map-credit,
   .map-credit button {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .reader-tabs > button {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .chapter-select select {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .reader-tabs {
     height: 62px;
@@ -2016,13 +2024,13 @@ button {
     font-size: 24px;
   }
   .mode-switch button {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .chapter-kicker {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .reader-editorial-status {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
 }
 @media (min-width: 1100px) and (max-width: 1290px) {
@@ -2061,23 +2069,23 @@ button {
     right: 18px;
   }
   .map-date {
-    font-size: 7px;
+    font-size: var(--text-note);
   }
   .map-date strong {
     font-size: 18px;
   }
   .map-heading .eyebrow {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .map-caption-top {
     left: 18px;
-    font-size: 7px;
+    font-size: var(--text-note);
   }
   .map-bottom {
     padding-inline: 14px;
   }
   .boundary-notice {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .map-legend {
     gap: 12px;
@@ -2098,7 +2106,7 @@ button {
   }
   .header-nav {
     gap: 14px;
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .atlas-layout {
     grid-template-columns: 165px minmax(0, 1fr);
@@ -2107,14 +2115,14 @@ button {
     padding: 24px 14px 14px 18px;
   }
   .period-button strong {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .period-state,
   .period-button time {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .timeline-range {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .map-and-reader {
     grid-template-columns: minmax(0, 1fr) 350px;
@@ -2150,9 +2158,9 @@ button {
     font-size: 18px;
   }
   .map-layer-button {
-    top: 100px;
+    top: 122px;
     left: 15px;
-    font-size: 9px;
+    font-size: var(--text-note);
     padding: 8px;
   }
   .map-north {
@@ -2161,13 +2169,13 @@ button {
   }
   .map-legend {
     gap: 10px;
-    font-size: 7px;
+    font-size: var(--text-note);
   }
   .map-bottom {
     padding-inline: 12px;
   }
   .boundary-notice {
-    font-size: 8px;
+    font-size: var(--text-note);
     padding: 9px;
     flex-wrap: wrap;
   }
@@ -2176,7 +2184,7 @@ button {
   }
   .map-credit,
   .map-credit button {
-    font-size: 6px;
+    font-size: var(--text-note);
   }
   .map-controls {
     right: 12px;
@@ -2190,13 +2198,13 @@ button {
   }
   .mode-switch button {
     padding: 8px;
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .current-period > span {
     font-size: 19px;
   }
   .current-period small {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .chapter-select {
     padding-inline: 20px;
@@ -2223,7 +2231,7 @@ button {
     overflow: visible;
   }
   .site-header {
-    height: 73px;
+    height: 86px;
     padding: 0 20px;
     gap: 15px;
   }
@@ -2231,8 +2239,8 @@ button {
     font-size: 29px;
   }
   .brand-descriptor {
-    font-size: 7px;
-    max-width: 84px;
+    font-size: var(--text-note);
+    max-width: 140px;
   }
   .brand-mark {
     width: 32px;
@@ -2249,7 +2257,7 @@ button {
   .intro-strip {
     height: 34px;
     padding-inline: 20px;
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .intro-strip span:last-child {
     display: none;
@@ -2274,7 +2282,7 @@ button {
     display: flex;
     align-items: center;
     gap: 16px;
-    font-size: 10px;
+    font-size: var(--text-note);
     color: var(--muted);
   }
   .mobile-period-select select {
@@ -2284,7 +2292,7 @@ button {
     color: var(--ink);
     border: 1px solid var(--line);
     padding: 10px;
-    font-size: 12px;
+    font-size: var(--text-note);
     max-width: 100%;
   }
   .exploration-toolbar {
@@ -2299,11 +2307,11 @@ button {
     font-size: 22px;
   }
   .current-period small {
-    font-size: 9px;
+    font-size: var(--text-note);
     padding-left: 10px;
   }
   .mode-switch button {
-    font-size: 9px;
+    font-size: var(--text-note);
     padding: 8px;
     gap: 4px;
   }
@@ -2324,7 +2332,7 @@ button {
     align-items: center;
     justify-content: center;
     gap: 8px;
-    font-size: 12px;
+    font-size: var(--text-note);
     padding: 0 2px;
     border-bottom: 2px solid transparent;
   }
@@ -2359,66 +2367,66 @@ button {
     right: 20px;
   }
   .map-heading .eyebrow {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .map-date {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .map-date strong {
     font-size: 22px;
   }
   .map-caption-top {
     left: 20px;
-    font-size: 8px;
+    font-size: var(--text-note);
     top: 64px;
   }
   .map-layer-button {
     left: 20px;
-    top: 95px;
-    font-size: 11px;
+    top: 122px;
+    font-size: var(--text-note);
   }
   .map-bottom {
     padding-inline: 20px;
   }
   .map-legend {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .boundary-notice {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .boundary-notice button {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .map-list-toggle {
-    font-size: 11px;
+    font-size: var(--text-note);
     padding-block: 14px;
   }
   .map-credit,
   .map-credit button {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .map-controls {
     bottom: 230px;
   }
   .map-place-list button {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .map-place-list small {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .year-bar {
     height: 58px;
     padding-inline: 20px;
   }
   .year-bar label {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .year-bar input {
     font-size: 15px;
     width: 70px;
   }
   .year-bar > span {
-    font-size: 9px;
+    font-size: var(--text-note);
     max-width: 170px;
   }
   .reader-column {
@@ -2430,17 +2438,17 @@ button {
     gap: 27px;
   }
   .reader-tabs > button {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .chapter-select {
     padding: 15px 24px;
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .chapter-select > span {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .chapter-select select {
-    font-size: 11px;
+    font-size: var(--text-note);
     padding-block: 5px;
   }
   .reader-body {
@@ -2452,7 +2460,7 @@ button {
     align-self: center;
   }
   .chapter-kicker {
-    font-size: 10px;
+    font-size: var(--text-note);
     gap: 10px;
   }
   h2 {
@@ -2473,7 +2481,7 @@ button {
   .citation {
     min-height: 22px;
     min-width: 22px;
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .cause-chain {
     font-size: 13px;
@@ -2484,10 +2492,10 @@ button {
     font-size: 15px;
   }
   .cause-chain small {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .section-label {
-    font-size: 10px;
+    font-size: var(--text-note);
     margin-top: 32px;
   }
   .person-links button {
@@ -2495,7 +2503,7 @@ button {
     padding: 15px 0;
   }
   .reading-prompt > span {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .reading-prompt p {
     font-size: 16px;
@@ -2509,66 +2517,66 @@ button {
     padding-block: 15px;
   }
   .place-link small {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .chapter-pagination button {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .chapter-pagination > span {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .reader-editorial-status {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .reader-footer {
     padding: 19px 26px;
   }
   .reader-footer button {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .editorial-note strong {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .editorial-note p {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .fine-print {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .ruler-list button > span:nth-child(2) {
     font-size: 15px;
   }
   .ruler-list time {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .ruler-list small {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .ruler-index {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .retired-list button {
     font-size: 13px;
     padding: 12px;
   }
   .retired-list time {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .role-comparison button {
     font-size: 19px;
   }
   .role-comparison small,
   .role-comparison span {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .relations-graph {
     max-height: 410px;
   }
   .relationship-list li > button:first-child {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .relationship-list li > button:first-child span {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .war-sequence time {
     font-size: 24px;
@@ -2581,41 +2589,41 @@ button {
     max-height: 300px;
   }
   .artifact figcaption {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .artifact figcaption strong {
     font-size: 18px;
   }
   .artifact .text-link {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .transition-visual button {
     font-size: 17px;
   }
   .transition-visual small {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .diplomacy-visual {
     font-size: 15px;
   }
   .diplomacy-visual > span:nth-child(2) {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .ending-visual time {
     font-size: 27px;
   }
   .ending-visual span {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .ending-visual small {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .person-names {
-    font-size: 12px;
+    font-size: var(--text-note);
     grid-template-columns: 90px 1fr;
   }
   .role-tenures > div:not(.section-label) {
-    font-size: 12px;
+    font-size: var(--text-note);
     padding: 15px 10px;
   }
   .role-tenures time {
@@ -2625,7 +2633,7 @@ button {
     font-size: 13px;
   }
   .back-link {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .event-index time {
     font-size: 25px;
@@ -2637,14 +2645,14 @@ button {
     font-size: 13px;
   }
   .status-line {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .chapter-index button {
     font-size: 13px;
     padding-block: 18px;
   }
   .chapter-index button span {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .period-facts {
     font-size: 13px;
@@ -2657,14 +2665,14 @@ button {
     font-size: 15px;
   }
   .parallel-lanes span {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .parallel-lanes p,
   .parallel-lanes a {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .period-pagination button {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
 }
 @media (max-width: 420px) {
@@ -2672,10 +2680,10 @@ button {
     padding-inline: 16px;
   }
   .brand-descriptor {
-    font-size: 6px;
-    max-width: 73px;
+    font-size: var(--text-note);
+    max-width: 112px;
     padding-left: 11px;
-    letter-spacing: 1.1px;
+    letter-spacing: 0.5px;
   }
   .brand {
     gap: 8px;
@@ -2699,15 +2707,15 @@ button {
     padding: 2px;
   }
   .mode-switch button {
-    font-size: 8px;
+    font-size: var(--text-note);
     padding: 8px 6px;
   }
   .mobile-period-select {
     gap: 9px;
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   .mobile-period-select select {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .reader-tabs {
     gap: 24px;
@@ -2717,17 +2725,17 @@ button {
     padding: 28px 22px;
   }
   .reader-tabs > button {
-    font-size: 11px;
+    font-size: var(--text-note);
   }
   .chapter-select {
     padding-inline: 21px;
     gap: 8px;
   }
   .chapter-select select {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .chapter-select > span {
-    font-size: 9px;
+    font-size: var(--text-note);
   }
   h2 {
     font-size: 29px;
@@ -2742,28 +2750,28 @@ button {
     font-size: 17px;
   }
   .map-heading .eyebrow {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .map-date {
-    font-size: 7px;
+    font-size: var(--text-note);
   }
   .map-date strong {
     font-size: 20px;
   }
   .boundary-notice {
-    font-size: 9px;
+    font-size: var(--text-note);
     flex-wrap: wrap;
   }
   .boundary-notice button {
     margin-left: 22px;
   }
   .map-legend {
-    font-size: 8px;
+    font-size: var(--text-note);
     gap: 12px;
   }
   .map-credit,
   .map-credit button {
-    font-size: 7px;
+    font-size: var(--text-note);
   }
   .modal {
     max-width: calc(100vw - 20px);
@@ -2788,13 +2796,13 @@ button {
   .evidence-list dl {
     grid-template-columns: 1fr;
     gap: 5px;
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .evidence-list dd {
     margin-bottom: 12px;
   }
   .evidence-list dt {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .evidence-status {
     margin-inline: 20px;
@@ -2814,7 +2822,7 @@ button {
     gap: 15px;
   }
   .dialog-tabs button {
-    font-size: 10px;
+    font-size: var(--text-note);
   }
   .source-library {
     padding-inline: 20px;
@@ -2823,7 +2831,7 @@ button {
     margin-inline: 20px;
   }
   .search-field input {
-    font-size: 12px;
+    font-size: var(--text-note);
   }
   .search-results {
     padding-inline: 20px;
@@ -2841,43 +2849,86 @@ button {
     font-size: 15px;
   }
   .transition-visual > span {
-    font-size: 8px;
+    font-size: var(--text-note);
   }
   .year-bar > span {
-    font-size: 8px;
+    font-size: var(--text-note);
     max-width: 140px;
   }
 }
 .claim-text {
-  font-size: 15px;
+  font-size: var(--text-body);
 }
 .map-context-note {
   margin: 8px 0;
   padding: 8px 10px;
   border-left: 2px solid #a48b60;
   background: #f4f3e7;
-  font-size: 10px;
+  font-size: var(--text-note);
   line-height: 1.8;
   color: #655d45;
 }
 .evidence-list dl,
 .methods-content p,
 .source-library p {
-  font-size: 12px;
+  font-size: var(--text-note);
 }
 .reader-tabs > button,
 .header-nav,
 .header-search {
-  font-size: 12px;
+  font-size: var(--text-note);
 }
 .chapter-select select {
-  font-size: 11px;
+  font-size: var(--text-note);
 }
 .lead-paragraph {
   font-size: 16px;
 }
 .chapter-question {
   font-size: 18px;
+}
+@media (max-width: 900px) {
+  .map-stage,
+  .geography {
+    min-height: 650px;
+  }
+  .map-heading {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .map-date {
+    white-space: nowrap;
+  }
+  .map-caption-top {
+    top: 98px;
+  }
+  .map-layer-button {
+    top: 152px;
+  }
+  .layer-panel {
+    top: 202px;
+  }
+  .map-north {
+    top: 165px;
+  }
+  .exploration-toolbar {
+    height: auto;
+    min-height: 76px;
+    padding-block: 12px;
+    flex-wrap: wrap;
+  }
+  .year-bar {
+    height: auto;
+    padding-block: 12px;
+  }
+  .year-bar > span {
+    max-width: 170px;
+  }
+  .map-caption-top {
+    right: 20px;
+    line-height: 1.6;
+  }
 }
 @media (prefers-reduced-motion: reduce) {
   *,

@@ -39,6 +39,27 @@ export default function AtlasMap({
   const [placeLayer, setPlaceLayer] = useState(true);
   const [layerPanel, setLayerPanel] = useState(false);
   const [listOpen, setListOpen] = useState(false);
+  const stageRef = useRef<HTMLDivElement>(null);
+  const footerRef = useRef<HTMLDivElement>(null);
+  const [viewportScale, setViewportScale] = useState(1);
+  const [stageHeight, setStageHeight] = useState(800);
+  const [footerHeight, setFooterHeight] = useState(210);
+  useEffect(() => {
+    const measure = () => {
+      const stage = stageRef.current?.getBoundingClientRect();
+      if (stage?.width && stage.height) {
+        setViewportScale(Math.min(stage.width / 700, stage.height / 800));
+        setStageHeight(stage.height);
+      }
+      if (footerRef.current)
+        setFooterHeight(footerRef.current.getBoundingClientRect().height);
+    };
+    const observer = new ResizeObserver(measure);
+    if (stageRef.current) observer.observe(stageRef.current);
+    if (footerRef.current) observer.observe(footerRef.current);
+    measure();
+    return () => observer.disconnect();
+  }, []);
   const drag = useRef<{
     x: number;
     y: number;
@@ -97,15 +118,30 @@ export default function AtlasMap({
       Math.min(3, Math.max(0.6, Math.round((v + amount) * 10) / 10)),
     );
   const labelOffsets: Record<string, [number, number]> = {
-    "thang-long": [-24, -27],
-    "kiep-bac": [-40, -84],
-    "thai-mieu": [38, -58],
-    "yen-tu": [48, -18],
+    "thang-long": [-18, viewportScale < 0.65 ? 60 : 34],
+    "kiep-bac": [-40, viewportScale < 0.65 ? -30 : -84],
+    "thai-mieu": [38, viewportScale < 0.65 ? 4 : -58],
+    "yen-tu": [48, viewportScale < 0.65 ? 38 : -18],
     "tay-do": [20, 12],
   };
+  const compact = viewportScale < 0.65;
+  const reference = places.find((p) => p.id === "kiep-bac");
+  const referenceY = reference?.coordinates
+    ? projection(reference.coordinates)?.[1]
+    : null;
+  const compactClearance =
+    compact && referenceY != null
+      ? Math.max(
+          0,
+          214 -
+            ((stageHeight - 800 * viewportScale) / 2 +
+              (offset[1] + 400 + (referenceY - 400) * zoom) * viewportScale -
+              30),
+        )
+      : 0;
 
   return (
-    <div className={`map-stage ${wide ? "map-wide" : ""}`}>
+    <div ref={stageRef} className={`map-stage ${wide ? "map-wide" : ""}`}>
       <div className="map-heading">
         <span className="eyebrow">Không gian lịch sử</span>
         <span className="map-date">
@@ -308,9 +344,47 @@ export default function AtlasMap({
             {placeLayer &&
               dots.map((p) => {
                 const [x, y] = projection(p.coordinates!)!;
-                const [dx, dy] = labelOffsets[p.id] ?? [16, -16];
+                const [dxPixels, dyPixels] = labelOffsets[p.id] ?? [16, -16];
+                const drawingScale = viewportScale * zoom;
+                const screenX = offset[0] + 350 + (x - 350) * zoom;
+                const textWidth =
+                  Math.max(
+                    p.name.length * 7.7,
+                    p.type === "capital" ? 150 : 0,
+                  ) / viewportScale;
+                const margin = 16 / viewportScale;
+                const controlMargin = 76 / viewportScale;
+                const labelScreenX = Math.max(
+                  dxPixels < 0 ? margin + textWidth : margin,
+                  Math.min(
+                    700 - controlMargin - (dxPixels < 0 ? 0 : textWidth),
+                    screenX + dxPixels / viewportScale,
+                  ),
+                );
+                const labelX = 350 + (labelScreenX - offset[0] - 350) / zoom;
+                const plotTop = (stageHeight - 800 * viewportScale) / 2;
+                const labelFloor =
+                  (stageHeight -
+                    footerHeight -
+                    plotTop -
+                    16 -
+                    (p.type === "capital" ? 18 : 0)) /
+                  viewportScale;
+                const screenY = offset[1] + 400 + (y - 400) * zoom;
+                const labelScreenY = Math.min(
+                  labelFloor,
+                  screenY + (dyPixels + compactClearance) / viewportScale,
+                );
+                const labelY = 400 + (labelScreenY - offset[1] - 400) / zoom;
                 const active =
                   selectedPlace === p.id || highlighted.includes(p.id);
+                const showLabel =
+                  !compact ||
+                  (selectedPlace
+                    ? p.id === selectedPlace
+                    : zoom < 0.85 || footerHeight > 330
+                      ? p.type === "capital"
+                      : true);
                 return (
                   <g
                     key={p.id}
@@ -329,15 +403,17 @@ export default function AtlasMap({
                     }}
                     className={`map-marker ${active ? "active" : ""}`}
                   >
-                    <line
-                      x1={x}
-                      y1={y}
-                      x2={x + dx}
-                      y2={y + dy + 7}
-                      stroke="currentColor"
-                      strokeWidth=".7"
-                      vectorEffect="non-scaling-stroke"
-                    />
+                    {showLabel && (
+                      <line
+                        x1={x}
+                        y1={y}
+                        x2={labelX}
+                        y2={labelY + 7 / drawingScale}
+                        stroke="currentColor"
+                        strokeWidth=".7"
+                        vectorEffect="non-scaling-stroke"
+                      />
+                    )}
                     {active && (
                       <circle
                         cx={x}
@@ -367,20 +443,24 @@ export default function AtlasMap({
                     ) : (
                       <circle cx={x} cy={y} r="2" fill="currentColor" />
                     )}
-                    <text
-                      x={x + dx}
-                      y={y + dy}
-                      textAnchor={dx < 0 ? "end" : "start"}
-                      className="place-label"
-                    >
-                      {p.name}
-                    </text>
-                    {p.type === "capital" && (
+                    {showLabel && (
                       <text
-                        x={x + dx}
-                        y={y + dy + 16}
-                        textAnchor={dx < 0 ? "end" : "start"}
+                        x={labelX}
+                        y={labelY}
+                        textAnchor={dxPixels < 0 ? "end" : "start"}
+                        className="place-label"
+                        style={{ fontSize: 14 / drawingScale }}
+                      >
+                        {p.name}
+                      </text>
+                    )}
+                    {showLabel && p.type === "capital" && (
+                      <text
+                        x={labelX}
+                        y={labelY + 18 / drawingScale}
+                        textAnchor={dxPixels < 0 ? "end" : "start"}
                         className="place-sublabel"
+                        style={{ fontSize: 13 / drawingScale }}
                       >
                         Điểm đại diện kinh đô
                       </text>
@@ -391,7 +471,11 @@ export default function AtlasMap({
           </g>
         </svg>
       )}
-      <div className="map-controls" aria-label="Điều khiển bản đồ">
+      <div
+        className="map-controls"
+        style={{ bottom: footerHeight + 16 }}
+        aria-label="Điều khiển bản đồ"
+      >
         <button
           aria-label="Phóng to bản đồ"
           onClick={() => changeZoom(0.2)}
@@ -410,7 +494,7 @@ export default function AtlasMap({
           <Icon name="expand" size={17} />
         </button>
       </div>
-      <div className="map-bottom">
+      <div ref={footerRef} className="map-bottom">
         <div className="map-legend">
           <span>
             <i className="legend-capital" />

@@ -35,3 +35,11 @@ Tránh hero quảng cáo, dashboard, bento, họa tiết giả cổ, gradient, c
 Đã sửa nhãn và đầu mũi tên sơ đồ bị che bởi nút, tăng độ tách giữa các nút, tăng cỡ chữ vùng đọc/chú thích nguồn. Mobile được thiết kế với một vùng đọc hoặc bản đồ, không xếp ba cột thành ba ô cuộn.
 
 Giới hạn còn lại: nhãn địa điểm có thể chen nhau khi zoom/pan tùy ý; sơ đồ mở rộng giới hạn 9 nút và vẫn cần danh sách văn bản khi nhiều cạnh. Chưa kiểm tra thiết bị cảm ứng thật, Safari/Firefox hoặc đánh giá WCAG đầy đủ. Chưa có chuyên gia lịch sử duyệt nội dung; điểm bất đồng mở được trên giao diện. Không dùng chuyển động trang trí, hero, thống kê quảng cáo hoặc chân dung AI.
+
+## Cỡ chữ và khoảng trống cho nhãn
+
+- Thang chữ: `--text-body: 16px`, `--text-ui: 14px`, `--text-note: 13px`. Chú giải, chữ nguồn, thanh năm, mục lục, mô tả thương hiệu và ghi chú biên khảo dùng tối thiểu 13px trên các breakpoint đã kiểm tra.
+- Tăng độ tương phản của chữ hỗ trợ và mở rộng chiều cao/độ rộng vùng chứa. Mobile cho các hàng điều khiển xuống dòng và tăng chiều cao bản đồ để dành chỗ cho chú giải.
+- Nhãn địa điểm hiển thị 14px, nhãn phụ kinh đô 13px theo kích thước thực trên màn hình; cỡ chữ không bị thu theo camera. Ở góc nhìn hẹp, bản đồ giảm nhãn khi zoom nhỏ hoặc khi tập trung một địa điểm; danh sách văn bản vẫn truy cập được.
+- Đo kích thước chân bản đồ bằng ResizeObserver để các nút zoom nằm phía trên chú giải. Nhãn chừa khoảng cho điều khiển và chú thích cuối bản đồ.
+- Kiểm tra bằng trình duyệt ở 1920×1080, 1440×960, 1024×768, 390×844 và 360×800; ảnh `docs/screenshots/readability-<chiều rộng>.png` ghi trạng thái thực tế.
