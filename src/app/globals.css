@@ -1157,6 +1157,41 @@ button {
 .person-links button:hover svg {
   color: var(--accent);
 }
+.people-directory {
+  container-type: inline-size;
+}
+.person-links.person-directory {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 24px;
+}
+.person-links.person-directory button {
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr) 14px;
+  gap: 12px;
+  font-size: 17px;
+  line-height: 1.6;
+  padding: 12px 0;
+}
+.person-link-photo,
+.person-link-initial {
+  width: 48px;
+  height: 60px;
+  background: #eeece3;
+  border: 1px solid var(--line);
+  object-fit: contain;
+}
+.person-link-initial {
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  font: 500 23px var(--serif);
+}
+@container (max-width: 520px) {
+  .person-links.person-directory {
+    grid-template-columns: 1fr;
+  }
+}
 .related-section {
   margin-top: 25px;
 }

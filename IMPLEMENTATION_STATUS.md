@@ -8,13 +8,20 @@ Giai đoạn hiện tại: đã bàn giao bản local chạy được. A/B có h
 - Nhân vật, quan hệ phân loại, chuỗi người giữ ngôi có Dương Nhật Lễ, tách Trần Thừa khỏi hoàng đế trị vì.
 - 28 hồ sơ có đoạn giới thiệu; Nhân Tông, Nhật Lễ, Thiếu Đế, Thuận Tông, Nghệ Tông, Quý Ly và Quốc Tuấn có các phần nội dung chi tiết. Có nhánh bên ngoại Thiếu Đế, nhánh An Sinh–Bảo Thánh và Thuận Thiên; thêm các sự kiện 1237, 1398, 1399 mở được từ hồ sơ.
 - Tìm kiếm có/không dấu và theo năm, liên kết trạng thái và Back/forward; chú thích nguồn mở tại chỗ, dữ kiện và diễn giải có phân loại.
-- Dữ liệu địa lý, ảnh hiện vật, sáu hình tranh/tượng trong hồ sơ và font lưu cục bộ kèm nguồn. Ảnh nhân vật được ưu tiên trước di tích; giấy phép ghi trung thực khi biết, không giới hạn nguồn trong Commons. Kinh đô dùng biểu tượng cổng thành giữ cỡ khi zoom.
-- 41 hồ sơ nguồn đã đọc (gồm sáu nguồn ảnh), 82 khẳng định, 125 dẫn nguồn; bản biên niên được đối chiếu với Thế thứ, hồ sơ di sản và phần Toàn thư đã tiếp cận. Không coi số lượng nguồn là thước đo chất lượng lịch sử.
+- Dữ liệu địa lý, ảnh hiện vật, 23 hình tranh/tượng nhân vật và font lưu cục bộ. Cả 13 người giữ ngôi thời Trần có hình; danh mục Nhân vật có ảnh thu nhỏ. Kinh đô dùng biểu tượng cổng thành giữ cỡ khi zoom.
+- 58 hồ sơ nguồn (gồm 23 mục nguồn ảnh), 82 khẳng định, 125 dẫn nguồn; nguồn ảnh chỉ dùng để nhận diện/minh họa, không thay nguồn sử liệu. Bản biên niên được đối chiếu với Thế thứ, hồ sơ di sản và phần Toàn thư đã tiếp cận. Không coi số lượng nguồn là thước đo chất lượng lịch sử.
 - Danh mục nhân vật/sự kiện trống đúng thời kỳ chưa biên soạn; địa điểm giữ từ bài đọc khi lệch năm có ghi chú ngữ cảnh. Nút chọn nhân vật cập nhật năm giữ vai trò/sự kiện liên quan.
 - Chọn một bài/nhân vật/sự kiện mới đưa vùng đọc về đầu; mở chú thích hoặc dịch/zoom bản đồ giữ điểm đọc. Không dùng cuộn bài để tự đổi năm/camera.
 - Bộ tài liệu yêu cầu đã có; ảnh thực tế atlas desktop/mobile, bản đồ mobile, phả hệ, hiện vật và hộp nguồn trong `docs/screenshots/`.
 
 ## Kiểm tra đã thực hiện
+
+Mở rộng bộ hình cho vua và nhân vật:
+- Thêm 17 hình, nâng độ phủ từ 6 lên 23/28 hồ sơ. Bổ sung đủ Anh/Minh/Hiến/Dụ/Nghệ/Duệ/Phế/Thuận/Thiếu Đế và Dương Nhật Lễ; thêm Thừa, Thủ Độ, Thị Dung, Chiêu Hoàng, Liễu, Thuận Thiên, Bảo Thánh. Tranh/tượng được gắn nhãn; không tự thêm thông tin lịch sử từ bài nguồn ảnh.
+- Danh mục Nhân vật có ảnh thu nhỏ và lưới theo chiều rộng cột, giữ điều hướng cũ. Ảnh hồ sơ giữ nguyên khung bên phải trên desktop, xếp xuống dưới trên mobile. Dòng ghi công rút gọn, không lặp giấy phép đã có liên kết riêng. Ảnh JPEG/PNG lưu cục bộ, danh sách `IMAGE_COVERAGE.md` xuất cùng sổ nguồn.
+- Build/TypeScript, audit và 18 kiểm thử dữ liệu/bố cục đạt, gồm đủ ảnh cho 13 người giữ ngôi, tồn tại tệp và chữ ký định dạng, tham chiếu nguồn đúng. Đã mở xem bảng tổng hợp đủ 23 ảnh và hồ sơ đại diện. Không chọn hình cho Trần Lý, Trần Tự Khánh, Chế Mân, Huy Ninh, Khâm Thánh vì chưa có ứng viên phù hợp; giữ chữ, không gán hình của người khác.
+- Lượt Playwright đầy đủ: 52 ca production đạt, 2 đối chứng development bỏ qua đúng cấu hình. Sau khi rút gọn ghi công, bản build cuối đạt và 8 ca liên quan chạy lại đạt: kiểm tra từng ảnh trong cả 23 hồ sơ, lưới danh mục, mở/trở lại hồ sơ trên desktop/mobile; không tràn ngang. Ảnh `all-portrait-images.png`, `portrait-directory-*`, `profile-image-*` và hồ sơ Nhật Lễ cập nhật.
+- Không thay nội dung sử học; giữ `next-env.d.ts` có sẵn ngoài commit.
 
 Ưu tiên hình nhân vật:
 - Thay ảnh lăng của Trần Cảnh bằng tranh minh họa Thái Tông từ Phật giáo Việt Nam; thay ảnh lăng Thánh Tông bằng ảnh tượng thờ có chú thích rõ trên Hội Nhà văn Việt Nam. Đổi ảnh thành trong hồ sơ Quý Ly thành tranh của Hoàng Hoa Mai đăng trên Thế giới Di sản, đối chiếu tác giả với báo Nhân Dân. Hai hình Thái Tông/Thánh Tông thể hiện người và có nội dung khác nhau.

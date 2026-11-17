@@ -59,3 +59,5 @@ Các cuộc hôn nhân nối tiếp được bố trí để mỗi cặp nằm c
 Ảnh đặt bên phải tên và danh xưng khi vùng đọc đủ rộng; vùng hẹp xếp ảnh xuống dưới tiêu đề. Ưu tiên tranh/chân dung thể hiện nhân vật, sau đó tượng thờ, cuối cùng mới tới di tích/hiện vật. Giữ trọn ảnh bằng `object-fit: contain`, không cắt đầu tượng hoặc phần nhận diện. Chú thích ngắn gọi đúng tranh minh họa/tượng/di tích, kèm tác giả hoặc nguồn đăng tối thiểu 13px; có giấy phép rõ thì giữ liên kết, chưa rõ thì chỉ hiện nguồn. Nhấn ảnh mở trang nguồn. Không có ảnh phù hợp thì dùng bố cục chữ gọn, không để khung trống.
 
 Các lần thêm bài sau cần xem xét tư liệu trực quan có ích cho việc học, theo `HISTORICAL_EDITORIAL_POLICY.md`. Biểu tượng kinh đô là ký hiệu bản đồ, không phải bản vẽ phục dựng kiến trúc của một cung điện cụ thể.
+
+Danh mục Nhân vật dùng ảnh thu nhỏ 48×60px, tên 17px và mũi tên mở hồ sơ. Lưới chuyển hai cột sang một cột theo chiều rộng thực của vùng đọc (520px), ảnh giữ trọn nội dung. Hồ sơ chưa chọn hình dùng chữ cái đầu để giữ căn hàng. Chỉ mục tổng có ảnh; liên kết nhân vật trong bài vẫn gọn.

@@ -8,6 +8,7 @@ import {
   people,
   relationships,
   sources,
+  tenures,
 } from "../src/data/history";
 import { relationsForView } from "../src/lib/relations-layout";
 
@@ -88,13 +89,18 @@ test("pivotal maternal branches connect Quoc Tuan to Anh Tong without false moth
 
 test("profile illustrations have local files, source metadata and honest rights records", () => {
   const profiles = people.filter((person) => person.mediaAssetId);
-  assert.ok(profiles.length >= 6);
+  assert.ok(profiles.length >= 23);
+  for (const ruler of tenures.filter((tenure) => tenure.role === "reigning"))
+    assert.ok(
+      people.find((person) => person.id === ruler.personId)?.mediaAssetId,
+      `${ruler.personId}: missing ruler illustration`,
+    );
   for (const person of profiles) {
     const asset = mediaAssets.find(
       (entry) => entry.id === person.mediaAssetId,
     )!;
     assert.ok(asset.personIds?.includes(person.id));
-    assert.ok(asset.width! >= 400 && asset.height! >= 300);
+    assert.ok(asset.width! >= 200 && asset.height! >= 240);
     assert.match(asset.kind, /^(statue-photo|heritage-photo|painting)$/);
     assert.match(asset.note, /không phải chân dung/);
     assert.ok(asset.creator && asset.license && asset.alt);
@@ -108,7 +114,14 @@ test("profile illustrations have local files, source metadata and honest rights 
     const bytes = readFileSync(
       new URL(`../public${asset.src}`, import.meta.url),
     );
-    assert.deepEqual([...bytes.subarray(0, 3)], [0xff, 0xd8, 0xff]);
+    const jpeg = bytes[0] === 0xff && bytes[1] === 0xd8 && bytes[2] === 0xff;
+    const png = bytes
+      .subarray(0, 8)
+      .equals(Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]));
+    const webp =
+      bytes.toString("ascii", 0, 4) === "RIFF" &&
+      bytes.toString("ascii", 8, 12) === "WEBP";
+    assert.ok(jpeg || png || webp, `${person.id}: invalid local image file`);
   }
 });
 

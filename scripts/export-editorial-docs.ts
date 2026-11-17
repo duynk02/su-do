@@ -1,5 +1,12 @@
 import { writeFileSync } from "node:fs";
-import { citations, claims, sources } from "../src/data/history";
+import {
+  citations,
+  claims,
+  sources,
+  people,
+  mediaAssets,
+  tenures,
+} from "../src/data/history";
 import { statusLabels } from "../src/data/schema";
 
 const registry = [
@@ -79,4 +86,33 @@ writeFileSync(
 );
 console.log(
   `Exported register: ${sources.length} sources; audit: ${claims.length} claims.`,
+);
+const illustrated = people.filter((person) => person.mediaAssetId);
+const rulers = tenures.filter((tenure) => tenure.role === "reigning");
+const kindLabels: Record<string, string> = {
+  painting: "Tranh minh họa",
+  "statue-photo": "Ảnh tượng thờ",
+  "heritage-photo": "Ảnh di tích",
+};
+writeFileSync(
+  "IMAGE_COVERAGE.md",
+  [
+    "# Hình minh họa nhân vật",
+    "",
+    `${illustrated.length}/${people.length} hồ sơ có hình; ${rulers.filter((ruler) => people.find((person) => person.id === ruler.personId)?.mediaAssetId).length}/${rulers.length} người giữ ngôi trong chuỗi thời Trần có hình.`,
+    "",
+    "Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, thông tin tra cứu tại public/images/people/provenance.json.",
+    "",
+    "| Nhân vật | Loại hình | Tệp ảnh |",
+    "|---|---|---|",
+    ...people.map((person) => {
+      const asset = mediaAssets.find(
+        (entry) => entry.id === person.mediaAssetId,
+      );
+      return asset
+        ? `| ${person.name} | ${kindLabels[asset.kind] ?? asset.kind} | [Xem ảnh](public${asset.src}) |`
+        : `| ${person.name} | Chưa chọn hình phù hợp | — |`;
+    }),
+    "",
+  ].join("\n"),
 );

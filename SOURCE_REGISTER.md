@@ -62,6 +62,176 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Nguồn bài đăng lại: https://thegioidisan.vn/assets/media/2016/Thang%208/hoang-de-hoang-quy-ly1_1.jpg.
 - Giới hạn: Tranh sơn dầu của Hoàng Hoa Mai, không phải chân dung đương thời. Đối chiếu hình và tên họa sĩ trong bài Bức tranh khắc họa thành công chân dung một danh nhân lịch sử trên báo Nhân Dân (18/11/2012). Không dùng nhận định lịch sử của bài nguồn ảnh để thay nội dung đã đối chiếu. Lưu ảnh gốc của trang nguồn; không cắt, không chỉnh màu.
 
+## portrait-tran-anh-tong — Minh họa Trần Anh Tông trong Trúc Lâm Đại sĩ xuất sơn đồ
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Captions: Emperor Trần Anh Tông; mục Summary: Trần Anh Tông trong bức Trúc Lâm Đại sĩ xuất sơn đồ; mục Licensing và File history. Đã mở xem file tải về..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/9/9e/Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg.
+- Giới hạn: Chi tiết tranh được trang nguồn nhận diện là Trần Anh Tông trong Trúc Lâm Đại sĩ xuất sơn đồ; dùng làm hình minh họa, không coi là chân dung đương thời đã được xác thực. Trang nguồn ghi tác giả Tran Chi As (born 1363), chưa xác minh được tên và niên đại nên không dùng thông tin này làm sử liệu. File gốc tại Commons có kích thước 375 × 550; file lưu là bản 500px do máy chủ Commons cung cấp, có phóng lớn. Chỉ lấy hình và nhận diện nhân vật. Hình tượng minh họa, không phải chân dung đương thời được xác nhận. Lưu nguyên byte bản 500px do Wikimedia Commons cung cấp; không cắt, không chỉnh màu, không tự phóng ảnh.
+
+## portrait-tran-minh-tong — Tượng thờ Trần Minh Tông
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:CDVTranMinhTongjpg1333297930.jpg)
+- Tác giả: Đất Việt; Lee Gok Da (phiên bản màu trên Commons). Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Summary mô tả Đây là ảnh tượng của vua Trần Minh Tông, Author: Đất Việt; mục Licensing: CC BY-SA 4.0; File history: Colored bởi Lee Gok Da. Đã mở xem file tải về..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/b/bd/CDVTranMinhTongjpg1333297930.jpg.
+- Giới hạn: Ảnh tượng được trang nguồn nhận diện cụ thể là vua Trần Minh Tông; hình minh họa qua tượng thờ, không phải chân dung đương thời. Lịch sử file ghi bản hiện tại được Lee Gok Da tô màu; đây là thay đổi có sẵn tại nguồn, không phải chỉnh sửa của dự án. Trang Commons dẫn Đất Việt qua ngoisao.vn và ghi CC BY-SA 4.0; chưa xác minh độc lập việc cấp phép của nguồn báo. File gốc trên Commons có kích thước 368 × 549; file lưu là bản 500px do máy chủ cung cấp, có phóng lớn. Không dùng nội dung bài báo làm sử liệu. Lưu nguyên byte bản 500px của phiên bản màu có sẵn trên Wikimedia Commons; không cắt, không chỉnh màu, không tự phóng ảnh.
+
+## portrait-tran-hien-tong — Tượng thờ Trần Hiến Tông
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng.png)
+- Tác giả: Mike09090; Lee Gok Da (phiên bản cắt trên Commons). Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Summary: Tượng vua Trần Hiến Tông (1929 - 1341), Source: Own work, Author: Mike09090; Licensing: CC BY-SA 4.0; File history: Cropped bởi Lee Gok Da. Đã mở xem file tải về..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/9/99/T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng.png.
+- Giới hạn: Ảnh tượng được trang nguồn nhận diện cụ thể là vua Trần Hiến Tông; hình minh họa qua tượng thờ, không phải chân dung đương thời. Chú thích nguồn có lỗi niên đại (1929 - 1341), không dùng cặp số này làm thông tin lịch sử. Tên địa điểm tượng không được trang Commons xác định rõ. Phiên bản đang lưu là bản cắt có sẵn do Lee Gok Da tải lên, không phải thao tác cắt của dự án. File gốc hiện tại trên Commons có kích thước 451 × 676; file lưu là bản 500px do máy chủ cung cấp, có phóng lớn. Lưu nguyên byte bản 500px của phiên bản cắt có sẵn trên Wikimedia Commons; không cắt thêm, không chỉnh màu, không tự phóng ảnh.
+
+## portrait-tran-du-tong — Mộc tượng Trần Dụ Tông tại chùa Gệt
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg)
+- Tác giả: 閒鹤 (ảnh); tác giả tượng chưa xác định. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Summary: Mộc-tượng Trần-triều Dụ-tông Hiếu hoàng-đế tại chùa Gệt, Author: 閒鹤; mục Licensing: Attribution-Share Alike 3.0 Unported. Đã mở xem file tải về..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/b/bd/Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg.
+- Giới hạn: Ảnh mộc tượng được trang nguồn nhận diện là Trần Dụ Tông tại chùa Gệt; hình minh họa qua tượng thờ, không phải chân dung đương thời. Nguồn ghi XIX-century ở mục Source; chỉ giữ như thông tin của trang ảnh, không dùng làm kết luận niên đại. Trang có cả nhãn PD-Art và giấy phép ảnh CC BY-SA 3.0; dự án ghi nhận CC BY-SA 3.0 của tác giả ảnh. File gốc trên Commons có kích thước 2704 × 4064; file lưu là bản thu nhỏ 500px do máy chủ cung cấp. Lưu nguyên byte bản thu nhỏ 500px do Wikimedia Commons cung cấp; không cắt và không chỉnh màu.
+
+## portrait-tran-nghe-tong — Tượng thờ Trần Nghệ Tông
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng.png)
+- Tác giả: Mice09090. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Summary: mô tả Tượng vua Trần Nghệ Tông; tác giả Mice09090, ngày 14 March 2020; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/f/f0/Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng.png.
+- Giới hạn: Trang Commons xác định là tượng vua Trần Nghệ Tông. Hình tượng thờ tưởng niệm, không phải chân dung được xác nhận thực hiện khi nhân vật còn sống. Tượng có bộ râu dài, khác tượng Duệ Tông cùng bộ ảnh. Lưu ảnh gốc do trang nguồn/CDN cung cấp; không cắt, không chỉnh màu, không sửa điểm ảnh.
+
+## portrait-tran-due-tong — Tượng thờ Trần Duệ Tông
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng.jpg)
+- Tác giả: Mice09090. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Summary: mô tả Tượng vua Trần Duệ Tông; tác giả Mice09090, ngày 14 March 2020; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/0/06/Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng.jpg.
+- Giới hạn: Trang Commons xác định là tượng vua Trần Duệ Tông. Hình tượng thờ tưởng niệm, không phải chân dung được xác nhận thực hiện khi nhân vật còn sống. Tượng có bộ râu ngắn, khác tượng Nghệ Tông cùng bộ ảnh. Lưu ảnh gốc do trang nguồn/CDN cung cấp; không cắt, không chỉnh màu, không sửa điểm ảnh.
+
+## portrait-tran-phe-de — Minh họa Trần Phế Đế
+
+- URL: [mở nguồn](https://songdep.com.vn/giai-thoai-ve-nhung-viec-lam-la-doi-cua-vua-hen-tran-phe-de-d7982.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Sống Đẹp.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh trong đoạn đầu tiểu sử với chú thích Tranh vẽ Trần Phế Đế; đã đọc HTML nguồn và mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://t.cmx-cdn.com/songdep.com.vn/files/thunga/2021/11/20/giai-thoai-ve-nhung-viec-lam-la-doi-cua-vua-hen-tran-phe-de-192009.jpg.
+- Giới hạn: Tranh được bài nguồn xác định là Trần Phế Đế, tên Trần Hiện. Đây là minh họa hậu thế, không phải chân dung được xác nhận vẽ khi nhân vật còn sống. Chỉ dùng hình và nhận diện của chú thích, không lấy các lời đánh giá trong bài làm sử liệu. Lưu ảnh gốc do trang nguồn/CDN cung cấp; không cắt, không chỉnh màu, không sửa điểm ảnh.
+
+## portrait-tran-thuan-tong — Tượng thờ Trần Thuận Tông tại đền Trần
+
+- URL: [mở nguồn](https://kienthuc.net.vn/su-that-chua-tung-he-lo-cong-chua-cuoi-cung-trieu-tran-post546205.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Tri thức và Cuộc sống.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh đầu tiên sau phần mở bài, chú thích Tượng thờ vua Trần Thuận Tông tại đền Trần, ảnh thuvienlichsu.com; đã đọc HTML nguồn và mở xem ảnh PNG gốc..
+- Nguồn bài đăng lại: https://cdn.kienthuc.net.vn/images/SwC2Bluv-FCkd3CdR4s_YJIWCxvjffFNG8TjTjX4DObR5oy1u6lO9utPQCVDLPrHIwnx_Lud97t8RX6Khoev14hdBaNFnwHj8x9A0LQp3A7aeGkizKMVLTg-obJ05Za1/su-that-chua-tung-he-lo-cong-chua-cuoi-cung-trieu-tran.png.
+- Giới hạn: Ảnh có chú thích xác định tượng thờ vua Trần Thuận Tông tại đền Trần, ghi nguồn thuvienlichsu.com. Hình tượng tưởng niệm, không phải chân dung được xác nhận thực hiện khi nhân vật còn sống. Ảnh gốc nhỏ, rộng 253 px và cao 387 px. Lưu ảnh gốc do trang nguồn/CDN cung cấp; không cắt, không chỉnh màu, không sửa điểm ảnh.
+
+## portrait-tran-thieu-de — Minh họa Trần Thiếu Đế (Trần An)
+
+- URL: [mở nguồn](https://nguoiquansat.vn/vi-vua-viet-2-tuoi-len-ngoi-2-nam-sau-bi-chinh-ong-ngoai-chiem-mat-ngai-vang-318343.html)
+- Tác giả: Đại Việt Kỳ Nhân. Cơ quan/nhà xuất bản: Người Quan Sát.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh thứ hai của bài, sau đoạn về Hồ Quý Ly; chú thích xác định vua Trần Thiếu Đế, tín dụng Đại Việt Kỳ Nhân; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://nqs.1cdn.vn/2026/09/24/ktck.1cdn.vn-2026-09-24-_750-202609240808132.jpg.
+- Giới hạn: Tranh có chữ Trần Thiếu Đế - Trần An và dấu Đại Việt Kỳ Nhân trong ảnh; bài nguồn cũng ghi tín dụng Đại Việt Kỳ Nhân. Đây là minh họa hậu thế, không phải chân dung được xác nhận vẽ khi nhân vật còn sống. Lưu ảnh gốc do trang nguồn/CDN cung cấp; không cắt, không chỉnh màu, không sửa điểm ảnh.
+
+## portrait-duong-nhat-le — Minh họa Dương Nhật Lễ
+
+- URL: [mở nguồn](https://vtcnews.vn/vi-vua-nha-tran-nao-khong-mang-ho-tran-ar888301.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: VTC News.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh duy nhất trong phần nội dung sau đoạn Nhật Lễ lên ngôi; chú thích gọi tên Dương Nhật Lễ và ghi Ảnh minh họa; đã mở xem ảnh PNG gốc..
+- Nguồn bài đăng lại: https://cdn-i.vtcnews.vn/upload/2024/08/08/nhat-le-copy-23313851.png.
+- Giới hạn: VTC News sử dụng tranh minh họa này với chú thích gọi tên Dương Nhật Lễ. Đây là minh họa hậu thế, không phải chân dung được xác nhận vẽ khi nhân vật còn sống. Chỉ dùng nhận diện từ chú thích, không lấy nội dung bài làm sử liệu. Lưu ảnh gốc do trang nguồn/CDN cung cấp; không cắt, không chỉnh màu, không sửa điểm ảnh.
+
+## portrait-tran-thua — Tượng thờ Thái tổ Trần Thừa tại Đền Vạn Khoảnh
+
+- URL: [mở nguồn](https://baoninhbinh.org.vn/dang-huong-tuong-niem-792-nam-ngay-mat-cua-thai-to-thai-thuong-hoang-tran-thua-260306121638946.html)
+- Tác giả: Viết Dư. Cơ quan/nhà xuất bản: Báo Ninh Bình.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh thứ hai trong nội dung bài, sau đoạn ôn lại công lao của Thái tổ, có chú thích xác định Trần Thừa và Đền Vạn Khoảnh; cuối bài ghi Tin, ảnh: Viết Dư. Đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://img.baoninhbinh.org.vn//static_files/vietdu/images/2026/03/06/dang-huong-tuong-niem-792-nam-ngay-mat-cua-thai-to-thai-dcd0.jpg.
+- Giới hạn: Ảnh được Báo Ninh Bình xác định là tượng Trần Thừa ở Đền Vạn Khoảnh, phường Nam Định. Tượng thờ là hình tượng tưởng niệm, không phải chân dung đương thời được xác nhận. Bản ảnh có dấu nguồn của Báo Ninh Bình. Lưu ảnh gốc của trang nguồn; không cắt, không chỉnh màu.
+
+## portrait-tran-thu-do — Tượng thờ Trần Thủ Độ tại chùa Cầu Đông
+
+- URL: [mở nguồn](https://baophapluat.vn/bi-an-xung-quanh-hai-pho-tuong-trong-ngoi-chua-cau-dong-post365743.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Báo Pháp Luật Việt Nam.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh trong bài với chú thích xác định Thái sư Trần Thủ Độ; chú thích tả nét mặt đăm chiêu. Đã mở xem bản ảnh 1280 px của trang nguồn..
+- Nguồn bài đăng lại: https://cdn.baophapluat.vn/uploaded/quynhluu/2020_10_06/a1_1_jzfc.jpg.
+- Giới hạn: Ảnh tượng gỗ Trần Thủ Độ tại chùa Cầu Đông, Hà Nội, được chú thích riêng trong bài nguồn. Tượng là hình tượng tưởng niệm, không phải chân dung đương thời được xác nhận. Chưa xác định tác giả ảnh; Tiểu Vũ là tên tác giả bài. Bản thu nhỏ do trang nguồn cung cấp; không chỉnh sửa nội dung.
+
+## portrait-tran-thi-dung — Tượng thờ Linh Từ Quốc mẫu Trần Thị Dung tại chùa Cầu Đông
+
+- URL: [mở nguồn](https://baophapluat.vn/bi-an-xung-quanh-hai-pho-tuong-trong-ngoi-chua-cau-dong-post365743.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Báo Pháp Luật Việt Nam.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh trong bài có chú thích xác định Linh Từ Quốc mẫu Trần Thị Dung, nằm sau ảnh Trần Thủ Độ. Đã mở xem bản ảnh 1280 px của trang nguồn..
+- Nguồn bài đăng lại: https://cdn.baophapluat.vn/uploaded/quynhluu/2020_10_06/a1_2_ixah.jpg.
+- Giới hạn: Ảnh tượng gỗ Trần Thị Dung tại chùa Cầu Đông, Hà Nội, được chú thích riêng trong bài nguồn. Tượng là hình tượng tưởng niệm, không phải chân dung đương thời được xác nhận. Chưa xác định tác giả ảnh; Tiểu Vũ là tên tác giả bài. Bản thu nhỏ do trang nguồn cung cấp; không chỉnh sửa nội dung.
+
+## portrait-ly-chieu-hoang — Tượng thờ Lý Chiêu Hoàng tại đền Rồng
+
+- URL: [mở nguồn](https://plo.vn/duong-ly-chieu-hoang-trong-ky-uc-mot-nha-van-post334582.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Báo Pháp Luật TP. Hồ Chí Minh.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh tượng đầu bài, chú thích xác định Lý Chiêu Hoàng tại đền Rồng và ghi ảnh tư liệu. Đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://cdn2.tuoitre.vn/plo/image/Uploaded/nguyenty/2015_04_28/lychieuhoang3kienthuc_JDJO.jpg.
+- Giới hạn: Ảnh tượng thờ Lý Chiêu Hoàng ở đền Rồng được chú thích trực tiếp trong bài nguồn. Tượng là hình tượng tưởng niệm, không phải chân dung đương thời được xác nhận. Bài ghi ảnh tư liệu, không xác định người chụp. Lưu ảnh gốc của trang nguồn; không cắt, không chỉnh màu.
+
+## portrait-tran-lieu — Minh họa An Sinh vương Trần Liễu
+
+- URL: [mở nguồn](https://disanhalongyentu.vn/en/news/an-sinh-vng-trn-liu-ngi-c-cng-trn-gi-vng-ng-bc-i-vit-902)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Di sản Hạ Long – Yên Tử.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh minh họa giữa đoạn tiểu sử và đoạn viết về người con Trần Quốc Tuấn, có chú thích nêu tên An Sinh vương Trần Liễu. Đã mở xem ảnh gốc và chữ tên nhân vật trên tranh..
+- Nguồn bài đăng lại: https://admin.disanhalongyentu.vn/Data/images/An%20Sinh%20V%C6%B0%C6%A1ng%20Tr%E1%BA%A7n%20Li%E1%BB%85u.jpg.
+- Giới hạn: Tranh được trang Di sản Hạ Long – Yên Tử chú thích là hình minh họa An Sinh vương Trần Liễu; tên Trần Liễu cũng hiện trên tranh. Đây là minh họa hiện đại, không phải chân dung đương thời được xác nhận. Chưa xác định họa sĩ. Lưu ảnh gốc của trang nguồn; không cắt, không chỉnh màu.
+
+## portrait-bao-thanh — Minh họa Bảo Thánh hoàng hậu
+
+- URL: [mở nguồn](https://songdep.com.vn/bao-thanh-hoang-hau-va-2-lan-cuu-vua-tran-nhan-tong-khoi-thu-du-d6247.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Sống Đẹp.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Hình minh họa trong bài viết về nhân vật; đã mở xem ảnh tải về..
+- Nguồn bài đăng lại: https://t.cmx-cdn.com/songdep.com.vn/files/thunga/2021/09/26/bao-thanh-hoang-hau-va-2-lan-cuu-vua-tran-nhan-tong-khoi-thu-du-0-143054.jpg.
+- Giới hạn: Tranh minh họa dùng trong bài về nhân vật, không phải chân dung đương thời; không dùng hình làm bằng chứng về diện mạo hoặc trang phục lịch sử. Giữ nguyên hình tải từ trang nguồn; không chỉnh sửa nội dung.
+
+## portrait-thuan-thien — Minh họa công chúa Thuận Thiên
+
+- URL: [mở nguồn](https://afamily.vn/so-phan-eo-le-cua-thuan-thien-cong-chua-bi-me-de-roi-tren-bo-bai-song-hong-bi-ep-lay-em-re-trong-khi-dang-mang-thai-con-cua-chong-20180108144357978.chn)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: aFamily.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Hình minh họa trong bài viết về nhân vật; đã mở xem ảnh tải về..
+- Nguồn bài đăng lại: https://afamilycdn.com/thumb_w/660/2018/541293-1515422148630.jpg.
+- Giới hạn: Tranh minh họa dùng trong bài về nhân vật, không phải chân dung đương thời; không dùng hình làm bằng chứng về diện mạo hoặc trang phục lịch sử. Giữ nguyên hình tải từ trang nguồn; không chỉnh sửa nội dung.
+
 ## toan-thu-family — Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ
 
 - URL: [mở nguồn](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf)

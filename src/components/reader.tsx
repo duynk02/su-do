@@ -55,17 +55,41 @@ const pName = (id: string) => people.find((p) => p.id === id)?.name ?? id;
 export function PersonLinks({
   ids,
   onPerson,
+  showPortraits = false,
 }: {
   ids: string[];
   onPerson: (id: string) => void;
+  showPortraits?: boolean;
 }) {
   return (
-    <div className="person-links">
-      {ids.map((id) => (
-        <button key={id} onClick={() => onPerson(id)}>
-          {pName(id)} <Icon name="arrow" size={14} />
-        </button>
-      ))}
+    <div className={`person-links${showPortraits ? " person-directory" : ""}`}>
+      {ids.map((id) => {
+        const person = people.find((entry) => entry.id === id)!;
+        const image =
+          showPortraits &&
+          mediaAssets.find((asset) => asset.id === person.mediaAssetId);
+        return (
+          <button key={id} onClick={() => onPerson(id)} data-person={id}>
+            {showPortraits &&
+              (image ? (
+                <img
+                  className="person-link-photo"
+                  src={image.src}
+                  width={48}
+                  height={60}
+                  alt=""
+                  loading="lazy"
+                />
+              ) : (
+                <span className="person-link-initial" aria-hidden="true">
+                  {person.name.split(" ").at(-1)?.slice(0, 1)}
+                </span>
+              ))}
+            <span>{person.name}</span>
+            <Icon name="arrow" size={14} />
+          </button>
+        );
+      })}
     </div>
   );
 }
@@ -546,10 +570,13 @@ export function Reader({
       <>
         <div className="eyebrow">Hoàng tộc & những người đương thời</div>
         <h2>Nhân vật</h2>
-        <PersonLinks
-          ids={people.map((p) => p.id)}
-          onPerson={actions.onPerson}
-        />
+        <div className="people-directory">
+          <PersonLinks
+            ids={people.map((p) => p.id)}
+            onPerson={actions.onPerson}
+            showPortraits
+          />
+        </div>
         <RulerList actions={actions} />
       </>
     );

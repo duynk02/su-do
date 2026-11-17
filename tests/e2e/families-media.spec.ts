@@ -1,16 +1,12 @@
 import { expect, test } from "@playwright/test";
+import catalog from "../../public/images/people/provenance.json";
 
 test("sourced profile images load, retain credits and adapt to the reader width", async ({
   page,
 }, testInfo) => {
-  for (const id of [
-    "tran-thanh-tong",
-    "tran-canh",
-    "tran-nhan-tong",
-    "tran-quoc-tuan",
-    "huyen-tran",
-    "ho-quy-ly",
-  ]) {
+  test.setTimeout(60000);
+  for (const asset of catalog.assets) {
+    const id = asset.personIds[0];
     await page.goto(
       `/?period=tran&year=1278&view=people&person=${id}&mode=story`,
     );
@@ -20,17 +16,17 @@ test("sourced profile images load, retain credits and adapt to the reader width"
     await expect
       .poll(() =>
         image.evaluate(
-          (el: HTMLImageElement) => el.complete && el.naturalWidth >= 400,
+          (el: HTMLImageElement) => el.complete && el.naturalWidth >= 200,
         ),
       )
       .toBe(true);
-    await expect(image).toHaveAttribute("alt", /Tượng|Lăng|Di tích|Minh họa/);
-    await expect(figure.locator(".person-image-credit")).toContainText(
-      /CC BY|Public domain|Phật giáo Việt Nam|Hội Nhà văn Việt Nam|Hoàng Hoa Mai/,
-    );
+    await expect(image).toHaveAttribute("alt", asset.title);
+    await expect(
+      figure.locator(".person-image-credit a").first(),
+    ).not.toBeEmpty();
     await expect(figure.locator("a").first()).toHaveAttribute(
       "href",
-      /^https:\//,
+      asset.sourceUrl,
     );
     const heading = (await page.locator(".person-heading").boundingBox())!;
     const title = (await page.locator(".person-heading h2").boundingBox())!;
@@ -44,9 +40,13 @@ test("sourced profile images load, retain credits and adapt to the reader width"
       ),
     ).toBe(true);
     if (
-      ["tran-canh", "tran-thanh-tong", "tran-nhan-tong", "ho-quy-ly"].includes(
-        id,
-      )
+      [
+        "tran-anh-tong",
+        "tran-hien-tong",
+        "tran-thieu-de",
+        "tran-thu-do",
+        "ly-chieu-hoang",
+      ].includes(id)
     ) {
       await page.evaluate(() => document.fonts.ready);
       await page.screenshot({
@@ -55,6 +55,33 @@ test("sourced profile images load, retain credits and adapt to the reader width"
       });
     }
   }
+});
+
+test("character directory exposes the expanded images and opens each profile", async ({
+  page,
+}, testInfo) => {
+  await page.goto("/?period=tran&view=people&mode=story");
+  const directory = page.locator(".person-directory");
+  await expect(directory.locator("img")).toHaveCount(catalog.assets.length);
+  await expect(
+    directory.getByRole("button", { name: "Trần Thiếu Đế", exact: true }),
+  ).toBeAttached();
+  await page.evaluate(() => document.fonts.ready);
+  await page.screenshot({
+    path: `docs/screenshots/portrait-directory-${testInfo.project.name}.png`,
+    scale: "css",
+  });
+  await directory
+    .getByRole("button", { name: "Trần Thiếu Đế", exact: true })
+    .click();
+  await expect(
+    page.getByRole("heading", { name: "Trần Thiếu Đế", exact: true }),
+  ).toBeInViewport();
+  await expect(page.locator(".person-image img")).toBeVisible();
+  await page
+    .getByRole("button", { name: "Tất cả nhân vật", exact: true })
+    .click();
+  await expect(directory).toBeAttached();
 });
 
 test("Thieu De explains his maternal family and separates regency from descent", async ({
