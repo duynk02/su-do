@@ -5,6 +5,10 @@ Bản đầu có dẫn nguồn, chưa có người biên tập chuyên môn duy�
 ## Dị biệt và quyết định biên tập
 
 - Chuyển Lý–Trần: giữ mốc 1225/1226; ngày 11 tháng Chạp và 21 tháng 10 trong hai bài được lưu riêng. Chưa tự chuyển lịch.
+- Nhà Lý: dùng 1009 cho năm Công Uẩn lên ngôi, 1010 cho niên hiệu và dời đô; 1054 cho quốc hiệu Đại Việt. Văn Miếu 1070, khoa thi 1075 và Quốc Tử Giám 1076 là ba mốc riêng theo hồ sơ di tích.
+- Nhân Tông–Thần Tông: giữ năm Đinh Mùi 1127 theo quy ước nguồn Việt; niên hiệu Thiên Thuận từ 1128. Dương Hoán là con Sùng Hiền hầu, được Nhân Tông nhận nuôi, không vẽ thành cha đẻ–con. Cao Tông đăng cơ 1175, Trinh Phù từ 1176; Huệ Tông đăng cơ 1210, Kiến Gia từ 1211.
+- Tô Hiến Thành: không gán năm sinh 1102 hoặc đỗ khoa 1138 khi nghiên cứu Hán Nôm còn lưu ý giới hạn chứng cứ. Đỗ Anh Vũ được trình bày qua vai trò và sự kiện sử chép, không lặp nhãn đạo đức của sử quan.
+- Nam quốc sơn hà: không khẳng định Lý Thường Kiệt là tác giả; giữ dị bản, tác giả chưa xác định và phân biệt chuyện thần đọc thơ với diễn biến chiến tranh. Gia thế Lý Công Uẩn, chuyện thác sinh của Thần Tông và vụ hóa hổ Lê Văn Thịnh không được dùng làm dữ kiện siêu nhiên đã chứng minh.
 - Trần Thừa: tách vai trò Thượng hoàng và miếu hiệu truy tôn khỏi trị vì. Thứ tự anh/em với Trần Tự Khánh khác nguồn; không dựng thứ bậc.
 - Nhân Tông: dùng 1278 theo Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long; bài biên niên ghi 1279. Không tự giải thích dị biệt bằng lịch khi chưa khảo cứu.
 - Nhân Tông: Thế thứ ghi thời gian Thượng hoàng trước xuất gia 1293–1299, trong khi Việt Nam sử lược còn gọi Nhân Tông Thượng hoàng lúc mất năm 1308. Vai trò 1293–1308 là thời gian mang tôn hiệu; không đồng nhất với trực tiếp điều hành chính sự. Ngày mất 1/11 trong bài di sản khác 3/11 trong Thế thứ; hồ sơ chỉ ghi năm 1308.
@@ -210,6 +214,438 @@ Chiếc bát gốm trang trí hoa nâu trong bộ sưu tập The Met được gh
 Loại: evidence. Trạng thái: Đang biên soạn.
 
 - [Bowl with iron-brown floral décor — object 2021.182](https://www.metmuseum.org/art/collection/search/853979) — Artwork Details: Date, Culture, Medium và Object Number 2021.182. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thai-to-summary
+
+Lý Thái Tổ, tên húy Lý Công Uẩn, là người mở đầu triều Lý. Ông sinh năm 974 ở vùng Cổ Pháp, từng làm quan trong triều Tiền Lê và lên ngôi năm 1009. Năm 1010, ông đặt niên hiệu Thuận Thiên, dời đô từ Hoa Lư đến Đại La và đổi tên kinh đô thành Thăng Long. Ông giữ ngôi đến khi mất năm 1028, để lại một trung tâm chính trị được nhiều triều đại tiếp tục sử dụng.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II — mục Lý Thái Tổ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Lý Thái Tổ hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/29-Thai-To-Hoang-De?uiLang=en) — Quyển II, tờ 1a: Công Uẩn, Cổ Pháp, năm sinh và chức vụ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index) — Đức vua Lý Công Uẩn và quyết định dời đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thai-to-origin
+
+Sử cũ ghi mẹ Công Uẩn là người họ Phạm, ông được Lý Khánh Văn nhận nuôi và được Vạn Hạnh chú ý dạy dỗ. Những mối liên hệ ấy cho thấy môi trường nhà chùa gắn với tuổi trẻ của người sáng lập triều Lý. Gia thế của ông cũng được bao phủ bởi nhiều chuyện sinh nở và điềm lạ; đó là lớp truyền thuyết, khác với bằng chứng xác định quan hệ huyết thống.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Thái Tổ hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/29-Thai-To-Hoang-De?uiLang=en) — Quyển II, tờ 1a: mẹ họ Phạm, Khánh Văn và Vạn Hạnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index) — Quê hương nhà Lý: các truyền thuyết về thân thế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thai-to-capital
+
+Khi tiếp nhận quyền lực từ Tiền Lê, nhà Lý vẫn đóng tại Hoa Lư và sử dụng bộ máy có trước. Quyết định chuyển tới Đại La đưa triều đình đến một không gian đồng bằng có mạng lưới sông ngòi thuận lợi. Chiếu dời đô trình bày sự lựa chọn ấy bằng những lý lẽ về địa thế và khả năng phát triển lâu dài, nên đây vừa là việc chuyển nơi ở của vua, vừa là một lựa chọn tổ chức quốc gia.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mở đầu: tiếp nhận thể chế tại Hoa Lư trước khi chuyển ra Thăng Long. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index) — Phần quyết định dời đô và xây dựng kinh đô mới. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thai-tong-summary
+
+Lý Thái Tông, tên húy Phật Mã, còn có tên Đức Chính, là con của Lý Thái Tổ và hoàng hậu họ Lê. Ông sinh năm 1000, kế ngôi năm 1028 sau biến động trong hoàng tộc. Trong thời gian trị vì, ông củng cố quyền lực của triều Lý và cho ban hành Hình thư năm 1042. Ông mất năm 1054; con là Lý Nhật Tôn nối ngôi, tức Lý Thánh Tông.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II — mục Lý Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Lý Thái Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/30-Thai-Tong-Hoang-De?uiLang=en) — Quyển II, tờ 18a: tên, cha mẹ, năm sinh và nhiệm kỳ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mục 3: Hình thư năm 1042. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thai-tong-succession
+
+Phật Mã được lập làm thái tử khi cha còn trị vì. Khi Thái Tổ qua đời, việc kế vị gặp chống đối trong hoàng tộc; Lê Phụng Hiểu giúp ông vượt qua biến động và giữ ngôi. Việc kế tục triều đại vì thế không chỉ phụ thuộc vào địa vị thái tử mà còn vào lực lượng ủng hộ trong triều.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Thái Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/30-Thai-Tong-Hoang-De?uiLang=en) — Quyển II, tờ 18a: thái tử và vai trò Phụng Hiểu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II — mục Lý Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thai-tong-law
+
+Năm 1042, triều đình san định luật lệnh thành Hình thư để việc xét xử có điều khoản rõ hơn. Nghiên cứu dẫn sử cũ cho biết việc này nhằm hạn chế tình trạng áp dụng luật quá khắc nghiệt và kiện tụng phiền nhiễu. Bộ sách đã thất truyền, nên các ghi chép còn lại giúp nhận biết một dấu mốc pháp chế, nhưng không cho phép phục dựng đầy đủ nội dung từng điều luật.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mục 3: ban hành Hình thư và giới hạn do văn bản thất truyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thanh-tong-summary
+
+Lý Thánh Tông, tên húy Lý Nhật Tôn, là con của Lý Thái Tông và thái hậu họ Mai. Ông sinh năm 1023, lên ngôi năm 1054 và đặt quốc hiệu Đại Việt. Thời ông có chiến dịch Champa năm 1069 và việc dựng Văn Miếu năm 1070. Ông mất năm 1072, để lại ngôi vua cho con là Lý Càn Đức, tức Lý Nhân Tông, khi người kế vị còn nhỏ.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Thánh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/31-Thanh-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 1a: Nhật Tôn và cha mẹ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vua Lý Thánh Tông (1023–1072)](https://vanmieu.gov.vn/vi/ly-thanh-tong) — Tiểu sử và việc dựng Văn Miếu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Chiến dịch Champa năm 1069. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II — mục Lý Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thanh-tong-education
+
+Nhật Tôn được lập làm thái tử từ năm 1028, trước khi nhận ngôi năm 1054. Quốc hiệu Đại Việt đi cùng thời kỳ nhà Lý tiếp tục xây dựng bộ máy và đời sống văn hóa. Năm 1070, Văn Miếu được dựng để thờ Khổng Tử và các bậc tiên hiền, hoàng thái tử đến học; Quốc Tử Giám là mốc khác, được lập sau thời ông.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Thánh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/31-Thanh-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 1a: thái tử năm 1028. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vua Lý Thánh Tông (1023–1072)](https://vanmieu.gov.vn/vi/ly-thanh-tong) — Đoạn quốc hiệu và Văn Miếu 1070. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Các mốc 1070 và 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thanh-tong-champa
+
+Năm 1069, Thánh Tông thân chinh đánh Champa cùng Lý Thường Kiệt; vua Chế Củ bị bắt. Việc nhượng ba châu Địa Lý, Ma Linh và Bố Chính sau chiến dịch làm thay đổi không gian biên giới phía nam. Trong lúc nhà vua đi xa, Ỷ Lan trông coi triều chính, cho thấy hoạt động quân sự và việc duy trì điều hành trong nước gắn chặt với nhau.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 2: chiến dịch Champa và ba châu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Đoạn Thánh Tông đi đánh Champa và Ỷ Lan coi triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-nhan-tong-summary
+
+Lý Nhân Tông, tên húy Lý Càn Đức, là con của Lý Thánh Tông và Ỷ Lan, tức Linh Nhân thái hậu. Ông sinh năm 1066 và lên ngôi năm 1072 khi còn nhỏ. Triều ông gắn với khoa thi Nho học năm 1075, việc lập Quốc Tử Giám năm 1076 và cuộc chiến chống Tống do Lý Thường Kiệt chỉ huy. Theo quy ước niên đại của nguồn Việt được dẫn, ông giữ ngôi đến năm 1127; việc chọn người kế vị dẫn tới Lý Dương Hoán, con Sùng Hiền hầu.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b: Càn Đức và cha mẹ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Nhân Tông — ông vua có nhiều kỷ lục](https://baotanglichsu.vn/vi/Articles/2001/65227/ly-nhan-tong-ong-vua-co-nhieu-ky-luc.html) — Các đoạn năm sinh, lên ngôi và khoa thi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Thời Lý: Quốc Tử Giám 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II — mục Lý Nhân Tông; Lý Thần Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-nhan-tong-court
+
+Khi Càn Đức lên ngôi, Thượng Dương thái hậu và Thái sư Lý Đạo Thành tham gia điều hành. Về sau, Linh Nhân thái hậu Ỷ Lan có vai trò lớn trong triều chính, còn Lý Thường Kiệt nắm việc quân. Nhìn vào những người cùng giữ trách nhiệm sẽ giúp hiểu hoạt động của triều đình, thay vì quy tất cả quyết định cho vị vua còn nhỏ.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b: Thượng Dương và Đạo Thành. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Đoạn đầu triều Nhân Tông và binh quyền Thường Kiệt. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Phần sau năm 1072. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-nhan-tong-learning
+
+Khoa Minh kinh bác học và Nho học tam trường năm 1075 chọn Lê Văn Thịnh đỗ đầu, sau đó ông được hầu vua học. Việc lập Quốc Tử Giám năm 1076 tiếp nối quá trình xây dựng cơ sở học tập và tuyển dụng của nhà nước. Đây là hai bước khác nhau: một bên là kỳ tuyển chọn, một bên là cơ sở đào tạo.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Đoạn khoa thi 1075 và hầu vua học. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Các mốc 1075 và 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-nhan-tong-succession
+
+Nhân Tông không có con trai nối ngôi và nhận Lý Dương Hoán làm con nuôi. Dương Hoán là con Sùng Hiền hầu, em của Nhân Tông, nên người kế vị thuộc nhánh cháu gọi vua bằng bác. Quan hệ này khác với quan hệ cha đẻ–con, dù Dương Hoán nối ngôi với miếu hiệu Thần Tông.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II — mục Lý Nhân Tông; Lý Thần Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thuong-kiet-summary
+
+Lý Thường Kiệt là đại thần và tướng lĩnh phục vụ qua ba đời vua Lý Thái Tông, Lý Thánh Tông và Lý Nhân Tông. Ông thường được ghi có tên Ngô Tuấn, được ban quốc tính họ Lý, sống trong những năm 1019–1105. Sau chiến dịch Champa năm 1069, ông giữ vai trò chỉ huy nổi bật trong cuộc chiến Đại Việt–Tống năm 1075–1077. Sự nghiệp của ông gắn cả với việc dùng binh, tổ chức phòng thủ và thương lượng để kết thúc chiến tranh.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Hiền thần Lý Thường Kiệt](https://baotanglichsu.vn/VI/Articles/3096/6644/hien-than-ly-thuong-kiet.html) — Đoạn tên, ban quốc tính, ba triều vua và sự nghiệp. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Các đoạn 1069 và 1075–1077. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thuong-kiet-war
+
+Năm 1075, quân Đại Việt đánh các căn cứ Ung, Khâm và Liêm của nhà Tống rồi rút về. Khi quân Tống tiến xuống, Thường Kiệt tổ chức ngăn chặn tại phòng tuyến Như Nguyệt, trên sông Cầu. Sau giao tranh, ông chủ động giảng hòa để quân Tống rút; những vấn đề biên giới tiếp tục được giải quyết qua ngoại giao.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Phần tiến công, phòng tuyến và giảng hòa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 1–3: kết hợp quân sự và ngoại giao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-thuong-kiet-poem
+
+Tên Thường Kiệt thường xuất hiện cùng Nam quốc sơn hà trong câu chuyện về kháng chiến. Tuy nhiên, nghiên cứu văn bản cho thấy bài thơ có nhiều dị bản và không lưu tên tác giả. Chuyện thần sông đọc thơ là một lớp truyền tụng về sức mạnh tinh thần của cuộc chiến; nó không tự chứng minh ai đã sáng tác bài thơ.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Bài thơ Nam quốc sơn hà là bản tuyên ngôn độc lập đầu tiên của nước Việt Nam ta](https://hannom.vass.gov.vn/nghien-cuu-van-ban/bai-tho-nam-quoc-son-ha-la-ban-tuyen-ngon-doc-lap-dau-tien-cua-nuoc-viet-nam-ta-tap-chi-han-nom-so--504984) — Phần mở đầu: vô danh, nhiều dị bản và giới hạn việc xác định thời điểm. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Trang PDF 154–155: chuyện thần Trương Hát đọc thơ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-y-lan-summary
+
+Ỷ Lan là vợ của Lý Thánh Tông và mẹ của Lý Nhân Tông, được biết đến với danh xưng Linh Nhân hoàng thái hậu. Bà xuất thân từ vùng Thổ Lỗi, sau gọi Siêu Loại, và mất năm 1117; năm sinh chưa được xác định chắc chắn. Khi Thánh Tông đi đánh Champa năm 1069, bà trông coi công việc trong nước. Đến thời Nhân Tông, bà tiếp tục giữ vai trò quan trọng trong triều chính và đời sống Phật giáo.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Phần thân thế, vai trò năm 1069 và thời Nhân Tông; chú thích 1 về năm sinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b: Linh Nhân là mẹ Càn Đức. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-y-lan-court
+
+Vị trí của Ỷ Lan thay đổi qua hai đời vua: từ nguyên phi của Thánh Tông sang mẹ của người kế vị. Thời Nhân Tông còn nhỏ, việc nước liên quan tới cả các thái hậu và đại thần như Đạo Thành, Thường Kiệt. Các quan hệ ấy giải thích vì sao vai trò của bà gắn với cả phả hệ lẫn cơ cấu phụ chính của triều đình.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Các đoạn 1069, 1072 và vai trò trong triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b: phụ chính đầu triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-y-lan-religion
+
+Ỷ Lan góp phần xây dựng chùa và hoạt động Phật giáo dưới triều Nhân Tông. Nguồn sử được nghiên cứu dẫn lại còn ghi việc bà lên tiếng năm 1117 trước nạn giết trâu, trong bối cảnh nhiều hộ nông dân phải dùng chung sức kéo. Hai mặt hoạt động này cho thấy mối liên hệ giữa đời sống tôn giáo, hoàng gia và việc chăm lo sản xuất của triều đình.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Các đoạn xây chùa và bảo vệ trâu sức kéo năm 1117. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-le-van-thinh-summary
+
+Lê Văn Thịnh là người đỗ đầu khoa Minh kinh bác học và Nho học tam trường năm 1075 dưới triều Lý Nhân Tông. Sau khi được vào hầu vua học, ông tham gia công việc triều đình, nổi bật với việc thương lượng biên giới tại Vĩnh Bình năm 1084 và được phong Thái sư năm 1085. Năm 1096, ông bị đày trong vụ án Hồ Tây. Chưa đủ căn cứ để xác định chắc chắn năm sinh và năm mất của ông.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Các đoạn khoa thi 1075, ngoại giao 1084, chức Thái sư 1085 và vụ án 1096. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-le-van-thinh-career
+
+Con đường của Lê Văn Thịnh cho thấy ý nghĩa của việc triều đình mở khoa thi để chọn người có học. Trong việc thương lượng với nhà Tống, ông góp phần giải quyết những vấn đề đất đai còn lại sau chiến tranh. Hoạt động này nối câu chuyện khoa cử với nhu cầu nhân sự thực tế của một nhà nước đang củng cố biên giới.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Các đoạn vào hầu vua học và thương lượng Vĩnh Bình. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 2–3: ngoại giao đòi đất sau chiến tranh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-le-van-thinh-case
+
+Vụ án năm 1096 được lưu truyền cùng chuyện Lê Văn Thịnh hóa hổ. Yếu tố hóa hổ thuộc lớp truyện kỳ dị, không phải bằng chứng rằng một người thực sự biến thành thú. Điều có thể tách ra khỏi câu chuyện là việc một đại thần từng có công bị kết tội và đày đi; động cơ và diễn biến đầy đủ của vụ án vẫn khó xác định từ những ghi chép ngắn còn lại.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Phần vụ án Hồ Tây và việc đày Thao Giang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-dao-thanh-summary
+
+Lý Đạo Thành là đại thần giữ chức Thái sư thời Lý Thánh Tông và tham gia phụ chính khi Lý Nhân Tông lên ngôi còn nhỏ. Ông từng rời triều vào Nghệ An, sau đó trở lại giúp việc nước và trông coi nội trị trong thời kỳ chuẩn bị chống Tống. Ông mất năm 1081, chưa rõ năm sinh. Vai trò của ông cho thấy việc củng cố triều đình cần cả người lo chính sự lẫn người chỉ huy quân đội.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Tác giả của kỳ thi tuyển hiền tài đầu tiên nước Việt](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tac-gia-cua-ky-thi-tuyen-hien-tai-dau-tien-nuoc-viet.html) — Các đoạn thời Thánh Tông, Nghệ An, trở lại triều và mất năm 1081. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b: Thái sư Đạo Thành giúp việc đầu triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-dao-thanh-regency
+
+Sau khi Thánh Tông mất, Đạo Thành cùng Thượng Dương thái hậu giúp xử lý công việc của triều đình. Nguồn kể về thời chuẩn bị kháng Tống ghi việc ông trở lại làm Thái phó, Bình chương quân quốc trọng sự để trông coi chính sự. Việc phối hợp giữa Đạo Thành và Thường Kiệt giúp nhìn rõ hai mặt của công việc giữ nước: duy trì điều hành bên trong và tổ chức đối phó quân sự.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Đoạn mời Đạo Thành trở lại trông coi nội trị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### bio-ly-dao-thanh-learning
+
+Một số bài nghiên cứu phổ thông đề xuất Đạo Thành có vai trò tổ chức khoa thi năm 1075. Tuy nhiên, chính bài viết nêu đó là giả thuyết của tác giả vì sử sách không ghi trực tiếp ai tổ chức. Dữ kiện chắc hơn là triều Nhân Tông đã mở khoa thi, còn việc quy toàn bộ sáng kiến cho một cá nhân cần thêm bằng chứng.
+
+Loại: hypothesis. Trạng thái: Đang biên soạn.
+
+- [Tác giả của kỳ thi tuyển hiền tài đầu tiên nước Việt](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tac-gia-cua-ky-thi-tuyen-hien-tai-dau-tien-nuoc-viet.html) — Các đoạn tác giả tự nêu giả thuyết về người tổ chức khoa thi 1075. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-than-tong-summary
+
+Lý Thần Tông, tên húy Dương Hoán, là con Sùng Hiền hầu và phu nhân họ Đỗ. Vì Lý Nhân Tông không có con trai nối ngôi, Dương Hoán được nhận làm con nuôi và lập làm thái tử. Ông kế vị vào cuối năm Đinh Mùi 1127, mở niên hiệu Thiên Thuận từ 1128, rồi trị vì đến khi mất năm 1138.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a: thânthế, nhậnnuôi vànhiệmkỳ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII.5: đăngcơ cuối 1127, niênhiệu từ 1128. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-than-tong-family
+
+Dương Hoán gọi Nhân Tông bằng bác, nên sự kế vị này giữ ngôi trong hoàng tộc nhưng chuyển sang một nhánh gia đình khác. Thân phụ ông là Sùng Hiền hầu, không phải một vị vua trực tiếp trị vì trước ông. Năm 1129, Thần Tông tôn cha làm Thái thượng hoàng và mẹ làm hoàng thái hậu.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ III(b), thời Lý Thần Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-15) — Mục 1129, tờ 32b, tônthânphụ/thânmẫu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-than-tong-reign
+
+Khi nhà vua còn nhỏ, các đại thần tiếp tục giúp điều hành triều đình. Dưới triều ông, quân Đại Việt đánh lui những đợt tiến quân của Chân Lạp và Chiêm Thành ở Nghệ An, trong đó có các cuộc giao tranh 1128 và 1132. Năm 1136, hoàng tử Thiên Tộ ra đời; đến năm 1138 được chọn làm thái tử và nối ngôi khi Thần Tông mất, tức Lý Anh Tông.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ III(b), thời Lý Thần Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-15) — Mục 1128, tờ 30a–32a;1132, tờ 37a–37b;1136, tờ 40a;1138, tờ 42a–42b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Lý Anh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/34-Anh-Tong-Hoang-De?uiLang=en) — Bản kỷ IV1a, ThiênTộ kếvị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-anh-tong-summary
+
+Lý Anh Tông, tên húy Thiên Tộ, là con Lý Thần Tông và hoàng hậu họ Lê. Ông lên ngôi năm 1138 khi còn rất nhỏ và giữ ngôi đến 1175. Trong thời gian trị vì, triều đình mở đầu mối giao thương Vân Đồn, đồng thời trải qua những tranh chấp quyền lực của các đại thần và việc lựa chọn người kế vị.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Anh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/34-Anh-Tong-Hoang-De?uiLang=en) — Bản kỷ IV1a: thânthế,nhiệmkỳ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1149,1150,1174–1175. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-anh-tong-government
+
+Trong những năm đầu, Đỗ Anh Vũ nắm nhiều việc chính sự của triều đình. Năm 1149, nhà Lý cho thuyền buôn nước ngoài tập trung ở Vân Đồn để mua bán hàng hóa. Các bến đảo về sau còn để lại nhiều dấu tích gốm và tiền đồng, phản ánh vai trò của thương cảng qua nhiều triều đại.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1140, tờ 1b;1149, tờ 6b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Di tích thương cảng Vân Đồn](https://scov.gov.vn/dat-nuoc-con-nguoi/dat-nuoc-viet-nam/di-tich-thuong-cang-van-don.html) — Các đoạnmởđầu vàkhảocổbếnbãi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-anh-tong-succession
+
+Những năm 1171–1172, Anh Tông đi xem các hải đảo, cho ghi lại địa thế và phong vật. Cuối đời, sau khi phế Long Xưởng, ông chọn Long Trát còn nhỏ làm thái tử. Trước lúc mất năm 1175, ông giao Tô Hiến Thành phò giúp người kế vị; Long Trát lên ngôi, trở thành Lý Cao Tông.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1171–1172, tờ 15a–15b;1174–1175, tờ 16a–17b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Tô Hiến Thành — Vì nước tiến cử người hiền, không vì ơn riêng](https://hoangthanhthanglong.vn/to-hien-thanh-vi-nuoc-tien-cu-nguoi-hien-khong-vi-on-rieng/) — Đoạn AnhTôngủy thácLongCán/LongTrát. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-cao-tong-summary
+
+Lý Cao Tông, tên húy Long Trát, còn có tên Long Cán, là con thứ sáu của Lý Anh Tông và hoàng hậu họ Đỗ. Ông được đưa lên ngôi năm 1175 khi còn nhỏ, dưới sự phò giúp của Tô Hiến Thành. Triều đại của ông kéo dài đến 1210, chứng kiến nhiều cuộc nổi dậy và cuộc biến loạn Quách Bốc ngay trong kinh thành.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Cao Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/35-Cao-Tong-Hoang-De?uiLang=en) — Bản kỷ IV17b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII.7:biếntểnhúy. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209–1210. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-cao-tong-regency
+
+Sau khi Anh Tông mất, việc nối ngôi từng bị phản đối bởi người muốn phục lập Long Xưởng. Tô Hiến Thành giữ di mệnh của vua trước và bảo vệ ngôi Long Trát. Nhà vua đổi niên hiệu Trinh Phù vào 1176, còn Tô Hiến Thành tiếp tục giúp việc nước cho đến khi mất năm 1179.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1175–1179, tờ 16b–19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đôi điều hiểu thêm về Tô Hiến Thành qua văn bản Tô tướng công thực lục](https://hannom.vass.gov.vn/tong-muc-luc/18-doi-dieu-hieu-them-ve-to-hien-thanh-qua-van-ban-to-tuong-cong-thuc-luc-tbhnh-1998-505627) — Đối chiếu ToànthưIV17a vàIV19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-cao-tong-crisis
+
+Năm 1209, vụ xung đột Phạm Du–Phạm Bỉnh Di dẫn tới việc Quách Bốc đem quân đánh vào kinh thành. Cao Tông phải lánh nạn, còn thái tử Sảm đến Hải Ấp và kết hôn với con gái Trần Lý. Lực lượng họ Trần tham gia khôi phục kinh thành, rồi Sảm nối ngôi khi Cao Tông mất năm 1210, trong một triều đình ngày càng phải dựa vào các thế lực quân sự bên ngoài hoàng tộc.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209–1210, tờ 25b–27b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-hue-tong-summary
+
+Lý Huệ Tông, tên húy Sảm, thường được gọi Lý Hạo Sảm, là con trưởng Lý Cao Tông và hoàng hậu họ Đàm. Ông kế vị cuối năm 1210, đặt niên hiệu Kiến Gia từ 1211. Cuộc hôn nhân với Trần Thị Dung và việc dựa vào lực lượng họ Trần đặt ông ở trung tâm sự chuyển dịch quyền lực cuối nhà Lý.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Huệ Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/36-Hue-Tong-Hoang-De?uiLang=en) — Bản kỷ IV27b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII.8. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209,1216–1217. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-hue-tong-tran-family
+
+Khi còn là thái tử, Sảm đến Hải Ấp trong loạn 1209 và lấy con gái Trần Lý. Năm 1216, Trần thị được lập làm hoàng hậu, Trần Tự Khánh giữ chức thái úy phụ chính và Trần Thừa làm nội thị phán thủ. Hai con gái của Huệ Tông và Trần Thị Dung là Thuận Thiên và Chiêu Thánh, người sau trở thành Lý Chiêu Hoàng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209, tờ 26a;1216, tờ 29a;1218, tờ 30a;1224, tờ 32a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-hue-tong-abdication
+
+Năm 1224, khi Huệ Tông có bệnh và không có con trai kế vị, quân bảo vệ cung đình đã do Trần Thủ Độ quản lĩnh. Tháng mười năm ấy, ông truyền ngôi cho công chúa Chiêu Thánh rồi xuất gia tại chùa Chân Giáo. Ông còn sống sau khi nhà Lý kết thúc; sử liệu ghi năm 1226 ông bị nhà Trần bức tử.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1224, tờ 31b–32a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII.8: xuấtgia vàbứctử 1226. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-to-hien-thanh-summary
+
+Tô Hiến Thành là đại thần nhà Lý, hoạt động qua hai đời vua Anh Tông và Cao Tông. Ông được Anh Tông giao phò giúp thái tử Long Trát, giữ quyết định kế vị năm 1175 khi có người muốn phục lập Long Xưởng. Trong chính sử, ông còn được nhắc đến qua việc tiến cử Trần Trung Tá trước khi mất năm 1179.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1175–1179, tờ 16b–19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đôi điều hiểu thêm về Tô Hiến Thành qua văn bản Tô tướng công thực lục](https://hannom.vass.gov.vn/tong-muc-luc/18-doi-dieu-hieu-them-ve-to-hien-thanh-qua-van-ban-to-tuong-cong-thuc-luc-tbhnh-1998-505627) — Đoạn đốichiếu chínhsửIV17a,IV19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-to-hien-thanh-office
+
+Toàn thư ghi Tô Hiến Thành bắt Thân Lợi năm 1141 và được giao nhiều việc quân dưới thời Anh Tông. Đến năm 1175, ông nhận di mệnh giúp vua nhỏ tuổi, từ chối việc thay đổi ngôi kế thừa. Quyền phụ chính của ông vì vậy gắn với cả sự ủy thác của vua trước lẫn việc giữ ổn định triều đình sau khi vua mất.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1141, tờ 3a;1175, tờ 16b–17b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-to-hien-thanh-recommendation
+
+Khi bệnh nặng năm 1179, ông đề nghị Trần Trung Tá thay mình, dù người thường túc trực chăm sóc ông là Vũ Tán Đường. Lời chép này làm nổi bật sự phân biệt giữa ơn riêng và năng lực gánh việc quốc gia. Tư liệu về quê quán, ngày sinh và đường khoa bảng của ông vẫn còn những điểm cần đối chiếu; chính sử xác nhận ông mất trong năm 1179.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1179, tờ 18b–19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đôi điều hiểu thêm về Tô Hiến Thành qua văn bản Tô tướng công thực lục](https://hannom.vass.gov.vn/tong-muc-luc/18-doi-dieu-hieu-them-ve-to-hien-thanh-qua-van-ban-to-tuong-cong-thuc-luc-tbhnh-1998-505627) — Mục quêquán,ngàysinh,khoabảng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-do-anh-vu-summary
+
+Đỗ Anh Vũ là đại thần có ảnh hưởng lớn khi Lý Anh Tông lên ngôi còn nhỏ. Năm 1140, ông được giao trông coi việc cung điện và chính sự trong ngoài. Vai trò của ông gắn với hoạt động quân sự, sự tranh giành trong cung đình và cuộc xung đột với một nhóm quan lại năm 1150.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1140,tờ 1b;1141,tờ 2b–3a;1150,tờ 7a–9b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-do-anh-vu-conflict
+
+Năm 1141, Anh Vũ chỉ huy quân chống lực lượng Thân Lợi. Theo lời chép trong Toàn thư, đến 1150 một nhóm quan lại và thân vương tổ chức bắt ông, khiến ông có lúc bị giáng làm người cày ruộng công. Sau khi được phục chức, ông truy xét những người tham gia vụ bắt giữ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1141,tờ 2b–3a;1150,tờ 7a–9b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-do-anh-vu-context
+
+Sự kiện 1150 cho thấy quyền lực dưới triều vua nhỏ tuổi còn phụ thuộc vào các nhóm quan lại và người có ảnh hưởng trong cung. Các lời kể về Anh Vũ trong sử liệu đi kèm nhiều phán xét của người biên soạn đời sau. Toàn thư ghi ông mất vào mùa thu năm 1158.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1150,tờ 7a–9b;lời bìnhsửquan;1158,tờ 13a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-sung-hien-summary
+
+Sùng Hiền hầu là em Lý Nhân Tông và là cha ruột của Lý Dương Hoán, tức Lý Thần Tông. Khi Nhân Tông không có con trai nối ngôi, Dương Hoán được đưa vào cung, nhận làm con nuôi và chọn kế vị. Năm 1129, sau khi con lên ngôi, Sùng Hiền hầu được tôn làm Thái thượng hoàng dù không phải người trực tiếp trị vì trước đó.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ III(b), thời Lý Thần Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-15) — Mục 1129,tờ 32b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4,phầnII.5. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-sung-hien-family
+
+Mẹ Dương Hoán là phu nhân họ Đỗ, được tôn làm hoàng thái hậu cùng dịp Sùng Hiền hầu nhận tôn vị. Nhân Tông giữ vai trò người bác và người nhận nuôi, còn Sùng Hiền hầu là cha sinh. Việc chọn Dương Hoán kế vị đưa nhánh gia đình này vào trung tâm quyền lực của hoàng tộc.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ III(b), thời Lý Thần Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-15) — Mục 1129,tờ 32b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-sung-hien-title
+
+Sùng Hiền hầu nhận tôn vị Thái thượng hoàng từ người con đang trị vì. Ông không có nhiệm kỳ hoàng đế riêng trong chuỗi các vua nhà Lý. Toàn thư ghi ông mất năm 1130, sau lần được tôn vị năm 1129.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ III(b), thời Lý Thần Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-15) — Mục 1129,tờ 32b;1130,tờ 35a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4,phầnII.5: SùngHiềnhầuchỉcótônvị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-chieu-hoang-accession
+
+Lý Chiêu Hoàng là con gái thứ của Huệ Tông và Trần Thị Dung, có tên Phật Kim, sau đổi Thiên Hinh. Tháng mười năm 1224, bà được lập làm thái tử rồi nhận ngôi từ vua cha, đặt niên hiệu Thiên Chương Hữu Đạo. Bà lên ngôi khi còn nhỏ, trong lúc Trần Thủ Độ nắm quân điện tiền và họ Trần đã giữ các vị trí quan trọng trong triều.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Chiêu Hoàng](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/37-Chieu-Hoang?uiLang=en) — Bản kỷ IV32b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1224,tờ 31b–32a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4,phầnII.9. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-bio-chieu-hoang-after-throne
+
+Sau cuộc hôn nhân do họ Trần tổ chức, Chiêu Hoàng nhường ngôi cho Trần Cảnh cuối năm Ất Dậu, mốc chuyển triều thường ghi 1225/1226. Bà trở thành Chiêu Thánh hoàng hậu, rồi bị giáng làm công chúa năm 1237 khi Thuận Thiên được đưa vào ngôi hoàng hậu. Năm 1258, bà kết hôn với Lê Tần, tức Lê Phụ Trần, và mất năm 1278.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — KỷChiêuHoàng 1225,tờ 33a–35a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4,phầnII.9:1237,1258,1278. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-canh
 
@@ -718,12 +1154,683 @@ Loại: evidence. Trạng thái: Đã đối chiếu nguồn. Thế thứ tính 
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 5, mục Trần Nhân Tông: nhường ngôi năm 1293, xuất gia năm 1299. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Việt Nam sử lược, quyển I — cuối đời Nhân Tông và đời Anh Tông](https://vi.wikisource.org/wiki/Trang:Viet_Nam_Su_Luoc_1.djvu/180) — Trang in 168, đoạn Nhân Tông Thượng hoàng mất năm Mậu Thân 1308. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
+### ly-foundation-context
+
+Lý Công Uẩn từng giữ chức Điện tiền chỉ huy sứ trong triều Tiền Lê. Khi Lê Long Đĩnh qua đời, việc chọn người nối ngôi mở ra một cuộc chuyển giao quyền lực.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Thái Tổ hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/29-Thai-To-Hoang-De?uiLang=en) — Quyển II, tờ 1a: chức vụ và việc lên ngôi sau Ngọa Triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II.1: lên ngôi tháng 10 năm Kỷ Dậu (1009), niên hiệu từ 1010. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mở đầu: triều Lý thành lập năm 1009. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-foundation-development
+
+Năm 1009, Lý Công Uẩn được tôn lên ngôi, mở đầu triều Lý. Sang năm 1010, ông đặt niên hiệu Thuận Thiên; vì thế một số bảng niên đại lấy 1010 làm năm đầu đời vua.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II.1: lên ngôi tháng 10 năm Kỷ Dậu (1009), niên hiệu từ 1010. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mở đầu: triều Lý thành lập năm 1009. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-foundation-result
+
+Triều đại mới ban đầu vẫn đặt trung tâm tại Hoa Lư, tiếp nhận bộ máy của nhà Tiền Lê trước khi xây dựng kinh đô mới.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Các đoạn mở đầu về tiếp nhận thể chế cũ tại Hoa Lư. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index) — Đức vua Lý Công Uẩn và quyết định dời đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-capital-context
+
+Sau khi lên ngôi tại Hoa Lư, Lý Thái Tổ chọn Đại La làm nơi đặt triều đình. Vị trí đồng bằng, sông ngòi và khả năng mở rộng được nêu trong Chiếu dời đô như những lý do của sự lựa chọn này.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index) — Đức vua Lý Công Uẩn và quyết định dời đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-capital-development
+
+Mùa thu năm 1010, triều đình chuyển từ Hoa Lư đến Đại La và đổi tên kinh đô mới là Thăng Long.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index) — Đức vua Lý Công Uẩn và quyết định dời đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần I: dời đô ra Thăng Long. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-capital-result
+
+Thăng Long từ đây trở thành trung tâm của vương triều Lý. Quyết định định đô gắn việc củng cố triều đại với một không gian phát triển rộng hơn vùng núi Hoa Lư.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index) — Phần về quyết định định đô và vai trò kinh đô mới. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-law-context
+
+Sử liệu được nghiên cứu dẫn lại mô tả việc kiện tụng trước đó phức tạp, có trường hợp quan xét xử quá khắc nghiệt. Triều đình muốn sắp xếp luật lệnh để việc xét án có căn cứ rõ hơn.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mục 3, chú thích 86–88: Hình thư năm 1042 và văn bản đã thất truyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-law-development
+
+Năm 1042, Lý Thái Tông cho san định luật lệnh và ban hành Hình thư. Đây là một dấu mốc xây dựng pháp luật của triều Lý.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mục 3, chú thích 86–88: Hình thư năm 1042 và văn bản đã thất truyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-law-result
+
+Hình thư đã thất truyền. Những hiểu biết hiện nay về pháp luật thời Lý chủ yếu phải dựa vào các ghi chép và luật lệnh còn được sử sách dẫn lại.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html) — Mục 3, chú thích 86–88: Hình thư năm 1042 và văn bản đã thất truyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-name-context
+
+Năm 1054, Lý Nhật Tôn nối ngôi Lý Thái Tông, trở thành vua Lý Thánh Tông.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II.3: Lý Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vua Lý Thánh Tông (1023–1072)](https://vanmieu.gov.vn/vi/ly-thanh-tong) — Đoạn đầu tiểu sử. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-name-development
+
+Khi lên ngôi năm 1054, Lý Thánh Tông đặt quốc hiệu Đại Việt, thay cho tên Đại Cồ Việt.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Vua Lý Thánh Tông (1023–1072)](https://vanmieu.gov.vn/vi/ly-thanh-tong) — Tiểu sử: đặt quốc hiệu Đại Việt. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần I: quốc hiệu Đại Việt từ năm 1054. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-name-result
+
+Đại Việt là quốc hiệu được sử dụng trong phần còn lại của thời Lý và tiếp tục dưới triều Trần. Quốc hiệu và tên triều đại vì thế không phải hai cách gọi tương đương.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần I; chương 5, phần I: quốc hiệu thời Lý và Trần. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-champa-context
+
+Dưới thời Lý Thánh Tông, quan hệ với Champa ở phía nam bao gồm cả giao thiệp lẫn chiến tranh. Năm 1069, nhà vua tổ chức một cuộc tiến quân lớn.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 2: Thánh Tông, Thường Kiệt, Chế Củ và ba châu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Đoạn về chiến dịch năm 1069. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-champa-development
+
+Lý Thánh Tông thân chinh, Lý Thường Kiệt chỉ huy quân trong chiến dịch năm 1069. Vua Champa Chế Củ bị bắt; trong thời gian vua đi xa, Ỷ Lan trông coi việc triều chính.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 2: Thánh Tông, Thường Kiệt, Chế Củ và ba châu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Đoạn về chiến dịch năm 1069. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Đoạn việc điều hành triều chính năm 1069. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-champa-result
+
+Sau chiến dịch, Chế Củ nhượng ba châu Địa Lý, Ma Linh và Bố Chính để được trở về. Sự chuyển giao này làm thay đổi quan hệ và không gian biên giới phía nam của Đại Việt.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 2: vua Champa được tha và Đại Việt nhận ba châu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Đoạn tháng 7 năm 1069: ba châu Địa Lý, Ma Linh, Bố Chính. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-temple-context
+
+Lý Thánh Tông coi trọng việc học và đưa Nho học vào hoạt động của triều đình, bên cạnh đời sống Phật giáo đang phát triển.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Vua Lý Thánh Tông (1023–1072)](https://vanmieu.gov.vn/vi/ly-thanh-tong) — Đoạn lý do dựng Văn Miếu và giao lưu văn hóa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-temple-development
+
+Năm 1070, vua Lý Thánh Tông cho dựng Văn Miếu, nơi thờ Khổng Tử và các bậc tiên hiền; hoàng thái tử đến học tại đây.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Thời Lý: các mốc 1070, 1075, 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Di tích lịch sử và kiến trúc nghệ thuật Văn Miếu–Quốc Tử Giám](https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-van-mieu-quoc-tu-giam-2953) — Mở đầu: Văn Miếu 1070 và Quốc Tử Giám 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-temple-result
+
+Việc dựng Văn Miếu tạo một cơ sở thờ tự và học tập của triều đình. Quốc Tử Giám được lập ở mốc sau, năm 1076, chứ không phải cùng một sự kiện năm 1070.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Thời Lý: các mốc 1070, 1075, 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Di tích lịch sử và kiến trúc nghệ thuật Văn Miếu–Quốc Tử Giám](https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-van-mieu-quoc-tu-giam-2953) — Mở đầu: Văn Miếu 1070 và Quốc Tử Giám 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-exam-context
+
+Lý Nhân Tông lên ngôi khi còn nhỏ, được các thái hậu và đại thần giúp điều hành. Trong thời kỳ này, triều đình tổ chức thêm con đường tuyển chọn người có học vào làm việc.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b: vua trẻ và phụ chính. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Đoạn khoa thi Minh kinh bác học và Nho học tam trường. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-exam-development
+
+Năm 1075, triều Lý mở khoa Minh kinh bác học và Nho học tam trường. Lê Văn Thịnh đỗ đầu và được vào hầu vua học.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Đoạn năm Ất Mão, Thái Ninh 4 (1075). Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Thời Lý: khoa thi Nho học đầu tiên năm 1075. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-exam-result
+
+Khoa thi năm 1075 là mốc mở đầu truyền thống khoa cử Nho học của Việt Nam. Người đỗ đầu được tuyển dụng vào triều, cho thấy việc học có thể trở thành một con đường tham gia công việc của nhà nước.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Mốc 1075. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Đoạn đỗ đầu và vào hầu vua học. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-academy-context
+
+Sau khi Văn Miếu được dựng và khoa thi Nho học đầu tiên được tổ chức, triều đình tiếp tục xây dựng cơ sở đào tạo người có học.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Thứ tự các mốc 1070, 1075 và 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-academy-development
+
+Năm 1076, dưới triều Lý Nhân Tông, Quốc Tử Giám được thành lập tại kinh đô Thăng Long.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lịch sử di tích Văn Miếu–Quốc Tử Giám](https://www.vanmieu.gov.vn/vi/introduction/site-history) — Thời Lý: các mốc 1070, 1075, 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Di tích lịch sử và kiến trúc nghệ thuật Văn Miếu–Quốc Tử Giám](https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-van-mieu-quoc-tu-giam-2953) — Mở đầu: Văn Miếu 1070 và Quốc Tử Giám 1076. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-academy-result
+
+Văn Miếu và Quốc Tử Giám gắn việc tôn vinh đạo học với đào tạo trí thức của nhà nước. Di tích được thay đổi và xây dựng lại qua nhiều triều đại, nên kiến trúc hiện còn không hoàn toàn thuộc thời Lý.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Di tích lịch sử và kiến trúc nghệ thuật Văn Miếu–Quốc Tử Giám](https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-van-mieu-quoc-tu-giam-2953) — Các đoạn chức năng di tích, kiến trúc Lê–Nguyễn và khu Thái Học phục dựng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-war-context
+
+Trong thập niên 1070, quan hệ Đại Việt–Tống căng thẳng và các căn cứ quân sự ở vùng biên được chuẩn bị cho chiến tranh. Triều Lý giao cho Lý Thường Kiệt tổ chức đối phó.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Các đoạn tiến công Ung–Khâm–Liêm, phòng tuyến Như Nguyệt và giảng hòa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 1–3: tiến công, phòng thủ và ngoại giao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-war-development
+
+Năm 1075, quân Đại Việt tiến đánh các căn cứ Ung, Khâm và Liêm của nhà Tống rồi rút về phòng thủ. Cuối năm 1076–đầu năm 1077, quân Tống tiến vào Đại Việt và bị chặn ở phòng tuyến Như Nguyệt, trên sông Cầu.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Các đoạn tiến công Ung–Khâm–Liêm, phòng tuyến Như Nguyệt và giảng hòa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 1–3: tiến công, phòng thủ và ngoại giao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-war-result
+
+Lý Thường Kiệt kết hợp chiến đấu với giảng hòa; quân Tống rút khỏi chiến trường năm 1077. Việc giải quyết đất đai ở biên giới còn tiếp tục bằng ngoại giao trong những năm sau.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Các đoạn tiến công Ung–Khâm–Liêm, phòng tuyến Như Nguyệt và giảng hòa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Tựa, trang PDF 1–3: tiến công, phòng thủ và ngoại giao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-nam-quoc-son-ha
+
+Nam quốc sơn hà gắn với truyền thống kể chuyện về cuộc kháng chiến chống Tống và thần sông Như Nguyệt. Bài thơ có nhiều dị bản, chưa xác định được tác giả; mối liên hệ với Lý Thường Kiệt không đồng nghĩa với bằng chứng chắc chắn về quyền tác giả.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf) — Trang PDF 154–155: bài thơ trong chuyện thần Trương Hát. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Bài thơ Nam quốc sơn hà là bản tuyên ngôn độc lập đầu tiên của nước Việt Nam ta](https://hannom.vass.gov.vn/nghien-cuu-van-ban/bai-tho-nam-quoc-son-ha-la-ban-tuyen-ngon-doc-lap-dau-tien-cua-nuoc-viet-nam-ta-tap-chi-han-nom-so--504984) — Phần mở đầu: bài thơ vô danh và nhiều dị bản. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thai-to-reign
+
+Lý Thái Tổ ở ngôi trong những năm 1009–1028; niên hiệu Thuận Thiên bắt đầu từ năm 1010.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II: mục Lý Thái Tổ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thai-tong-reign
+
+Lý Thái Tông ở ngôi trong những năm 1028–1054.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II: mục Lý Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thanh-tong-reign
+
+Lý Thánh Tông ở ngôi trong những năm 1054–1072.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II: mục Lý Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-nhan-tong-reign
+
+Lý Nhân Tông ở ngôi trong những năm 1072–1127.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II: mục Lý Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thai-to-thai-tong-claim
+
+Lý Thái Tông, tên Phật Mã, là con của Lý Thái Tổ.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Thái Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/30-Thai-Tong-Hoang-De?uiLang=en) — Quyển II, tờ 18a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II.2. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thai-tong-thanh-tong-claim
+
+Lý Thánh Tông, tên Nhật Tôn, là con của Lý Thái Tông.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Thánh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/31-Thanh-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 1a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vua Lý Thánh Tông (1023–1072)](https://vanmieu.gov.vn/vi/ly-thanh-tong) — Đoạn đầu tiểu sử. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thanh-tong-nhan-tong-claim
+
+Lý Nhân Tông, tên Càn Đức, là con của Lý Thánh Tông.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II.4. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-y-lan-nhan-tong-claim
+
+Linh Nhân thái hậu, tức Ỷ Lan, là mẹ của Lý Nhân Tông.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lý Nhân Tông — ông vua có nhiều kỷ lục](https://baotanglichsu.vn/vi/Articles/2001/65227/ly-nhan-tong-ong-vua-co-nhieu-ky-luc.html) — Đoạn tên Càn Đức và cha mẹ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thanh-tong-y-lan-claim
+
+Ỷ Lan là vợ của Lý Thánh Tông và là mẹ của người nối ngôi, Lý Nhân Tông.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Nguyên phi Ỷ Lan với vương triều Lý](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776) — Phần thân thế và vai trò trong triều Thánh Tông, Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-thuong-kiet-nhan-tong-claim
+
+Lý Thường Kiệt giữ binh quyền, phò tá Lý Nhân Tông và chỉ huy việc chống quân Tống.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html) — Các đoạn Nhân Tông lên ngôi năm 1072 và cuộc kháng chiến 1075–1077. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-dao-thanh-nhan-tong-claim
+
+Lý Đạo Thành là đại thần giúp việc chính sự khi Lý Nhân Tông lên ngôi còn nhỏ.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en) — Quyển III, tờ 6b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Tác giả của kỳ thi tuyển hiền tài đầu tiên nước Việt](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tac-gia-cua-ky-thi-tuyen-hien-tai-dau-tien-nuoc-viet.html) — Các đoạn vua nhỏ, phụ chính và việc nội trị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-le-van-thinh-nhan-tong-claim
+
+Sau khi đỗ đầu khoa thi năm 1075, Lê Văn Thịnh được vào hầu vua Lý Nhân Tông học; về sau ông làm việc ngoại giao và giữ chức Thái sư.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đệ nhất khai khoa của Việt Nam](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html) — Các đoạn 1075, 1084 và 1085. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-early-1-claim
+
+Lý Thái Tông nối ngôi Lý Thái Tổ.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II: mục Lý Thái Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-early-2-claim
+
+Lý Thánh Tông nối ngôi Lý Thái Tông.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II: mục Lý Thánh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-early-3-claim
+
+Lý Nhân Tông nối ngôi Lý Thánh Tông.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II: mục Lý Nhân Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-van-don-context
+
+Thời Lý Anh Tông, hoạt động trao đổi bằng đường biển gắn Đại Việt với các thương nhân bên ngoài. Năm 1149, thuyền buôn nước ngoài đến Hải Đông và xin được cư trú, buôn bán.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Bản kỷ IV, mục Kỷ Tỵ 1149, tờ 6b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Di tích thương cảng Vân Đồn](https://scov.gov.vn/dat-nuoc-con-nguoi/dat-nuoc-viet-nam/di-tich-thuong-cang-van-don.html) — Đầu bài và đoạn dẫn Toàn thư về 1149. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-van-don-establishment
+
+Triều đình cho lập một trang trên vùng hải đảo, đặt tên Vân Đồn, làm nơi mua bán hàng hóa và tiếp nhận sản vật. Việc tập trung thuyền buôn vào một đầu mối cũng đặt giao thương trong sự quản lý của nhà nước.
+
+Loại: chronicle. Trạng thái: Đang biên soạn. Câu thứ hai là cách giải thích ý nghĩa việc tập trung giao thương; không suy ra bộ máy thuế quan cụ thể.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1149: cho lập trang ở hải đảo, gọi là Vân Đồn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-van-don-traces
+
+Các dấu tích của thương cảng cổ phân bố ở nhiều bến trên quần đảo Vân Hải. Đồ gốm và tiền đồng được phát hiện tại các bến cho thấy hoạt động giao thương tiếp tục qua nhiều triều đại.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Di tích thương cảng Vân Đồn](https://scov.gov.vn/dat-nuoc-con-nguoi/dat-nuoc-viet-nam/di-tich-thuong-cang-van-don.html) — Đoạn bến Cống Đông, Cống Hẹp, Cống Yên, Ngọc Vừng, Minh Châu, Quan Lạn; gốm và tiền đồng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-1175-context
+
+Trước khi mất, Lý Anh Tông đã phế thái tử Long Xưởng và chọn người con còn nhỏ là Long Trát kế vị. Năm 1175, ông giao Tô Hiến Thành giúp đỡ thái tử và gánh việc triều chính.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Các mục 1174–1175, tờ 16a–16b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-1175-dispute
+
+Khi Anh Tông mất, Chiêu Linh thái hậu tìm cách đưa Long Xưởng trở lại vị trí kế thừa. Tô Hiến Thành giữ di mệnh, từ chối việc thay đổi người nối ngôi.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1175, tờ 16b–17a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Tô Hiến Thành — Vì nước tiến cử người hiền, không vì ơn riêng](https://hoangthanhthanglong.vn/to-hien-thanh-vi-nuoc-tien-cu-nguoi-hien-khong-vi-on-rieng/) — Đoạn Chiêu Linh thái hậu muốn phục lập Long Xưởng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-1175-result
+
+Long Trát lên ngôi năm 1175, tức Lý Cao Tông; Tô Hiến Thành tiếp tục phò giúp nhà vua nhỏ tuổi. Niên hiệu Trinh Phù được đặt vào đầu năm 1176, sau thời điểm lên ngôi.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Cao Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/35-Cao-Tong-Hoang-De?uiLang=en) — Bản kỷ IV17b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1176, tờ 18a, lời giải thích lên ngôi từ tháng bảy năm trước. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-quach-boc-context
+
+Năm 1209, xung đột giữa Phạm Du và Phạm Bỉnh Di kéo đến triều đình. Cao Tông bắt giam Bỉnh Di cùng con trai, khiến thuộc tướng của Bỉnh Di là Quách Bốc đem quân vào kinh thành.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209, tờ 25a–25b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-quach-boc-development
+
+Quân Quách Bốc phá cửa thành, triều đình tan tác và Cao Tông phải lánh đi. Quách Bốc đưa hoàng tử Thầm lên ngôi, trong khi thái tử Sảm đến vùng Hải Ấp và kết hôn với con gái Trần Lý.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209, tờ 25b–26a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-quach-boc-result
+
+Lực lượng họ Trần tham gia đánh dẹp và đưa Cao Tông trở lại kinh thành. Trong biến động ấy, quan hệ giữa thái tử Sảm với gia đình Trần Lý trở thành một mắt xích của quyền lực cuối triều Lý.
+
+Loại: chronicle. Trạng thái: Đang biên soạn. Sự kiện ghi nhận trong sử liệu; ý nghĩa của liên minh hôn nhân là diễn giải từ trình tự các sự kiện, không phải lời tuyên bố về ý định của mọi người tham gia.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209–1210, tờ 26a–26b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-chieu-hoang-accession-context
+
+Đến năm 1224, Huệ Tông có bệnh, không có con trai kế vị; các con gái được chia những lộ làm ấp. Lực lượng quân điện tiền bảo vệ cung đình nằm dưới quyền Trần Thủ Độ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — MụcGiápThân 1224, tờ 31b–32a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-chieu-hoang-accession
+
+Tháng mười năm Giáp Thân 1224, Huệ Tông lập công chúa Chiêu Thánh làm hoàng thái tử rồi truyền ngôi. Chiêu Thánh trở thành Lý Chiêu Hoàng, đặt niên hiệu Thiên Chương Hữu Đạo; Huệ Tông xuất gia tại chùa Chân Giáo.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1224, tờ 32a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII, mục8–9. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-chieu-hoang-power
+
+Chiêu Hoàng nhận ngôi khi còn nhỏ, trong lúc các nhân vật họ Trần đã giữ những vị trí trọng yếu. Cuộc hôn nhân với Trần Cảnh và việc nhường ngôi cuối năm Ất Dậu 1225 đánh dấu kết thúc triều Lý.
+
+Loại: chronicle. Trạng thái: Đang biên soạn. Giữ mốc 1225/1226 theo cách ghi lịch của dữ liệu chuyển triều; không tạo một sự kiện thứ hai cho năm 1226.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — KỷChiêuHoàng 1225, tờ 32b–35a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-reign-ly-than-tong
+
+Lý Thần Tông giữ ngôi trong khoảng 1127/1128–1138.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a; đăng cơ cuối nămĐinhMùi, niên hiệuThiênThuận bắt đầu 1128. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII, mụcLý Thần Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-reign-ly-anh-tong
+
+Lý Anh Tông giữ ngôi trong khoảng 1138–1175.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Anh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/34-Anh-Tong-Hoang-De?uiLang=en) — Bản kỷ IV1a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII, mụcLý Anh Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-reign-ly-cao-tong
+
+Lý Cao Tông giữ ngôi trong khoảng 1175–1210.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Cao Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/35-Cao-Tong-Hoang-De?uiLang=en) — Bản kỷ IV17b; đăng cơ 1175, TrinhPhù từ 1176. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII, mụcLý Cao Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-reign-ly-hue-tong
+
+Lý Huệ Tông giữ ngôi trong khoảng 1210–1224.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Huệ Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/36-Hue-Tong-Hoang-De?uiLang=en) — Bản kỷ IV27b; nối ngôi khi CaoTông mất 1210, KiếnGia từ 1211. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII, mụcLý Huệ Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-reign-ly-chieu-hoang
+
+Lý Chiêu Hoàng giữ ngôi trong khoảng 1224–1225/1226.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Chiêu Hoàng](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/37-Chieu-Hoang?uiLang=en) — Bản kỷ IV32b; đối chiếuThếthứChương4II.9 vàsựkiệnchuyểngôi 1225/1226. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII, mụcLý Chiêu Hoàng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-family-sung-hien-than-tong-claim
+
+Sùng Hiền hầu là cha ruột của Lý Dương Hoán, tức Lý Thần Tông; mẹ Dương Hoán là phu nhân họ Đỗ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-family-nhan-tong-sung-hien-claim
+
+Sùng Hiền hầu là em của Lý Nhân Tông; Dương Hoán gọi Nhân Tông bằng bác.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII.5, LýThầnTông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-adoption-nhan-than-tong-claim
+
+Lý Nhân Tông nhận Dương Hoán làm con nuôi, nuôi trong cung và lập làm hoàng thái tử. Người kế vị ấy là con Sùng Hiền hầu, không phải con ruột Nhân Tông.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en) — Bản kỷ III28a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII.5. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-family-than-anh-tong-claim
+
+Lý Anh Tông, tên Thiên Tộ, là con Lý Thần Tông và hoàng hậu họ Lê.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Anh Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/34-Anh-Tong-Hoang-De?uiLang=en) — Bản kỷ IV1a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-family-anh-cao-tong-claim
+
+Lý Cao Tông, tên Long Trát, là con thứ sáu của Lý Anh Tông và hoàng hậu họ Đỗ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Cao Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/35-Cao-Tong-Hoang-De?uiLang=en) — Bản kỷ IV17b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-family-cao-hue-tong-claim
+
+Lý Huệ Tông, tên Sảm, là con trưởng của Lý Cao Tông và hoàng hậu họ Đàm.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Huệ Tông hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/36-Hue-Tong-Hoang-De?uiLang=en) — Bản kỷ IV27b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-family-hue-chieu-hoang-claim
+
+Lý Chiêu Hoàng là con gái thứ của Lý Huệ Tông và Trần Thị Dung.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Lý Chiêu Hoàng](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/37-Chieu-Hoang?uiLang=en) — Bản kỷ IV32b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4, phầnII.9. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-family-hue-thuan-thien-claim
+
+Thuận Thiên là con gái đầu của Lý Huệ Tông và Trần Thị Dung, sinh năm 1216.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — MụcBínhTý 1216, tờ 29a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-marriage-hue-dung-claim
+
+Thái tử Sảm kết hôn với con gái Trần Lý khi đến Hải Ấp trong loạn 1209. Trần thị được lập làm hoàng hậu của Huệ Tông năm 1216.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1209, tờ 26a; mục 1216, tờ 29a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-political-to-hien-thanh-cao-tong-claim
+
+Tô Hiến Thành nhận di mệnh của Lý Anh Tông giúp Long Trát, bảo vệ quyết định kế vị và phò giúp Cao Tông cho đến khi mất năm 1179.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1175–1179, tờ 16b–19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đôi điều hiểu thêm về Tô Hiến Thành qua văn bản Tô tướng công thực lục](https://hannom.vass.gov.vn/tong-muc-luc/18-doi-dieu-hieu-them-ve-to-hien-thanh-qua-van-ban-to-tuong-cong-thuc-luc-tbhnh-1998-505627) — Đối chiếu chính sửIV17a,IV19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-political-do-anh-vu-anh-tong-claim
+
+Đỗ Anh Vũ là đại thần giữ quyền quyết định nhiều việc triều chính khi Lý Anh Tông còn nhỏ; năm 1140 được giao coi chính sự trong ngoài.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16) — Mục 1140, tờ 1b; mục 1150, tờ 7a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-political-tu-khanh-hue-tong-claim
+
+Năm 1216, Lý Huệ Tông phong Trần Tự Khánh làm thái úy phụ chính. Tự Khánh giữ vai trò quân sự và chính trị trọng yếu cho đến khi mất năm 1223.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — Mục 1216, tờ 29a; mục 1223, tờ 31a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-ly-nhan-tong-ly-than-tong-claim
+
+Lý Thần Tông nối ngôi vào mốc 1127/1128.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II, thứ tự các vua thời Lý; đối chiếu các mục Toàn thư tương ứng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-ly-than-tong-ly-anh-tong-claim
+
+Lý Anh Tông nối ngôi vào mốc 1138.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II, thứ tự các vua thời Lý; đối chiếu các mục Toàn thư tương ứng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-ly-anh-tong-ly-cao-tong-claim
+
+Lý Cao Tông nối ngôi vào mốc 1175.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II, thứ tự các vua thời Lý; đối chiếu các mục Toàn thư tương ứng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-ly-cao-tong-ly-hue-tong-claim
+
+Lý Huệ Tông nối ngôi vào mốc 1210.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II, thứ tự các vua thời Lý; đối chiếu các mục Toàn thư tương ứng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-succession-ly-hue-tong-ly-chieu-hoang-claim
+
+Lý Chiêu Hoàng nối ngôi vào mốc 1224.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần II, thứ tự các vua thời Lý; đối chiếu các mục Toàn thư tương ứng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-pagoda-1049
+
+Diên Hựu được khởi dựng năm 1049 dưới thời Lý Thái Tông; phần kiến trúc thường gọi chùa Một Cột chỉ là một bộ phận của quần thể. Công trình đã được mở rộng, trùng tu và phục dựng qua nhiều thời kỳ. Hình dáng hiện nay vì vậy giúp hình dung một truyền thống kiến trúc Phật giáo, không thể xem là toàn bộ chùa nguyên trạng thế kỷ XI.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Chùa Một Cột trong quần thể Diên Hựu hiện nay](https://hoangthanhthanglong.vn/chua-mot-cot) — Bài Chùa Một Cột: các đoạn mở đầu năm 1049, quần thể Diên Hựu, mở rộng 1106 và phục dựng sau 1954. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ly-place-den-do
+
+Đền Đô, còn gọi đền Lý Bát Đế, là nơi thờ các vua Lý ở Đình Bảng. Khu đền hiện nay đã qua nhiều lần xây dựng và phục hồi; đây là một địa điểm tưởng niệm để tìm hiểu về triều đại, không phải kinh đô của nhà Lý.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Lý Bát Đế Temple — khu tưởng niệm các vua Lý](https://en.wikipedia.org/wiki/L%C3%BD_B%C3%A1t_%C4%90%E1%BA%BF_Shrine) — Mở đầu; Main hall and side halls; Restoration in the 1990s. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
 ## Còn thiếu
 
 - Đối chiếu bản in và thông tin thư mục của các trích đoạn sách/Toàn thư; xác định nguồn phụ thuộc chung.
 - Nghiên cứu sâu đê điều, văn học, kiến trúc, đời sống dân thường, quan hệ khu vực; hiện chỉ tóm lược phần có căn cứ.
 - Bổ sung các vai trò Thượng hoàng, niên hiệu và tuổi thọ bằng nguồn cụ thể; không tự lấy từ trí nhớ.
-- Các thời kỳ ngoài Trần chủ yếu có khung điều hướng sơ bộ. Không công bố chúng là các chương hoàn chỉnh.
+- Lý có mười chương bản đầu, Trần giữ chín chương. Các thời kỳ ngoài hai bộ này chủ yếu có khung điều hướng hoặc phần nối chuyển triều; không công bố tất cả triều đại đã hoàn chỉnh.
 - Geometry lịch sử, tuyến hành quân và định vị Hải Ấp/Đông Bộ Đầu/Bạch Đằng chưa đủ căn cứ.
 
 Kiểm tra tự động không chứng minh lịch sử đúng; người biên tập phải rà từng liên kết hỗ trợ thực tế.

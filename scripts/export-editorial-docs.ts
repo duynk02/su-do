@@ -6,8 +6,13 @@ import {
   people,
   mediaAssets,
   tenures,
+  periods,
+  events,
+  chapters,
 } from "../src/data/history";
 import { statusLabels } from "../src/data/schema";
+const illustrated = people.filter((person) => person.mediaAssetId);
+const rulers = tenures.filter((tenure) => tenure.role === "reigning");
 
 const registry = [
   "# Danh mục nguồn đã đọc",
@@ -40,6 +45,10 @@ const audit = [
   "## Dị biệt và quyết định biên tập",
   "",
   "- Chuyển Lý–Trần: giữ mốc 1225/1226; ngày 11 tháng Chạp và 21 tháng 10 trong hai bài được lưu riêng. Chưa tự chuyển lịch.",
+  "- Nhà Lý: dùng 1009 cho năm Công Uẩn lên ngôi, 1010 cho niên hiệu và dời đô; 1054 cho quốc hiệu Đại Việt. Văn Miếu 1070, khoa thi 1075 và Quốc Tử Giám 1076 là ba mốc riêng theo hồ sơ di tích.",
+  "- Nhân Tông–Thần Tông: giữ năm Đinh Mùi 1127 theo quy ước nguồn Việt; niên hiệu Thiên Thuận từ 1128. Dương Hoán là con Sùng Hiền hầu, được Nhân Tông nhận nuôi, không vẽ thành cha đẻ–con. Cao Tông đăng cơ 1175, Trinh Phù từ 1176; Huệ Tông đăng cơ 1210, Kiến Gia từ 1211.",
+  "- Tô Hiến Thành: không gán năm sinh 1102 hoặc đỗ khoa 1138 khi nghiên cứu Hán Nôm còn lưu ý giới hạn chứng cứ. Đỗ Anh Vũ được trình bày qua vai trò và sự kiện sử chép, không lặp nhãn đạo đức của sử quan.",
+  "- Nam quốc sơn hà: không khẳng định Lý Thường Kiệt là tác giả; giữ dị bản, tác giả chưa xác định và phân biệt chuyện thần đọc thơ với diễn biến chiến tranh. Gia thế Lý Công Uẩn, chuyện thác sinh của Thần Tông và vụ hóa hổ Lê Văn Thịnh không được dùng làm dữ kiện siêu nhiên đã chứng minh.",
   "- Trần Thừa: tách vai trò Thượng hoàng và miếu hiệu truy tôn khỏi trị vì. Thứ tự anh/em với Trần Tự Khánh khác nguồn; không dựng thứ bậc.",
   "- Nhân Tông: dùng 1278 theo Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long; bài biên niên ghi 1279. Không tự giải thích dị biệt bằng lịch khi chưa khảo cứu.",
   "- Nhân Tông: Thế thứ ghi thời gian Thượng hoàng trước xuất gia 1293–1299, trong khi Việt Nam sử lược còn gọi Nhân Tông Thượng hoàng lúc mất năm 1308. Vai trò 1293–1308 là thời gian mang tôn hiệu; không đồng nhất với trực tiếp điều hành chính sự. Ngày mất 1/11 trong bài di sản khác 3/11 trong Thế thứ; hồ sơ chỉ ghi năm 1308.",
@@ -74,7 +83,7 @@ const audit = [
   "- Đối chiếu bản in và thông tin thư mục của các trích đoạn sách/Toàn thư; xác định nguồn phụ thuộc chung.",
   "- Nghiên cứu sâu đê điều, văn học, kiến trúc, đời sống dân thường, quan hệ khu vực; hiện chỉ tóm lược phần có căn cứ.",
   "- Bổ sung các vai trò Thượng hoàng, niên hiệu và tuổi thọ bằng nguồn cụ thể; không tự lấy từ trí nhớ.",
-  "- Các thời kỳ ngoài Trần chủ yếu có khung điều hướng sơ bộ. Không công bố chúng là các chương hoàn chỉnh.",
+  "- Lý có mười chương bản đầu, Trần giữ chín chương. Các thời kỳ ngoài hai bộ này chủ yếu có khung điều hướng hoặc phần nối chuyển triều; không công bố tất cả triều đại đã hoàn chỉnh.",
   "- Geometry lịch sử, tuyến hành quân và định vị Hải Ấp/Đông Bộ Đầu/Bạch Đằng chưa đủ căn cứ.",
   "",
   "Kiểm tra tự động không chứng minh lịch sử đúng; người biên tập phải rà từng liên kết hỗ trợ thực tế.",
@@ -84,24 +93,53 @@ writeFileSync(
   "CONTENT_AUDIT.md",
   audit.map((line) => line.trimEnd()).join("\n"),
 );
+
+console.log(
+  JSON.stringify(
+    {
+      people: people.length,
+      illustrated: illustrated.length,
+      periods: periods
+        .filter((period) =>
+          chapters.some((chapter) => chapter.periodId === period.id),
+        )
+        .map((period) => ({
+          id: period.id,
+          chapters: chapters.filter((chapter) => chapter.periodId === period.id)
+            .length,
+          people: people.filter((person) =>
+            person.periodIds.includes(period.id),
+          ).length,
+          events: events.filter((event) => event.periodIds.includes(period.id))
+            .length,
+          rulers: rulers.filter((tenure) => tenure.periodId === period.id)
+            .length,
+        })),
+      claims: claims.length,
+      citations: citations.length,
+      sources: sources.length,
+    },
+    null,
+    2,
+  ),
+);
 console.log(
   `Exported register: ${sources.length} sources; audit: ${claims.length} claims.`,
 );
-const illustrated = people.filter((person) => person.mediaAssetId);
-const rulers = tenures.filter((tenure) => tenure.role === "reigning");
 const kindLabels: Record<string, string> = {
   painting: "Tranh minh họa",
   "statue-photo": "Ảnh tượng thờ",
   "heritage-photo": "Ảnh di tích",
+  reconstruction: "Minh họa tái dựng",
 };
 writeFileSync(
   "IMAGE_COVERAGE.md",
   [
     "# Hình minh họa nhân vật",
     "",
-    `${illustrated.length}/${people.length} hồ sơ có hình; ${rulers.filter((ruler) => people.find((person) => person.id === ruler.personId)?.mediaAssetId).length}/${rulers.length} người giữ ngôi trong chuỗi thời Trần có hình.`,
+    `${illustrated.length}/${people.length} hồ sơ có hình; ${rulers.filter((ruler) => people.find((person) => person.id === ruler.personId)?.mediaAssetId).length}/${rulers.length} người giữ ngôi trong các bộ Lý–Trần có hình.`,
     "",
-    "Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, thông tin tra cứu tại public/images/people/provenance.json.",
+    "Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, thông tin tra cứu tại public/images/people/provenance.json và public/images/people/ly/provenance.json.",
     "",
     "| Nhân vật | Loại hình | Tệp ảnh |",
     "|---|---|---|",

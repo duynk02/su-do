@@ -137,3 +137,38 @@ test("large families are laid out without silently dropping people", () => {
   assert.equal(graph.edges.length, 11);
   assert.ok(graph.width > 520);
 });
+
+test("converging political links and long parallel labels remain readable", () => {
+  const edges: Relationship[] = Array.from({ length: 7 }, (_, index) => ({
+    id: `adviser-link-${index}`,
+    from: `adviser-${index}`,
+    to: "ruler",
+    type: "political",
+    label: "Phò tá nhà vua và cùng điều hành các công việc trong triều",
+    claimIds: [],
+    status: "draft",
+  }));
+  edges.push({
+    ...edges[0],
+    id: "parallel-link",
+    label: "Thực hiện một vai trò khác trong cùng thời kỳ; ".repeat(5),
+  });
+  const graph = layoutRelations("ruler", edges, "political");
+  assert.deepEqual(graph.edges.map((edge) => edge.id), edges.map((edge) => edge.id));
+  assert.equal(graph.nodes.length, 8);
+  const labels = graph.edges.map((edge) => edge.labelBox!);
+  for (const [index, label] of labels.entries()) {
+    assert.ok(label.x - label.width / 2 >= 0);
+    assert.ok(label.x + label.width / 2 <= graph.width);
+    assert.ok(label.y - label.height / 2 >= 0);
+    assert.ok(label.y + label.height / 2 <= graph.height);
+    for (const node of graph.nodes)
+      assert.equal(
+        overlaps(label, { ...node, width: graph.nodeWidth, height: graph.nodeHeight }),
+        false,
+        "a political label covers a person",
+      );
+    for (const other of labels.slice(index + 1))
+      assert.equal(overlaps(label, other), false, "political labels overlap");
+  }
+});

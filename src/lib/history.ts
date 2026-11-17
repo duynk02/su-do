@@ -1,5 +1,6 @@
 import {
   chapters,
+  defaultPeriodId,
   claims,
   events,
   people,
@@ -8,6 +9,52 @@ import {
   tenures,
 } from "../data/history";
 import type { HistoricalDate } from "../data/schema";
+
+export const chaptersForPeriod = (periodId: string) =>
+  chapters.filter((chapter) => chapter.periodId === periodId);
+export const peopleForPeriod = (periodId: string) =>
+  people.filter((person) => person.periodIds.includes(periodId));
+export const eventsForPeriod = (periodId: string) =>
+  events.filter((event) => event.periodIds.includes(periodId));
+export const tenuresForPeriod = (periodId: string) =>
+  tenures.filter((tenure) => tenure.periodId === periodId);
+export function periodById(id: string) {
+  return (
+    periods.find((period) => period.id === id) ??
+    periods.find((period) => period.id === defaultPeriodId)!
+  );
+}
+export function periodForEntity(
+  ids: string[],
+  preferred?: string,
+  year?: number,
+) {
+  return periodById(
+    (preferred && ids.includes(preferred) ? preferred : undefined) ??
+      periods.find(
+        (period) =>
+          ids.includes(period.id) &&
+          year !== undefined &&
+          containsYear(period.date, year),
+      )?.id ??
+      ids[0] ??
+      defaultPeriodId,
+  );
+}
+export function periodStartState(id: string): AtlasState {
+  const period = periodById(id);
+  const chapter = chaptersForPeriod(period.id)[0];
+  return {
+    period: period.id,
+    chapter: chapter?.id ?? "",
+    year: period.defaultYear ?? chapter?.anchorYear ?? period.date.start,
+    view: chapter ? "story" : "overview",
+    person: null,
+    event: null,
+    place: null,
+    mode: "explore",
+  };
+}
 
 export function formatYear(year: number) {
   return year <= 0 ? `${1 - year} TCN` : `${year}`;
@@ -37,31 +84,23 @@ export interface AtlasState {
   place: string | null;
   mode: "explore" | "story";
 }
-export const initialState: AtlasState = {
-  period: "tran",
-  chapter: "cuoi-ly",
-  year: 1225,
-  view: "story",
-  person: null,
-  event: null,
-  place: null,
-  mode: "explore",
-};
+export const initialState: AtlasState = periodStartState(defaultPeriodId);
 export function readState(search: string): AtlasState {
   const q = new URLSearchParams(search);
-  const period = periods.find((p) => p.id === q.get("period")) ?? periods[3];
+  const period = periodById(q.get("period") ?? defaultPeriodId);
+  const periodChapters = chaptersForPeriod(period.id);
   const chapter =
-    chapters.find((c) => c.id === q.get("chapter")) ?? chapters[0];
+    periodChapters.find((c) => c.id === q.get("chapter")) ?? periodChapters[0];
   const rawYear = q.get("year");
-  const year =
-    rawYear && /^-?\d+$/.test(rawYear)
-      ? Number(rawYear)
-      : period.id === "tran"
-        ? 1225
-        : period.date.start;
-  const person = people.find((p) => p.id === q.get("person"))?.id ?? null;
-  const event = events.find((e) => e.id === q.get("event"))?.id ?? null;
-  const place = places.find((p) => p.id === q.get("place"))?.id ?? null;
+  const person =
+    peopleForPeriod(period.id).find((p) => p.id === q.get("person"))?.id ??
+    null;
+  const event =
+    eventsForPeriod(period.id).find((e) => e.id === q.get("event"))?.id ?? null;
+  const place =
+    places.find(
+      (p) => p.id === q.get("place") && p.periodIds.includes(period.id),
+    )?.id ?? null;
   const views: ReaderView[] = [
     "story",
     "overview",
@@ -71,17 +110,36 @@ export function readState(search: string): AtlasState {
   ];
   let view = views.includes(q.get("view") as ReaderView)
     ? (q.get("view") as ReaderView)
-    : period.id === "tran"
+    : chapter
       ? "story"
       : "overview";
+  if (view === "story" && !chapter) view = "overview";
   if (view === "place" && !place) view = "overview";
+  const contextYear =
+    view === "people" && person
+      ? personYear(person, period.id)
+      : view === "events" && event
+        ? events.find((entry) => entry.id === event)!.date.start
+        : view === "place" && place
+          ? Math.max(
+              period.date.start,
+              Math.min(
+                period.date.end - 1,
+                places.find((entry) => entry.id === place)!.validFrom,
+              ),
+            )
+          : view === "story" && chapter
+            ? (chapter.anchorYear ?? chapter.date.start)
+            : (period.defaultYear ?? period.date.start);
+  const year =
+    rawYear && /^-?\d+$/.test(rawYear) ? Number(rawYear) : contextYear;
   return {
     period: period.id,
-    chapter: chapter.id,
+    chapter: chapter?.id ?? "",
     year:
       Number.isSafeInteger(year) && year >= -699 && year <= 1900
         ? year
-        : period.date.start,
+        : contextYear,
     view,
     person,
     event,
@@ -155,13 +213,26 @@ export function searchHistory(query: string): SearchResult[] {
     .filter((i) => foldText(i.match).includes(term))
     .map(({ match: _, ...item }) => item);
 }
-export function personYear(id: string) {
-  return (
-    tenures.find((t) => t.personId === id)?.date.start ??
-    people.find((person) => person.id === id)?.contextYear ??
-    events.find((e) => e.personIds.includes(id))?.date.start ??
-    1225
+export function personYear(id: string, periodId?: string) {
+  const person = people.find((person) => person.id === id);
+  const roles = tenures.filter(
+    (tenure) =>
+      tenure.personId === id && (!periodId || tenure.periodId === periodId),
   );
+  const relatedEvents = events.filter(
+    (event) =>
+      event.personIds.includes(id) &&
+      (!periodId || event.periodIds.includes(periodId)),
+  );
+  const year =
+    roles.find((role) => role.role === "reigning")?.date.start ??
+    roles[0]?.date.start ??
+    person?.contextYear ??
+    relatedEvents[0]?.date.start ??
+    periodById(periodId ?? person?.periodIds[0] ?? defaultPeriodId).date.start;
+  if (!periodId) return year;
+  const period = periodById(periodId);
+  return Math.max(period.date.start, Math.min(period.date.end - 1, year));
 }
 export function claimById(id: string) {
   return claims.find((c) => c.id === id);

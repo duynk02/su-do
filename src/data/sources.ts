@@ -1,5 +1,8 @@
 import type { Source } from "./schema";
-import { personMediaSources } from "./person-media";
+import { personMediaSources, lyIllustrationSources } from "./person-media";
+import { lyEarlySources } from "./periods/ly/early";
+import { lyLateSources } from "./periods/ly/late";
+import { lyPlaceSources } from "./periods/ly/places";
 const accessed = "2026-11-17";
 const source = (s: Omit<Source, "accessed" | "edition">): Source => ({
   ...s,
@@ -8,6 +11,10 @@ const source = (s: Omit<Source, "accessed" | "edition">): Source => ({
 });
 export const sources: Source[] = [
   ...personMediaSources,
+  ...lyIllustrationSources,
+  ...lyEarlySources,
+  ...lyLateSources,
+  ...lyPlaceSources,
   source({
     id: "toan-thu-family",
     title: "Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ",
@@ -102,7 +109,7 @@ export const sources: Source[] = [
     upstream:
       "Thế thứ các triều vua Việt Nam của Nguyễn Khắc Thuần; trước đây đã đọc bản PDF chuyển dạng tại thuviensach.vn",
     readLocation:
-      "Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13; chương 4, mục Lý Chiêu Hoàng",
+      "Chương 4, phần I–II: quốc hiệu và chín vua Lý; Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13.",
     limits:
       "Đã đọc bản chuyển dạng tại Đại học Cần Thơ và bản PDF trước đó, chưa đối chiếu bản in. Hai bản chuyển dạng là cùng một công trình, không tính là hai nguồn độc lập. Các niên đại giữ độ chính xác năm; mốc Thượng hoàng Nhân Tông 1293–1299 trong sách được phân biệt với thời gian còn mang tôn hiệu đến khi mất năm 1308. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án được lưu cho tìm kiếm.",
   }),

@@ -1,7 +1,8 @@
 "use client";
 
+import { Fragment } from "react";
+
 import {
-  chapters,
   citations,
   events,
   mediaAssets,
@@ -12,7 +13,14 @@ import {
   tenures,
 } from "@/data/history";
 import { statusLabels, type Person, type StoryChapter } from "@/data/schema";
-import { claimById, type AtlasState } from "@/lib/history";
+import {
+  claimById,
+  chaptersForPeriod,
+  peopleForPeriod,
+  eventsForPeriod,
+  tenuresForPeriod,
+  type AtlasState,
+} from "@/lib/history";
 import { Relations } from "./relations";
 import { Icon } from "./icon";
 
@@ -51,6 +59,13 @@ export function ClaimText({
   );
 }
 const pName = (id: string) => people.find((p) => p.id === id)?.name ?? id;
+const mediaKindLabel = {
+  "artifact-photo": "Ảnh hiện vật",
+  "heritage-photo": "Ảnh di tích",
+  "statue-photo": "Ảnh tượng",
+  painting: "Tranh minh họa",
+  reconstruction: "Minh họa tái dựng",
+};
 
 export function PersonLinks({
   ids,
@@ -94,20 +109,26 @@ export function PersonLinks({
   );
 }
 
-function RulerList({ actions }: { actions: ReaderActions }) {
+function RulerList({
+  actions,
+  periodId,
+}: {
+  actions: ReaderActions;
+  periodId: string;
+}) {
+  const periodTenures = tenuresForPeriod(periodId);
+  if (!periodTenures.length) return null;
   return (
     <section className="ruler-section">
       <div className="section-label">Chuỗi ngôi vua</div>
       <div className="ruler-list">
-        {tenures
+        {periodTenures
           .filter((t) => t.role === "reigning")
           .map((t, i) => (
             <button
               key={t.id}
               onClick={() => actions.onPerson(t.personId)}
-              className={
-                t.personId === "duong-nhat-le" ? "exception-ruler" : ""
-              }
+              className={t.emphasis ? "exception-ruler" : ""}
             >
               <span className="ruler-index">
                 {String(i + 1).padStart(2, "0")}
@@ -122,19 +143,23 @@ function RulerList({ actions }: { actions: ReaderActions }) {
             </button>
           ))}
       </div>
-      <div className="section-label retired-heading">
-        Thái thượng hoàng <span>Phần đã biên soạn</span>
-      </div>
-      <div className="retired-list">
-        {tenures
-          .filter((t) => t.role === "retired")
-          .map((t) => (
-            <button key={t.id} onClick={() => actions.onPerson(t.personId)}>
-              <span>{pName(t.personId)}</span>
-              <time>{t.date.label}</time>
-            </button>
-          ))}
-      </div>
+      {periodTenures.some((tenure) => tenure.role === "retired") && (
+        <>
+          <div className="section-label retired-heading">
+            Thái thượng hoàng <span>Phần đã biên soạn</span>
+          </div>
+          <div className="retired-list">
+            {periodTenures
+              .filter((t) => t.role === "retired")
+              .map((t) => (
+                <button key={t.id} onClick={() => actions.onPerson(t.personId)}>
+                  <span>{pName(t.personId)}</span>
+                  <time>{t.date.label}</time>
+                </button>
+              ))}
+          </div>
+        </>
+      )}
     </section>
   );
 }
@@ -146,85 +171,88 @@ function ChapterVisual({
   chapter: StoryChapter;
   actions: ReaderActions;
 }) {
-  switch (chapter.visual) {
-    case "context":
+  const visual = chapter.visual;
+  switch (visual.type) {
+    case "chain":
       return (
-        <div className="cause-chain" aria-label="Bối cảnh chuyển triều">
-          <span>Thế lực địa phương</span>
-          <i>↓</i>
-          <span>Ảnh hưởng trong triều</span>
-          <i>↓</i>
-          <strong>Chuyển giao ngôi vua</strong>
+        <div className="cause-chain" aria-label={visual.label}>
+          {visual.items.map((item, index) => (
+            <Fragment key={index}>
+              {index > 0 && <i aria-hidden="true">↓</i>}
+              {index === visual.items.length - 1 ? (
+                <strong>{item}</strong>
+              ) : (
+                <span>{item}</span>
+              )}
+            </Fragment>
+          ))}
         </div>
       );
-    case "relations":
-      return (
-        <Relations
-          key="tran-canh"
-          person={people.find((p) => p.id === "tran-canh")!}
-          actions={actions}
-        />
-      );
-    case "roles":
+    case "relations": {
+      const person = people.find((entry) => entry.id === visual.personId);
+      return person ? (
+        <Relations key={person.id} person={person} actions={actions} />
+      ) : null;
+    }
+    case "comparison":
       return (
         <div className="role-comparison">
-          <div>
-            <small>Trực tiếp trị vì</small>
-            <button onClick={() => actions.onPerson("tran-canh")}>
-              Trần Cảnh <Icon name="arrow" size={14} />
-            </button>
-            <span>Miếu hiệu: Thái Tông</span>
-          </div>
-          <div>
-            <small>Thái thượng hoàng</small>
-            <button onClick={() => actions.onPerson("tran-thua")}>
-              Trần Thừa <Icon name="arrow" size={14} />
-            </button>
-            <span>Miếu hiệu truy tôn: Thái Tổ</span>
-          </div>
+          {visual.items.map((item) => (
+            <div key={item.personId}>
+              <small>{item.label}</small>
+              <button onClick={() => actions.onPerson(item.personId)}>
+                {pName(item.personId)} <Icon name="arrow" size={14} />
+              </button>
+              <span>{item.detail}</span>
+            </div>
+          ))}
         </div>
       );
     case "rulers":
-      return <RulerList actions={actions} />;
-    case "wars":
+      return <RulerList periodId={chapter.periodId} actions={actions} />;
+    case "events":
       return (
         <div className="war-sequence">
-          {chapter.eventIds.map((id) => {
-            const event = events.find((e) => e.id === id)!;
-            return (
+          {visual.eventIds.map((id) => {
+            const event = events.find((entry) => entry.id === id);
+            return event ? (
               <button key={id} onClick={() => actions.onEvent(id)}>
                 <time>{event.date.label}</time>
                 <span>{event.name}</span>
                 <Icon name="arrow" size={16} />
               </button>
-            );
+            ) : null;
           })}
         </div>
       );
     case "artifact": {
-      const asset = mediaAssets.find((entry) => entry.id === "bowl")!;
+      const asset = mediaAssets.find(
+        (entry) => entry.id === visual.mediaAssetId,
+      );
+      if (!asset) return null;
       return (
         <figure className="artifact">
           <img
             src={asset.src}
-            alt="Bát gốm men sáng, trang trí hoa bằng sắc nâu sắt; ảnh hiện vật trong bộ sưu tập The Met"
-            width="700"
-            height="500"
+            alt={asset.alt ?? asset.title}
+            width={asset.width ?? 700}
+            height={asset.height ?? 500}
             loading="lazy"
           />
           <figcaption>
-            <span className="artifact-type">Ảnh hiện vật</span>
+            <span className="artifact-type">{mediaKindLabel[asset.kind]}</span>
             <strong>{asset.title}</strong>
-            <span>
-              {asset.date} · {asset.license}
-            </span>
+            <span>{asset.date}</span>
             <span>{asset.creator}</span>
-            <button
-              className="text-link"
-              onClick={() => actions.onClaim("met-artifact")}
-            >
-              Hồ sơ hiện vật 2021.182 <Icon name="external" size={13} />
-            </button>
+            {visual.claimId && (
+              <button
+                className="text-link"
+                onClick={() => actions.onClaim(visual.claimId!)}
+              >
+                {visual.linkLabel ?? "Nguồn hình ảnh"}{" "}
+                <Icon name="external" size={13} />
+              </button>
+            )}
           </figcaption>
         </figure>
       );
@@ -232,44 +260,42 @@ function ChapterVisual({
     case "transition":
       return (
         <div className="transition-visual">
-          <button onClick={() => actions.onPerson("ly-chieu-hoang")}>
-            Lý Chiêu Hoàng<small>Triều Lý</small>
+          <button onClick={() => actions.onPerson(visual.from.personId)}>
+            {pName(visual.from.personId)}
+            <small>{visual.from.label}</small>
           </button>
           <span>
-            nhường ngôi →<small>1225 / 1226</small>
+            {visual.label}
+            <small>{visual.date}</small>
           </span>
-          <button onClick={() => actions.onPerson("tran-canh")}>
-            Trần Cảnh<small>Triều Trần</small>
+          <button onClick={() => actions.onPerson(visual.to.personId)}>
+            {pName(visual.to.personId)}
+            <small>{visual.to.label}</small>
           </button>
         </div>
       );
     case "diplomacy":
       return (
         <div className="diplomacy-visual">
-          <span>Đại Việt</span>
+          <span>{visual.from}</span>
           <span>
-            Hôn nhân · 1306
+            {visual.label}
             <br />
-            Huyền Trân — Chế Mân
+            {visual.detail}
           </span>
-          <span>Champa</span>
+          <span>{visual.to}</span>
         </div>
       );
-    case "ending":
+    case "timeline":
       return (
         <div className="ending-visual">
-          <span>
-            <time>1396</time>Tiền giấy
-          </span>
-          <span>
-            <time>1397</time>Hạn điền
-          </span>
-          <span>
-            <time>1400</time>Chuyển triều
-          </span>
-          <small>
-            Chính sách bắt đầu dưới cuối Trần → tiếp nối sang nhà Hồ
-          </small>
+          {visual.items.map((item, index) => (
+            <span key={index}>
+              <time>{item.date}</time>
+              {item.label}
+            </span>
+          ))}
+          {visual.caption && <small>{visual.caption}</small>}
         </div>
       );
   }
@@ -282,11 +308,15 @@ function ChapterReader({
   chapter: StoryChapter;
   actions: ReaderActions;
 }) {
-  const index = chapters.findIndex((c) => c.id === chapter.id);
+  const periodChapters = chaptersForPeriod(chapter.periodId);
+  const index = periodChapters.findIndex((c) => c.id === chapter.id);
+  const total = String(periodChapters.length).padStart(2, "0");
   return (
     <>
       <div className="chapter-kicker">
-        <span>Chương {chapter.number} / 09</span>
+        <span>
+          Chương {chapter.number} / {total}
+        </span>
         <span>{chapter.date.label}</span>
       </div>
       <h2>{chapter.title}</h2>
@@ -346,7 +376,7 @@ function ChapterReader({
       <nav className="chapter-pagination" aria-label="Chuyển chương">
         <button
           disabled={index === 0}
-          onClick={() => actions.onChapter(chapters[index - 1].id)}
+          onClick={() => actions.onChapter(periodChapters[index - 1].id)}
         >
           <Icon
             name="arrow"
@@ -355,10 +385,12 @@ function ChapterReader({
           />
           Trước
         </button>
-        <span>{chapter.number} / 09</span>
+        <span>
+          {chapter.number} / {total}
+        </span>
         <button
-          disabled={index === chapters.length - 1}
-          onClick={() => actions.onChapter(chapters[index + 1].id)}
+          disabled={index === periodChapters.length - 1}
+          onClick={() => actions.onChapter(periodChapters[index + 1].id)}
         >
           Tiếp theo
           <Icon name="arrow" size={15} />
@@ -533,18 +565,19 @@ export function Reader({
   actions: ReaderActions;
 }) {
   const period = periods.find((p) => p.id === state.period)!;
-  const chapter = chapters.find((c) => c.id === state.chapter)!;
-  const person = people.find((p) => p.id === state.person);
-  const event = events.find((e) => e.id === state.event);
+  const periodChapters = chaptersForPeriod(period.id);
+  const periodPeople = peopleForPeriod(period.id);
+  const periodEvents = eventsForPeriod(period.id);
+  const chapter =
+    periodChapters.find((c) => c.id === state.chapter) ?? periodChapters[0];
+  const person = periodPeople.find((p) => p.id === state.person);
+  const event = periodEvents.find((e) => e.id === state.event);
   const place = places.find((p) => p.id === state.place);
   if (state.view === "people" && person)
     return <PersonReader person={person} actions={actions} />;
   if (
-    (state.view === "people" || state.view === "events") &&
-    period.id !== "tran" &&
-    !person &&
-    !event &&
-    !(period.id === "ho" && state.view === "events")
+    (state.view === "people" && !periodPeople.length) ||
+    (state.view === "events" && !periodEvents.length)
   ) {
     return (
       <>
@@ -558,9 +591,9 @@ export function Reader({
         </p>
         <button
           className="primary-action"
-          onClick={() => actions.onPeriod("tran")}
+          onClick={() => actions.onView("overview")}
         >
-          Đọc chương nhà Trần <Icon name="arrow" size={16} />
+          Tổng quan thời kỳ <Icon name="arrow" size={15} />
         </button>
       </>
     );
@@ -572,12 +605,12 @@ export function Reader({
         <h2>Nhân vật</h2>
         <div className="people-directory">
           <PersonLinks
-            ids={people.map((p) => p.id)}
+            ids={periodPeople.map((p) => p.id)}
             onPerson={actions.onPerson}
             showPortraits
           />
         </div>
-        <RulerList actions={actions} />
+        <RulerList periodId={period.id} actions={actions} />
       </>
     );
   if (state.view === "events" && event)
@@ -644,9 +677,9 @@ export function Reader({
             : "quy ước trong nguồn"}
           .
         </p>
-        {event.id === "chuyen-trieu" && (
-          <ClaimText id="date-disagreement" onClaim={actions.onClaim} />
-        )}
+        {event.additionalClaimIds?.map((id) => (
+          <ClaimText key={id} id={id} onClaim={actions.onClaim} />
+        ))}
       </>
     );
   if (state.view === "events")
@@ -655,8 +688,8 @@ export function Reader({
         <div className="eyebrow">Những mốc để đọc sâu</div>
         <h2>Sự kiện</h2>
         <div className="event-index">
-          {events
-            .filter((e) => (period.id === "ho" ? e.id === "nha-ho-1400" : true))
+          {periodEvents
+            .slice()
             .sort((a, b) => a.date.start - b.date.start)
             .map((e) => (
               <button key={e.id} onClick={() => actions.onEvent(e.id)}>
@@ -706,7 +739,7 @@ export function Reader({
         </button>
       </>
     );
-  if (state.view === "overview" || period.id !== "tran")
+  if (state.view === "overview" || !chapter)
     return (
       <>
         <div className="eyebrow">Thời kỳ · {period.date.label}</div>
@@ -715,33 +748,41 @@ export function Reader({
           <i /> {statusLabels[period.status]}
         </p>
         <p className="claim-text lead-paragraph">{period.summary}</p>
-        {period.id === "tran" && (
+        {!!period.overviewFacts?.length && (
+          <dl className="period-facts">
+            {period.overviewFacts.map((fact) => (
+              <div key={fact.label}>
+                <dt>{fact.label}</dt>
+                <dd>
+                  {fact.value}
+                  {fact.claimIds.map((id) => (
+                    <button
+                      key={id}
+                      className="citation"
+                      aria-label={`Xem nguồn: ${fact.label}`}
+                      onClick={() => actions.onClaim(id)}
+                    >
+                      <Icon name="external" size={12} />
+                    </button>
+                  ))}
+                </dd>
+              </div>
+            ))}
+          </dl>
+        )}
+        {!!periodChapters.length && (
           <>
-            <dl className="period-facts">
-              <div>
-                <dt>Quốc hiệu</dt>
-                <dd>Đại Việt</dd>
-              </div>
-              <div>
-                <dt>Kinh đô</dt>
-                <dd>Thăng Long → Tây Đô (cuối triều)</dd>
-              </div>
-            </dl>
-            <button
-              className="text-link"
-              onClick={() => actions.onClaim("tran-ending")}
-            >
-              Nguồn về quốc hiệu và chuyển kinh đô{" "}
-              <Icon name="arrow" size={15} />
-            </button>
             <div className="section-label">
-              Chín chương để hiểu một thời đại
+              {periodChapters.length} chương để khám phá
             </div>
             <div className="chapter-index">
-              {chapters.map((c) => (
-                <button key={c.id} onClick={() => actions.onChapter(c.id)}>
-                  <span>{c.number}</span>
-                  {c.title}
+              {periodChapters.map((entry) => (
+                <button
+                  key={entry.id}
+                  onClick={() => actions.onChapter(entry.id)}
+                >
+                  <span>{entry.number}</span>
+                  {entry.title}
                   <Icon name="chevron" size={14} />
                 </button>
               ))}
@@ -753,53 +794,31 @@ export function Reader({
             className="parallel-lanes"
             aria-label="Các chính quyền đồng thời"
           >
-            {period.lanes.map((l) => (
-              <div key={l.name}>
-                <strong>{l.name}</strong>
-                <span>{l.date}</span>
+            {period.lanes.map((lane) => (
+              <div key={lane.name}>
+                <strong>{lane.name}</strong>
+                <span>{lane.date}</span>
                 <i />
               </div>
             ))}
-            <a
-              href="https://upload.wikimedia.org/wikipedia/commons/f/f6/Viet_Nam_Su_Luoc_2.pdf"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Nguồn khung: Việt Nam sử lược, quyển II, chương Nam–Bắc triều và
-              bảng Trịnh–Nguyễn ↗
-            </a>
+            {period.lanesSource && (
+              <a href={period.lanesSource.url} target="_blank" rel="noreferrer">
+                {period.lanesSource.label} ↗
+              </a>
+            )}
           </div>
         )}
-        {period.id !== "tran" && (
+        {!!period.claimIds.length && (
           <>
-            <div className="section-label">Nội dung hiện có</div>
-            {period.claimIds.length ? (
-              period.claimIds.map((id) => (
-                <ClaimText key={id} id={id} onClaim={actions.onClaim} />
-              ))
-            ) : (
-              <p>Chưa có bài đọc chi tiết cho thời kỳ này.</p>
-            )}
-            <button
-              className="primary-action"
-              onClick={() => actions.onPeriod("tran")}
-            >
-              Đọc chương nhà Trần
-              <Icon name="arrow" size={16} />
-            </button>
+            <div className="section-label">Những nét chính</div>
+            {period.claimIds.map((id) => (
+              <ClaimText key={id} id={id} onClaim={actions.onClaim} />
+            ))}
           </>
         )}
-        <p className="fine-print">
-          Nguồn khung niên đại ngoài chương Trần:{" "}
-          <a
-            href="https://en.wikipedia.org/wiki/List_of_Vietnamese_dynasties"
-            target="_blank"
-            rel="noreferrer"
-          >
-            bảng triều đại (tài liệu tham khảo sơ bộ)
-          </a>
-          .
-        </p>
+        {!periodChapters.length && !period.claimIds.length && (
+          <p>Chưa có bài đọc chi tiết cho thời kỳ này.</p>
+        )}
         <div className="period-pagination">
           {periods.findIndex((p) => p.id === period.id) > 0 && (
             <button

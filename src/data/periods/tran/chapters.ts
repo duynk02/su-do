@@ -1,0 +1,215 @@
+import { date, type StoryChapter } from "../../schema";
+
+export const chapters: StoryChapter[] = [
+  {
+    id: "cuoi-ly",
+    periodId: "tran",
+    anchorYear: 1225,
+    number: "01",
+    title: "Cuối Lý, một trật tự đổi thay",
+    question: "Vì sao quyền lực dần chuyển về tay họ Trần?",
+    date: date(1200, 1226, "Đầu thế kỷ XIII"),
+    placeIds: ["thang-long", "hai-ap"],
+    personIds: ["tran-tu-khanh", "tran-thua", "tran-thi-dung"],
+    eventIds: ["chuyen-trieu"],
+    claimIds: ["late-ly", "tran-origins"],
+    visual: {
+      type: "chain",
+      label: "Bối cảnh chuyển triều",
+      items: [
+        "Thế lực địa phương",
+        "Ảnh hưởng trong triều",
+        "Chuyển giao ngôi vua",
+      ],
+    },
+    takeaway:
+      "Đọc việc chuyển triều như một quá trình: thế lực địa phương → vị trí trong triều → chuyển ngôi.",
+  },
+  {
+    id: "gia-toc",
+    periodId: "tran",
+    anchorYear: 1225,
+    number: "02",
+    title: "Từ một gia tộc ven sông",
+    question: "Quan hệ gia đình kết nối với quyền lực ra sao?",
+    date: date(1200, 1226, "Đầu thế kỷ XIII"),
+    placeIds: ["hai-ap", "thang-long"],
+    personIds: [
+      "tran-ly",
+      "tran-tu-khanh",
+      "tran-thua",
+      "tran-thi-dung",
+      "tran-thu-do",
+    ],
+    eventIds: ["chuyen-trieu"],
+    claimIds: ["tran-origins", "family"],
+    visual: { type: "relations", personId: "tran-canh" },
+    takeaway:
+      "Cùng họ không tự chứng minh quan hệ cha con. Mỗi đường nối cần có căn cứ riêng.",
+    editorialNote:
+      "Chưa dựng nguồn gốc xa. Thứ bậc anh em Trần Thừa–Trần Tự Khánh khác nhau giữa các bài, nên không gắn vai anh/em.",
+  },
+  {
+    id: "nhuong-ngoi",
+    periodId: "tran",
+    number: "03",
+    title: "Một cuộc chuyển ngôi",
+    question: "Điều gì nằm phía sau cuộc hôn nhân trong cung đình?",
+    date: date(1225, 1226, "1225 / 1226"),
+    placeIds: ["thang-long"],
+    personIds: ["ly-chieu-hoang", "tran-canh", "tran-thu-do", "tran-thi-dung"],
+    eventIds: ["chuyen-trieu"],
+    claimIds: ["transition", "date-disagreement"],
+    visual: {
+      type: "transition",
+      from: { personId: "ly-chieu-hoang", label: "Triều Lý" },
+      to: { personId: "tran-canh", label: "Triều Trần" },
+      label: "nhường ngôi →",
+      date: "1225 / 1226",
+    },
+    takeaway:
+      "Phân biệt sự kiện chuyển ngôi với những câu chuyện được kể lại về tình cảm của hai nhân vật.",
+    editorialNote:
+      "Không dựng lời thoại hoặc tâm trạng. Chưa xác lập ngày dương lịch và chưa gọi hai mốc 1225/1226 là hai sự kiện riêng.",
+  },
+  {
+    id: "dau-trieu",
+    periodId: "tran",
+    number: "04",
+    title: "Ngôi vua và người giữ quyền",
+    question: "Thái Tổ, Thái Tông và Thái thượng hoàng khác nhau thế nào?",
+    date: date(1226, 1234, "1226–1234"),
+    placeIds: ["thang-long"],
+    personIds: ["tran-canh", "tran-thua", "tran-thu-do"],
+    eventIds: ["chuyen-trieu"],
+    claimIds: ["thua-role", "thua-dates", "thu-do"],
+    visual: {
+      type: "comparison",
+      items: [
+        {
+          label: "Trực tiếp trị vì",
+          personId: "tran-canh",
+          detail: "Miếu hiệu: Thái Tông",
+        },
+        {
+          label: "Thái thượng hoàng",
+          personId: "tran-thua",
+          detail: "Miếu hiệu truy tôn: Thái Tổ",
+        },
+      ],
+    },
+    takeaway:
+      "Miếu hiệu gọi một người; chức vị mô tả vai trò. Hai người có thể cùng tham gia chính sự mà không cùng ở ngôi vua.",
+  },
+  {
+    id: "ngoi-vua",
+    periodId: "tran",
+    number: "05",
+    title: "Những người giữ ngôi",
+    question: "Kế vị có luôn là quan hệ cha truyền con nối?",
+    date: date(1225, 1400, "1225/1226–1400"),
+    placeIds: ["thang-long"],
+    personIds: ["tran-canh", "duong-nhat-le", "tran-nghe-tong"],
+    eventIds: [],
+    claimIds: ["nhat-le-reign"],
+    visual: { type: "rulers" },
+    takeaway:
+      "Đọc hai làn trị vì và thượng hoàng riêng biệt. Đường kế vị không biểu thị huyết thống.",
+    editorialNote:
+      "Chuỗi gồm cả Dương Nhật Lễ. Nhiệm kỳ hiển thị ở độ chính xác năm; các năm chuyển giao không mô tả ngày nhường ngôi.",
+  },
+  {
+    id: "mong-nguyen",
+    periodId: "tran",
+    number: "06",
+    title: "Ba cuộc chiến, ba bối cảnh",
+    question: "Vì sao không nên gộp cả ba lần thành một trận đánh?",
+    date: date(1258, 1289, "1258 · 1285 · 1287–1288"),
+    placeIds: ["thang-long", "dong-bo-dau", "bach-dang", "kiep-bac"],
+    personIds: [
+      "tran-canh",
+      "tran-thanh-tong",
+      "tran-nhan-tong",
+      "tran-quoc-tuan",
+    ],
+    eventIds: ["khang-chien-1258", "khang-chien-1285", "bach-dang-1288"],
+    claimIds: ["war-1258", "war-1285", "war-1288", "bach-dang-uncertainty"],
+    visual: {
+      type: "events",
+      eventIds: ["khang-chien-1258", "khang-chien-1285", "bach-dang-1288"],
+    },
+    takeaway:
+      "Mông Cổ năm 1258 và nhà Nguyên trong hai lần sau thuộc những bối cảnh khác nhau. Quân số và bố trí chi tiết chưa được dùng để dựng hoạt cảnh.",
+  },
+  {
+    id: "doi-song",
+    periodId: "tran",
+    number: "07",
+    title: "Một thời đại ngoài chiến trận",
+    question: "Lịch sử còn để lại dấu vết trong đời sống nào?",
+    date: date(1225, 1400, "Thế kỷ XIII–XIV"),
+    placeIds: ["yen-tu", "thai-mieu"],
+    personIds: ["tran-nhan-tong"],
+    eventIds: [],
+    claimIds: ["rural-life", "education", "truc-lam", "met-artifact"],
+    visual: {
+      type: "artifact",
+      mediaAssetId: "bowl",
+      claimId: "met-artifact",
+      linkLabel: "Hồ sơ hiện vật 2021.182",
+    },
+    takeaway:
+      "Đọc hiện vật cùng niên đại và xuất xứ. Một chiếc bát không thể đại diện cho toàn bộ đời sống người dân.",
+    editorialNote:
+      "Chuyên đề đê điều, văn học và kiến trúc còn cần biên soạn sâu; tư liệu cung đình không đại diện đầy đủ cho tiếng nói người dân.",
+  },
+  {
+    id: "khu-vuc",
+    periodId: "tran",
+    mapWide: true,
+    number: "08",
+    title: "Đại Việt trong không gian khu vực",
+    question:
+      "Ngoại giao và hôn nhân thay đổi quan hệ giữa các chính quyền thế nào?",
+    date: date(1306, 1307, "1306"),
+    placeIds: [],
+    personIds: ["huyen-tran", "che-man"],
+    eventIds: ["hon-nhan-1306"],
+    claimIds: ["huyen-marriage"],
+    visual: {
+      type: "diplomacy",
+      from: "Đại Việt",
+      to: "Champa",
+      label: "Hôn nhân · 1306",
+      detail: "Huyền Trân — Chế Mân",
+    },
+    takeaway:
+      "Chuyển giao hai địa danh không đủ để suy ra một đường biên chính xác. Quan hệ triều cống cũng không đồng nghĩa với quản lý trực tiếp.",
+    editorialNote:
+      "Mới có tóm lược sự kiện 1306; lịch sử quan hệ với Champa, các triều phương Bắc và giao lưu còn cần khảo cứu sâu.",
+  },
+  {
+    id: "cuoi-tran",
+    periodId: "tran",
+    anchorYear: 1397,
+    number: "09",
+    title: "Khi một triều đại khép lại",
+    question: "Những thay đổi nào đã bắt đầu trước khi nhà Hồ xuất hiện?",
+    date: date(1396, 1401, "1396–1400"),
+    placeIds: ["tay-do"],
+    personIds: ["ho-quy-ly", "tran-thieu-de"],
+    eventIds: ["nha-ho-1400"],
+    claimIds: ["ho-reform-dates", "tran-ending"],
+    visual: {
+      type: "timeline",
+      items: [
+        { date: "1396", label: "Tiền giấy" },
+        { date: "1397", label: "Hạn điền" },
+        { date: "1400", label: "Chuyển triều" },
+      ],
+      caption: "Chính sách bắt đầu dưới cuối Trần → tiếp nối sang nhà Hồ",
+    },
+    takeaway:
+      "Ranh giới triều đại giúp định hướng thời gian; các quá trình chính trị và xã hội có thể đi qua ranh giới đó.",
+  },
+];

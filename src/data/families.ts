@@ -3,6 +3,7 @@ import { date, type Person, type Relationship } from "./schema";
 export const familyPeople: Person[] = [
   {
     id: "huy-ninh",
+    periodIds: ["tran"],
     name: "Huy Ninh",
     aliases: ["Công chúa Huy Ninh"],
     title: "Công chúa triều Trần",
@@ -12,6 +13,7 @@ export const familyPeople: Person[] = [
   },
   {
     id: "kham-thanh",
+    periodIds: ["tran"],
     name: "Khâm Thánh",
     aliases: ["Khâm Thánh hoàng hậu", "Thánh Ngâu", "Thánh Ngẫu"],
     title: "Hoàng hậu của Trần Thuận Tông",
@@ -21,6 +23,7 @@ export const familyPeople: Person[] = [
   },
   {
     id: "tran-lieu",
+    periodIds: ["tran"],
     name: "Trần Liễu",
     aliases: ["An Sinh vương", "Yên Sinh vương"],
     title: "An Sinh vương · cha Trần Quốc Tuấn",
@@ -30,6 +33,7 @@ export const familyPeople: Person[] = [
   },
   {
     id: "thuan-thien",
+    periodIds: ["tran"],
     name: "Thuận Thiên",
     aliases: ["Thuận Thiên hoàng hậu", "Lý Thuận Thiên", "Hiển Từ Thuận Thiên"],
     title: "Hoàng hậu · mẹ Trần Thánh Tông",
@@ -39,6 +43,7 @@ export const familyPeople: Person[] = [
   },
   {
     id: "bao-thanh",
+    periodIds: ["tran"],
     name: "Bảo Thánh",
     aliases: ["Bảo Thánh hoàng hậu", "Khâm Từ Bảo Thánh"],
     title: "Hoàng hậu · mẹ Trần Anh Tông",

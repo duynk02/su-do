@@ -2,7 +2,7 @@
 
 Khám phá Việt Nam qua từng lớp thời gian.
 
-Atlas lịch sử tương tác bằng tiếng Việt. Phiên bản đầu gồm luồng học về nhà Trần, bối cảnh cuối Lý và chuyển sang Hồ; khung các thời kỳ đến năm 1900. Mỗi đoạn có khẳng định và chú thích nguồn mở được trong trang.
+Atlas lịch sử tương tác bằng tiếng Việt. Nhà Lý có 10 chương và chín người giữ ngôi; nhà Trần giữ chín chương cùng phần nối sang Hồ. Các thời kỳ khác có khung đến năm 1900. Nội dung lịch sử đi kèm chú thích nguồn mở được trong trang.
 
 ## Chạy local
 
@@ -47,9 +47,11 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 ## Cấu trúc và lựa chọn kỹ thuật
 
 - Next.js App Router + TypeScript, static export: nội dung đọc được từ HTML, không cần máy chủ ứng dụng.
-- `src/data/schema.ts`: các thực thể sử học; `history.ts`: nội dung và liên kết; `biographies.ts`: tiểu sử nhân vật theo đoạn có nguồn; `sources.ts`: nguồn đã thực sự đọc.
-- `src/data/families.ts`: các nhánh phả hệ có ý nghĩa với câu chuyện; `person-media.ts` đọc nguồn ảnh từ `public/images/people/provenance.json`, gắn ảnh vào hồ sơ. 23/28 nhân vật, gồm cả 13 người giữ ngôi trong chuỗi thời Trần, có hình tranh/tượng lưu cục bộ. Danh mục nhân vật có ảnh thu nhỏ; xem `IMAGE_COVERAGE.md` để đối chiếu độ phủ.
-- `src/lib/history.ts`: tìm kiếm không dấu, quy ước thời gian, đọc/ghi URL.
+- `src/data/schema.ts`: các thực thể sử học; `claim-store.ts`: tạo khẳng định/dẫn nguồn; `history.ts`: bộ tổng hợp dữ liệu tĩnh; `sources.ts`: nguồn đã đọc.
+- `src/data/periods/{ly,tran,ho}/`: mỗi bộ có metadata, chương, sự kiện và nhiệm kỳ. `periods/index.ts` là nơi đăng ký bộ nội dung; thêm thời kỳ không cần gắn tên hay số chương vào component.
+- `src/data/shared/`: hồ sơ nhân vật, quan hệ và địa điểm dùng chung theo ID. `Person.periodIds` cho phép một người xuất hiện ở nhiều thời kỳ; Chiêu Hoàng, Trần Cảnh và Hồ Quý Ly không có hồ sơ trùng. `biographies.ts`/`families.ts` giữ các đoạn và nhánh nhà Trần đã biên soạn.
+- `person-media.ts` đọc hai catalog trong `public/images/people/`, gắn hình với hồ sơ chuẩn. 35/43 nhân vật có hình, gồm đủ 22 người giữ ngôi của hai thời Lý–Trần; có thêm hai ảnh di tích trong bài đọc Lý. Tranh, tượng và ảnh tái dựng được phân biệt, không khẳng định là chân dung đương thời. Xem `IMAGE_COVERAGE.md`.
+- `src/lib/history.ts`: bộ chọn dữ liệu theo thời kỳ, tìm kiếm không dấu, quy ước thời gian, đọc/ghi URL và ngữ cảnh điều hướng. Liên kết nhà Trần cũ giữ được; trang mặc định vẫn mở bộ Trần.
 - `src/lib/relations-layout.ts`: chọn phạm vi quan hệ theo loại và bố trí phả hệ theo tầng; `src/components/relations.tsx`: bộ lọc Gia đình/Kế vị/Chính trị, thu phóng và mở hồ sơ từ ô nhân vật.
 - Bản đồ SVG dùng d3-geo, tải module và GeoJSON khi cần; không cần WebGL. Đã đọc [tài liệu d3-geo](https://d3js.org/d3-geo) và [Next.js static exports](https://nextjs.org/docs/app/guides/static-exports).
 - Natural Earth public domain, dữ liệu địa lý hiện đại lưu cục bộ. Không gọi tile server; không có phí API hoặc hạn ngạch từ nhà cung cấp bản đồ. Hạ tầng hosting tương lai có thể có phí riêng.
@@ -60,10 +62,14 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 
 ## Giới hạn biên soạn
 
-23 hồ sơ nhân vật có đoạn giới thiệu tiểu sử. Trần Nhân Tông và Dương Nhật Lễ có thêm các phần về xuất thân, hoạt động, lên ngôi/rời ngôi và liên kết sự kiện. Niên đại sống được bổ sung khi nguồn hỗ trợ; năm sinh của Nhật Lễ và năm mất của Thiếu Đế vẫn để chưa rõ. Những cách ghi ngày hoặc thời gian mang tôn hiệu khác nhau được lưu trong chú thích nguồn.
+43 hồ sơ có đoạn giới thiệu; 15 hồ sơ mới về nhà Lý có các mục chi tiết, Chiêu Hoàng được bổ sung bối cảnh lên ngôi và chuyển triều trong cùng hồ sơ cũ. Có phả hệ Thái Tổ–Thái Tông–Thánh Tông–Nhân Tông; nhánh Sùng Hiền hầu–Thần Tông phân biệt cha đẻ với nhận nuôi. Niên đại sống chỉ bổ sung khi nguồn hỗ trợ; năm sinh Nhật Lễ và năm mất Thiếu Đế vẫn chưa rõ.
 
 Chưa có biên tập viên/chuyên gia lịch sử duyệt. “Đã đối chiếu nguồn” chỉ nói về việc so sánh nguồn. Chưa có dữ liệu ranh giới lịch sử đủ căn cứ; website không dựng polygon lãnh thổ. Các địa điểm không đủ tọa độ vẫn nằm trong danh sách văn bản.
 
-Chín phần đã có nội dung tóm lược và tương tác; chiều sâu chưa đồng đều. Chuyên đề đê điều, văn học, kiến trúc, tiếng nói người dân và quan hệ khu vực cần khảo cứu tiếp. Các thời kỳ khác chủ yếu là khung điều hướng. Một số nguồn là bài đăng lại hoặc bản chuyển dạng chưa xác nhận ấn bản; giới hạn ghi rõ trong hồ sơ nguồn.
+Lý có 10 chương bản đầu từ 1009 đến 1225/1226, gồm dời đô, luật pháp, quốc hiệu, khoa cử, kháng Tống, giao thương và biến động cuối triều; Trần giữ chín chương. Chiều sâu chưa đồng đều, đặc biệt đời sống dân thường và các chuyên đề kinh tế–xã hội. Những thời kỳ ngoài Lý–Trần chủ yếu là khung hoặc phần nối. Một số nguồn là bài đăng lại/bản chuyển dạng chưa xác nhận ấn bản; giới hạn ghi trong hồ sơ nguồn.
 
 Thêm nội dung theo `DATA_MODEL.md` và `HISTORICAL_EDITORIAL_POLICY.md`, rồi chạy kiểm tra dữ liệu. Test tự động không chứng minh lịch sử đúng.
+
+## Lộ trình lưu trữ và biên tập
+
+Hiện nội dung nằm trong TypeScript/JSON, quản lý bằng Git; sửa nội dung cần build lại. Sau khi mở rộng phần lớn triều đại, dự kiến thay lớp tổng hợp bằng database/CMS trả cùng schema và giữ ID. Chức năng góp ý lịch sử và dashboard biên tập là giai đoạn sau: lưu đề xuất riêng, xem nguồn, duyệt bản nháp rồi xuất bản, có lịch sử thay đổi. Chưa triển khai database, CMS, đăng nhập, góp ý hay dashboard trong đợt này.

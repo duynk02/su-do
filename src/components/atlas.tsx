@@ -1,10 +1,13 @@
 "use client";
 import dynamic from "next/dynamic";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { chapters, events, periods, places } from "@/data/history";
+import { chapters, events, periods, places, people } from "@/data/history";
 import { statusLabels } from "@/data/schema";
 import {
   formatYear,
+  chaptersForPeriod,
+  periodStartState,
+  periodForEntity,
   initialState,
   personYear,
   readState,
@@ -32,7 +35,7 @@ export default function Atlas() {
   const [searchOpen, setSearchOpen] = useState(false);
   const [libraryOpen, setLibraryOpen] = useState(false);
   const [evidence, setEvidence] = useState<string | null>(null);
-  const [yearInput, setYearInput] = useState("1225");
+  const [yearInput, setYearInput] = useState(String(initialState.year));
   const [yearError, setYearError] = useState("");
   const [shareMessage, setShareMessage] = useState<{ text: string } | null>(
     null,
@@ -95,30 +98,20 @@ export default function Atlas() {
     setYearError("");
   }, []);
   const period = periods.find((p) => p.id === state.period)!;
-  const chapter = chapters.find((c) => c.id === state.chapter)!;
+  const periodChapters = chaptersForPeriod(period.id);
+  const chapter =
+    periodChapters.find((entry) => entry.id === state.chapter) ??
+    periodChapters[0];
   const onPeriod = (id: string) => {
-    const p = periods.find((p) => p.id === id)!;
-    navigate({
-      period: id,
-      chapter: "cuoi-ly",
-      year: id === "tran" ? 1225 : id === "co-dai" ? -499 : p.date.start,
-      view: id === "tran" ? "story" : "overview",
-      person: null,
-      event: null,
-      place: null,
-    });
+    navigate({ ...periodStartState(id), mode: state.mode });
   };
   const onChapter = (id: string) => {
-    const c = chapters.find((c) => c.id === id)!;
+    const selected = chapters.find((entry) => entry.id === id);
+    if (!selected) return;
     navigate({
-      period: "tran",
+      period: selected.periodId,
       chapter: id,
-      year:
-        id === "cuoi-ly" || id === "gia-toc"
-          ? 1225
-          : id === "cuoi-tran"
-            ? 1397
-            : c.date.start,
+      year: selected.anchorYear ?? selected.date.start,
       view: "story",
       person: null,
       event: null,
@@ -127,10 +120,19 @@ export default function Atlas() {
     setMobilePane("reader");
   };
   const onPerson = (id: string) => {
-    const year = personYear(id);
+    const selected = people.find((entry) => entry.id === id);
+    if (!selected) return;
+    const targetPeriod = periodForEntity(
+      selected.periodIds,
+      state.period,
+      personYear(id),
+    );
+    const target = periodStartState(targetPeriod.id);
     navigate({
-      period: year >= 1400 ? "ho" : "tran",
-      year,
+      period: targetPeriod.id,
+      chapter:
+        targetPeriod.id === state.period ? state.chapter : target.chapter,
+      year: personYear(id, targetPeriod.id),
       view: "people",
       person: id,
       event: null,
@@ -139,14 +141,24 @@ export default function Atlas() {
     setMobilePane("reader");
   };
   const onEvent = (id: string) => {
-    const e = events.find((e) => e.id === id)!;
+    const selected = events.find((entry) => entry.id === id);
+    if (!selected) return;
+    const targetPeriod = periodForEntity(
+      selected.periodIds,
+      state.period,
+      selected.date.start,
+    );
     navigate({
-      period: e.id === "nha-ho-1400" ? "ho" : "tran",
+      period: targetPeriod.id,
+      chapter:
+        targetPeriod.id === state.period
+          ? state.chapter
+          : periodStartState(targetPeriod.id).chapter,
       view: "events",
       event: id,
       person: null,
       place: null,
-      year: e.date.start,
+      year: selected.date.start,
     });
     setMobilePane("reader");
   };
@@ -177,7 +189,10 @@ export default function Atlas() {
     if (result.kind === "place") {
       const p = places.find((p) => p.id === result.id)!;
       navigate({
-        period: p.periodIds.includes("tran") ? "tran" : "ho",
+        period: periodForEntity(p.periodIds, state.period, p.validFrom).id,
+        chapter: periodStartState(
+          periodForEntity(p.periodIds, state.period, p.validFrom).id,
+        ).chapter,
         view: "place",
         place: p.id,
         person: null,
@@ -194,7 +209,7 @@ export default function Atlas() {
   // Explicit related places can be outside the selected year. The UI labels them as chapter references.
   const highlighted =
     state.view === "story"
-      ? chapter.placeIds
+      ? (chapter?.placeIds ?? [])
       : (activeEvent?.placeIds ?? (state.place ? [state.place] : []));
   const availablePlaces = [
     ...new Map(
@@ -238,6 +253,10 @@ export default function Atlas() {
     navigate({
       year,
       period: p?.id ?? state.period,
+      chapter:
+        p && p.id !== state.period
+          ? periodStartState(p.id).chapter
+          : state.chapter,
       view: p?.id === state.period ? state.view : "overview",
       person: null,
       event: null,
@@ -326,59 +345,45 @@ export default function Atlas() {
                   <time>{p.date.label}</time>
                   <strong>{p.name}</strong>
                   <span className="period-state">
-                    {p.id === "tran"
-                      ? "9 chương có dẫn nguồn"
+                    {chaptersForPeriod(p.id).length
+                      ? `${chaptersForPeriod(p.id).length} chương có dẫn nguồn`
                       : statusLabels[p.status]}
                   </span>
                 </button>
-                {state.period === p.id && p.id === "tran" && (
+                {state.period === p.id && !!p.milestones?.length && (
                   <ol
                     className="sub-timeline"
-                    aria-label="Các mốc trong thời kỳ nhà Trần"
+                    aria-label={`Các mốc trong thời kỳ ${p.name.replace(/^Nhà /, "nhà ")}`}
                   >
-                    {[
-                      {
-                        id: "chuyen-trieu",
-                        label: "1225/26",
-                        title: "Hình thành triều Trần",
-                      },
-                      {
-                        id: "khang-chien-1258",
-                        label: "1258",
-                        title: "Chống Mông Cổ",
-                      },
-                      {
-                        id: "khang-chien-1285",
-                        label: "1285",
-                        title: "Chống Nguyên",
-                      },
-                      {
-                        id: "bach-dang-1288",
-                        label: "1288",
-                        title: "Bạch Đằng",
-                      },
-                      {
-                        id: "hon-nhan-1306",
-                        label: "1306",
-                        title: "Huyền Trân · Chế Mân",
-                      },
-                    ].map((e) => (
-                      <li
-                        key={e.id}
-                        className={state.event === e.id ? "active" : undefined}
-                      >
-                        <button
-                          className={state.event === e.id ? "active" : ""}
-                          aria-current={
-                            state.event === e.id ? "true" : undefined
+                    {p.milestones?.map((milestone) => {
+                      const event = events.find(
+                        (entry) => entry.id === milestone.eventId,
+                      )!;
+                      const e = {
+                        id: event.id,
+                        label: milestone.label ?? event.date.label,
+                        title: milestone.title ?? event.name,
+                      };
+                      return (
+                        <li
+                          key={e.id}
+                          className={
+                            state.event === e.id ? "active" : undefined
                           }
-                          onClick={() => onEvent(e.id)}
                         >
-                          <time>{e.label}</time>
-                          <span>{e.title}</span>
-                        </button>
-                      </li>
-                    ))}
+                          <button
+                            className={state.event === e.id ? "active" : ""}
+                            aria-current={
+                              state.event === e.id ? "true" : undefined
+                            }
+                            onClick={() => onEvent(e.id)}
+                          >
+                            <time>{e.label}</time>
+                            <span>{e.title}</span>
+                          </button>
+                        </li>
+                      );
+                    })}
                   </ol>
                 )}
                 {state.period === p.id && p.lanes && (
@@ -399,13 +404,7 @@ export default function Atlas() {
           <div className="exploration-toolbar">
             <div className="current-period">
               <span>{period.name}</span>
-              <small>
-                {period.id === "tran"
-                  ? "Đại Việt"
-                  : period.id === "ho"
-                    ? "Đại Ngu"
-                    : period.date.label}
-              </small>
+              <small>{period.subtitle ?? period.date.label}</small>
             </div>
             <div
               className="mode-switch"
@@ -424,7 +423,7 @@ export default function Atlas() {
                 onClick={() => {
                   navigate({
                     mode: "story",
-                    view: state.period === "tran" ? "story" : "overview",
+                    view: periodChapters.length ? "story" : "overview",
                   });
                   setMobilePane("reader");
                 }}
@@ -466,7 +465,7 @@ export default function Atlas() {
                 selectedPlace={state.place}
                 highlighted={highlighted}
                 onSelect={onPlace}
-                wide={chapter.id === "khu-vuc" && state.view === "story"}
+                wide={!!chapter?.mapWide && state.view === "story"}
               />
               <div className="year-bar">
                 <form onSubmit={submitYear}>
@@ -483,8 +482,8 @@ export default function Atlas() {
                     <Icon name="arrow" size={16} />
                   </button>
                 </form>
-                {state.year < 1225 && state.period === "tran" && (
-                  <span>Bối cảnh trước triều Trần</span>
+                {state.year < period.date.start && (
+                  <span>Bối cảnh trước {period.name.toLowerCase()}</span>
                 )}
               </div>
               {yearError && (
@@ -502,9 +501,7 @@ export default function Atlas() {
                     state.view === "place"
                   }
                   onClick={() =>
-                    actions.onView(
-                      state.period === "tran" ? "story" : "overview",
-                    )
+                    actions.onView(periodChapters.length ? "story" : "overview")
                   }
                 >
                   Câu chuyện
@@ -545,15 +542,15 @@ export default function Atlas() {
                   <Icon name="copy" size={17} />
                 </button>
               </div>
-              {state.period === "tran" && (
+              {!!periodChapters.length && (
                 <label className="chapter-select">
                   <span>Mục lục</span>
                   <select
                     value={state.chapter}
                     onChange={(e) => onChapter(e.target.value)}
-                    aria-label="Chọn chương nhà Trần"
+                    aria-label={`Chọn chương ${period.name.replace(/^Nhà /, "nhà ")}`}
                   >
-                    {chapters.map((c) => (
+                    {periodChapters.map((c) => (
                       <option key={c.id} value={c.id}>
                         {c.number}. {c.title}
                       </option>
@@ -584,7 +581,7 @@ export default function Atlas() {
       </main>
       <div className="screen-announcement sr-only" aria-live="polite">
         {mounted
-          ? `${period.name}. Mốc ${formatYear(state.year)}. ${state.view === "story" ? chapter.title : state.view === "people" ? "Nhân vật" : state.view === "events" ? "Sự kiện" : "Nội dung đã chọn"}. Chưa có ranh giới lịch sử được đối chiếu.`
+          ? `${period.name}. Mốc ${formatYear(state.year)}. ${state.view === "story" ? (chapter?.title ?? period.name) : state.view === "people" ? "Nhân vật" : state.view === "events" ? "Sự kiện" : "Nội dung đã chọn"}. Chưa có ranh giới lịch sử được đối chiếu.`
           : ""}
       </div>
       {shareMessage && (

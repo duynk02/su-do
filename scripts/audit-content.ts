@@ -92,12 +92,37 @@ export function auditContent() {
   ])
     checkDate(entity.date, entity.id);
   for (const c of chapters) {
+    ref([c.periodId], periods, `${c.id} period`);
     ref(c.claimIds, claims, c.id);
     ref(c.personIds, people, c.id);
     ref(c.placeIds, places, c.id);
     ref(c.eventIds, events, c.id);
+    const visual = c.visual;
+    if (visual.type === "relations")
+      ref([visual.personId], people, `${c.id} visual`);
+    if (visual.type === "comparison")
+      ref(
+        visual.items.map((item) => item.personId),
+        people,
+        `${c.id} visual`,
+      );
+    if (visual.type === "transition")
+      ref([visual.from.personId, visual.to.personId], people, `${c.id} visual`);
+    if (visual.type === "events")
+      ref(visual.eventIds, events, `${c.id} visual`);
+    if (visual.type === "artifact") {
+      ref([visual.mediaAssetId], mediaAssets, `${c.id} visual`);
+      if (visual.claimId) ref([visual.claimId], claims, `${c.id} visual`);
+    }
+    for (const id of c.eventIds)
+      if (
+        !events.find((event) => event.id === id)?.periodIds.includes(c.periodId)
+      )
+        errors.push(`Chapter event outside period: ${c.id}/${id}`);
   }
   for (const p of people) {
+    if (!p.periodIds.length) errors.push(`Person without period: ${p.id}`);
+    ref(p.periodIds, periods, `${p.id} periods`);
     ref(p.summaryClaimIds, claims, p.id);
     if (p.mediaAssetId) ref([p.mediaAssetId], mediaAssets, `${p.id} image`);
     for (const section of p.biographySections ?? []) {
@@ -108,6 +133,8 @@ export function auditContent() {
     ref(p.eventIds, events, p.id);
   }
   for (const e of events) {
+    if (!e.periodIds.length) errors.push(`Event without period: ${e.id}`);
+    ref(e.periodIds, periods, `${e.id} periods`);
     ref(
       [...e.contextClaimIds, ...e.developmentClaimIds, ...e.resultClaimIds],
       claims,
@@ -115,6 +142,7 @@ export function auditContent() {
     );
     ref(e.personIds, people, e.id);
     ref(e.placeIds, places, e.id);
+    ref(e.additionalClaimIds ?? [], claims, e.id);
   }
   for (const r of relationships) {
     ref([r.from, r.to], people, r.id);
@@ -123,6 +151,15 @@ export function auditContent() {
     if (r.from === r.to) errors.push(`Self relationship: ${r.id}`);
   }
   for (const t of tenures) {
+    ref([t.periodId], periods, `${t.id} period`);
+    if (t.dynastyId) ref([t.dynastyId], dynasties, t.id);
+    if (t.polityId) ref([t.polityId], polities, t.id);
+    if (
+      !people
+        .find((person) => person.id === t.personId)
+        ?.periodIds.includes(t.periodId)
+    )
+      errors.push(`Role outside person's periods: ${t.id}`);
     ref([t.personId], people, t.id);
     ref(t.claimIds, claims, t.id);
   }
@@ -130,6 +167,17 @@ export function auditContent() {
     ref(p.claimIds, claims, p.id);
     ref(p.polityIds, polities, p.id);
     ref(p.dynastyIds, dynasties, p.id);
+    for (const fact of p.overviewFacts ?? [])
+      ref(fact.claimIds, claims, `${p.id} overview`);
+    for (const milestone of p.milestones ?? []) {
+      ref([milestone.eventId], events, `${p.id} milestone`);
+      if (
+        !events
+          .find((event) => event.id === milestone.eventId)
+          ?.periodIds.includes(p.id)
+      )
+        errors.push(`Milestone outside period: ${p.id}/${milestone.eventId}`);
+    }
   }
   for (const d of dynasties) ref([d.polityId], polities, d.id);
   for (const p of polities) ref(p.claimIds, claims, p.id);

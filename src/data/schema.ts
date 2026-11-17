@@ -70,7 +70,12 @@ export interface Period {
   dynastyIds: string[];
   claimIds: string[];
   summary: string;
+  defaultYear?: number;
+  subtitle?: string;
+  overviewFacts?: { label: string; value: string; claimIds: string[] }[];
+  milestones?: { eventId: string; label?: string; title?: string }[];
   lanes?: { name: string; date: string }[];
+  lanesSource?: { label: string; url: string };
 }
 export interface Polity {
   id: string;
@@ -85,6 +90,7 @@ export interface Dynasty {
 }
 export interface Person {
   id: string;
+  periodIds: string[];
   name: string;
   aliases: string[];
   personalName?: string;
@@ -101,6 +107,10 @@ export interface Person {
 }
 export interface RoleTenure {
   id: string;
+  periodId: string;
+  dynastyId?: string;
+  polityId?: string;
+  emphasis?: boolean;
   personId: string;
   role: "reigning" | "retired" | "minister";
   label: string;
@@ -120,6 +130,7 @@ export interface Relationship {
 }
 export interface HistoricalEvent {
   id: string;
+  periodIds: string[];
   name: string;
   date: HistoricalDate;
   placeIds: string[];
@@ -130,6 +141,7 @@ export interface HistoricalEvent {
   consequence: string;
   consequenceKind: "editorial-question";
   precisionNote: string;
+  additionalClaimIds?: string[];
 }
 export interface Place {
   id: string;
@@ -146,6 +158,7 @@ export interface Place {
   periodIds: string[];
   validFrom: number;
   validTo: number;
+  mapLabel?: { regular: [number, number]; compact: [number, number] };
 }
 export interface TerritorySnapshot {
   id: string;
@@ -161,26 +174,61 @@ export interface TerritorySnapshot {
 }
 export interface StoryChapter {
   id: string;
+  periodId: string;
   number: string;
   title: string;
   question: string;
   date: HistoricalDate;
+  anchorYear?: number;
+  mapWide?: boolean;
   placeIds: string[];
   personIds: string[];
   eventIds: string[];
   claimIds: string[];
-  visual:
-    | "context"
-    | "relations"
-    | "transition"
-    | "roles"
-    | "rulers"
-    | "wars"
-    | "artifact"
-    | "diplomacy"
-    | "ending";
+  visual: ChapterVisual;
   takeaway: string;
   editorialNote?: string;
+}
+export type ChapterVisual =
+  | { type: "chain"; label: string; items: string[] }
+  | { type: "relations"; personId: string }
+  | {
+      type: "comparison";
+      items: { label: string; personId: string; detail: string }[];
+    }
+  | { type: "rulers" }
+  | { type: "events"; eventIds: string[] }
+  | {
+      type: "artifact";
+      mediaAssetId: string;
+      claimId?: string;
+      linkLabel?: string;
+    }
+  | {
+      type: "transition";
+      from: { personId: string; label: string };
+      to: { personId: string; label: string };
+      label: string;
+      date: string;
+    }
+  | {
+      type: "diplomacy";
+      from: string;
+      to: string;
+      label: string;
+      detail: string;
+    }
+  | {
+      type: "timeline";
+      items: { date: string; label: string }[];
+      caption?: string;
+    };
+
+export interface PeriodContent {
+  period: Period;
+  chapters: StoryChapter[];
+  events: HistoricalEvent[];
+  tenures: RoleTenure[];
 }
 export interface MediaAsset {
   id: string;

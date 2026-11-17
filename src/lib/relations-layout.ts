@@ -21,6 +21,9 @@ export const relationGraph = {
 type Point = { x: number; y: number };
 type Box = Point & { width: number; height: number };
 const labelWidth = (text: string) => text.length * 8 + 16;
+const labelHeight = 24;
+const labelGap = 12;
+const labelNodeGap = 16;
 
 export function defaultRelationView(
   selectedId: string,
@@ -209,18 +212,76 @@ export function layoutRelations(
       lastRight = left - relationGraph.blockGap;
     }
   }
-  const minX = Math.min(
-    ...[...positions.values()].map((p) => p.x - relationGraph.nodeWidth / 2),
-  );
-  const maxX = Math.max(
-    ...[...positions.values()].map((p) => p.x + relationGraph.nodeWidth / 2),
-  );
+  // Each corridor between tiers gets as many text lanes as its links need.
+  // Pack disjoint horizontal spans together, but keep converging links apart:
+  // different sources can share a target and therefore the same label x.
+  const rowOf = (id: string) => levels.indexOf(ranks.get(id)!);
+  type Span = { left: number; right: number };
+  const corridors = new Map<number, Span[][]>();
+  const textLanes = new Map<string, { row: number; lane: number }>();
+  for (const edge of edges) {
+    const a = positions.get(edge.from)!;
+    const b = positions.get(edge.to)!;
+    if (edge.type === "parent" || rowOf(edge.from) === rowOf(edge.to)) continue;
+    const row = rowOf(edge.from) + (a.y > b.y ? -1 : 0);
+    const span = {
+      left: Math.min(a.x, b.x - labelWidth(edge.label) / 2),
+      right: Math.max(a.x, b.x + labelWidth(edge.label) / 2),
+    };
+    const lanes = corridors.get(row) ?? [];
+    let lane = lanes.findIndex((occupied) =>
+      occupied.every(
+        (other) =>
+          span.left >= other.right + labelGap ||
+          span.right <= other.left - labelGap,
+      ),
+    );
+    if (lane === -1) {
+      lane = lanes.length;
+      lanes.push([]);
+    }
+    lanes[lane].push(span);
+    corridors.set(row, lanes);
+    textLanes.set(edge.id, { row, lane });
+  }
+  const rowYs = [relationGraph.padding + relationGraph.nodeHeight / 2];
+  for (let row = 0; row < levels.length - 1; row++) {
+    const laneCount = corridors.get(row)?.length ?? 0;
+    const gap = Math.max(
+      relationGraph.levelGap,
+      relationGraph.nodeHeight +
+        labelNodeGap * 2 +
+        labelHeight +
+        Math.max(0, laneCount - 1) * (labelHeight + labelGap),
+    );
+    rowYs.push(rowYs[row] + gap);
+  }
+  for (const [id, position] of positions) position.y = rowYs[rowOf(id)];
+
+  const horizontalBounds = [
+    ...[...positions.values()].map((p) => ({
+      left: p.x - relationGraph.nodeWidth / 2,
+      right: p.x + relationGraph.nodeWidth / 2,
+    })),
+    ...edges.flatMap((edge) => {
+      if (edge.type === "parent") return [];
+      const a = positions.get(edge.from)!;
+      const b = positions.get(edge.to)!;
+      const x = a.y === b.y ? (a.x + b.x) / 2 : b.x;
+      return [
+        {
+          left: x - labelWidth(edge.label) / 2,
+          right: x + labelWidth(edge.label) / 2,
+        },
+      ];
+    }),
+  ];
+  const minX = Math.min(...horizontalBounds.map((box) => box.left));
+  const maxX = Math.max(...horizontalBounds.map((box) => box.right));
   const naturalWidth = maxX - minX + relationGraph.padding * 2;
   const width = Math.max(view === "political" ? 420 : 320, naturalWidth);
   const height =
-    relationGraph.padding * 2 +
-    relationGraph.nodeHeight +
-    (levels.length - 1) * relationGraph.levelGap;
+    rowYs.at(-1)! + relationGraph.nodeHeight / 2 + relationGraph.padding;
   const shift = relationGraph.padding - minX + (width - naturalWidth) / 2;
   const nodes = ids.map((id) => ({
     id,
@@ -255,7 +316,7 @@ export function layoutRelations(
           x: (start.x + end.x) / 2,
           y: start.y,
           width: labelWidth(r.label),
-          height: 24,
+          height: labelHeight,
         };
       } else {
         const sign = Math.sign(b.y - a.y);
@@ -263,14 +324,19 @@ export function layoutRelations(
         end = { x: b.x, y: b.y - sign * (relationGraph.nodeHeight / 2 + 6) };
         const sources = sourcesByRow.get(a.y)!;
         const lane = sources.indexOf(r.from) - (sources.length - 1) / 2;
-        const midY = (start.y + end.y) / 2 + lane * 10;
+        const textLane = textLanes.get(r.id);
+        const midY = textLane
+          ? (rowYs[textLane.row] + rowYs[textLane.row + 1]) / 2 +
+            (textLane.lane - (corridors.get(textLane.row)!.length - 1) / 2) *
+              (labelHeight + labelGap)
+          : (start.y + end.y) / 2 + lane * 10;
         path = `M${start.x},${start.y} V${midY} H${end.x} V${end.y}`;
         if (r.type !== "parent")
           labelBox = {
             x: b.x,
             y: midY,
             width: labelWidth(r.label),
-            height: 24,
+            height: labelHeight,
           };
       }
       return { ...r, start, end, path, labelBox };

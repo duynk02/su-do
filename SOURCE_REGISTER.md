@@ -232,6 +232,456 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Nguồn bài đăng lại: https://afamilycdn.com/thumb_w/660/2018/541293-1515422148630.jpg.
 - Giới hạn: Tranh minh họa dùng trong bài về nhân vật, không phải chân dung đương thời; không dùng hình làm bằng chứng về diện mạo hoặc trang phục lịch sử. Giữ nguyên hình tải từ trang nguồn; không chỉnh sửa nội dung.
 
+## image-source-ly-thai-to — Tranh minh họa Lý Công Uẩn – Lý Thái Tổ
+
+- URL: [mở nguồn](https://loigiaihay.com/3-dan-chung-ve-ly-thai-to-hay-nhat-a190118.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Lời Giải Hay.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh tại mục Tầm nhìn chiến lược; đã đọc chữ Lý Công Uẩn – Lý Thái Tổ trong ảnh gốc và xem toàn ảnh..
+- Nguồn bài đăng lại: https://img.loigiaihay.com/picture/2026/0210/1770686268155e58af8941f3932999a344a05393e66ff.jpg.
+- Giới hạn: Tranh chân dung minh họa hiện đại; trên chính tác phẩm ghi rõ Lý Công Uẩn – Lý Thái Tổ bằng chữ Việt và chữ Hán. Chưa xác định tác giả. Không phải chân dung đương thời và không dùng để khẳng định phục trang lịch sử. Lưu ảnh từ trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-ly-thai-tong — Minh họa vua Lý Thái Tông
+
+- URL: [mở nguồn](https://trithucvn2.net/van-hoa/ly-thai-tong-vi-minh-quan-co-tuong-la.html/amp)
+- Tác giả: Sỹ Hòa. Cơ quan/nhà xuất bản: Trí Thức VN.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tranh đầu bài và chú thích họa sĩ ngay dưới ảnh; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://trithucvn2.net/wp-content/uploads/2021/02/Vi-vua-co-tuong-la-01.jpg.
+- Giới hạn: Tranh được bài nguồn dùng minh họa Lý Thái Tông và ghi rõ họa sĩ Sỹ Hòa, Báo Bình Phước Online; là minh họa hiện đại, không phải chân dung đương thời. Lưu ảnh của trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-ly-thanh-tong — Tượng thờ Lý Thánh Tông tại Văn Miếu – Quốc Tử Giám
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:L%C3%BD_Th%C3%A1nh_T%C3%B4ng.JPG)
+- Tác giả: Nguyễn Thanh Quang. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tên tệp, Description, Author, Date và Licensing; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/9/9b/L%C3%BD_Th%C3%A1nh_T%C3%B4ng.JPG.
+- Giới hạn: Ảnh chụp tượng tưởng niệm được trang mô tả tệp xác định là Lý Thánh Tông; không phải chân dung được xác nhận tạo tác khi nhân vật còn sống. Lưu bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## image-source-ly-nhan-tong — Minh họa Lý Nhân Tông trong bộ Lịch sử Việt Nam bằng tranh
+
+- URL: [mở nguồn](https://minhchantuong.com/van-hoa/lich-su/ly-nhan-tong/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Minh Chân Tướng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh đầu bài và chú thích Tranh minh họa trong bộ Lịch sử Việt Nam bằng tranh; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://static.minhchantuong.com/img/2022/01/vi-vua-mang-den-nhieu-diem-lanh-nhat-trong-su-viet.jpg.
+- Giới hạn: Tranh minh họa được bài nguồn gắn với Lý Nhân Tông và chú thích xuất xứ bộ Lịch sử Việt Nam bằng tranh; chưa xác định họa sĩ và tập sách từ trang này. Không dùng hình làm chứng cứ về dung mạo, trang phục hay kiến trúc lịch sử. Đây không phải chân dung đương thời. Lưu ảnh của trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-ly-than-tong — Tượng thờ Lý Thần Tông tại đền Đô
+
+- URL: [mở nguồn](https://www.hinhanhlichsu.org/2021/09/9-vi-vua-trieu-ai-nha-ly.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Hình Ảnh Lịch Sử.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Lý Thần Tông và biển tên trong ảnh; đã đọc trang HTML và mở xem ảnh..
+- Nguồn bài đăng lại: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLilylhkoy_fHc1tau-RBUCtV5CVmFn2hxsX5WUOQvta_KKXPgLBGIV6FvaeXEdJ9z6DDhwYu9MZf6j73Nc0mSyJl6QyfMqGR1hheBzTpRWNRk9xDYd_PIA7NFJSV2UFAbB4Cy9i1MFtCW/s1600/ly-than-tong_result.jpg.
+- Giới hạn: Ảnh đặt dưới mục Lý Thần Tông; biển tên trước tượng xác định đúng nhân vật. Đây là hình tượng thờ phụng về sau, không phải chân dung đương thời. Lưu ảnh từ máy chủ Blogger của trang nguồn, giữ nguyên dấu nhận diện; không cắt, không chỉnh màu.
+
+## image-source-ly-anh-tong — Tượng thờ Lý Anh Tông tại đền Đô
+
+- URL: [mở nguồn](https://www.hinhanhlichsu.org/2021/09/9-vi-vua-trieu-ai-nha-ly.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Hình Ảnh Lịch Sử.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Lý Anh Tông và biển tên trong ảnh; đã đọc trang HTML và mở xem ảnh..
+- Nguồn bài đăng lại: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaP212l8qv3XBynrqyyqf23_QN3dmruKHOXT08ghGwJrlRmxuPfJT_6taUXfrayKLbS3FqF8zkauMXVl8mls3BJDA_U66Dy9HyqdwjYZfzJFwVG5sYfBmtfIjkw4HdnyobsHDm1kTz6SOG/s1600/vua-ly-anh-tong-3-tuoi-19440_result.jpg.
+- Giới hạn: Ảnh đặt dưới mục Lý Anh Tông; biển tên trước tượng xác định đúng nhân vật. Đây là hình tượng thờ phụng về sau, không phải chân dung đương thời. Lưu ảnh từ máy chủ Blogger của trang nguồn, giữ nguyên dấu nhận diện; không cắt, không chỉnh màu.
+
+## image-source-ly-cao-tong — Ảnh minh họa được bài báo sử dụng cho Lý Cao Tông
+
+- URL: [mở nguồn](https://www.24h.com.vn/giao-duc-du-hoc/vi-vua-nao-thich-lam-tien-ngang-nhien-cho-mua-quan-ban-chuc-c216a1563586.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: 24h.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh câu hỏi đầu tiên (ct-4319), câu trả lời Lý Cao Tông; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://cdn.24h.com.vn/upload/2-2024/images/2024-04-29/ct-4319-1714347666-923-width650height537.png.
+- Giới hạn: Ảnh minh họa hiện đại được 24h đặt trong câu hỏi thứ nhất có đáp án Lý Cao Tông. Chưa xác định tác giả, người mẫu và nguồn tạo hình; không phải ảnh tư liệu hay chân dung đương thời, không dùng làm bằng chứng về dung mạo hoặc phục trang. Đây không phải chân dung đương thời. Lưu ảnh từ trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-ly-hue-tong — Minh họa Lý Huệ Tông
+
+- URL: [mở nguồn](https://nguoiquansat.vn/vi-vua-duy-nhat-trong-lich-su-viet-nam-lap-con-gai-lam-hoang-thai-tu-va-truyen-ngoi-bau-la-quan-vuong-dau-tien-xuat-gia-di-tu-129456.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Người Quan Sát.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh đầu bài với chú thích Lý Huệ Tông và nguồn Tri thức & Cuộc sống; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://nqs.1cdn.vn/2024/05/04/i.ex-cdn.com-chatluongvacuocsong.vn-files-content-2024-05-04-_ly-hue-tong-0003.jpg.
+- Giới hạn: Bài nguồn ghi chú ảnh minh họa Lý Huệ Tông, từ Tạp chí Tri thức & Cuộc sống; không phải chân dung đương thời được xác nhận. Chỉ dùng nhận diện hình ảnh, không dùng bài này thay nguồn sử liệu. Lưu ảnh của trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-ly-thuong-kiet — Tượng chân dung Lý Thường Kiệt tại Bảo tàng Lịch sử Quân sự Việt Nam
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t_t%E1%BA%A1i_B%E1%BA%A3o_t%C3%A0ng_l%E1%BB%8Bch_s%E1%BB%AD_qu%C3%A2n_s%E1%BB%B1_Vi%E1%BB%87t_Nam,_H%C3%A0_N%E1%BB%99i_n%C4%83m_2017_(2).jpg)
+- Tác giả: Phương Huy. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tên tệp, Description, Author, Date và Licensing; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/e/e5/T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t_t%E1%BA%A1i_B%E1%BA%A3o_t%C3%A0ng_l%E1%BB%8Bch_s%E1%BB%AD_qu%C3%A2n_s%E1%BB%B1_Vi%E1%BB%87t_Nam%2C_H%C3%A0_N%E1%BB%99i_n%C4%83m_2017_%282%29.jpg.
+- Giới hạn: Ảnh chụp tượng tưởng niệm được trang mô tả tệp xác định là Lý Thường Kiệt; không phải chân dung được xác nhận tạo tác khi nhân vật còn sống. Lưu bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## image-source-y-lan — Tượng Linh Nhân Hoàng thái hậu Ỷ Lan tại đền Phú Thị
+
+- URL: [mở nguồn](https://chonthieng.com/hien-vat/tuong-y-lan/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Chốn Thiêng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tên hiện vật, mục Địa điểm và ảnh Nguyen phi y lan; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://chonthieng.com/data/uploads/2025/04/Nguyen-Phi-Y-Lan.webp.
+- Giới hạn: Hồ sơ hiện vật HV00000390 xác định tượng Ỷ Lan tại đền Phú Thị, Gia Lâm. Đây là hình tượng thờ phụng, không phải chân dung đương thời được xác nhận. Lưu ảnh của trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-to-hien-thanh — Tượng Tô Hiến Thành tại đền Văn Hiến, Hạ Mỗ
+
+- URL: [mở nguồn](https://baotuyenquang.com.vn/dan-phuong-nhieu-hoat-dong-ky-niem-922-nam-ngay-sinh-danh-nhan-to-hien-thanh-188505.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Báo Tuyên Quang.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh đầu bài và chú thích Tượng danh nhân Tô Hiến Thành tại đền Văn Hiến; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://baotuyenquang.com.vn/media/images/2024/03/img_20240301081653.jpg.
+- Giới hạn: Bài nguồn ghi chú tượng danh nhân Tô Hiến Thành tại đền Văn Hiến, Hạ Mỗ, Đan Phượng; là tượng tưởng niệm về sau, không phải chân dung đương thời. Lưu ảnh của trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-le-van-thinh — Tượng thờ Thái sư Lê Văn Thịnh tại đền Đông Cứu
+
+- URL: [mở nguồn](https://bacninh.gov.vn/news/-/details/37632/-en-tho-trang-nguyen-le-van-thinh-di-tich-lich-su-van-hoa-cap-quoc-gia-129914601)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Cổng thông tin điện tử tỉnh Bắc Ninh.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Ảnh thứ sáu (14.png), chú thích Tượng thờ Thái sư Lê Văn Thịnh được thờ tại đền và đoạn hiện vật thế kỷ XX; đã mở xem ảnh..
+- Nguồn bài đăng lại: https://bacninh.gov.vn/documents/37632/112131704/14.png/ef016a53-bf27-1d5b-8e17-8442d6663e35?t=1781752450617.
+- Giới hạn: Nguồn địa phương xác định đây là tượng thờ Lê Văn Thịnh và liệt kê niên đại thế kỷ XX; không phải chân dung đương thời. Lưu ảnh của trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-ly-chua-mot-cot — Chùa Một Cột trong quần thể Diên Hựu hiện nay
+
+- URL: [mở nguồn](https://hoangthanhthanglong.vn/chua-mot-cot)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tiêu đề, mô tả công trình và ảnh trên trang di tích; đã đọc HTML và mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://hoangthanhthanglong.vn/wp-content/uploads/2013/08/chuamotcot.jpg.
+- Giới hạn: Ảnh hiện trạng chùa Một Cột, công trình đã nhiều lần trùng tu và phục dựng. Không thể hiện nguyên trạng kiến trúc năm 1049. Lưu phiên bản ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## image-source-ly-van-mieu — Cổng Đại Thành tại Văn Miếu – Quốc Tử Giám hiện nay
+
+- URL: [mở nguồn](https://vanmieu.gov.vn/vi/visit/architecture/dai-thanh-gate)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Hoạt động Văn hóa Khoa học Văn Miếu – Quốc Tử Giám.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tiêu đề, mô tả công trình và ảnh trên trang di tích; đã đọc HTML và mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://d3uu5y98685ro6.cloudfront.net/media/c%E1%BB%95ng%20%C4%90%E1%BA%A1i%20Th%C3%A0nh.jpg.
+- Giới hạn: Ảnh Cổng Đại Thành do trang di tích cung cấp; kiến trúc hiện nay có các lần tu sửa về sau, không phải toàn bộ công trình nguyên trạng thời Lý. Lưu phiên bản ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## ly-toan-thu-thai-to — Đại Việt sử ký toàn thư — Lý Thái Tổ hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/29-Thai-To-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 1a: tên Công Uẩn, Cổ Pháp, mẹ họ Phạm, việc làm quan Tiền Lê và được Khánh Văn nuôi dạy..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển II.
+- Giới hạn: Chưa xác nhận đủ ấn bản và dịch giả của phần dịch trên trang. Chuyện thần nhân và điềm sinh nở thuộc lớp truyền thuyết; không dùng để xác định cha đẻ. Không tự chuyển lịch.
+
+## ly-toan-thu-thai-tong — Đại Việt sử ký toàn thư — Lý Thái Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/30-Thai-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 18a: Phật Mã/Đức Chính, con Thái Tổ và hoàng hậu họ Lê; sinh năm 1000, nối ngôi năm 1028, mất năm 1054..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển II.
+- Giới hạn: Chỉ dùng quan hệ và mốc năm đã đọc. Không suy họ tên đầy đủ của mẹ từ chữ Lê thị. Tuổi trong sử không đồng nhất với tuổi dương lịch; chưa xác nhận đủ ấn bản bản dịch.
+
+## ly-toan-thu-thanh-tong — Đại Việt sử ký toàn thư — Lý Thánh Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/31-Thanh-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 1a: Nhật Tôn, cha Thái Tông, mẹ Kim Thiên thái hậu họ Mai, sinh năm 1023, làm thái tử năm 1028..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển III.
+- Giới hạn: Thứ bậc con của Thái Tông khác nhau giữa Toàn thư và Việt sử lược; hồ sơ chỉ dùng quan hệ cha–con. Chuyện mơ thấy trăng là truyền thuyết. Chưa xác nhận đủ ấn bản bản dịch.
+
+## ly-toan-thu-nhan-tong — Đại Việt sử ký toàn thư — Lý Nhân Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/32-Nhan-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 6b: Càn Đức, cha Thánh Tông, mẹ Linh Nhân; đầu triều Thượng Dương thái hậu và Lý Đạo Thành giúp việc chính sự..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển III.
+- Giới hạn: Không lược bỏ vai trò Thượng Dương để coi Ỷ Lan là người duy nhất phụ chính từ đầu. Niên đại dùng quy ước nguồn, không tự đổi ngày âm sang Tây lịch. Chưa xác nhận đủ ấn bản bản dịch.
+
+## ly-thang-long-exhibition — Kinh đô mãi muôn đời — quê hương nhà Lý và quyết định dời đô
+
+- URL: [mở nguồn](https://trungbayonline.hoangthanhthanglong.vn/GpThuDo/Index)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Bảo tồn Di sản Thăng Long–Hà Nội.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các mục Quê hương nhà Lý; Đức vua Lý Công Uẩn và quyết định dời đô..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Trưng bày có cả truyền thuyết về gia thế. Chỉ dùng việc dời đô năm 1010 và đổi Đại La thành Thăng Long; ảnh hiện trạng không phải nguyên trạng công trình thời Lý.
+
+## ly-thanh-tong-vanmieu — Vua Lý Thánh Tông (1023–1072)
+
+- URL: [mở nguồn](https://vanmieu.gov.vn/vi/ly-thanh-tong)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Hoạt động Văn hóa Khoa học Văn Miếu–Quốc Tử Giám.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Toàn bộ phần tiểu sử ngắn: Nhật Tôn, ngôi vua 1054–1072, quốc hiệu Đại Việt, Văn Miếu 1070 và tượng thờ năm 2003..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Những nhận xét vua sáng là diễn giải giới thiệu di sản. Tượng ở Hậu đường được đúc năm 2003, không phải chân dung đương thời.
+
+## ly-vanmieu-history — Lịch sử di tích Văn Miếu–Quốc Tử Giám
+
+- URL: [mở nguồn](https://www.vanmieu.gov.vn/vi/introduction/site-history)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Hoạt động Văn hóa Khoa học Văn Miếu–Quốc Tử Giám.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mục Thời Lý (1009–1225): Văn Miếu 1070, khoa thi 1075, Quốc Tử Giám 1076..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Dùng ba mốc riêng biệt. Không đồng nhất Quốc Tử Giám thời trung đại với mô hình đại học hiện nay.
+
+## ly-vanmieu-dsvh — Di tích lịch sử và kiến trúc nghệ thuật Văn Miếu–Quốc Tử Giám
+
+- URL: [mở nguồn](https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-van-mieu-quoc-tu-giam-2953)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Cục Di sản văn hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn mở đầu: dựng Văn Miếu năm 1070, lập Quốc Tử Giám năm 1076; kiến trúc thời Lê–Nguyễn và khu Thái Học phục dựng..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Di tích đã thay đổi qua nhiều thời kỳ. Không dùng ảnh Khuê Văn Các hay nhà Thái Học hiện nay để phục dựng nguyên dạng thế kỷ XI.
+
+## ly-institutions — Thể chế chính trị ở Việt Nam thế kỷ XI–XIII dưới thời Lý
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/3096/7063/the-che-chinh-tri-o-viet-nam-the-ky-xi-xiii-duoi-thoi-ly.html)
+- Tác giả: Trần Thị Vinh. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia — tham luận của Viện Sử học.
+- Năm: 2010. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mở đầu về nhà Lý năm 1009; mục 3 Xây dựng nền pháp chế quốc gia, chú thích 86–91 về Hình thư năm 1042..
+- Nguồn bài đăng lại: Tham luận Hội thảo Quốc tế Việt Nam học lần thứ ba; Bảo tàng Nhân học.
+- Giới hạn: Hình thư đã thất truyền. Chỉ mô tả việc san định và ban hành năm 1042; không khẳng định mọi thời kỳ trước không có luật thành văn hoặc dựng lại các điều luật đã mất.
+
+## ly-nhan-tong-museum — Lý Nhân Tông — ông vua có nhiều kỷ lục
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/2001/65227/ly-nhan-tong-ong-vua-co-nhieu-ky-luc.html)
+- Tác giả: Tiến Đức. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia — bài đăng lại.
+- Năm: 2010. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: reference. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Đoạn Càn Đức sinh năm 1066, cha mẹ, lên ngôi khi nhỏ; khoa thi 1075 và chiến tranh thời Nhân Tông..
+- Nguồn bài đăng lại: baodatviet.vn.
+- Giới hạn: Bài gộp Văn Miếu và Quốc Tử Giám vào năm 1076; dùng niên đại riêng của đơn vị di tích thay cho chỗ đó. Không gán học vị Trạng nguyên của các thời sau cho khoa thi 1075.
+
+## ly-y-lan-vass — Nguyên phi Ỷ Lan với vương triều Lý
+
+- URL: [mở nguồn](https://vass.gov.vn/nghien-cuu-khoa-hoc/nguyen-phi-y-lan-voi-vuong-trieu-ly-583776)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Viện Hàn lâm Khoa học xã hội Việt Nam.
+- Năm: 2026. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn thân thế, việc điều hành năm 1069, triều Nhân Tông, bảo vệ sức kéo năm 1117; chú thích 1 về năm sinh chưa rõ..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Không coi năm sinh 1044 trên tượng đài là niên đại chắc chắn. Chỉ dùng việc coi triều năm 1069, không dùng đoạn có trình tự bắt Chế Củ thiếu nhất quán hoặc số tù binh. Không dùng để kết luận riêng vụ Thượng Dương.
+
+## ly-thuong-kiet-hien-than — Hiền thần Lý Thường Kiệt
+
+- URL: [mở nguồn](https://baotanglichsu.vn/VI/Articles/3096/6644/hien-than-ly-thuong-kiet.html)
+- Tác giả: Lan Châu. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia — bài đăng lại.
+- Năm: 2010. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: reference. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn tên Ngô Tuấn, ban quốc tính; chiến dịch 1069, 1075–1077 và giảng hòa; mất năm 1105..
+- Nguồn bài đăng lại: Hà Nội Mới.
+- Giới hạn: Nguồn phổ thông. Không suy phả hệ với Ngô Quyền chỉ từ tên họ, không khẳng định tác giả Nam quốc sơn hà. Những số quân và ngày chuyển lịch không được dùng trong nội dung hiện tại.
+
+## ly-thuong-kiet-campaign — Lý Thường Kiệt, người chỉ huy kiệt xuất của cuộc kháng chiến chống quân Tống lần thứ hai
+
+- URL: [mở nguồn](https://baotanglichsu.vn/VI/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html)
+- Tác giả: Lê Thị Huệ (tổng hợp). Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: 2014. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn chiến dịch 1069, Nhân Tông lên ngôi 1072, tiến công 1075, phòng tuyến 1076–1077, giảng hòa và hoạt động cuối đời..
+- Nguồn bài đăng lại: Bài tổng hợp dẫn các sách của Đỗ Đức Hùng, Đinh Xuân Lâm, Nguyễn Lân và NXB Giáo Dục.
+- Giới hạn: Bài có lỗi Thái Tổ nhận con nuôi năm 1041; không sử dụng chi tiết đó. Chỉ dùng trình tự chiến dịch được đối chiếu; không lấy lời quy tác giả bài thơ làm kết luận chắc chắn.
+
+## ly-hxh — Lý Thường Kiệt: Lịch sử ngoại giao và tông giáo triều Lý
+
+- URL: [mở nguồn](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1222/UserFiles/Ly-Thuong-Kiet---Lich-Su-Ngoai-Giao-Va-Tong-Giao-Trieu-Ly---Hoang-Xuan-Han-3ba47d31-d3c5-438f-bb5d-bb3223612a3e.pdf)
+- Tác giả: Hoàng Xuân Hãn. Cơ quan/nhà xuất bản: Bản chuyển dạng lưu tại cổng Quản lý giáo dục.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tựa, trang PDF 1–3 về chiến tranh và ngoại giao; trang PDF 154–155 về truyền thống bài thơ thần..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Chưa xác nhận đủ ấn bản của bản chuyển dạng. Không lặp lại phán xét văn hóa trong lời tựa; không dựng ranh giới ba châu từ mô tả văn bản. Đánh giá nguyên nhân là luận giải của tác giả.
+
+## ly-le-van-thinh — Đệ nhất khai khoa của Việt Nam
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/2001/65112/dje-nhat-khai-khoa-cua-viet-nam.html)
+- Tác giả: Đinh Văn Niêm. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia — bài đăng lại.
+- Năm: 2010. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: reference. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn khoa thi 1075, hầu vua học, đàm phán Vĩnh Bình 1084, chức Thái sư 1085 và vụ án Hồ Tây 1096..
+- Nguồn bài đăng lại: bee.net.vn.
+- Giới hạn: Chuyện hóa hổ là yếu tố truyền thuyết. Bài ghi mất năm 1096 nhưng chưa đủ đối chiếu nên hồ sơ không chốt năm mất. Không dùng danh hiệu Trạng nguyên như học vị chính thức của khoa thi 1075.
+
+## ly-nam-quoc-research — Bài thơ Nam quốc sơn hà là bản tuyên ngôn độc lập đầu tiên của nước Việt Nam ta
+
+- URL: [mở nguồn](https://hannom.vass.gov.vn/nghien-cuu-van-ban/bai-tho-nam-quoc-son-ha-la-ban-tuyen-ngon-doc-lap-dau-tien-cua-nuoc-viet-nam-ta-tap-chi-han-nom-so--504984)
+- Tác giả: Lê Văn Quán. Cơ quan/nhà xuất bản: Tạp chí Hán Nôm — Viện Nghiên cứu Hán Nôm.
+- Năm: 2006. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Phần mở đầu về bài thơ khuyết danh và hai dị bản; đoạn bàn việc không xác định được trình tự hình thành các bản..
+- Nguồn bài đăng lại: Tạp chí Hán Nôm, số 1 (74), 2006, trang 3–8.
+- Giới hạn: Tác giả nêu các giả thuyết về quá trình truyền tụng; không coi chúng là diễn biến đã xác lập. Chỉ dùng tính khuyết danh và sự tồn tại của nhiều dị bản.
+
+## ly-dao-thanh — Tác giả của kỳ thi tuyển hiền tài đầu tiên nước Việt
+
+- URL: [mở nguồn](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tac-gia-cua-ky-thi-tuyen-hien-tai-dau-tien-nuoc-viet.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Ủy ban Nhà nước về người Việt Nam ở nước ngoài — Quê hương.
+- Năm: 2010. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: reference. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn Thái sư thời Thánh Tông, vào Nghệ An, trở lại coi nội trị thời Nhân Tông, mất tháng 10 năm Tân Dậu (1081)..
+- Nguồn bài đăng lại: Đại Đoàn Kết.
+- Giới hạn: Năm sinh 1009/1010 và giả thuyết chính ông tổ chức khoa thi 1075 là suy đoán của tác giả bài, không dùng làm dữ kiện đã xác lập.
+
+## ly-annals-than-tong — Đại Việt sử ký toàn thư — Lý Thần Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/33-Than-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 28a, mở đầu kỷ Thần Tông; Hán văn, phiên âm và bản dịch Việt..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển III.
+- Giới hạn: Chưa xác nhận đầy đủ ấn bản và dịch giả trên trang. Tuổi theo lối tính của sử liệu; không coi lời bình về đạo Phật hay điềm lành là sự kiện khách quan.
+
+## ly-annals-anh-tong — Đại Việt sử ký toàn thư — Lý Anh Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/34-Anh-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 1a, mở đầu kỷ Anh Tông: tên Thiên Tộ, cha Thần Tông, mẹ họ Lê, niên đại sinh và giữ ngôi..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển IV.
+- Giới hạn: Chưa xác nhận đầy đủ thông tin ấn bản của phần dịch. Phân biệt mẹ Anh Tông họ Lê với mẹ Thần Tông họ Đỗ; không chép con số tuổi mụ thành tuổi theo lịch hiện đại.
+
+## ly-annals-cao-tong — Đại Việt sử ký toàn thư — Lý Cao Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/35-Cao-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 17b: Long Trát nối ngôi trước linh cữu, mẹ họ Đỗ, năm sinh 1173; đầu niên hiệu Trinh Phù 1176..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển IV.
+- Giới hạn: Dòng tổng kết nhiệm kỳ ghi 1176–1210, nhưng đoạn trước và mục 1175 ghi việc lên ngôi năm 1175. Dùng năm đăng cơ 1175, không đồng nhất với năm đổi niên hiệu 1176.
+
+## ly-annals-hue-tong — Đại Việt sử ký toàn thư — Lý Huệ Tông hoàng đế
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/36-Hue-Tong-Hoang-De?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 27b: thái tử Sảm nối ngôi Cao Tông, cha mẹ, năm sinh 1194, cùng Đàm thái hậu nghe chính sự..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển IV.
+- Giới hạn: Nối ngôi sau khi Cao Tông mất năm 1210; niên hiệu Kiến Gia bắt đầu 1211. Không tự chuyển ngày tháng âm lịch. Mô tả bệnh trạng trong sử liệu không phải chẩn đoán y khoa hiện đại.
+
+## ly-annals-chieu-hoang — Đại Việt sử ký toàn thư — Lý Chiêu Hoàng
+
+- URL: [mở nguồn](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/37-Chieu-Hoang?uiLang=en)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Vietnamese Nôm Preservation Foundation — bản số hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Tờ 32b: Hán văn và phiên âm về tên Phật Kim, Thiên Hinh, quan hệ với Huệ Tông và việc truyền ngôi..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển IV.
+- Giới hạn: Đã đọc Hán văn và phiên âm; bản dịch Việt không hiện đầy đủ trên trang. Cách đánh giá nữ chủ trong lời bình là quan điểm sử quan, không dùng làm kết luận hiện đại.
+
+## ly-annals-iii-b — Đại Việt sử ký toàn thư — Bản kỷ III(b), thời Lý Thần Tông
+
+- URL: [mở nguồn](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-15)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các mục 1128 (29b–32a), 1129 (32b), 1130 (35a), 1132 (37a–37b), 1136 (39b–40a), 1138 (42a–42b)..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển III.
+- Giới hạn: Bản đánh máy có lỗi; chưa xác nhận đủ ấn bản và người dịch. Chuyện thác sinh, phép thuật và lời bình sử quan cần phân biệt với ghi chép chính sự. Không coi bản chép lại là nguồn độc lập với trang Nôm Foundation.
+
+## ly-annals-iv-a — Đại Việt sử ký toàn thư — Bản kỷ IV(a), Anh Tông và đầu Cao Tông
+
+- URL: [mở nguồn](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-16)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: 1140–1141 (1b–3a), 1149 (6b), 1150 (7a–9b), 1158 (12b–13a), 1164, 1171–1172 (15a–15b), 1175 (16b–17b), 1176 (18a), 1179 (18b–19a)..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển IV.
+- Giới hạn: Có lỗi đánh máy, tên và số năm; dẫn vị trí quyển/tờ để truy nguyên. Đối thoại và nhận xét về người cầm quyền là lời được sử liệu truyền lại. Không coi bản chép lại là nguồn độc lập với Nôm Foundation.
+
+## ly-annals-iv-b — Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng
+
+- URL: [mở nguồn](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: 1208–1209 (25a–26a), 1210 (26b–27b), 1216 (29a), 1217–1218 (30a), 1223–1224 (31a–32a), 1225 (32b–35a)..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển IV.
+- Giới hạn: Có lỗi số hóa ghi 1125 ở mục Ất Dậu 1225. Giữ năm và hệ lịch theo nguồn; không tự chuẩn hóa ngày dương. Bệnh trạng và lời bình không dùng để chẩn đoán hiện đại hay quy kết một nguyên nhân duy nhất cho việc chuyển triều.
+
+## ly-to-hien-thanh-research — Đôi điều hiểu thêm về Tô Hiến Thành qua văn bản Tô tướng công thực lục
+
+- URL: [mở nguồn](https://hannom.vass.gov.vn/tong-muc-luc/18-doi-dieu-hieu-them-ve-to-hien-thanh-qua-van-ban-to-tuong-cong-thuc-luc-tbhnh-1998-505627)
+- Tác giả: Đỗ Thị Hảo. Cơ quan/nhà xuất bản: Viện Nghiên cứu Hán Nôm — Thông báo Hán Nôm học 1998.
+- Năm: 1998. Ấn bản: Thông báo Hán Nôm học 1998, tr.146–151; đăng lại 27/9/2007.
+- Loại: research. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn đối chiếu Toàn thư IV17a, IV19a; mục quê quán Hạ Mỗ, ngày sinh và vấn đề khoa bảng..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Tác giả phân biệt truyện ký địa phương với chính sử, nêu nhiều điều còn cần nghiên cứu. Không coi năm sinh hoặc việc đỗ khoa 1138 là đã được xác lập; chính sử xác nhận mất tháng sáu năm 1179.
+
+## ly-to-hien-thanh-heritage — Tô Hiến Thành — Vì nước tiến cử người hiền, không vì ơn riêng
+
+- URL: [mở nguồn](https://hoangthanhthanglong.vn/to-hien-thanh-vi-nuoc-tien-cu-nguoi-hien-khong-vi-on-rieng/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Bảo tồn Di sản Thăng Long–Hà Nội.
+- Năm: 2013. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Các đoạn Anh Tông ủy thác Long Cán, Chiêu Linh thái hậu muốn phục lập Long Xưởng, tiến cử Trần Trung Tá và năm mất 1179..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài phổ thông kể mở rộng; chỉ dùng các nội dung đã đối chiếu chính sử. Không dùng chi tiết thi 1138 hoặc cách quy việc suy vong nhà Lý cho một người phụ chính.
+
+## ly-van-don-heritage — Di tích thương cảng Vân Đồn
+
+- URL: [mở nguồn](https://scov.gov.vn/dat-nuoc-con-nguoi/dat-nuoc-viet-nam/di-tich-thuong-cang-van-don.html)
+- Tác giả: T.H. Cơ quan/nhà xuất bản: Ủy ban Nhà nước về người Việt Nam ở nước ngoài — Quê Hương.
+- Năm: 2012. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Đầu bài về mốc 1149; đoạn dẫn Toàn thư Kỷ Tỵ 1149 và các bến bãi trên đảo Cống Đông, Cống Hẹp, Cống Yên, Ngọc Vừng, Quan Lạn..
+- Nguồn bài đăng lại: quehuongonline.vn; bài dẫn Toàn thư và mô tả dấu tích khảo cổ.
+- Giới hạn: Không dùng đoạn nhầm năm1667 ở thời Lê Thánh Tông. Vân Đồn là hệ thống bến nhiều đảo, không một tọa độ duy nhất; tránh khẳng định tuyệt đối cảng ngoại thương đầu tiên.
+
+## ly-map-hoa-lu — Hoa Lư Ancient Capital — điểm tham chiếu di tích
+
+- URL: [mở nguồn](https://en.wikipedia.org/wiki/Hoa_L%C6%B0_Ancient_Capital)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Wikipedia contributors.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: geography. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Coordinates ở đầu bài: 20°17′10″N, 105°54′24″E; chỉ dùng làm điểm đại diện di tích hiện nay..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Nguồn tham khảo tọa độ, không phải khảo sát khảo cổ hoặc ranh giới kinh thành cổ.
+
+## ly-map-van-mieu — Temple of Literature, Hanoi — tọa độ khu di tích
+
+- URL: [mở nguồn](https://en.wikipedia.org/wiki/Temple_of_Literature,_Hanoi)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Wikipedia contributors.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: geography. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Coordinates: 21°1′43″N, 105°50′8″E và địa chỉ 58 Quốc Tử Giám..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Điểm khu di tích hiện nay; không định vị riêng tòa Quốc Tử Giám thế kỷ XI. Không dùng bài này thay nguồn chuyên biệt về lịch sử khoa cử.
+
+## ly-map-den-do — Lý Bát Đế Temple — khu tưởng niệm các vua Lý
+
+- URL: [mở nguồn](https://en.wikipedia.org/wiki/L%C3%BD_B%C3%A1t_%C4%90%E1%BA%BF_Shrine)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Wikipedia contributors.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: geography. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Coordinates: 21°06′26″N, 105°57′37″E; mở đầu, Main hall and side halls và Restoration in the 1990s..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Nguồn tham khảo điểm đền hiện nay và chức năng tưởng niệm. Không dùng tọa độ để xác định quê quán chính xác hoặc mộ của từng vua; không dùng chuỗi nhiệm kỳ trong bài thay Toàn thư/Thế thứ.
+
 ## toan-thu-family — Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ
 
 - URL: [mở nguồn](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf)
@@ -298,7 +748,7 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Tác giả: Nguyễn Khắc Thuần. Cơ quan/nhà xuất bản: Trường Sư phạm, Đại học Cần Thơ — bản chuyển dạng sách.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: research. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13; chương 4, mục Lý Chiêu Hoàng.
+- Vị trí thực sự đọc: Chương 4, phần I–II: quốc hiệu và chín vua Lý; Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13..
 - Nguồn bài đăng lại: Thế thứ các triều vua Việt Nam của Nguyễn Khắc Thuần; trước đây đã đọc bản PDF chuyển dạng tại thuviensach.vn.
 - Giới hạn: Đã đọc bản chuyển dạng tại Đại học Cần Thơ và bản PDF trước đó, chưa đối chiếu bản in. Hai bản chuyển dạng là cùng một công trình, không tính là hai nguồn độc lập. Các niên đại giữ độ chính xác năm; mốc Thượng hoàng Nhân Tông 1293–1299 trong sách được phân biệt với thời gian còn mang tôn hiệu đến khi mất năm 1308. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án được lưu cho tìm kiếm.
 

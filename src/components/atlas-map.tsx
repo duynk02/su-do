@@ -115,15 +115,12 @@ export default function AtlasMap({
     setZoom((v) =>
       Math.min(3, Math.max(0.6, Math.round((v + amount) * 10) / 10)),
     );
-  const labelOffsets: Record<string, [number, number]> = {
-    "thang-long": [-18, viewportScale < 0.65 ? 60 : 40],
-    "kiep-bac": [-40, viewportScale < 0.65 ? -30 : -84],
-    "thai-mieu": [38, viewportScale < 0.65 ? 4 : -58],
-    "yen-tu": [48, viewportScale < 0.65 ? 38 : -18],
-    "tay-do": [20, 12],
-  };
   const compact = viewportScale < 0.65;
-  const reference = places.find((p) => p.id === "kiep-bac");
+  const reference = dots
+    .filter((place) => place.type !== "capital")
+    .sort(
+      (a, b) => projection(a.coordinates!)![1] - projection(b.coordinates!)![1],
+    )[0];
   const referenceY = reference?.coordinates
     ? projection(reference.coordinates)?.[1]
     : null;
@@ -342,7 +339,9 @@ export default function AtlasMap({
             {placeLayer &&
               dots.map((p) => {
                 const [x, y] = projection(p.coordinates!)!;
-                const [dxPixels, dyPixels] = labelOffsets[p.id] ?? [16, -16];
+                const [dxPixels, dyPixels] = (compact
+                  ? p.mapLabel?.compact
+                  : p.mapLabel?.regular) ?? [16, -16];
                 const drawingScale = viewportScale * zoom;
                 const screenX = offset[0] + 350 + (x - 350) * zoom;
                 const textWidth =

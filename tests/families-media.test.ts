@@ -101,8 +101,11 @@ test("profile illustrations have local files, source metadata and honest rights 
     )!;
     assert.ok(asset.personIds?.includes(person.id));
     assert.ok(asset.width! >= 200 && asset.height! >= 240);
-    assert.match(asset.kind, /^(statue-photo|heritage-photo|painting)$/);
-    assert.match(asset.note, /không phải chân dung/);
+    assert.match(
+      asset.kind,
+      /^(statue-photo|heritage-photo|painting|reconstruction)$/,
+    );
+    assert.match(asset.note, /không phải chân dung/i);
     assert.ok(asset.creator && asset.license && asset.alt);
     if (asset.licenseUrl) assert.match(asset.licenseUrl, /^https:\/\//);
     else assert.equal(asset.license, "Chưa xác định giấy phép tái sử dụng");

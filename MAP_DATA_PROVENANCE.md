@@ -27,6 +27,20 @@ Chỉ chép số tọa độ thực tế, không sao chép bản đồ/geometry 
 
 `Place.validFrom/validTo` là phạm vi liên hệ biên tập để lọc, không khẳng định ngày xây mọi di tích hiện nay. Nhãn bản đồ ghi điểm di sản tham chiếu. Điểm được chọn từ chương có thể tiếp tục hiện để cung cấp ngữ cảnh, không biến thành bằng chứng tồn tại đúng từng năm.
 
+### Bổ sung cho bộ nhà Lý
+
+Các điểm sau chỉ đại diện khu di tích hiện nay. Tọa độ tham khảo được đọc trực tiếp từ mục Coordinates của từng bài; nguồn này không thay khảo sát khảo cổ hay hồ sơ niên đại trong nội dung:
+
+| Điểm | Tọa độ `[kinh độ, vĩ độ]` | Nguồn |
+|---|---|---|
+| Hoa Lư | `[105.90667, 20.28611]` | [Hoa Lư Ancient Capital](https://en.wikipedia.org/wiki/Hoa_L%C6%B0_Ancient_Capital) |
+| Văn Miếu – Quốc Tử Giám | `[105.83556, 21.02861]` | [Temple of Literature, Hanoi](https://en.wikipedia.org/wiki/Temple_of_Literature,_Hanoi) |
+| Đền Đô | `[105.96028, 21.10722]` | [Lý Bát Đế Temple](https://en.wikipedia.org/wiki/L%C3%BD_B%C3%A1t_%C4%90%E1%BA%BF_Shrine) |
+
+Không dùng điểm trung tâm Tràng An để gán cho Hoa Lư; không đồng nhất Đền Đô với kinh đô hoặc ngôi mộ cụ thể. Như Nguyệt chỉ lưu không gian ven sông Cầu, Vân Đồn là hệ thống nhiều bến, nên cả hai giữ `coordinates: null` và nằm trong danh sách văn bản. Thăng Long dùng chung điểm UNESCO đã có, bắt đầu liên hệ từ mốc dời đô 1010.
+
+`Place.mapLabel` chứa vị trí nhãn cho khung rộng/hẹp; chỉ phục vụ trình bày và không làm thay đổi tọa độ tư liệu. Đã tách nhãn Văn Miếu khỏi nút Lớp bản đồ và kiểm tra ở desktop/mobile.
+
 ## Ranh giới lịch sử
 
 Chưa có geometry lãnh thổ đủ căn cứ/quyền sử dụng. `TerritorySnapshot.geometry = null`, trạng thái `unwritten`. Thông báo thiếu dữ liệu luôn hiện, không lấy ranh hiện đại thay thế, không vẽ đường ảnh hưởng hoặc nội suy. Không sử dụng bản đồ in trong PDF nghiên cứu vì chưa xác định quyền và phương pháp số hóa.

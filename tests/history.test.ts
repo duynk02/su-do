@@ -57,9 +57,7 @@ test("search matches accented names, personal names and temple names", () => {
   assert.ok(
     searchHistory("tran hung dao").some((r) => r.id === "tran-quoc-tuan"),
   );
-  assert.ok(
-    searchHistory("phat hoang").some((r) => r.id === "tran-nhan-tong"),
-  );
+  assert.ok(searchHistory("phat hoang").some((r) => r.id === "tran-nhan-tong"));
   assert.equal(foldText("Đại Việt"), "dai viet");
   assert.deepEqual(searchHistory("xxyyzz"), []);
 });
@@ -98,7 +96,10 @@ test("one person can have different relationship types with the same person", ()
   assert.equal(people.filter((p) => p.id === "tran-canh").length, 1);
 });
 test("all nine chapters and differing transition dates keep source provenance", () => {
-  assert.equal(chapters.length, 9);
+  assert.equal(
+    chapters.filter((chapter) => chapter.periodId === "tran").length,
+    9,
+  );
   assert.equal(
     citations.filter((c) => c.claimId === "date-disagreement").length,
     2,

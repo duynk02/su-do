@@ -1,8 +1,8 @@
 # Hình minh họa nhân vật
 
-23/28 hồ sơ có hình; 13/13 người giữ ngôi trong chuỗi thời Trần có hình.
+35/43 hồ sơ có hình; 22/22 người giữ ngôi trong các bộ Lý–Trần có hình.
 
-Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, thông tin tra cứu tại public/images/people/provenance.json.
+Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, thông tin tra cứu tại public/images/people/provenance.json và public/images/people/ly/provenance.json.
 
 | Nhân vật | Loại hình | Tệp ảnh |
 |---|---|---|
@@ -34,3 +34,18 @@ Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng đ
 | Trần Liễu | Tranh minh họa | [Xem ảnh](public/images/people/tran-lieu-illustration.jpg) |
 | Thuận Thiên | Tranh minh họa | [Xem ảnh](public/images/people/thuan-thien-illustration.jpg) |
 | Bảo Thánh | Tranh minh họa | [Xem ảnh](public/images/people/bao-thanh-illustration.jpg) |
+| Lý Thái Tổ | Tranh minh họa | [Xem ảnh](public/images/people/ly/ly-thai-to-portrait.jpg) |
+| Lý Thái Tông | Tranh minh họa | [Xem ảnh](public/images/people/ly/ly-thai-tong-illustration.jpg) |
+| Lý Thánh Tông | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/ly-thanh-tong.jpg) |
+| Lý Nhân Tông | Tranh minh họa | [Xem ảnh](public/images/people/ly/ly-nhan-tong-illustration.jpg) |
+| Lý Thường Kiệt | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/ly-thuong-kiet.jpg) |
+| Ỷ Lan | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/y-lan-statue.webp) |
+| Lê Văn Thịnh | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/le-van-thinh.png) |
+| Lý Đạo Thành | Chưa chọn hình phù hợp | — |
+| Lý Thần Tông | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/ly-than-tong.jpg) |
+| Lý Anh Tông | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/ly-anh-tong.jpg) |
+| Lý Cao Tông | Minh họa tái dựng | [Xem ảnh](public/images/people/ly/ly-cao-tong-portrait.png) |
+| Lý Huệ Tông | Tranh minh họa | [Xem ảnh](public/images/people/ly/ly-hue-tong-illustration.jpg) |
+| Tô Hiến Thành | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/to-hien-thanh.jpg) |
+| Đỗ Anh Vũ | Chưa chọn hình phù hợp | — |
+| Sùng Hiền hầu | Chưa chọn hình phù hợp | — |

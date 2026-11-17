@@ -231,9 +231,13 @@ export function Relations({
                         (t) => t.personId === node.id && t.role === "reigning",
                       )?.date.label
                     : entry.life
-                        ?.replace(" – chưa rõ năm mất", "–?")
-                        .replace("Chưa rõ năm sinh – ", "?–")
-                        .replace("Khoảng ", "k. ");
+                        ?.replace(
+                          /chưa rõ năm sinh và năm mất/i,
+                          "Niên đại chưa rõ",
+                        )
+                        .replace(/chưa rõ năm sinh\s*[–-]\s*/i, "?–")
+                        .replace(/\s*[–-]\s*chưa rõ năm mất/i, "–?")
+                        .replace(/khoảng /i, "k. ");
                 return (
                   <g
                     key={node.id}
