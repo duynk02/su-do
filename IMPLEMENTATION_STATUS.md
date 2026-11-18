@@ -2,6 +2,8 @@
 
 Giai đoạn hiện tại: đã có bộ Lý, Trần và Hồ trên khung dữ liệu theo thời kỳ. Bản local xuất tĩnh; chưa push hoặc triển khai công khai. Database/CMS, góp ý và dashboard vẫn dành cho giai đoạn sau khi phần lớn các triều đại được biên soạn.
 
+Quy trình Git: mỗi nhóm công việc mới dùng một nhánh tạo từ `master`, chỉnh sửa và commit trên nhánh đó. Người dùng tự tạo pull request trên GitHub; phản hồi sau commit cung cấp tiêu đề, tóm tắt và kiểm tra để dùng cho PR. Hướng dẫn được lưu tại `AGENTS.md`.
+
 ## Điều chỉnh câu chữ và danh sách vua · 18/11/2026
 
 - Viết đầy đủ “cuối thời Lý”, “cuối thời Trần”, “đầu thời Hồ” trong tiêu đề, mục lục, tổng quan, tiểu sử, chú thích và nhãn thời gian; chuyển triều ghi rõ “từ nhà … sang nhà …”. Quy ước được lưu trong HISTORICAL_EDITORIAL_POLICY.md để áp dụng khi mở rộng các thời kỳ sau. Giữ nguyên ID, đường dẫn và nhan đề gốc của nguồn.
