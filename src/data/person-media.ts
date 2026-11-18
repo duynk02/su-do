@@ -1,10 +1,11 @@
 import catalog from "../../public/images/people/provenance.json";
 import lyCatalog from "../../public/images/people/ly/provenance.json";
 import hoCatalog from "../../public/images/people/ho/provenance.json";
+import earlyCatalog from "../../public/images/people/ngo-dinh-tien-le/provenance.json";
 import type { MediaAsset, Source } from "./schema";
 
-const portraits = [...catalog.assets, ...lyCatalog.assets, ...hoCatalog.assets];
-const illustrations = [...lyCatalog.illustrations, ...hoCatalog.illustrations];
+const portraits = [...catalog.assets, ...lyCatalog.assets, ...hoCatalog.assets, ...earlyCatalog.assets];
+const illustrations = [...lyCatalog.illustrations, ...hoCatalog.illustrations, ...earlyCatalog.illustrations];
 export const personMediaAssets: MediaAsset[] = portraits.map((asset) => ({
   id: `image-${asset.personIds[0]}`,
   src: asset.src,

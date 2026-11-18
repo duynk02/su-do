@@ -6,9 +6,9 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 |---|---|
 | Period | Khung thời kỳ biên tập; có thể gồm nhiều chính quyền và thời gian chồng lấn |
 | Polity | Chính quyền/thực thể chính trị, độc lập với tên triều |
-| Dynasty | Triều đại, trỏ Polity; phiên bản này dùng Đại Việt cho phạm vi cuối thời Lý đang biên soạn, không khẳng định quốc hiệu này áp dụng cho toàn bộ đầu triều Lý |
+| Dynasty | Triều đại, trỏ Polity; chính quyền thời Ngô có bản ghi riêng, Đại Cồ Việt được dùng cho Đinh–Tiền Lê và đầu thời Lý, không gán quốc hiệu này ngược về thời Ngô |
 | Person | ID duy nhất; tên húy, miếu hiệu, niên hiệu, niên đại sống, tên thường gọi, đoạn giới thiệu và các phần tiểu sử trỏ Claim; ảnh trỏ MediaAsset |
-| RoleTenure | Giữ một chức vị trong một khoảng thời gian; vua và thượng hoàng có thể chồng lấn |
+| RoleTenure | Giữ một chức vị trong một khoảng thời gian; có thể đồng trị hoặc chồng lấn vua–thượng hoàng; roleLabel lưu danh vị riêng khi cần |
 | Relationship | Cạnh có hướng với loại cha/mẹ–con, hôn nhân, anh/em, kế vị hoặc chính trị; không suy ra các cạnh khác |
 | Event | Bối cảnh, diễn biến, kết quả trỏ Claim; hệ quả gợi mở là câu hỏi biên tập riêng |
 | Place | Tên theo thời gian, kiểu vị trí, tọa độ hoặc null, nguồn tọa độ, giới hạn và phạm vi liên hệ |
@@ -43,9 +43,17 @@ Catalog nhà Lý bổ sung tại `public/images/people/ly/provenance.json`, gồ
 
 Bộ Hồ đăng ký tại `periods/ho/`, với `reforms.ts`, `people-war.ts`, `chapters.ts`, `places.ts` và sự kiện chuyển triều chuẩn trong `transition.ts`. Hồ sơ mới ở `shared/ho-people.ts`; cập nhật Quý Ly nối vào hồ sơ cũ. Catalog `public/images/people/ho/provenance.json` đi qua cùng adapter ảnh. Sự kiện `nha-ho-1400` giữ ID và phạm vi Trần/Hồ dù chuyển nơi khai báo; các liên kết cũ không cần đổi.
 
+Bộ Ngô–Đinh–Tiền Lê ở `periods/ngo-dinh-tien-le/`, giữ Period ID `the-ky-x`. Hai module `ngo-dinh.ts` và `tien-le.ts` xuất hồ sơ, nguồn, sự kiện, nhiệm kỳ và quan hệ; lớp dùng chung chỉ tổng hợp các thực thể chuẩn. `chapters.ts`, `places.ts` và `index.ts` đăng ký cách đọc, không đặt dữ kiện vào component. Khoảng biên tập `[939,1010)` hiển thị “939–1009”, bao gồm năm chuyển triều; sự kiện 938 là bối cảnh trước khi xưng vương.
+
+`ly-lap-trieu-1009` chỉ đăng ký một lần trong bộ Lý, có phạm vi `the-ky-x` và `ly`. Lý Công Uẩn dùng hồ sơ cũ; Khuông Việt, Vạn Hạnh và Đào Cam Mộc cũng dùng cùng ID qua hai thời kỳ. Hoa Lư dùng cùng Place với bộ Lý, mở phạm vi từ 968. Ba không gian Bạch Đằng 938, 981 và 1288 có bản ghi riêng, đều chưa gán tọa độ trận địa. Catalog ảnh mới nằm tại `public/images/people/ngo-dinh-tien-le/provenance.json`.
+
+Danh sách người giữ ngôi chia nhóm từ `dynastyId` khi một thời kỳ có nhiều triều đại. Khoảng đồng trị Ngô Xương Ngập–Ngô Xương Văn được giữ trong nhiệm kỳ có nguồn, không biến thành một cạnh kế vị giữa hai người. `RoleTenure.roleLabel` giúp hiển thị Bình Vương, Nam Tấn Vương và Thiên Sách Vương theo dữ liệu; không mặc định mọi người giữ ngôi đều là hoàng đế.
+
 ## Trình bày quan hệ
 
 Gia đình dùng cạnh `parent` để phân tầng, `marriage`/`sibling` để bố trí cùng hàng. Chỉ hiển thị các cạnh đã có, không tạo liên kết cha mẹ từ một hôn nhân. Các cạnh `succession` và `political` có chế độ xem riêng. Khi mở rộng, lấy các nhân vật trong hai bước liên kết của loại đang chọn và giữ các cạnh đã biết giữa họ; không cắt danh sách ở chín nút. Bố cục là thông tin trình bày, không thêm khẳng định lịch sử mới vào dữ liệu.
+
+Tên và dòng niên đại trong ô giữ nguyên cỡ chữ; nếu quá dài, component đo theo font đã tải và hiện dấu ba chấm để giữ chữ trong ô. Chú thích khi trỏ chuột, nhãn truy cập và hồ sơ đầy đủ vẫn giữ thông tin gốc; không cắt hoặc sửa dữ kiện trong Person để vừa sơ đồ.
 
 ## Kho nội dung theo thời kỳ
 

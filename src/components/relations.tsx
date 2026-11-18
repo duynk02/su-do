@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type SVGProps } from "react";
 import { people, relationships, tenures } from "@/data/history";
 import type { Person } from "@/data/schema";
 import {
@@ -10,6 +10,44 @@ import {
   relationViews,
 } from "@/lib/relations-layout";
 import { Icon } from "./icon";
+
+function NodeText({
+  children,
+  maxWidth,
+  ...props
+}: Omit<SVGProps<SVGTextElement>, "children"> & {
+  children: string;
+  maxWidth: number;
+}) {
+  const ref = useRef<SVGTextElement>(null);
+  const [display, setDisplay] = useState(children);
+  useEffect(() => {
+    let active = true;
+    document.fonts.ready.then(() => {
+      if (!active || !ref.current) return;
+      const context = document.createElement("canvas").getContext("2d");
+      if (!context) return;
+      const style = getComputedStyle(ref.current);
+      context.font = `${style.fontWeight} ${style.fontSize} ${style.fontFamily}`;
+      if (context.measureText(children).width <= maxWidth) {
+        setDisplay(children);
+        return;
+      }
+      const characters = Array.from(children);
+      let low = 0;
+      let high = characters.length;
+      while (low < high) {
+        const middle = Math.ceil((low + high) / 2);
+        if (context.measureText(characters.slice(0, middle).join("") + "…").width <= maxWidth)
+          low = middle;
+        else high = middle - 1;
+      }
+      setDisplay(characters.slice(0, low).join("").trimEnd() + "…");
+    });
+    return () => { active = false; };
+  }, [children, maxWidth]);
+  return <text {...props} ref={ref}>{display}</text>;
+}
 
 export function Relations({
   person,
@@ -258,6 +296,7 @@ export function Relations({
                       }
                     }}
                   >
+                    <title>{`${entry.name}${subtitle ? ` · ${subtitle}` : ""}`}</title>
                     <rect
                       x={node.x - graph.nodeWidth / 2}
                       y={node.y - graph.nodeHeight / 2}
@@ -266,7 +305,8 @@ export function Relations({
                       fill={node.id === person.id ? "#a13d2d" : "#fbfaf6"}
                       stroke={node.id === person.id ? "#a13d2d" : "#cccdbf"}
                     />
-                    <text
+                    <NodeText
+                      maxWidth={graph.nodeWidth - 16}
                       x={node.x}
                       y={node.y + (subtitle ? -4 : 5)}
                       textAnchor="middle"
@@ -274,9 +314,10 @@ export function Relations({
                       className="relation-person-name"
                     >
                       {entry.name}
-                    </text>
+                    </NodeText>
                     {subtitle && (
-                      <text
+                      <NodeText
+                        maxWidth={graph.nodeWidth - 16}
                         x={node.x}
                         y={node.y + 17}
                         textAnchor="middle"
@@ -284,7 +325,7 @@ export function Relations({
                         className="relation-person-date"
                       >
                         {subtitle}
-                      </text>
+                      </NodeText>
                     )}
                   </g>
                 );

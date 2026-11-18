@@ -4,8 +4,12 @@ import { rulerRows } from "./people";
 import { lyEarlyRelationships, lyEarlyTenures } from "../periods/ly/early";
 import { lyLateRelationships, lyLateTenures } from "../periods/ly/late";
 import { hoRelationships } from "../periods/ho/people-war";
+import { ngoDinhRelationships } from "../periods/ngo-dinh-tien-le/ngo-dinh";
+import { tienLeRelationships } from "../periods/ngo-dinh-tien-le/tien-le";
 
 export const relationships: Relationship[] = [
+  ...ngoDinhRelationships,
+  ...tienLeRelationships,
   ...lyEarlyRelationships,
   ...lyLateRelationships,
   ...hoRelationships,

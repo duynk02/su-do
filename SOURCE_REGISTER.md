@@ -2,6 +2,176 @@
 
 Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.ts`. Không đồng nghĩa mọi bài là nghiên cứu gốc hoặc đã được chuyên gia duyệt. Trường không xác nhận được giữ trống/null thay vì suy đoán.
 
+## nd-annals-ngo — Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô
+
+- URL: [mở nguồn](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Tờ 18a–20a: 931, 937, Bạch Đằng 938; 20b–21a: Ngô Quyền; 21b–23a: Dương Tam Kha; 23a–25a: hai vương; 25a–26a: sứ quân, Xương Xí, Trần Lãm và Đinh Bộ Lĩnh..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Ngoại kỷ quyển V; trang ghi đăng lại từ informatik.uni-leizig.de.
+- Giới hạn: Bản đánh máy chưa xác nhận đủ ấn bản/dịch giả, có lỗi chữ và lời bình đời sau. Không dùng điềm lạ, lời thoại, số quân hay phép đổi lịch làm dữ kiện đã xác minh. Dương Tam Kha giành quyền sau Ngô Quyền mất 944 nhưng niên mục riêng bắt đầu 945; xưng Nam Tấn Vương ở 951, khác mốc lật Tam Kha 950. Ngô Xương Xí được xếp mục sứ quân, không phải một vua thống nhất toàn quốc.
+
+## nd-annals-dinh — Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê
+
+- URL: [mở nguồn](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Tờ 1a–3a: thân thế, Đại Cồ Việt, Hoa Lư; 3b–4b: bộ máy 971, sứ bộ và sắc phong 972–975; 5a–7a: Hạng Lang, vụ giết hai cha con năm 979, Phế Đế; 7a–8a: Nguyễn Bặc, Đinh Điền, Phạm Hạp; 10a trở đi: Lê Hoàn và biến động 980..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển I, phần a; trang ghi đăng lại từ informatik.uni-leizig.de.
+- Giới hạn: Ghi chép được biên soạn nhiều thế kỷ sau sự kiện, không phải hồ sơ điều tra vụ án 979. Giữ cách quy trách nhiệm của sử liệu và tách điềm báo/lời bình. Phần đầu Phế Đế ghi 974–991, không thống nhất với niên mục 1001 ở phần Đại Hành (nguồn tl-annals). Không áp niên hiệu Thái Bình từ 968; sử đặt từ 970.
+
+## nd-ngo-museum — Ngô Quyền và chiến thắng Bạch Đằng năm 938
+
+- URL: [mở nguồn](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html)
+- Tác giả: Lê Khiêm (tổng hợp). Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: 2013. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Từ tiểu sử mở đầu đến Dương Đình Nghệ 931, Kiều Công Tiễn 937, kế hoạch cọc–thủy triều 938 và đoạn cuối về xưng vương, Cổ Loa 939; đã xem mục nguồn tham khảo..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài tổng hợp dẫn Phan Huy Lê và Lê Năng Hiển, không thay toàn văn hai nghiên cứu. Năm sinh 897 khác cách ghi 898 trong bản Toàn thư đang dùng. Không lấy sơ đồ minh họa làm tọa độ bãi cọc hoặc khẳng định chi tiết cánh quân chỉ từ tranh.
+
+## nd-history-volume2 — Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV
+
+- URL: [mở nguồn](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf)
+- Tác giả: Trần Thị Vinh (chủ biên); Hà Mạnh Khoa biên soạn chương II–III. Cơ quan/nhà xuất bản: Viện Sử học — Nhà xuất bản Khoa học xã hội; bản số hóa tại Thư viện tỉnh Quảng Ngãi.
+- Năm: 2013. Ấn bản: Trang tên Hà Nội–2013; PDF phần 001–192.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang tên và phân công tác giả; trang in 66–69: họ Ngô–Dương và đồng trị; 73–76: các thế lực vùng, Trần Lãm và thống nhất; 81–83: bộ máy triều Đinh; 90–92: khảo cổ Hoa Lư, cột kinh và xã hội; 93–96: khủng hoảng 979 và nội chiến..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Là công trình tổng hợp nghiên cứu, nhiều đoạn sử dụng cùng Toàn thư nên không mặc nhiên là chứng cứ độc lập thứ hai. Các phân tích cấu trúc xã hội được ghi là diễn giải. Không dùng mọi chi tiết gia phả, số quân hoặc tình tiết có dấu hỏi trong chú thích như dữ kiện chắc chắn.
+
+## nd-dinh-pillars — Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình
+
+- URL: [mở nguồn](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Sở Văn hóa và Thể thao tỉnh Ninh Bình.
+- Năm: 2024. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Các mục cấu tạo, minh văn và lạc khoản; khoảng niên đại 973–979; tên Đinh Khuông Liễn; bản dịch cột ký hiệu 667–Đ26 và ý nghĩa đối với Phật giáo thế kỷ X..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài cơ quan quản lý giới thiệu hiện vật và bản dịch, không phải công bố phiên bản chữ Hán đầy đủ. Nội dung tự biện hộ của người dựng cột phải đọc theo ngữ cảnh; không xem là lời phán xét trung lập về Hạng Lang hoặc gán cùng một lý do cho mọi cột 973–979.
+
+## nd-nguyen-bac — Ai là tể tướng đầu tiên trong lịch sử Việt Nam?
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/3098/15741/ai-la-te-tuong-djau-tien-trong-lich-su-viet-nam.html)
+- Tác giả: Trịnh Dương. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia — đăng lại kienthuc.net.vn.
+- Năm: 2014. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Đoạn lập chính quyền và Định quốc công 971; đoạn Nguyễn Bặc cùng Đinh Điền, Phạm Hạp chống Lê Hoàn; ảnh có chú thích tượng thờ Nguyễn Bặc..
+- Nguồn bài đăng lại: kienthuc.net.vn; dòng nguồn cuối bài.
+- Giới hạn: Bài phổ thông đăng lại có chi tiết truyền tụng và lỗi can chi của năm 951. Chỉ dùng vai trò và xung đột đã đối chiếu chính sử; không áp danh xưng tể tướng đầu tiên hoặc gia thế, ngày sinh như kết luận đã được nghiên cứu toàn diện.
+
+## tl-annals — Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê
+
+- URL: [mở nguồn](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Tờ 13a–19a: thân thế Lê Hoàn, chiến tranh 981–982, Dương hậu, tịch điền và tiếp Lý Giác; tờ 24a–34b: kế vị 1005, quan chế 1006, thỉnh kinh 1007 và chuyển triều 1009..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển I, phần b.
+- Giới hạn: Bản đánh máy có lỗi và chưa xác nhận đủ ấn bản/dịch giả; phần mở đầu ghi 1006 nhưng mục năm Ất Tỵ ghi Lê Hoàn mất 1005. Địa điểm và diễn biến trận 981 có những cách giải thích khác nhau. Giữ niên đại theo quy ước Toàn thư, không tự đổi lịch; lời bình đạo đức, chuyện bệnh tật và sấm báo không được dùng làm kết luận khoa học.
+
+## tl-dai-hanh-museum — Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê
+
+- URL: [mở nguồn](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html)
+- Tác giả: Lê Thị Huệ (tổng hợp). Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: 2013. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Toàn bài; trọng tâm các đoạn từ chức Thập đạo tướng quân đến chuyển ngôi 980, chiến tranh 981–982, kinh đô Hoa Lư, nông nghiệp và quan hệ với nhà Tống..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài tổng hợp có cả truyền thuyết sinh nở và thuật trận 981 khác bài cùng bảo tàng năm 2014. Không dùng số quân, chi tiết cọc hay tên cha mẹ/quê quán như đã được đối chiếu. Bài gọi Đại Hành là miếu hiệu, trong khi chính sử có lời bàn riêng về danh xưng này.
+
+## tl-war-981-museum — Mùa xuân năm 981 — Kháng chiến chống quân Tống lần thứ nhất thắng lợi
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/2002/68137/mua-xuan-nam-981-khang-chien-chong-quan-tong-lan-thu-nhat-thang-loi.html)
+- Tác giả: Nguyễn Thúy (tổng hợp). Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: 2014. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Các đoạn về chuẩn bị chiến tranh 980, quân thủy và bộ năm 981, Bạch Đằng, cái chết Hầu Nhân Bảo và quân Tống rút về..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài phổ thông tổng hợp từ sách; không phải báo cáo khảo cổ chiến trường. Vị trí Hầu Nhân Bảo chết và cách phối hợp các trận khác các cách thuật khác; không gán tọa độ hay ngày chính xác cho trận quyết định và không đồng nhất ảnh bãi cọc minh họa với di tích đã định niên đại 981.
+
+## tl-tich-dien-research — Lê Hoàn, nhà vua đầu tiên cày tịch điền
+
+- URL: [mở nguồn](https://dsvh.gov.vn/Upload/files/Tap%20chi%20DSVH/So%2020/2013_Le%20Hoan%20nha%20vua%20dau%20tien%20cay%20tich%20dien.pdf)
+- Tác giả: Tam Mai. Cơ quan/nhà xuất bản: Tạp chí Di sản văn hóa — Cục Di sản văn hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: Số 20; bài hai trang, trang in 56–57.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang đầu: đối chiếu Việt sử lược, Toàn thư và Đại Nam nhất thống chí về tịch điền năm 987 ở Đọi Sơn; phần cuối về ý nghĩa khuyến nông và việc tiếp nối dưới thời Lý..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Tên tệp có 2013 nhưng không xác nhận đây là năm phát hành bài. Bài có những nhận định khác về quê Lê Hoàn và một số niên đại thời Lý, chỉ sử dụng phần tịch điền đã đối chiếu. Chuyện tìm được vàng/bạc là ghi chép sử liệu, không coi là phát hiện khảo cổ; không suy toàn bộ nghi thức lễ hội phục dựng là nghi thức thế kỷ X.
+
+## tl-phap-thuan-research — Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê
+
+- URL: [mở nguồn](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html)
+- Tác giả: Nguyễn Quang Khải. Cơ quan/nhà xuất bản: Tạp chí Nghiên cứu Phật học.
+- Năm: 2016. Ấn bản: Số tháng 11/2016; bản điện tử đăng 16/12/2016.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Mục 1 Hành trạng Thiền sư Đỗ Pháp Thuận: trích và so sánh bản dịch Thiền uyển tập anh, niên đại 915–990, văn thư ngoại giao, tiếp sứ và Quốc tộ..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Tác giả lưu ý quê quán chưa rõ, tên sứ thần Nguyễn Giác/Lý Giác khác giữa truyền bản. Không đồng nhất niên hiệu trong Thiền uyển với cách đếm của Toàn thư; không tự gắn một năm sáng tác chính xác cho Quốc tộ hoặc gán Nam quốc sơn hà cho Pháp Thuận.
+
+## tl-khuong-viet-research — Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy
+
+- URL: [mở nguồn](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270)
+- Tác giả: Nguyễn Công Lý. Cơ quan/nhà xuất bản: Tạp chí Khoa học Trường Đại học Sư phạm TP Hồ Chí Minh.
+- Năm: 2017. Ấn bản: Tập 14, số 8, tr.12–27.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang 12–16: hành trạng, các phương án năm sinh và vai trò dưới triều Đinh–Tiền Lê; phần sau đối chiếu văn bản bài từ tiễn sứ Lý Giác..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Năm sinh và quan hệ với dòng Ngô còn tranh luận; không vẽ một nhánh huyết thống từ các gia phả được bài dẫn lại. Không nhận các lời kể cầu đảo hoặc sấm truyền thành nguyên nhân thắng trận. Chỉ ghi cuối thế kỷ X–1011 khi chưa chọn được năm sinh chắc chắn.
+
+## tl-chronology-discussion — Niên biểu lịch sử Việt Nam không thể chỉ dựa trên một bộ sử
+
+- URL: [mở nguồn](https://tiasang.com.vn/nien-bieu-lich-su-viet-nam-khong-the-chi-dua-tren-mot-bo-su-5025561.html)
+- Tác giả: Mỹ Hạnh. Cơ quan/nhà xuất bản: Tạp chí Tia Sáng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: reference. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Các mục Cần đính chính lại niên biểu và nguyên tắc du niên cải nguyên: tường thuật nghiên cứu Phạm Lê Huy về niên hiệu Thiên Phúc, Hưng Thống, Ứng Thiên..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài báo tường thuật một hướng khảo chứng, chưa phải toàn văn nghiên cứu gốc và cũng nêu còn tranh luận. Lưu để công bố giới hạn niên đại, không tự hiệu đính mọi mốc Tiền Lê theo một quy tắc duy nhất.
+
+## tl-ly-annals — Đại Việt sử ký toàn thư — Bản kỷ II, phần Lý Thái Tổ
+
+- URL: [mở nguồn](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-12)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Tờ 1a–1b: Công Uẩn, Khánh Văn, Vạn Hạnh và chức vụ trong triều Tiền Lê; tờ 6b–7a, mục 1015: Đào Cam Mộc mất; tờ 10a, mục 1025: Vạn Hạnh mất..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển II, phần a.
+- Giới hạn: Bản chuyển dạng chưa xác nhận đủ ấn bản/dịch giả. Giữ những đoạn có thể tra theo tờ và mục năm; truyện sinh nở, sấm báo thuộc lớp truyền thuyết. Mốc Vạn Hạnh mất 1025 khác cách ghi 1018 trong một số bản nghiên cứu Thiền uyển tập anh.
+
+## tl-van-hanh-research — Như giọt sương đọng trên đầu ngọn cỏ
+
+- URL: [mở nguồn](https://www.khoavanhoc-ngonngu.edu.vn/nghien-cuu/v%C4%83n-h%E1%BB%8Dc-vi%E1%BB%87t-nam/8031-nh%C6%B0-gi%E1%BB%8Dt-s%C6%B0%C6%A1ng-%C4%91%E1%BB%8Dng-tr%C3%AAn-%C4%91%E1%BA%A7u-ng%E1%BB%8Dn-c%E1%BB%8F.html)
+- Tác giả: Nguyễn Công Lý. Cơ quan/nhà xuất bản: Khoa Văn học — Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQG TP Hồ Chí Minh.
+- Năm: 2021. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Mục 2: hành trạng Vạn Hạnh, cố vấn dưới thời Tiền Lê, tôn phò Công Uẩn, các cách ghi năm mất 1018/1025 và đối chiếu Thiền uyển tập anh với Việt sử lược, Toàn thư..
+- Nguồn bài đăng lại: Nguyệt san Giác Ngộ số 304, tháng 7/2021.
+- Giới hạn: Tác giả lập luận theo mốc 1025; hồ sơ giữ cả phương án 1018 được bài giải thích là hiệu đính của Trần Văn Giáp, chưa khẳng định đã giải quyết bất đồng. Không dùng phỏng đoán họ Lý/họ Nguyễn để tạo quan hệ huyết thống; không coi sấm báo là bằng chứng tiên tri.
+
+## early-co-loa-unesco — The Complex of Co Loa Ancient Citadel
+
+- URL: [mở nguồn](https://whc.unesco.org/en/tentativelists/7056/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: UNESCO World Heritage Centre — hồ sơ do Việt Nam đệ trình.
+- Năm: 2026. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Coordinates: 21°06′47″N, 105°52′24″E; Description và Authenticity: vai trò Cổ Loa dưới thời Ngô và việc Ngô Quyền chọn làm kinh đô..
+- Nguồn bài đăng lại: Viet Nam National Commission for UNESCO, hồ sơ dự kiến số 7056.
+- Giới hạn: Hồ sơ trong danh sách dự kiến, không phải quyết định ghi danh Di sản thế giới. Tọa độ là điểm tham chiếu quần thể di tích; không định vị cung điện của Ngô Quyền. Không dùng ranh giới bảo tồn hiện nay làm lãnh thổ thời Ngô.
+
+## early-hoa-lu-heritage — Trang An Landscape Complex — Annex 4: Hoa Lu Ancient Capital
+
+- URL: [mở nguồn](https://whc.unesco.org/document/140195)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: UBND tỉnh Ninh Bình; bản hồ sơ trên UNESCO World Heritage Centre.
+- Năm: 2015. Ấn bản: Report on implementation, November 2015; Annex 4.
+- Loại: heritage. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang PDF 134–136, trang in 127–129: kinh đô 968–1010, các lớp di tích Đinh–Tiền Lê–đầu thời Lý, kiến trúc đền dựng lại và khai quật nền cung điện..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Hồ sơ quản lý di sản, có cả truyền thuyết địa phương. Chỉ dùng lịch sử kinh đô và phân biệt di vật khảo cổ với công trình tưởng niệm xây dựng về sau; không dùng những mô tả truyền thuyết, hình phạt hay danh hiệu tuyệt đối làm dữ kiện đã chứng minh.
+
 ## portrait-tran-canh — Minh họa Trần Thái Tông (Trần Cảnh)
 
 - URL: [mở nguồn](https://phatgiao.org.vn/tu-tuong-thien-hoc-cua-duc-vua-tran-thai-tong-i-d44956.html)
@@ -392,6 +562,166 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/c/c6/Nguyen_Trai.jpg.
 - Giới hạn: Bảo tàng Lịch sử Quốc gia xác định đây là bản phục chế từ tranh thờ tại đền Nguyễn Trãi ở làng Nhị Khê. Không gán niên đại thế kỷ XV hoặc khẳng định tranh được vẽ khi nhân vật còn sống; chưa xác định tác giả bản phục chế. Đây không phải chân dung đương thời. Lưu ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
 
+## image-source-ngo-quyen — Tranh minh họa Ngô Quyền
+
+- URL: [mở nguồn](https://baotanglichsu.vn/VI/Articles/3098/16483/ngo-quyen-nguoi-mo-djau-ky-nguyen-djoc-lap-cho-djat-nuoc-thoat-khoi-nghin-nam-bac-thuoc.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh đầu bài, chú thích Ngô Quyền (tranh minh họa)..
+- Nguồn bài đăng lại: https://baotanglichsu.vn/DataFiles/Uploaded/image/data%20Hung/thang%206%20nam%202014/Ngo%20Quyen/1.jpg.
+- Giới hạn: Tranh được bài của Bảo tàng Lịch sử Quốc gia xác định là minh họa Ngô Quyền. Chưa rõ họa sĩ và niên đại tạo tranh; không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-duong-tam-kha — Tranh minh họa Dương Tam Kha
+
+- URL: [mở nguồn](https://songdep.com.vn/cong-va-toi-cua-duong-tam-kha-d7327.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Sống Đẹp.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh minh họa đầu bài, có tên Dương Tam Kha trên hình..
+- Nguồn bài đăng lại: https://t.cmx-cdn.com/songdep.com.vn/files/thunga/2021/10/31/cong-va-toi-cua-duong-tam-kha-3-104856.jpg.
+- Giới hạn: Tranh hiện đại nhận diện nhân vật bằng tên trên ảnh. Trang phục, bản đồ nền và vũ khí trong tranh là cách tạo hình minh họa, không phải chứng cứ lịch sử hay chân dung đương thời. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-ngo-xuong-ngap — Tượng thờ Ngô Xương Ngập tại đình An Trì
+
+- URL: [mở nguồn](https://ngotoc.vn/Hoat-dong-dong-ho/hoi-dong-ngo-toc-vn-lam-viec-tai-hai-phong-367.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Hội đồng họ Ngô Việt Nam.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh có chú thích trực tiếp Tượng Hậu Ngô Vương Ngô Xương Ngập, trong loạt ảnh đình An Trì..
+- Nguồn bài đăng lại: https://ngotoc.vn/uploads/news/2017_12/ha5r-h6ngf-2617-073.jpg.
+- Giới hạn: Nguồn mô tả đây là tượng thờ Ngô Xương Ngập tại đình An Trì. Không dùng các đoạn thần tích hoặc gia phả trong bài để xác nhận dung mạo hay sự kiện đời người. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu. Thu nhỏ từ 1125×1500 còn 1050×1400.
+
+## image-source-dinh-bo-linh — Tranh minh họa Đinh Tiên Hoàng
+
+- URL: [mở nguồn](https://vtcnews.vn/hoang-de-nao-cua-viet-nam-bi-dau-doc-chet-bang-long-lon-ar760002.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: VTC News.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh minh họa vua Đinh Tiên Hoàng trong phần trả lời câu hỏi về nhà Đinh..
+- Nguồn bài đăng lại: https://cdn-i.vtcnews.vn/upload/2023/03/22/dinh-tien-hoang-7-19523638.jpeg.
+- Giới hạn: Tranh hiện đại do bài về Đinh Tiên Hoàng sử dụng. Chỉ dùng để minh họa nhân vật, không dùng nội dung giật tít của bài hoặc chi tiết cảnh chiến trận làm bằng chứng lịch sử. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu. Thu nhỏ từ 2000×1488 còn 1400×1042.
+
+## image-source-dinh-phe-de — Tượng Đinh Toàn tại đền vua Đinh, Hoa Lư
+
+- URL: [mở nguồn](https://nguoikesu.com/nhan-vat/dinh-phe-de)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Người Kể Sử.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh Dinhtoan.jpg ở đầu hồ sơ, chú thích Tượng Đinh Đế Toàn ở Hoa Lư..
+- Nguồn bài đăng lại: https://nguoikesu.com/images/wiki/dinh-phe-de/b9d08117bae614bcb5830857d1cd6579.jpg.
+- Giới hạn: Nguồn định danh trực tiếp là tượng Đinh Đế Toàn. Đây là tượng thờ của hậu thế, không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu. Thu nhỏ từ 1280×1707 còn 1050×1400.
+
+## image-source-dinh-lien — Tượng thờ Đinh Liễn tại Hoa Lư
+
+- URL: [mở nguồn](https://nguoikesu.com/nhan-vat/dinh-lien)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Người Kể Sử.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh Dinhlien.jpg và chú thích tượng Đinh Liễn trong hồ sơ nhân vật..
+- Nguồn bài đăng lại: https://nguoikesu.com/images/wiki/dinh-lien/78ab481340def40a87b4d92519036bd5.jpg.
+- Giới hạn: Ảnh tượng thờ được nguồn định danh là Đinh Liễn, không phải ảnh chân dung được tạo khi nhân vật còn sống. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu. Thu nhỏ từ 1280×1916 còn 935×1400.
+
+## image-source-le-dai-hanh — Tranh minh họa vua Lê Đại Hành
+
+- URL: [mở nguồn](https://danviet.vn/giai-ma-huyen-tich-ho-me-ho-con-cuu-mang-vua-le-dai-hanh-20220206104800219-d1000343.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Báo Dân Việt.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh thứ hai, chú thích Tranh minh họa vua Lê Đại Hành. Nguồn: Kiến Thức..
+- Nguồn bài đăng lại: https://danviet.ex-cdn.com/files/f1/296231569849192448/2022/2/6/37-1644119186170327057071.jpg.
+- Giới hạn: Tranh được bài định danh Lê Đại Hành và ghi nguồn Kiến Thức. Chỉ lấy hình nhân vật, không dùng giai thoại hổ cứu mạng trong bài làm dữ kiện lịch sử. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-le-trung-tong — Đền Lăng – nơi thờ Lê Trung Tông
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%81n_L%C4%83ng_1.jpg)
+- Tác giả: Kien1980v. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Description, Date, Author và Licensing của File:Đền Lăng 1.jpg. Việc thờ Lê Trung Tông được đối chiếu bài TTXVN ngày 24/4/2026: https://www.vietnamplus.vn/le-hoi-den-lang-tri-an-cong-lao-cua-tu-vi-hoang-de-va-tam-vi-dai-vuong-post1106777.vnp.
+- Nguồn bài đăng lại: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C4%90%E1%BB%81n_L%C4%83ng_1.jpg/1280px-%C4%90%E1%BB%81n_L%C4%83ng_1.jpg.
+- Giới hạn: Ảnh di tích tưởng niệm, không phải chân dung đương thời. Chưa tải được tranh nhân vật có định danh đáng tin cậy; ảnh Đền Lăng dùng để minh họa truyền thống thờ Lê Trung Tông, không gán kiến trúc hiện nay cho năm 1005. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-le-long-dinh — Tượng thờ Lê Long Đĩnh tại Hoa Lư
+
+- URL: [mở nguồn](https://nguoikesu.com/nhan-vat/le-ngoa-trieu)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Người Kể Sử.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh Lelongdinh.jpg ở đầu hồ sơ, chú thích trực tiếp Tượng Lê Long Đĩnh ở cố đô Hoa Lư..
+- Nguồn bài đăng lại: https://nguoikesu.com/images/wiki/le-ngoa-trieu/cd5afb33530bc163334f0ff718fa2938.jpg.
+- Giới hạn: Tượng thờ được nguồn định danh là Lê Long Đĩnh, không phải chân dung đương thời. Ưu tiên ảnh tượng nhận diện rõ sau khi các tranh tìm được chỉ là cảnh nhiều nhân vật hoặc cảnh minh họa giai thoại đạo đức. Không sử dụng các lời chê trách hay chẩn đoán bệnh tật trong bài làm nguồn sử liệu. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu. Thu nhỏ từ 1280×1707 còn 1050×1400.
+
+## image-source-duong-van-nga — Tượng Dương hậu tại đền vua Lê, Hoa Lư
+
+- URL: [mở nguồn](https://nguoikesu.com/nhan-vat/duong-van-nga)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Người Kể Sử.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh Dương Vân Nga.JPG ở đầu hồ sơ, chú thích Tượng Dương hậu trong đền Lê Đại Hành ở Hoa Lư..
+- Nguồn bài đăng lại: https://nguoikesu.com/images/wiki/duong-van-nga/a4d8c3a349a4adaf372c274a67f2c33e.jpg.
+- Giới hạn: Tượng thờ được nguồn gọi là Dương hậu; dùng để minh họa truyền thống tưởng niệm Dương Vân Nga, không xác nhận dung mạo đương thời hay các giả thuyết gia phả. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu. Thu nhỏ từ 1280×1707 còn 1050×1400.
+
+## image-source-nguyen-bac — Tượng thờ Nguyễn Bặc
+
+- URL: [mở nguồn](https://hoanhap.vn/chi-tiet/danh-nhan-nguyen-bac-bieu-tuong-cua-long-trung1748475669.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Tạp chí điện tử Hòa Nhập.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh tượng trong bài Danh nhân Nguyễn Bặc – Biểu tượng của lòng trung..
+- Nguồn bài đăng lại: https://hoanhap.vn/uploads/photos/62/68379e92877da.jpg.
+- Giới hạn: Ảnh tượng Nguyễn Bặc được bài giới thiệu nhân vật sử dụng; không phải chân dung đương thời. Chỉ lấy ảnh, không dùng các giai thoại hoặc đánh giá về sự kiện năm 979 của bài để thay nguồn sử liệu. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-dinh-dien — Tượng Đinh Điền tại chùa, tháp Vĩnh Báo
+
+- URL: [mở nguồn](https://xaloipagoda.com/chua-thap-vinh-bao-yen-mo-ninh-binh/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Chùa Phật học Xá Lợi.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh cuối bài CHÙA, THÁP VĨNH BÁO, chú thích trực tiếp Tượng Đinh Điền; phân biệt hai ảnh Kiều Mộc và Thượng Trân trước đó..
+- Nguồn bài đăng lại: https://xaloipagoda.com/wp-content/uploads/2025/02/18d_Tng_inh_in.jpg.
+- Giới hạn: Tượng thờ Đinh Điền ở gian giữa hậu cung theo mô tả của nguồn; không phải chân dung đương thời. Không suy các chi tiết thần phả về gia thế từ hình tượng này. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-ngo-chan-luu — Minh họa thiền sư Khuông Việt — Ngô Chân Lưu
+
+- URL: [mở nguồn](https://giacngo.vn/chuyen-doi-vi-quoc-su-lung-danh-dau-tien-cua-viet-nam-post14652.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Giác Ngộ Online.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh đầu bài Chuyện đời vị quốc sư lừng danh đầu tiên của Việt Nam; đường dẫn ảnh định danh đại sư Khuông Việt Ngô Chân Lưu..
+- Nguồn bài đăng lại: https://image.giacngo.vn/Uploaded/2026/estnselxslt/2023_03_06/dai-su-khuong-viet-ngo-chan-luu-7117.jpg.
+- Giới hạn: Tranh minh họa hiện đại của thiền sư Khuông Việt. Chưa rõ tác giả và nguồn tạo hình; không dùng để xác nhận dung mạo hoặc nhánh gia phả Ngô Chân Lưu. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-do-phap-thuan — Tranh minh họa thiền sư Pháp Thuận
+
+- URL: [mở nguồn](https://vanvn.vn/thien-su-phap-thuan-thoi-tien-le-doan-ket-moi-ben-van-nuoc/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Hội Nhà văn Việt Nam.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh đầu bài, chú thích Tranh vẽ thiền sư Pháp Thuận. Ảnh minh họa..
+- Nguồn bài đăng lại: https://vanvn.vn/wp-content/uploads/2026/05/Phap-Thuan-vanvn.jpg.
+- Giới hạn: Tranh minh họa thiền sư Pháp Thuận theo cách tạo hình của hậu thế. Không phải chân dung đương thời; không sử dụng các tích sấm ngữ trong bài làm dữ kiện đã xác nhận. Đây không phải chân dung đương thời. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-ngo-xuong-van — Đình Ngọc Canh – di tích thờ Ngô Xương Văn
+
+- URL: [mở nguồn](https://vov2.vov.vn/van-hoa-giai-tri/vung-dat-huong-canh-va-ba-ngoi-dinh-dac-biet-55695.vov2)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: VOV2 — Đài Tiếng nói Việt Nam.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh chú thích Đình Ngọc Canh. Ảnh: disanlangviet.com; đoạn kế tiếp xác định việc thờ Ngô Xương Văn cùng các nhân thần thời Ngô..
+- Nguồn bài đăng lại: https://vov2.vov.vn/sites/default/files/styles/large/public/2025-11/dinh-ngoc-canh.jpg.
+- Giới hạn: Ảnh di tích tưởng niệm, không phải chân dung đương thời. Chưa tìm được ảnh riêng thể hiện Ngô Xương Văn có nhận diện đủ rõ; không cắt một tượng từ ảnh nhóm rồi suy tên người được thờ. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-duong-dinh-nghe — Tranh minh họa Dương Đình Nghệ công phá Đại La
+
+- URL: [mở nguồn](https://vanhoavaphattrien.vn/viet-nam-dien-nghia-tap-i-tieu-thuyet-lich-su-ky-64-a7483.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Tạp chí Văn hóa và Phát triển.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh có chú thích Tranh minh họa: Dương Đình Nghệ chỉ huy quân công phá thành Đại La..
+- Nguồn bài đăng lại: https://vanhoavaphattrien.vn/uploads/images/blog/photongbientap/2021/10/18/d-dn1-1634522232.jpg.
+- Giới hạn: Tranh minh họa cho tiểu thuyết lịch sử Việt Nam diễn nghĩa, không phải chân dung đương thời. Chỉ dùng hình nhân vật theo chú thích; không lấy lời thoại và diễn biến hư cấu trong tiểu thuyết làm sử liệu. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
 ## image-source-ly-chua-mot-cot — Chùa Một Cột trong quần thể Diên Hựu hiện nay
 
 - URL: [mở nguồn](https://hoangthanhthanglong.vn/chua-mot-cot)
@@ -441,6 +771,36 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Vị trí thực sự đọc: Mục Đàn Nam Giao, ảnh 6(36).jpg ngay trước thông tin địa điểm tại Vĩnh Lộc, Thanh Hóa; đã mở xem toàn ảnh..
 - Nguồn bài đăng lại: https://thanhnhaho.vn/upload/images/6%2836%29.jpg.
 - Giới hạn: Ảnh hiện trạng nền đàn được trang quản lý di sản đặt dưới mục Đàn Nam Giao nhà Hồ. Công trình đã được khai quật và bảo tồn; không coi ảnh hiện trạng là nguyên trạng toàn bộ kiến trúc thế kỷ XV. Bài nguồn đăng lại tư liệu du lịch của Bách hóa Xanh, chưa ghi tên nhiếp ảnh gia. Lưu ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## image-source-early-co-loa — Cổ Loa trong ảnh tư liệu
+
+- URL: [mở nguồn](https://hoangthanhthanglong.vn/co-loa-duoi-thoi-vuong-ngo-quyen/)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh có chú thích Dấu vết thời kỳ Ngô Quyền ở Cổ Loa..
+- Nguồn bài đăng lại: https://hoangthanhthanglong.vn/wp-content/uploads/2023/05/coloathoingoquyen.jpg.
+- Giới hạn: Ảnh tư liệu Cổ Loa trong bài Cổ Loa dưới thời Vương Ngô Quyền. Không phải ảnh kinh thành nguyên trạng thế kỷ X; ảnh không tự xác nhận niên đại khảo cổ của từng công trình hoặc cây cổ thụ. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-early-hoa-lu — Lối vào đền vua Đinh tại Cố đô Hoa Lư
+
+- URL: [mở nguồn](https://baotanglichsu.vn/fr/Articles/3270/74300/les-temples-dedies-a-deux-rois-des-dynasties-des-dinh-et-des-le-preservent-les-traces-de-lancienne-capitale.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia — Vietnam+.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh đền vua Đinh trong bài giới thiệu hai đền vua Đinh–Lê, ghi nguồn ảnh Vietnam+..
+- Nguồn bài đăng lại: https://baotanglichsu.vn/DataFiles/2023/11/News/Tieng%20Phap/10.11.2023/bai%201/1.11.jpg.
+- Giới hạn: Ảnh hiện trạng đền tưởng niệm tại Hoa Lư. Kiến trúc đã trải qua nhiều thời kỳ xây dựng và trùng tu; không thể hiện cung điện nguyên trạng năm 968. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
+
+## image-source-early-dinh-lien-pillar — Sưu tập cột kinh Phật thời Đinh tại Bảo tàng Ninh Bình
+
+- URL: [mở nguồn](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Sở Văn hóa và Thể thao Ninh Bình.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh khu trưng bày sưu tập trong bài Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình..
+- Nguồn bài đăng lại: https://vhtt.ninhbinh.gov.vn/public/userfiles/image/23-5-24-6.jpg.
+- Giới hạn: Ảnh khu trưng bày sưu tập cột kinh thời Đinh; hiện vật, mảnh kiến trúc và tư liệu trưng bày cần được phân biệt. Chưa xác định từ trang nguồn vật nào trong ảnh là bản phục chế; không dùng toàn cảnh này để đọc minh văn hoặc gán một cột cụ thể cho năm 973. Lưu bản JPEG tối ưu từ ảnh nguồn; giữ toàn khung hình, không chỉnh màu.
 
 ## ho-unesco-citadel — Citadel of the Ho Dynasty — Outstanding Universal Value
 

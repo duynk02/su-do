@@ -74,10 +74,10 @@ export const lyPlaces: Place[] = [
     coordinateMethod:
       "Dùng tọa độ đại diện khu di tích từ nguồn; không dựng mặt bằng kinh thành.",
     precision:
-      "Điểm tham chiếu di tích; không phải vị trí một cung điện thời Lý",
-    claimIds: ["ly-foundation-result", "ly-capital-development"],
-    periodIds: ["ly"],
-    validFrom: 1009,
+      "Điểm tham chiếu di tích; không định vị một cung điện cổ riêng lẻ",
+    claimIds: ["early-place-hoa-lu", "ly-foundation-result", "ly-capital-development"],
+    periodIds: ["the-ky-x", "ly"],
+    validFrom: 968,
     validTo: 1011,
     mapLabel: { regular: [30, 42], compact: [30, 42] },
   },

@@ -6,6 +6,9 @@ import { hoPersonWarSources } from "./periods/ho/people-war";
 import { lyEarlySources } from "./periods/ly/early";
 import { lyLateSources } from "./periods/ly/late";
 import { lyPlaceSources } from "./periods/ly/places";
+import { ngoDinhSources } from "./periods/ngo-dinh-tien-le/ngo-dinh";
+import { tienLeSources } from "./periods/ngo-dinh-tien-le/tien-le";
+import { earlyPlaceSources } from "./periods/ngo-dinh-tien-le/places";
 const accessed = "2026-11-17";
 const source = (s: Omit<Source, "accessed" | "edition">): Source => ({
   ...s,
@@ -13,6 +16,9 @@ const source = (s: Omit<Source, "accessed" | "edition">): Source => ({
   edition: null,
 });
 export const sources: Source[] = [
+  ...ngoDinhSources,
+  ...tienLeSources,
+  ...earlyPlaceSources,
   ...personMediaSources,
   ...illustrationSources,
   ...hoReformSources,
