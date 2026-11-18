@@ -352,6 +352,46 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Nguồn bài đăng lại: https://bacninh.gov.vn/documents/37632/112131704/14.png/ef016a53-bf27-1d5b-8e17-8442d6663e35?t=1781752450617.
 - Giới hạn: Nguồn địa phương xác định đây là tượng thờ Lê Văn Thịnh và liệt kê niên đại thế kỷ XX; không phải chân dung đương thời. Lưu ảnh của trang nguồn; không cắt, không chỉnh màu.
 
+## image-source-ho-han-thuong — Minh họa hoàng đế trong bài về Hồ Hán Thương
+
+- URL: [mở nguồn](https://baophapluat.vn/nhung-chuyen-la-ky-ve-vua-ho-han-thuong-post234989.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Báo Pháp Luật Việt Nam.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh 2_hgzs.png của bài Những chuyện lạ kỳ về vua Hồ Hán Thương, phần Hoàng đế ban chiếu chỉ (Hình minh họa); đã mở xem toàn ảnh..
+- Nguồn bài đăng lại: https://cdn.baophapluat.vn/w1280/uploaded/nguyennhumai/2016_12_20/2_hgzs.png.
+- Giới hạn: Hình hoàng đế ban chiếu được bài về Hồ Hán Thương sử dụng làm minh họa. Chưa xác định họa sĩ và nguồn tạo hình; không phải chân dung đương thời hay bằng chứng về dung mạo, trang phục. Ảnh khác với tranh Hồ Quý Ly của Hoàng Hoa Mai đang dùng trong hồ sơ cha ông. Lưu ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## image-source-ho-nguyen-trung — Tranh minh họa Hồ Nguyên Trừng bên súng và thuyền chiến
+
+- URL: [mở nguồn](https://songdep.com.vn/cuoc-doi-va-su-nghiep-cua-than-co-ho-nguyen-trung-d5745.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Sống Đẹp.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh minh họa có chữ Hồ Nguyên Trừng và lời bàn về lòng dân; đã đọc bài và mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://t.cmx-cdn.com/songdep.com.vn/files/thunga/2021/09/08/cuoc-doi-va-su-nghiep-cua-than-co-ho-nguyen-trung-6-160629.jpg.
+- Giới hạn: Tranh trong bài về Hồ Nguyên Trừng và có tên ông ngay trên hình. Không phải chân dung đương thời; hình súng và thuyền là minh họa, không được coi là ảnh hiện vật xác nhận thiết kế vũ khí nhà Hồ. Lưu ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## image-source-nguyen-phi-khanh — Minh họa Nguyễn Phi Khanh bị quân Minh bắt giải
+
+- URL: [mở nguồn](https://nguoihanoi.vn/nguyen-phi-khanh-nha-tho-tru-tinh-nhan-dao-79789.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Tạp chí Người Hà Nội.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Ảnh nguyen-phi-khanh.jpg và chú thích bên dưới trong bài của Tạ Ngọc Liễn; đã mở xem ảnh gốc..
+- Nguồn bài đăng lại: https://nhn.1cdn.vn/2023/10/25/nguyen-phi-khanh.jpg.
+- Giới hạn: Tranh được chú thích trực tiếp là Nguyễn Phi Khanh bị giặc Minh bắt giải. Dùng cả cảnh minh họa vì chưa tìm được chân dung riêng có nhận diện đủ rõ; không dùng làm chứng cứ về dung mạo hay chi tiết cảnh áp giải. Đây không phải chân dung đương thời. Lưu ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## image-source-nguyen-trai — Chân dung Nguyễn Trãi – bản phục chế từ tranh thờ Nhị Khê
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/3096/18534/tranh-tho-mot-net-di-san-van-hoa-trong-my-thuat-co-cua-nguoi-viet.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia; Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Chú thích Tranh chân dung Nguyễn Trãi tại BTLSQG – Bản phục chế từ tranh thờ của đền thờ Nguyễn Trãi, làng Nhị Khê; đối chiếu trang File:Nguyen Trai.jpg trên Commons và mở xem ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/c/c6/Nguyen_Trai.jpg.
+- Giới hạn: Bảo tàng Lịch sử Quốc gia xác định đây là bản phục chế từ tranh thờ tại đền Nguyễn Trãi ở làng Nhị Khê. Không gán niên đại thế kỷ XV hoặc khẳng định tranh được vẽ khi nhân vật còn sống; chưa xác định tác giả bản phục chế. Đây không phải chân dung đương thời. Lưu ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
 ## image-source-ly-chua-mot-cot — Chùa Một Cột trong quần thể Diên Hựu hiện nay
 
 - URL: [mở nguồn](https://hoangthanhthanglong.vn/chua-mot-cot)
@@ -371,6 +411,206 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Vị trí thực sự đọc: Tiêu đề, mô tả công trình và ảnh trên trang di tích; đã đọc HTML và mở xem ảnh gốc..
 - Nguồn bài đăng lại: https://d3uu5y98685ro6.cloudfront.net/media/c%E1%BB%95ng%20%C4%90%E1%BA%A1i%20Th%C3%A0nh.jpg.
 - Giới hạn: Ảnh Cổng Đại Thành do trang di tích cung cấp; kiến trúc hiện nay có các lần tu sửa về sau, không phải toàn bộ công trình nguyên trạng thời Lý. Lưu phiên bản ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## image-source-ho-thanh-nha-ho — Cổng Nam Thành Nhà Hồ – Tây Đô
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:C%E1%BB%95ng_Nam.jpg)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: File:Cổng Nam.jpg, Description, Author, EXIF Date và Licensing; đã mở xem ảnh gốc do Commons cung cấp..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/a/ab/C%E1%BB%95ng_Nam.jpg.
+- Giới hạn: Ảnh hiện trạng Cổng Nam được trang Commons xác định trực tiếp là Cổng Nam Thành Nhà Hồ. Minh họa di tích còn lại, không phải ảnh tái hiện đầy đủ diện mạo kinh đô thời Hồ. Lưu bản thu nhỏ do Wikimedia cung cấp; không cắt, không chỉnh màu.
+
+## image-source-ho-thong-bao-hoi-sao — Bản vẽ phục dựng Thông Bảo Hội Sao
+
+- URL: [mở nguồn](https://commons.wikimedia.org/wiki/File:Nh%E1%BA%A5t_M%C3%A2n_(%E7%B7%A1%E5%A3%B9)_-_%C4%90%E1%BA%A1i_Tr%E1%BA%A7n_Th%C3%B4ng_B%E1%BA%A3o_H%E1%BB%99i_Sao_(%E9%88%94%E6%9C%83%E5%AF%B6%E9%80%9A%E9%99%B3%E5%A4%A7)_Replica_-_Howard_A._Daniel_III.jpg)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Wikimedia Commons.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Tên tệp, caption và Description ghi Replica; đối chiếu lịch sử tệp, đã mở xem toàn ảnh..
+- Nguồn bài đăng lại: https://upload.wikimedia.org/wikipedia/commons/5/58/Nh%E1%BA%A5t_M%C3%A2n_%28%E7%B7%A1%E5%A3%B9%29_-_%C4%90%E1%BA%A1i_Tr%E1%BA%A7n_Th%C3%B4ng_B%E1%BA%A3o_H%E1%BB%99i_Sao_%28%E9%88%94%E6%9C%83%E5%AF%B6%E9%80%9A%E9%99%B3%E5%A4%A7%29_Replica_-_Howard_A._Daniel_III.jpg.
+- Giới hạn: Trang nguồn ghi rõ Replica: đây là bản vẽ phục dựng, không phải ảnh chụp tờ tiền giấy gốc còn lại từ thời Trần – Hồ. Các chi tiết hoa văn trong bản phục dựng không được coi là thiết kế lịch sử đã được xác nhận. Không dùng niên đại1393 hoặc tác giả triều Trần trong metadata Commons để gán cho bản phục dựng hiện đại này. Lưu toàn bộ ảnh bản phục dựng từ trang nguồn; không cắt, không chỉnh màu.
+
+## image-source-ho-nam-giao — Dấu tích Đàn Nam Giao nhà Hồ nhìn từ trên cao
+
+- URL: [mở nguồn](https://thanhnhaho.vn/NewsDetail.aspx?Id=15842)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Ban Quản lý Di sản Thành Nhà Hồ và các di tích trọng điểm tỉnh Thanh Hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: collection. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Mục Đàn Nam Giao, ảnh 6(36).jpg ngay trước thông tin địa điểm tại Vĩnh Lộc, Thanh Hóa; đã mở xem toàn ảnh..
+- Nguồn bài đăng lại: https://thanhnhaho.vn/upload/images/6%2836%29.jpg.
+- Giới hạn: Ảnh hiện trạng nền đàn được trang quản lý di sản đặt dưới mục Đàn Nam Giao nhà Hồ. Công trình đã được khai quật và bảo tồn; không coi ảnh hiện trạng là nguyên trạng toàn bộ kiến trúc thế kỷ XV. Bài nguồn đăng lại tư liệu du lịch của Bách hóa Xanh, chưa ghi tên nhiếp ảnh gia. Lưu ảnh do trang nguồn cung cấp; không cắt, không chỉnh màu.
+
+## ho-unesco-citadel — Citadel of the Ho Dynasty — Outstanding Universal Value
+
+- URL: [mở nguồn](https://whc.unesco.org/en/list/1358/)
+- Tác giả: UNESCO World Heritage Centre. Cơ quan/nhà xuất bản: UNESCO.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Description; Outstanding Universal Value, Brief synthesis: xây năm 1397; ba thành phần Inner Citadel, La Thanh Outer Wall, Nam Giao Altar; vai trò kinh đô 1398–1407..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Hồ sơ di sản hiện đại ghi vai trò kinh đô từ 1398, khác cách ghi chuyển đô 1397 trong sử Việt. Không dùng mốc khởi dựng để kết luận toàn bộ tường đá hoàn tất trong ba tháng. Tọa độ các thành phần ở trang maps là nguồn riêng.
+
+## ho-reform-overview — Những cải cách của Hồ Quý Ly cuối thế kỷ XIV – đầu thế kỷ XV
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html)
+- Tác giả: Lê Khiêm (tổng hợp). Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: 2013. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Các đoạn tiền giấy 1396, hạn điền 1397, hạn nô 1401; phần văn hóa–giáo dục, khoa thi đầu triều và thi viết chữ/toán 1404..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài phổ thông có lỗi niên đại trong phần tiểu sử (Dụ Tông năm 1371, Nghệ Tông mất 1395); không dùng các chi tiết đó. Không coi lời ca ngợi cải cách hoặc việc ban hành chính sách là bằng chứng mọi biện pháp đã thực hiện thành công.
+
+## ho-socio-economic-study — Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly
+
+- URL: [mở nguồn](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804)
+- Tác giả: Trần Thuận. Cơ quan/nhà xuất bản: Tạp chí Phát triển Khoa học và Công nghệ – Khoa học Xã hội và Nhân văn, ĐHQG-HCM.
+- Năm: 2020. Ấn bản: Tập 4, số 4, trang 574–584; DOI 10.32508/stdjssh.v4i4.614.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang in 577–579: hạn điền, tiền giấy, thuế, hạn nô, thường bình, Quảng tế; trang 580–582: nhận xét giới hạn của cải cách và các cách đánh giá..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Nghiên cứu diễn giải trên cơ sở sử liệu và các công trình trước, không phải một nguồn đương thời độc lập cho từng niên đại. Phần kho thường bình dẫn ý định nhưng không nhắc rõ trở ngại thực thi được Toàn thư ghi; nội dung đối chiếu lại sử gốc. Không đồng nhất Quảng tế với Bộ Y tế hiện đại.
+
+## ho-reform-monograph — Cải cách Hồ Quý Ly
+
+- URL: [mở nguồn](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf)
+- Tác giả: Phan Đăng Thanh; Trương Thị Hòa. Cơ quan/nhà xuất bản: Bản chuyển dạng sách lưu tại cổng Quản lý giáo dục.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang PDF 57–59: bộ máy và khoa thi 1400; trang 75: hộ tịch 1401; trang 107–112: hạn nô, Quảng tế, cứu đói; phần hạn chế cải cách trang 117–118..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bản chuyển dạng 392 trang chưa xác nhận đủ thông tin ấn bản; lời tựa ký 13-2-1995 không đồng nhất với năm của lần tái bản. Một số đoạn suy đoán ý định tốt của chính sách khi thừa nhận sử liệu không ghi; không chuyển suy đoán ấy thành kết quả thực tế.
+
+## ho-education-heritage — Hồ Quý Ly và những bài học lịch sử về cải cách văn hóa, giáo dục
+
+- URL: [mở nguồn](https://thanhnhaho.vn/NewsDetail.aspx?Id=7658)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Ban Quản lý Di sản Thành Nhà Hồ và các di tích trọng điểm tỉnh Thanh Hóa.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: heritage. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Các đoạn Minh đạo, dịch thiên Vô dật, Thi nghĩa bằng quốc âm; đoạn cuối về giới hạn chữ Nôm và việc thi cử vẫn bằng chữ Hán..
+- Nguồn bài đăng lại: Bài dẫn Cải cách Hồ Quý Ly của Phan Đăng Thanh và Trương Thị Hòa, NXB Tổng hợp TP.HCM, 2012.
+- Giới hạn: Phụ thuộc sách của Phan Đăng Thanh–Trương Thị Hòa, không tính thành nguồn độc lập thứ hai với sách. Không dùng niên đại mất 1407 trong phần giới thiệu; không coi chữ Nôm đã thay thế chữ Hán trong toàn bộ hoạt động nhà nước.
+
+## ho-nam-giao-archaeology — Giá trị di vật Đàn Nam Giao thời Hồ ở Thanh Hóa
+
+- URL: [mở nguồn](https://baotanglichsu.vn/vi/Articles/1508/49884/gia-tri-di-vat-djan-nam-giao-thoi-ho-o-thanh-hoa.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: 2008. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-17.
+- Vị trí thực sự đọc: Mở đầu về Đốn Sơn; các đoạn khai quật 2004, dấu tích kiến trúc và nhóm di vật..
+- Nguồn bài đăng lại: Bài đăng lại từ cinet.gov.vn; cuối bài ghi Theo TH.
+- Giới hạn: Bài giới thiệu khảo cổ được đăng lại, chưa đọc báo cáo khai quật đầy đủ. Dấu tích nền và hiện vật không tự cho phép phục dựng toàn bộ nghi lễ hoặc kiến trúc nguyên trạng.
+
+## ho-annals-viii — Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ
+
+- URL: [mở nguồn](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Tờ 24b (1394); 36b–40b (1400–1402): kế vị, mẹ Hán Thương, khoa thi, hộ tịch, Nguyễn Phi Khanh; 49a–54a (1405–1406): chuẩn bị, quân Minh tiến vào, Đa Bang..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển VIII.
+- Giới hạn: Bản đánh máy có lỗi, trong đó Tân Tỵ 1401 bị ghi 1410. Chưa xác nhận đủ ấn bản và dịch giả. Phân biệt lời bình sử quan, lời nói được thuật lại và dữ kiện; không coi các bản chép cùng Toàn thư là nguồn độc lập. Không tự chuyển ngày âm lịch sang dương lịch.
+
+## ho-annals-ix — Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407
+
+- URL: [mở nguồn](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
+- Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Tờ 1a–4b, mục Đinh Hợi 1407 trước khi Giản Định khởi binh: phản công Hàm Tử, rút về Thanh Hóa, Kỳ La, bãi Chỉ Chỉ, Cao Vọng và việc bắt các nhân vật họ Hồ..
+- Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ quyển IX.
+- Giới hạn: Chỉ dùng phần chiến tranh nhà Hồ năm 1407, không mở nội dung Hậu Trần từ cùng trang. Không sử dụng số quân hay lời thoại như dữ kiện đã đối chiếu. Phân biệt địa danh nguồn cổ với vị trí hiện đại; việc bị bắt không xác nhận năm mất của Quý Ly hay Hán Thương.
+
+## ho-han-thuong-chronology — Hồ Hán Thương (1401–1407)
+
+- URL: [mở nguồn](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-han-thuong-1401-1407-.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Ủy ban Nhà nước về người Việt Nam ở nước ngoài — Quê Hương.
+- Năm: 2007. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: chronology. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Các đoạn đầu về niên hiệu; từ phòng tuyến Đa Bang đến việc rút về Thanh Hóa, Kỳ La và nhà Hồ kết thúc năm 1407..
+- Nguồn bài đăng lại: quehuongonline.vn.
+- Giới hạn: Tiêu đề bắt đầu 1401 theo niên hiệu, khác mốc nhận ngôi cuối 1400 trong Toàn thư và Thế thứ. Không dùng số quân hoặc nhận định lòng dân làm giải thích duy nhất; không lấy các ngày quy đổi riêng của bài để chuẩn hóa toàn bộ sử liệu.
+
+## ho-military-history — Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ
+
+- URL: [mở nguồn](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Nhà xuất bản Chính trị Quốc gia–Sự thật; bản điện tử trên cổng Tư liệu–Văn kiện Đảng.
+- Năm: 2025. Ấn bản: Năm theo thông tin xuất bản trên trang; chưa đối chiếu trang tên bản in.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Phần đầu thế kỷXV về nhà Hồ: chuyển ngôi cuối 1400, tổ chức quốc phòng, phòng tuyến Đa Bang–Đông Đô, Hoàng Giang, Muộn Hải, phản công Hàm Tử và rút về Tây Đô..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Dùng để bổ sung bối cảnh và phân tích chiến lược; nhận định về đường lối tác chiến được lưu là diễn giải. Ngày thất thủ Đa Bang có cách ghi khác nguồn phổ thông, nên chỉ hiển thị đầu 1407; không lấy con số quân đội hoặc tuyệt đối hóa một nguyên nhân thất bại.
+
+## ho-nguyen-trung-abstract — Cuộc đời của Hồ Nguyên Trừng — tóm tắt bài nghiên cứu
+
+- URL: [mở nguồn](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-45_khxh_24022021-tt.pdf)
+- Tác giả: Ngô Thị Xinh. Cơ quan/nhà xuất bản: Tạp chí Khoa học Trường Đại học Thủ đô Hà Nội, số 45/2020.
+- Năm: 2020. Ấn bản: Bản mục lục và tóm tắt, PDF 16 trang; tóm tắt bài ở trang 9.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang 9 của bản PDF tóm tắt: tên tự Mạnh Nguyên, hiệu Nam Ông, niên đại 1374–1446, con Quý Ly, bị bắt 1407 và công việc Bộ Công nhà Minh..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Chỉ tiếp cận và đọc phần tóm tắt; chưa đọc toàn bài ở trang 53–60 theo mục lục. Không dùng tiêu đề bài để khẳng định ông phát minh súng đầu tiên trên thế giới; chỉ dùng những dữ kiện có trong tóm tắt và đã đối chiếu.
+
+## ho-nguyen-trung-biography — Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng
+
+- URL: [mở nguồn](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Báo Đại biểu Nhân dân.
+- Năm: 2007. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: reference. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Các đoạn mở đầu về gia đình, chức Tả tướng quốc; việc chiến đấu và bị bắt; hỏa khí, Bộ Công, Nam Ông mộng lục và lời tựa 1438..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài giới thiệu có sắc thái tôn vinh. Không dùng lời coi ông là tổ toàn bộ súng Trung Quốc; không sao chép các lời dẫn dài. Năm sinh ở bài này để chưa rõ, nên mốc 1374 được dẫn từ nghiên cứu Hán Nôm và tóm tắt Ngô Thị Xinh.
+
+## ho-nam-ong-research — Mối quan hệ văn–sử nhìn từ tương quan Nam Ông mộng lục và Đại Việt sử ký toàn thư
+
+- URL: [mở nguồn](https://hannom.vass.gov.vn/nghien-cuu-van-ban/moi-quan-he-van-su-nhin-tu-tuong-quan-nam-ong-mong-luc-va-dai-viet-su-ky-toan-thu-tap-chi-han-nom-s-506447)
+- Tác giả: Nguyễn Hữu Sơn. Cơ quan/nhà xuất bản: Tạp chí Hán Nôm, số 6(97)/2009; Viện Nghiên cứu Hán Nôm.
+- Năm: 2009. Ấn bản: Tạp chí Hán Nôm, số 6(97), tr.3–9; đăng điện tử 7/12/2010.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Phần mở đầu: Nguyên Trừng 1374–1446 và 31 thiên; phần so sánh văn bản và kết luận về quan hệ văn–sử..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Nghiên cứu về tác phẩm văn học và sử liệu, không đồng nhất toàn bộ tình tiết trong Nam Ông mộng lục với sự kiện được chính sử xác nhận. Các đoạn bình luận giá trị ký ức được xem là diễn giải.
+
+## ho-phi-khanh-research — Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời
+
+- URL: [mở nguồn](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf)
+- Tác giả: Vũ Văn Long. Cơ quan/nhà xuất bản: Tạp chí Khoa học Trường Đại học Thủ đô Hà Nội, số 9/2016.
+- Năm: 2016. Ấn bản: Bài ở trang in 28–38.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang in 28–29: Nguyễn Ứng Long, khoa 1374, quan hệ Trần Nguyên Đán và biến cố 1407; trang 34: làm quan nhà Hồ, khoa thi của Nguyễn Trãi và các chức vụ..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Những kết luận về tâm tư chủ yếu rút từ thơ văn, được lưu là diễn giải. Niên đại đời người có cách ghi khác trong tư liệu, nên hồ sơ dùng thế kỷXIV–XV. Không dùng lời tiễn cha ở ải Nam Quan như lời thoại xác thực.
+
+## ho-phi-khanh-poetry — Thơ văn Nguyễn Phi Khanh — nỗi niềm trăn trở về bản thân, thời đại và cuộc sống của nhân dân
+
+- URL: [mở nguồn](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-12-kh-xa-hoi-va-giao-duc-dh-thu-do-02-2017.pdf)
+- Tác giả: Vũ Văn Long. Cơ quan/nhà xuất bản: Tạp chí Khoa học Trường Đại học Thủ đô Hà Nội, số 13/2017.
+- Năm: 2017. Ấn bản: Bài ở trang in 32–43; tên file lưu cũ ghi số 12.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Trang in 32–33 và phần 2: bối cảnh chờ được bổ dụng, việc làm quan 1401, thơ văn trước đời sống nhân dân..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Cùng tác giả với bài 2016, không tính thành nguồn độc lập thứ hai cho dữ kiện đời người. Chỉ dùng cho phân tích thơ văn và mối quan tâm đến thời cuộc; không dựng thêm hoạt động chính trị không có sử liệu.
+
+## ho-trai-museum — Nguyen Trai — a national hero, world cultural celebrity (1380–1442)
+
+- URL: [mở nguồn](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html)
+- Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bảo tàng Lịch sử Quốc gia.
+- Năm: 2017. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: museum. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Hai đoạn mở đầu: niên đại, cha Nguyễn Phi Khanh, mẹ Trần Thị Thái, ông ngoại Trần Nguyên Đán, đỗ và làm quan thời Hồ năm 1400..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Bài tiếng Anh có lỗi ở các mốc về sau, gồm năm minh oan, và giản lược quá trình sau 1407. Chỉ dùng thân thế và mốc 1400 đã đối chiếu, không dùng đoạn sai để biên soạn Lam Sơn hay Lê sơ.
+
+## ho-trai-hannom — Nguyễn Trãi với các thế hệ người Việt Nam
+
+- URL: [mở nguồn](https://hannom.vass.gov.vn/web/tchn/data/0204v.htm)
+- Tác giả: Trịnh Khắc Mạnh. Cơ quan/nhà xuất bản: Tạp chí Hán Nôm, số 4/2002; Viện Nghiên cứu Hán Nôm.
+- Năm: 2002. Ấn bản: chưa xác nhận / không áp dụng.
+- Loại: research. Truy cập: 2026-11-18.
+- Vị trí thực sự đọc: Mục Nguyễn Trãi với các thế hệ người Việt Nam, đoạn mở đầu: tên hiệu Ức Trai, gia đình, đỗ Thái học sinh 1400, chức Chính chưởng Ngự sử đài..
+- Nguồn bài đăng lại: không xác định là bài đăng lại.
+- Giới hạn: Trang gộp nhiều bài cùng số tạp chí, chỉ dùng mục ghi đúng tác giả. Quãng đời sau 1407 còn có vấn đề niên đại cần nghiên cứu riêng; không nhập các giai thoại hoặc nội dung Lam Sơn từ phần còn lại vào giai đoạn Hồ.
 
 ## ly-toan-thu-thai-to — Đại Việt sử ký toàn thư — Lý Thái Tổ hoàng đế
 
@@ -688,7 +928,7 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Bản chuyển dạng PDF lưu tại cổng Quản lý giáo dục.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: chronology. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: V tờ 34a (1274); VI tờ 9a–10b (1300); VII tờ 38a (1371); VIII tờ 37b–38b (1400–1401)..
+- Vị trí thực sự đọc: V tờ 34a (1274); VI tờ 9a–10b (1300); VII tờ 38a (1371); VIII tờ 26a–29b (1396–1397), 37b–46a (1400–1404)..
 - Nguồn bài đăng lại: Đại Việt sử ký toàn thư, Bản kỷ, quyển V–VIII.
 - Giới hạn: Bản chuyển dạng có lỗi đánh máy, chưa xác nhận đủ ấn bản và dịch giả. Dẫn số quyển/tờ của sử liệu, không dùng số trang PDF thay thế; lời bình sử quan không coi là dữ kiện trung lập.
 
@@ -748,7 +988,7 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Tác giả: Nguyễn Khắc Thuần. Cơ quan/nhà xuất bản: Trường Sư phạm, Đại học Cần Thơ — bản chuyển dạng sách.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: research. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: Chương 4, phần I–II: quốc hiệu và chín vua Lý; Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13..
+- Vị trí thực sự đọc: Chương 4, phần I–II: quốc hiệu và chín vua Lý; Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13; Chương 6, phần I.a–b: Hồ Quý Ly và Hồ Hán Thương..
 - Nguồn bài đăng lại: Thế thứ các triều vua Việt Nam của Nguyễn Khắc Thuần; trước đây đã đọc bản PDF chuyển dạng tại thuviensach.vn.
 - Giới hạn: Đã đọc bản chuyển dạng tại Đại học Cần Thơ và bản PDF trước đó, chưa đối chiếu bản in. Hai bản chuyển dạng là cùng một công trình, không tính là hai nguồn độc lập. Các niên đại giữ độ chính xác năm; mốc Thượng hoàng Nhân Tông 1293–1299 trong sách được phân biệt với thời gian còn mang tôn hiệu đến khi mất năm 1308. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án được lưu cho tìm kiếm.
 
@@ -1008,7 +1248,7 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Tác giả: UNESCO World Heritage Centre. Cơ quan/nhà xuất bản: UNESCO.
 - Năm: chưa xác nhận / không áp dụng. Ấn bản: chưa xác nhận / không áp dụng.
 - Loại: geography. Truy cập: 2026-11-17.
-- Vị trí thực sự đọc: Bảng: 1358-001 Inner Citadel, N20 4 41.00 E105 36 17.00.
+- Vị trí thực sự đọc: Bảng: 1358-001 Inner Citadel, N20 4 41.00 E105 36 17.00; 1358-003 Nam Giao Altar, N20 2 44 E105 37 15.99..
 - Nguồn bài đăng lại: không xác định là bài đăng lại.
 - Giới hạn: Tọa độ di tích hiện đại, không phải polygon lãnh thổ của nhà Hồ.
 

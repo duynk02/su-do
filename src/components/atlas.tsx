@@ -219,9 +219,11 @@ export default function Atlas() {
     ).values(),
   ];
   const contextNotes = [
-    state.year < period.date.start || state.year >= period.date.end
-      ? `Năm ${formatYear(state.year)} nằm ngoài khoảng ${period.date.label}. Bài đọc đang được giữ làm bối cảnh.`
-      : null,
+    state.year === period.date.end
+      ? `Mốc chuyển tiếp cuối ${period.name.toLowerCase()}. Bài đọc của thời kỳ đang được giữ.`
+      : state.year < period.date.start || state.year > period.date.end
+        ? `Năm ${formatYear(state.year)} nằm ngoài khoảng ${period.date.label}. Bài đọc đang được giữ làm bối cảnh.`
+        : null,
     availablePlaces.some(
       (p) => state.year < p.validFrom || state.year >= p.validTo,
     )

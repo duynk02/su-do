@@ -9,6 +9,9 @@ Bản đầu có dẫn nguồn, chưa có người biên tập chuyên môn duy�
 - Nhân Tông–Thần Tông: giữ năm Đinh Mùi 1127 theo quy ước nguồn Việt; niên hiệu Thiên Thuận từ 1128. Dương Hoán là con Sùng Hiền hầu, được Nhân Tông nhận nuôi, không vẽ thành cha đẻ–con. Cao Tông đăng cơ 1175, Trinh Phù từ 1176; Huệ Tông đăng cơ 1210, Kiến Gia từ 1211.
 - Tô Hiến Thành: không gán năm sinh 1102 hoặc đỗ khoa 1138 khi nghiên cứu Hán Nôm còn lưu ý giới hạn chứng cứ. Đỗ Anh Vũ được trình bày qua vai trò và sự kiện sử chép, không lặp nhãn đạo đức của sử quan.
 - Nam quốc sơn hà: không khẳng định Lý Thường Kiệt là tác giả; giữ dị bản, tác giả chưa xác định và phân biệt chuyện thần đọc thơ với diễn biến chiến tranh. Gia thế Lý Công Uẩn, chuyện thác sinh của Thần Tông và vụ hóa hổ Lê Văn Thịnh không được dùng làm dữ kiện siêu nhiên đã chứng minh.
+- Nhà Hồ: Hán Thương nhận ngôi cuối năm 1400, niên hiệu Thiệu Thành bắt đầu 1401; tách vai trò vua và Thượng hoàng. Huy Ninh là mẹ Hán Thương, chưa có căn cứ coi bà là mẹ Nguyên Trừng. Việc Quý Ly/Hán Thương bị bắt năm 1407 không xác định năm mất.
+- Cải cách Hồ: tiền giấy/hạn điền khởi đầu dưới nhà Trần; hạn nô không phải giải phóng toàn bộ người lệ thuộc. Kho thường bình 1401 và quy chế thi viết chữ/toán 1404 được trình bày cùng trở ngại thực thi sử chép. Không lấy mục tiêu chính sách hoặc lời ca ngợi của bài tổng quan làm bằng chứng thành công.
+- Đa Bang: giữ năm đầu 1407 theo nghiên cứu quân sự và ghi cách đặt trận ở cuối năm Bính Tuất của Toàn thư; không tự chuyển ngày âm. Các lần bắt giữ ở Chỉ Chỉ, Kỳ La, Cao Vọng không gộp vào một tọa độ. Không dựng giai thoại ải Nam Quan hoặc cho rằng Nguyên Trừng phát minh súng đầu tiên thế giới.
 - Trần Thừa: tách vai trò Thượng hoàng và miếu hiệu truy tôn khỏi trị vì. Thứ tự anh/em với Trần Tự Khánh khác nguồn; không dựng thứ bậc.
 - Nhân Tông: dùng 1278 theo Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long; bài biên niên ghi 1279. Không tự giải thích dị biệt bằng lịch khi chưa khảo cứu.
 - Nhân Tông: Thế thứ ghi thời gian Thượng hoàng trước xuất gia 1293–1299, trong khi Việt Nam sử lược còn gọi Nhân Tông Thượng hoàng lúc mất năm 1308. Vai trò 1293–1308 là thời gian mang tôn hiệu; không đồng nhất với trực tiếp điều hành chính sự. Ngày mất 1/11 trong bài di sản khác 3/11 trong Thế thứ; hồ sơ chỉ ghi năm 1308.
@@ -646,6 +649,166 @@ Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Đại Việt sử ký toàn thư — Bản kỷ IV(b), cuối Cao Tông đến Chiêu Hoàng](https://thuvien.vnthuquan.net/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-17) — KỷChiêuHoàng 1225,tờ 33a–35a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương4,phầnII.9:1237,1258,1278. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-han-thuong-summary
+
+Hồ Hán Thương là con Hồ Quý Ly và công chúa Huy Ninh, cháu ngoại Trần Minh Tông. Ông nhận ngôi từ cha vào cuối năm 1400, đặt niên hiệu Thiệu Thành từ năm 1401 và Khai Đại từ năm 1403. Trong thời gian ông làm vua, Hồ Quý Ly giữ ngôi Thái thượng hoàng và tiếp tục cùng coi chính sự. Triều đại kết thúc khi hai cha con cùng nhiều người trong hoàng tộc bị quân Minh bắt năm 1407.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Bản kỷ VIII, tờ 38b–39a: nhường ngôi, mẹ Hán Thương, niên hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b: Hồ Hán Thương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Đầu năm Đinh Hợi 1407, tờ 3a–3b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-han-thuong-family
+
+Hán Thương là em Hồ Nguyên Trừng nhưng được chọn làm người kế vị. Mẹ ông, Huy Ninh, là con Trần Minh Tông; Khâm Thánh hoàng hậu, mẹ Trần Thiếu Đế, cũng là con Huy Ninh với Quý Ly. Khi giao thiệp với nhà Minh, phía họ Hồ từng viện quan hệ cháu ngoại Minh Tông của Hán Thương để giải thích việc ông trông coi quốc sự.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 36b: chọn thái tử; tờ 38b–39a: Huy Ninh, Khâm Thánh và thư sang Minh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b: con thứ Quý Ly, em Nguyên Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-han-thuong-government
+
+Dưới thời Hán Thương, triều đình tiếp tục những thay đổi về hành chính và tuyển dụng người học. Năm 1401, ông cho làm sổ hộ tịch trong cả nước và bổ dụng Nguyễn Phi Khanh làm Hàn lâm học sĩ. Năm 1402, triều đình sửa đường từ Tây Đô đến Hóa Châu, đặt trạm truyền thư; những việc này vừa phục vụ quản lý đất nước vừa gắn với nhu cầu quân sự.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Tân Tỵ 1401, tờ 39a–40b: hộ tịch, bổ dụng Phi Khanh; mục Nhâm Ngọ 1402: đường thiên lý. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-han-thuong-end
+
+Từ năm 1406, cuộc tiến công của quân Minh đặt triều Hồ trước thử thách quyết định. Sau khi phòng tuyến Đa Bang–Đông Đô bị phá, nhà Hồ tiếp tục chống giữ và phản công ở hạ lưu sông Hồng nhưng không đảo ngược được tình thế. Năm 1407, Hán Thương bị bắt tại vùng núi Cao Vọng, sau đó bị đưa sang Trung Quốc; năm sinh và năm mất của ông chưa được xác định chắc chắn trong các nguồn đang dẫn.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Phần về cuộc kháng chiến chống Minh 1406–1407, các đoạn Đa Bang và Hàm Tử. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Năm 1407, tờ 3a–3b: Hán Thương và thái tử Nhuế bị bắt. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b: bị đưa sang Trung Quốc, chưa rõ năm mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-nguyen-trung-summary
+
+Hồ Nguyên Trừng, tự Mạnh Nguyên, hiệu Nam Ông, là con trai cả Hồ Quý Ly và là anh Hồ Hán Thương. Ông giữ chức Tả tướng quốc dưới triều Hồ, tham gia tổ chức phòng thủ và trực tiếp cầm quân chống Minh. Tài chế tạo hỏa khí khiến cuộc đời ông tiếp tục gắn với kỹ thuật quân sự sau khi bị bắt và đưa sang Trung Quốc năm 1407.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Cuộc đời của Hồ Nguyên Trừng — tóm tắt bài nghiên cứu](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-45_khxh_24022021-tt.pdf) — Tóm tắt bài Ngô Thị Xinh, trang 9 của bản PDF tóm tắt. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html) — Đoạn mở đầu: gia đình, chức vụ, việc bị bắt và làm quan nhà Minh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-nguyen-trung-family-office
+
+Dù là con cả, Nguyên Trừng không phải người nhận ngôi khi Quý Ly nhường lại cho Hán Thương. Trước khi nhà Hồ thành lập, ông đã giữ chức vụ dưới triều Trần; Toàn thư ghi năm 1394 ông được giao làm Phán tư sự. Đến thời Hồ, vai trò nổi bật của ông nằm ở việc quân, hỏa khí và tổ chức chiến đấu.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Giáp Tuất 1394, tờ 24b: Lê Nguyên Trừng làm Phán tư sự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Cuộc đời của Hồ Nguyên Trừng — tóm tắt bài nghiên cứu](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-45_khxh_24022021-tt.pdf) — Tóm tắt: chức vụ trước và sau khi nhà Hồ thành lập. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b: Hán Thương là em Nguyên Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-nguyen-trung-artillery
+
+Nguyên Trừng được biết đến với việc chế tạo súng thần cơ và các phương tiện chiến đấu của triều Hồ. Trong cuộc chiến với quân Minh, ông chỉ huy quân ở các phòng tuyến sông và tham gia phản công Hàm Tử. Sau thất bại, ông bị bắt ở cửa biển Kỳ La; sang Trung Quốc, ông được giao công việc liên quan đến hỏa khí và về sau giữ chức vụ tại Bộ Công nhà Minh.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html) — Các đoạn chiến đấu, chế tạo súng và làm quan Bộ Công. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Năm 1407, tờ 1a–3b: phản công Hàm Tử, bị bắt ở Kỳ La. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Cuộc đời của Hồ Nguyên Trừng — tóm tắt bài nghiên cứu](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-45_khxh_24022021-tt.pdf) — Tóm tắt về hỏa khí và chức Bộ Công. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-nguyen-trung-literature
+
+Trong thời gian sống ở Trung Quốc, Nguyên Trừng viết Nam Ông mộng lục bằng chữ Hán. Tác phẩm gồm 31 thiên truyện, lưu lại nhiều câu chuyện về nhân vật và đời sống nước Việt thời Lý–Trần. Những câu chuyện ấy mang cả giá trị tư liệu lẫn cách kể và lựa chọn của tác giả, trở thành một phần di sản văn học của người sống xa quê sau biến cố 1407.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Mối quan hệ văn–sử nhìn từ tương quan Nam Ông mộng lục và Đại Việt sử ký toàn thư](https://hannom.vass.gov.vn/nghien-cuu-van-ban/moi-quan-he-van-su-nhin-tu-tuong-quan-nam-ong-mong-luc-va-dai-viet-su-ky-toan-thu-tap-chi-han-nom-s-506447) — Mở đầu và phần so sánh 31 thiên Nam Ông mộng lục với Toàn thư. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html) — Các đoạn giới thiệu tác phẩm, lời tựa 1438 và những chuyện thời Lý–Trần. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-phi-khanh-summary
+
+Nguyễn Phi Khanh vốn tên Nguyễn Ứng Long, là nhà nho và nhà thơ sống qua cuối Trần và thời Hồ. Ông là cha Nguyễn Trãi; gia đình có quan hệ với Trần Nguyên Đán qua cuộc hôn nhân với Trần Thị Thái. Năm 1401, Hồ Hán Thương bổ dụng ông làm Hàn lâm học sĩ, mở ra quãng thời gian ông tham gia chính quyền nhà Hồ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 28–29 và 34: tên cũ, gia đình, đường làm quan. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Tân Tỵ 1401, tờ 40a–40b: bổ dụng Hàn lâm học sĩ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nguyen Trai — a national hero, world cultural celebrity (1380–1442)](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html) — Đầu bài: Nguyễn Phi Khanh và Trần Thị Thái là cha mẹ Nguyễn Trãi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-phi-khanh-career
+
+Nguyễn Ứng Long đỗ khoa thi năm 1374 nhưng con đường được bổ dụng dưới triều Trần không thuận lợi. Đến thời Hồ, ông đổi tên thành Phi Khanh và tham gia bộ máy quan lại. Trong khi cha được giao chức Hàn lâm học sĩ năm 1401, người con Nguyễn Trãi đã đỗ Thái học sinh ở khoa thi do nhà Hồ tổ chức năm 1400.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 29 và 34: khoa 1374, tên Phi Khanh, cha con ra làm quan. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38a: Nguyễn Trãi đỗ; tờ 40a–40b: Phi Khanh được bổ dụng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-phi-khanh-poetry
+
+Thơ văn Phi Khanh bộc lộ mong muốn đem việc học giúp đời, đồng thời lưu lại nỗi lo trước đời sống khó khăn của nhân dân. Nghiên cứu về tác phẩm của ông cho thấy những băn khoăn ấy hiện diện cả khi chờ được dùng lẫn khi đã bước vào triều chính. Di sản thơ văn giúp nhìn thời Trần–Hồ qua trải nghiệm của một người trí thức, bên cạnh các ghi chép về vua và chiến trận.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Thơ văn Nguyễn Phi Khanh — nỗi niềm trăn trở về bản thân, thời đại và cuộc sống của nhân dân](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-12-kh-xa-hoi-va-giao-duc-dh-thu-do-02-2017.pdf) — Phần 2.1 về bản thân, thời đại và phần 2.2 về cuộc sống nhân dân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Các phần 2.1–2.2 về lý tưởng hành đạo. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-phi-khanh-1407
+
+Khi nhà Hồ thất bại năm 1407, cuộc đời quan lại của Phi Khanh ở Đại Ngu cũng chấm dứt. Toàn thư ghi ông trong nhóm đã đầu hàng trước lúc những người đứng đầu họ Hồ bị bắt; các nghiên cứu về ông còn ghi việc bị đưa sang Trung Quốc. Biến cố ấy đặt gia đình Phi Khanh–Nguyễn Trãi trong hoàn cảnh nước mất, ly tán.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Năm 1407, tờ 3b: nhóm Nguyễn Phi Khanh đã đầu hàng từ trước. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 28–29: bị đưa sang Trung Quốc sau thất bại 1407. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-trai-summary
+
+Nguyễn Trãi, hiệu Ức Trai, là con Nguyễn Phi Khanh và Trần Thị Thái, cháu ngoại Trần Nguyên Đán. Năm 1400, ông đỗ Thái học sinh trong khoa thi đầu triều Hồ rồi tham gia bộ máy quan lại. Quãng đời đầu ấy gắn ông với sự thay đổi từ Trần sang Hồ và với biến cố chiến tranh năm 1407.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nguyen Trai — a national hero, world cultural celebrity (1380–1442)](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html) — Đầu bài: thân thế, khoa thi 1400, làm quan nhà Hồ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Canh Thìn 1400, tờ 38a: danh sách người đỗ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nguyễn Trãi với các thế hệ người Việt Nam](https://hannom.vass.gov.vn/web/tchn/data/0204v.htm) — Mục Nguyễn Trãi với các thế hệ người Việt Nam, đoạn mở đầu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-trai-family-study
+
+Cha Nguyễn Trãi là Nguyễn Ứng Long, về sau mang tên Phi Khanh; mẹ ông thuộc gia đình quan Tư đồ Trần Nguyên Đán. Sự nối tiếp giữa việc học của cha và khoa thi của người con đặt gia đình này trong lớp nhà nho bước vào chính quyền Hồ. Ở khoa thi 1400, Nguyễn Trãi đỗ cùng Lý Tử Tấn, Vũ Mộng Nguyên và những người khác được Toàn thư ghi tên.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nguyen Trai — a national hero, world cultural celebrity (1380–1442)](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html) — Đoạn thân thế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 34: cha con cùng ra làm quan thời Hồ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1400, tờ 38a: khoa thái học sinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-trai-office
+
+Sau khi đỗ, Nguyễn Trãi giữ chức Chính chưởng Ngự sử đài dưới triều Hồ. Cha ông được bổ làm Hàn lâm học sĩ dưới thời Hán Thương vào năm 1401. Khi cuộc kháng chiến chống Minh thất bại, bộ máy mà hai cha con từng phục vụ tan rã và Phi Khanh bị đưa ra khỏi đất nước.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nguyễn Trãi với các thế hệ người Việt Nam](https://hannom.vass.gov.vn/web/tchn/data/0204v.htm) — Mục Nguyễn Trãi với các thế hệ người Việt Nam: đỗ 1400, chức Chính chưởng Ngự sử đài. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1401, tờ 40a–40b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 28–29: biến cố 1407. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-quy-ly-retired-rule
+
+Cuối năm 1400, Hồ Quý Ly nhường ngôi cho Hán Thương và tự xưng Thái thượng hoàng. Ông tiếp tục cùng con điều hành đất nước, nên những cải cách và việc chuẩn bị chiến tranh thời Hán Thương vẫn gắn với cả hai cha con. Quan hệ này nối tiếp cách tổ chức có vua và Thượng hoàng từng tồn tại dưới triều Trần.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Canh Thìn 1400, tờ 38b: cùng coi chính sự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Phần đầu thời Hồ: nhường ngôi, giữ vai trò Thượng hoàng và tổ chức quốc phòng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-bio-quy-ly-defeat
+
+Quý Ly và Hán Thương chỉ huy cuộc chống giữ khi quân Minh tiến vào từ năm 1406. Sau những thất bại ở đồng bằng sông Hồng, họ rút về Thanh Hóa rồi xuống vùng ven biển phía nam. Năm 1407, Quý Ly bị bắt và đưa sang Trung Quốc cùng nhiều người trong gia đình; việc bị bắt không đồng nghĩa năm 1407 đã được xác định là năm ông mất.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Đầu năm 1407, tờ 1a–3b: rút quân và bị bắt. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Hán Thương (1401–1407)](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-han-thuong-1401-1407-.html) — Các đoạn cuối: rút về Thanh Hóa và bị bắt ở vùng Kỳ La. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### reign-tran-canh
 
@@ -1817,6 +1980,548 @@ Loại: evidence. Trạng thái: Đang biên soạn.
 
 - [Chùa Một Cột trong quần thể Diên Hựu hiện nay](https://hoangthanhthanglong.vn/chua-mot-cot) — Bài Chùa Một Cột: các đoạn mở đầu năm 1049, quần thể Diên Hựu, mở rộng 1106 và phục dựng sau 1954. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
+### ho-reforms-overview
+
+Những thay đổi do Hồ Quý Ly thúc đẩy bắt đầu khi nhà Trần còn tồn tại. Tiền giấy, ruộng đất, nhân lực, học tập và bộ máy hành chính cùng trở thành đối tượng điều chỉnh; kết quả của từng biện pháp không giống nhau.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 577–582: các chính sách và phần nhận xét. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những cải cách của Hồ Quý Ly cuối thế kỷ XIV – đầu thế kỷ XV](https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html) — Các mục kinh tế, xã hội, văn hóa–giáo dục. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-dai-ngu-name
+
+Năm 1400, Hồ Quý Ly lên ngôi, đặt niên hiệu Thánh Nguyên và quốc hiệu Đại Ngu. Tây Đô là kinh đô của triều đại mới; việc xây dựng trung tâm này đã bắt đầu từ cuối Trần.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 36b–37a: chuyển triều và quốc hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [XV. Nhà Hồ (1400–1407): quốc hiệu Đại Ngu, kinh đô Tây Đô](https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html) — Tiêu đề và mục Hồ Quý Ly. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Citadel of the Ho Dynasty — Outstanding Universal Value](https://whc.unesco.org/en/list/1358/) — Brief synthesis: khởi dựng năm 1397. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-capital-context
+
+Quyết định xây trung tâm mới ở An Tôn được đưa ra khi Hồ Quý Ly đang nắm quyền trong triều Trần. Sử chép cả những ý kiến phản đối việc rời Thăng Long, cho thấy đây là một lựa chọn có tranh luận.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 28b–29a: xem đất An Tôn và lời can của Nguyễn Nhữ Thuyết. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-capital-building
+
+Thành ở An Tôn, nay được biết là Thành Nhà Hồ, được khởi dựng năm 1397. Công trình nằm trong cảnh quan giữa sông Mã và sông Bưởi; các tường đá lớn là dấu tích nổi bật của trung tâm quyền lực này.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Citadel of the Ho Dynasty — Outstanding Universal Value](https://whc.unesco.org/en/list/1358/) — Description; Brief synthesis; Criterion (iv). Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Quý Ly và những cải cách lớn về kinh tế](https://baotanglichsu.vn/VI/Articles/3098/13166/ho-quy-ly-va-nhung-cai-cach-lon-ve-kinh-te.html) — Mục Sửa đổi quy chế quan lại: quyết định xây thành An Tôn năm 1397. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-capital-transfer
+
+Toàn thư ghi vua Trần bị buộc chuyển vào Thanh Hóa tháng 11 năm 1397. Việc vận chuyển vật liệu cung điện gặp tổn thất; thành tiếp tục được xây sửa ở những năm sau, nên mốc khởi dựng không đồng nghĩa toàn bộ công trình đã hoàn tất.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 31a–31b: chuyển đô và vật liệu bị chìm; tờ 40a: xây sửa thành. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-capital-result
+
+Tây Đô tiếp tục được sử dụng dưới nhà Hồ. Hồ sơ UNESCO xác định ba thành phần di sản: thành trong, La Thành và đàn Nam Giao; quy mô của di sản hiện nay không phải đường biên của quốc gia Đại Ngu.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Citadel of the Ho Dynasty — Outstanding Universal Value](https://whc.unesco.org/en/list/1358/) — Brief synthesis; Integrity: ba thành phần di sản. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-money-context
+
+Việc đổi tiền diễn ra trước khi nhà Hồ thành lập. Nhà nước tìm cách tập trung nguồn lực tài chính và kim loại, đồng thời thay đổi phương tiện trao đổi đang được dùng trong xã hội.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 577–578: phát hành tiền giấy và mục tiêu tài chính. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Quý Ly và những cải cách lớn về kinh tế](https://baotanglichsu.vn/VI/Articles/3098/13166/ho-quy-ly-va-nhung-cai-cach-lon-ve-kinh-te.html) — Mục Phát hành tiền giấy. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-money-policy
+
+Năm 1396, Thông bảo hội sao được phát hành. Triều đình quy định đổi tiền đồng lấy tiền giấy, cấm lưu giữ và sử dụng tiền đồng, đồng thời đặt hình phạt nặng đối với việc làm giả hoặc vi phạm lệnh cấm.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Hồ Quý Ly và những cải cách lớn về kinh tế](https://baotanglichsu.vn/VI/Articles/3098/13166/ho-quy-ly-va-nhung-cai-cach-lon-ve-kinh-te.html) — Mục Phát hành tiền giấy. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 26a–26b: phát hành Thông bảo hội sao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-money-limits
+
+Tiền giấy không tự tạo ra lòng tin của người mua bán. Sử còn ghi người buôn chê tiền giấy và nhà nước phải dùng chế tài để buộc lưu hành; việc ban lệnh vì thế khác với việc đồng tiền được chấp nhận thuận lợi.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 43a: thương nhân và điều luật về tiền giấy. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 581: các cách giải thích khó khăn của tiền giấy. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-land-context
+
+Ruộng đất và gia nô là những nguồn lực gắn với thế lực của quý tộc cuối Trần. Chính sách hạn điền điều chỉnh quyền chiếm hữu ruộng tư, khác với hạn nô là chính sách điều chỉnh việc giữ người lệ thuộc.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 577, 579–581: quan hệ giữa hạn điền và hạn nô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-land-policy
+
+Năm 1397, phép hạn điền giới hạn ruộng tư ở mức 10 mẫu đối với các đối tượng theo lệnh, ngoại trừ đại vương và trưởng công chúa. Phần vượt hạn phải nộp cho nhà nước.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Hồ Quý Ly và những cải cách lớn về kinh tế](https://baotanglichsu.vn/VI/Articles/3098/13166/ho-quy-ly-va-nhung-cai-cach-lon-ve-kinh-te.html) — Mục Chính sách hạn điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 30b–31a: chiếu hạn chế danh điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-land-implementation
+
+Từ năm 1398, chủ ruộng phải khai tên và cắm thẻ trên ruộng; quan địa phương đo đạc, lập sổ. Công việc kéo dài nhiều năm, cho thấy thực hiện hạn điền đòi hỏi bộ máy kiểm kê chứ không chỉ một chiếu lệnh.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Hồ Quý Ly và những cải cách lớn về kinh tế](https://baotanglichsu.vn/VI/Articles/3098/13166/ho-quy-ly-va-nhung-cai-cach-lon-ve-kinh-te.html) — Mục Chính sách hạn điền: lệnh bổ sung và việc đo đạc. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 577: lập địa bạ trong năm năm. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-land-limits
+
+Ruộng vượt hạn chuyển sang sở hữu nhà nước không đồng nghĩa người nghèo lập tức được chia ruộng. Những ngoại lệ cho tầng lớp cao nhất và cách tổ chức thực hiện khiến tác động của hạn điền cần được đánh giá riêng với mục tiêu chính sách.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 580–582: giới hạn và tính không triệt để của hạn điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 117–118: tác động trước mắt của hạn điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-exam-context
+
+Triều Hồ tiếp nhận một bộ máy có nhiều người từng làm việc dưới triều Trần. Bên cạnh việc sử dụng quan lại cũ, khoa cử là một con đường lựa chọn và bổ sung người có học cho triều đình mới.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 57–59: bộ máy và người được bổ dụng sau khoa thi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-exam-1400
+
+Tháng 8 năm 1400, Hồ Quý Ly mở khoa thi Thái học sinh. Sử ghi 20 người đỗ, trong đó có Nguyễn Trãi, Lý Tử Tấn và Vũ Mộng Nguyên; đây là khoa thi ngay trong năm đầu của triều Hồ.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 38a: khoa Thái học sinh năm Canh Thìn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 58–59: khoa thi đầu triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-exam-result
+
+Một số người đỗ khoa thi năm 1400 về sau tiếp tục hoạt động dưới thời Lê. Cuộc đời họ cho thấy việc học và con đường làm quan có thể nối qua nhiều triều đại, dù triều Hồ tồn tại ngắn.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Hồ Quý Ly và những bài học lịch sử về cải cách văn hóa, giáo dục](https://thanhnhaho.vn/NewsDetail.aspx?Id=7658) — Đoạn cuối: các nhân tài thời Hồ tiếp tục phục vụ nhà Lê. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-household-context
+
+Để huy động nhân lực, triều Hồ cần nắm số dân và nơi cư trú. Việc kiểm kê hộ tịch gắn trực tiếp với tuyển quân, bên cạnh những yêu cầu quản lý dân cư của nhà nước.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 75: hộ tịch và nguồn tuyển quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-household-policy
+
+Năm 1401, Hồ Hán Thương cho lập sổ hộ tịch trong cả nước, ghi người từ hai tuổi trở lên. Sử còn ghi lệnh đưa người lưu cư trở về nguyên quán để việc kê khai sát với số người đang có.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 39a–39b: làm sổ hộ tịch. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 75: kiểm tra dân số toàn quốc. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-household-result
+
+Việc ghi sổ làm hiện rõ thêm nguồn dân đinh để tuyển quân, theo ghi chép của sử. Đây là thay đổi trong khả năng quản lý và huy động của nhà nước, không phải bằng chứng dân số thực tế tăng vọt chỉ trong một năm.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 39b: dân đinh và tuyển quân năm sau. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 75: số dân được kiểm kê làm cơ sở tuyển quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-slaves-context
+
+Sau hạn điền, việc hạn chế số gia nô tiếp tục tác động vào nguồn nhân lực của các nhà quyền quý. Hai chính sách liên hệ với nhau nhưng khác đối tượng: ruộng đất và những người đang bị lệ thuộc.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 579–581: chính sách hạn nô và liên hệ hạn điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-slaves-policy
+
+Năm 1401, triều Hồ đặt phép hạn nô: số người được giữ phụ thuộc phẩm cấp; số vượt hạn chuyển cho nhà nước và chủ cũ được trả tiền theo quy định. Chính sách không phải lệnh xóa bỏ chế độ nô tì.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 39b: hạn chế gia nô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những cải cách của Hồ Quý Ly cuối thế kỷ XIV – đầu thế kỷ XV](https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html) — Đoạn phép hạn nô năm 1401. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-slaves-limits
+
+Gia nô chuyển thành quan nô vẫn ở địa vị lệ thuộc. Nhà nước tăng khả năng kiểm soát lao động, còn việc giảm thế lực chủ cũ không đồng nghĩa người bị chuyển giao đã trở thành dân tự do.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 580–581: chuyển chủ và quyền kiểm soát dân đinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những cải cách của Hồ Quý Ly cuối thế kỷ XIV – đầu thế kỷ XV](https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html) — Đoạn gia nô thành quan nô, chưa được giải phóng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-law-1401
+
+Cuối năm 1401, sử ghi Hồ Hán Thương định quan chế và hình luật nước Đại Ngu. Ghi chép ngắn không cung cấp toàn văn, nên chưa thể dựng lại một bộ luật đầy đủ hay khẳng định mọi điều khoản đã thay đổi so với thời Trần.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 40a: định quan chế và hình luật. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 58: giới hạn thông tin về quan chế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-granary-policy
+
+Năm 1401, Hồ Hán Thương ra lệnh đặt kho thường bình, cấp tiền cho địa phương mua thóc dự trữ. Mục tiêu là có nguồn lương thực để ứng phó khi thiếu đói và giá cả biến động.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 40a: đặt kho thường bình. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 579: tích cốc phòng cơ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-granary-limits
+
+Ngay sau ghi chép về kho thường bình, Toàn thư nói việc không thực hiện được vì thay đổi quan lại địa phương. Đây là một ví dụ cho khoảng cách giữa dự định cải cách và khả năng thực thi của bộ máy.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 40a: trở ngại do thay đổi quan lại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-tax-1402
+
+Năm 1402, triều Hồ điều chỉnh thuế và tô ruộng: có khoản tăng, có khoản giảm hoặc miễn theo loại đất, tài sản và hoàn cảnh. Vì thế không thể gộp mọi thay đổi thành một nhận xét chung rằng thuế đều nhẹ hơn hay đều nặng hơn.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 578: thuế đinh, thuế tô và các đối tượng miễn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 42a–42b: định lại thuế và tô ruộng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-measurement-1403
+
+Sử ghi việc ban hành cân, thước, thưng, đấu và định giá tiền giấy dưới triều Hồ Hán Thương. Chuẩn hóa đo lường được đặt cùng những nỗ lực quản lý thị trường, nhưng việc lưu hành tiền giấy vẫn gặp phản ứng.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 43a: đo lường, giá tiền giấy và phản ứng của thương nhân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-nom-learning
+
+Hồ Quý Ly dùng chữ Nôm trong các hoạt động dịch và giải nghĩa sách, như thiên Vô dật và Thi nghĩa. Việc đề cao quốc âm không có nghĩa chữ Nôm đã thay thế chữ Hán trong khoa cử; các kỳ thi vẫn sử dụng chữ Hán.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Hồ Quý Ly và những bài học lịch sử về cải cách văn hóa, giáo dục](https://thanhnhaho.vn/NewsDetail.aspx?Id=7658) — Các đoạn Vô dật, Thi nghĩa và giới hạn sử dụng chữ Nôm. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-local-schools-policy
+
+Năm 1397, triều đình ra chiếu đặt học quan và cấp ruộng phục vụ việc học ở một số phủ, lộ. Đây là chủ trương mở rộng cơ sở giáo dục địa phương từ cuối Trần, trước khi nhà Hồ thành lập.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 30a–30b: học quan, học điền và tiến cử học trò. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Quý Ly và những bài học lịch sử về cải cách văn hóa, giáo dục](https://thanhnhaho.vn/NewsDetail.aspx?Id=7658) — Đoạn chiếu tháng 5 năm Đinh Sửu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-local-schools-limits
+
+Ngô Sĩ Liên nhận xét rằng lệnh mở trường năm 1397 không thấy được thi hành. Đó là lời đánh giá của sử gia đời sau, cần phân biệt với nội dung chiếu và với việc có trường lớp hoạt động trên thực tế.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 30b: lời bình Ngô Sĩ Liên sau chiếu học quan. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-exams-1404
+
+Năm 1404, Hồ Hán Thương định lại thể thức tuyển chọn nhân tài, quy định các vòng thi và thêm nội dung viết chữ, làm toán. Quy định này mở rộng nội dung được khảo thí ngoài những bài văn kinh điển.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 45b–46a: thể thức thi và kỳ viết chữ, thi toán. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Quý Ly và những bài học lịch sử về cải cách văn hóa, giáo dục](https://thanhnhaho.vn/NewsDetail.aspx?Id=7658) — Đoạn thể thức thi năm 1404. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-exams-limits
+
+Toàn thư ghi học trò mới thi ở bộ Lễ thì chiến tranh làm việc thi cử phải dừng. Quy chế năm 1404 vì vậy cho thấy một dự định tổ chức, nhưng chưa phải bằng chứng mọi vòng thi đã được thực hiện đầy đủ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 45b–46a: mới thi ở bộ Lễ, gặp loạn phải thôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-health-context
+
+Công việc của triều Hồ còn bao gồm các biện pháp về đời sống dân cư, bên cạnh tiền tệ, ruộng đất và quân đội. Việc đặt Quảng tế cho thấy một hướng tổ chức người làm việc chữa bệnh dưới sự quản lý của triều đình.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 111–112: Quảng tế và các chính sách xã hội. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-health-1403
+
+Năm 1403, Hồ Hán Thương bổ Nguyễn Đại Năng, người Giáp Sơn biết dùng kim châm và lửa cứu để chữa bệnh, vào chức việc tại Quảng tế. Sử ghi việc đặt quan thuộc cơ quan này bắt đầu từ đó.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 44b: Nguyễn Đại Năng và Quảng tế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Vài nét về chính sách cải cách kinh tế – xã hội của Hồ Quý Ly](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/614/996/1804) — Trang 579: lập Quảng tế thự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-health-limits
+
+Ghi chép cho biết việc tổ chức và người được bổ nhiệm, nhưng chưa đủ để xác định số nơi chữa bệnh hay mức độ người dân được tiếp cận. Quảng tế thời Hồ cần được hiểu trong hoàn cảnh y tế trung đại, không đồng nhất với bệnh viện hiện nay.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Cải cách Hồ Quý Ly](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/838/UserFiles/Cai-cach-Ho-Quy-Li-e85a5e1c-47f7-469e-9c5e-486964e484af.pdf) — Trang PDF 57–58: giới hạn hiểu biết về chức năng cơ quan; trang 111: Quảng tế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-champa-context
+
+Quan hệ với Champa thời Hồ bao gồm những cuộc tiến quân, thương lượng và việc tổ chức cai trị ở vùng đất tranh chấp. Hoạt động phía nam diễn ra đồng thời với những nỗ lực củng cố nhà nước ở phía bắc.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 40a–41a: chiến dịch và tổ chức vùng Thăng Hoa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-champa-1402-development
+
+Năm 1402, quân Hồ tiến đánh Champa. Sau sức ép quân sự, Chiêm Động và Cổ Lũy được chuyển giao; triều Hồ chia thành bốn châu Thăng, Hoa, Tư, Nghĩa và đặt quan cai trị.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 40b–41a: Chiêm Động, Cổ Lũy và bốn châu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-champa-result
+
+Việc chuyển giao dẫn tới thay đổi quản lý và di chuyển cư dân, không chỉ là đổi tên trên bản đồ. Sử ghi chính sách di dân năm sau cùng những tổn thất và lời oán thán; chưa có đủ căn cứ để vẽ ranh giới chính xác của bốn châu.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — các đoạn về phả hệ hoàng tộc Trần và Hồ](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1213/UserFiles/Dai-Viet-Su-Ky-Toan-Thu---nhieu-tac-gia-53877159-cc78-40e2-8157-c64e7f4e90a7.pdf) — Bản kỷ quyển VIII, tờ 41a: dân Champa; tờ 42b–43a: di dân Thăng Hoa và tổn thất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-invasion-context
+
+Nhà Minh dựa vào vấn đề chuyển ngôi Trần–Hồ và người tự nhận thuộc hoàng tộc Trần để can thiệp. Năm 1406, việc đưa Trần Thiêm Bình về nước bằng lực lượng quân sự làm xung đột tiếp tục leo thang.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Bính Tuất 1406, tờ 50a–50b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn quan hệ bang giao trước cuộc tiến công 1406. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-invasion-development
+
+Cuối năm 1406, quân Minh do Trương Phụ và Mộc Thạnh chỉ huy tiến vào theo hai hướng. Quân nhà Hồ chống giữ rồi tập trung về hệ thống phòng tuyến sông ở phía bắc đồng bằng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1406, tờ 52b–53a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn hai cánh quân tiến qua Lạng Sơn, Hà Giang và phòng tuyến Đa Bang–Đông Đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-invasion-result
+
+Cuộc đối đầu đã trở thành một cuộc chiến tranh xâm lược và kháng chiến trên quy mô lớn. Khẩu hiệu khôi phục nhà Trần là cách nhà Minh tuyên bố để biện minh cho can thiệp, trong khi kết cục 1407 là thiết lập bộ máy cai trị trực tiếp.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Các mục 1406 về Thiêm Bình và việc quân Minh tiến vào. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Mục 1407, tờ 2b–3a: thiết lập các ty cai trị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Phân tích bối cảnh và mục tiêu chiến tranh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-da-bang-context
+
+Đa Bang là cứ điểm quan trọng trong phòng tuyến bảo vệ Đông Đô. Nhà Hồ dựa vào thành, cọc chắn sông, chiến thuyền và quân đóng dọc bờ để ngăn bước tiến của quân Minh.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn hệ thống phòng thủ và cứ điểm Đa Bang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1405–1406, tờ 49b, 52b–53a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-da-bang-development
+
+Đầu năm 1407, quân Minh vượt sông và tập trung đánh thành Đa Bang. Quân giữ thành chống trả bằng hỏa khí, cung tên và voi chiến nhưng không giữ được thành.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn 19–21/1/1407: đánh thành Đa Bang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Cuối năm Bính Tuất, tờ 53b–54a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-da-bang-result
+
+Đa Bang thất thủ kéo theo sự tan vỡ của các cụm quân trên phòng tuyến; quân Minh tiếp tục chiếm Đông Đô. Quân nhà Hồ rút về phía hạ lưu, tiếp tục tổ chức chống giữ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Hồ Hán Thương (1401–1407)](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-han-thuong-1401-1407-.html) — Đoạn Đa Bang, Đông Đô và cuộc rút về hạ lưu đầu 1407. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn hậu quả của thất bại Đa Bang và phòng tuyến Hoàng Giang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-ham-tu-context
+
+Sau các cuộc giao tranh ở hạ lưu, quân Minh tập trung tại Hàm Tử. Phía nhà Hồ đưa lực lượng từ Hoàng Giang lên, tìm cách phản công để thay đổi tình thế.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Mục Đinh Hợi 1407, tờ 1b–2a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-ham-tu-development
+
+Hồ Nguyên Trừng cùng các tướng chỉ huy quân thủy và quân bộ tiến đánh Hàm Tử. Quân Minh đã chuẩn bị phòng bị trên sông và hai bờ, khiến cuộc tiến công của nhà Hồ thất bại.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Tờ 2a–2b: trận tháng ba năm Đinh Hợi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn phản công chiến lược Hàm Tử. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-ham-tu-result
+
+Nhà Hồ tổn thất nặng về quân và thuyền, không khôi phục được thế chủ động. Hai cha con Quý Ly–Hán Thương cùng các tướng và quan lại tiếp tục rút về Thanh Hóa.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Tờ 2b–3a: sau trận Hàm Tử, vượt biển về Thanh Hóa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-tay-do-context
+
+Tây Đô ở Thanh Hóa là kinh đô và căn cứ quan trọng của triều Hồ. Sau những thất bại trên các phòng tuyến phía bắc, việc chống giữ dồn về khu vực Thanh Hóa và đường rút xuống phía nam.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn vị thế phòng thủ Tây Đô và rút quân sau thất bại Đa Bang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Hán Thương (1401–1407)](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-han-thuong-1401-1407-.html) — Đoạn chạy về Thanh Hóa và Lỗi Giang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-tay-do-development
+
+Quý Ly và Hán Thương trở lại Thanh Hóa, nhưng lực lượng tiếp tục tan vỡ khi quân Minh đánh tới Lỗi Giang. Những cuộc rút quân nối tiếp khiến họ không giữ được một trung tâm chỉ huy ổn định tại kinh đô.
+
+Loại: interpretation. Trạng thái: Đang biên soạn. Không coi đây là bản tường thuật một trận vây thành Tây Đô có ngày xác định; chỉ trình bày trình tự rút quân và mất khả năng chống giữ.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Mục tháng tư 1407, tờ 3a: về Thanh Hóa, đánh Lỗi Giang và cửa Điển Canh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-tay-do-result
+
+Những người đứng đầu nhà Hồ rời khu vực Thanh Hóa, tiếp tục theo đường ven biển vào phía nam. Cuộc kháng chiến chuyển sang giai đoạn rút lui và truy đuổi, trước khi các nhân vật chủ chốt bị bắt.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Tờ 3a–3b: Điển Canh, Kỳ La và việc bắt người. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Hán Thương (1401–1407)](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-han-thuong-1401-1407-.html) — Các đoạn cuối về cuộc truy đuổi đến Kỳ La. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-capture-context
+
+Sau khi rời Thanh Hóa, Quý Ly, Hán Thương, Nguyên Trừng cùng lực lượng còn lại rút về vùng ven biển phía nam. Quân Minh tiếp tục truy đuổi tới khu vực Kỳ La và núi Cao Vọng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Mục tháng tư–tháng năm 1407, tờ 3a–3b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-capture-development
+
+Toàn thư ghi Quý Ly bị bắt ở bãi Chỉ Chỉ, Nguyên Trừng ở cửa biển Kỳ La, rồi Hán Thương và thái tử Nhuế ở núi Cao Vọng. Nhiều tướng và quan lại cũng bị bắt hoặc đã đầu hàng trước đó.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Tờ 3a–3b, ngày 11–12 tháng năm Đinh Hợi theo sử liệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-war-capture-result
+
+Việc những người đứng đầu triều đình bị bắt chấm dứt sự cai trị của nhà Hồ năm 1407. Nhà Minh đặt bộ máy cai trị trực tiếp, mở đầu một giai đoạn đô hộ mới.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Tờ 2b–3b: các ty cai trị và bắt người. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Hồ Hán Thương (1401–1407)](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-han-thuong-1401-1407-.html) — Đoạn kết: nhà Hồ kết thúc năm 1407. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-royal-succession-1400
+
+Hồ Quý Ly trực tiếp giữ ngôi vua trong năm 1400, rồi cuối năm ấy nhường ngôi cho Hán Thương và tiếp tục cùng coi chính sự với tư cách Thái thượng hoàng. Hán Thương dùng niên hiệu Thiệu Thành từ 1401, giữ ngôi đến khi nhà Hồ kết thúc năm 1407.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b–39a: nhường ngôi, cùng coi chính sự và niên hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.a–b: tháng 12/1400 đến 1407. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-family-quy-ly-han-thuong-claim
+
+Hồ Hán Thương là con Hồ Quý Ly và công chúa Huy Ninh, con gái Trần Minh Tông.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: mẹ Hán Thương là Huy Ninh, sinh Khâm Thánh và Hán Thương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-family-quy-ly-nguyen-trung-claim
+
+Hồ Nguyên Trừng là con trai cả của Hồ Quý Ly.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Cuộc đời của Hồ Nguyên Trừng — tóm tắt bài nghiên cứu](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-45_khxh_24022021-tt.pdf) — Tóm tắt bài Ngô Thị Xinh, trang 9 PDF. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html) — Đoạn mở đầu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-family-huy-ninh-han-thuong-claim
+
+Công chúa Huy Ninh là mẹ của Hồ Hán Thương và Khâm Thánh hoàng hậu.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: con cái Huy Ninh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-sibling-nguyen-trung-han-thuong-claim
+
+Hồ Nguyên Trừng là anh Hồ Hán Thương; Hán Thương là người nhận ngôi từ Quý Ly.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html) — Đoạn đầu: Hán Thương là em Nguyên Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-sibling-kham-thanh-han-thuong-claim
+
+Khâm Thánh hoàng hậu và Hồ Hán Thương là con của Hồ Quý Ly với công chúa Huy Ninh. Qua Khâm Thánh, Hán Thương là cậu của Trần Thiếu Đế.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: con cái Huy Ninh; đối chiếu hồ sơ Khâm Thánh và Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-family-phi-khanh-trai-claim
+
+Nguyễn Phi Khanh, tên cũ Nguyễn Ứng Long, là cha Nguyễn Trãi; mẹ Trãi là Trần Thị Thái.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nguyen Trai — a national hero, world cultural celebrity (1380–1442)](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html) — Đầu bài về cha mẹ Nguyễn Trãi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Nguyễn Trãi với các thế hệ người Việt Nam](https://hannom.vass.gov.vn/web/tchn/data/0204v.htm) — Mục Nguyễn Trãi với các thế hệ người Việt Nam, đoạn đầu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-political-han-thuong-nguyen-trung-claim
+
+Trong thời Hán Thương giữ ngôi, Nguyên Trừng là Tả tướng quốc và tham gia chỉ huy kháng chiến.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html) — Đoạn mở đầu và cuộc kháng chiến. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1405–1406: Tả tướng quốc Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-political-han-thuong-phi-khanh-claim
+
+Năm 1401, Hồ Hán Thương bổ dụng Nguyễn Phi Khanh làm Hàn lâm học sĩ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 40a–40b, mùa đông tháng 12 năm Tân Tỵ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### ho-place-nam-giao
+
+Đàn Nam Giao ở núi Đốn Sơn, phía nam kinh đô Tây Đô, là một thành phần của quần thể Thành nhà Hồ. Những đợt khai quật đã làm rõ dấu tích nền đàn, đường đi, giếng và các vật liệu kiến trúc. Di tích hiện nay giúp tìm hiểu không gian nghi lễ của vương triều, nhưng không còn đầy đủ các công trình như lúc sử dụng.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Giá trị di vật Đàn Nam Giao thời Hồ ở Thanh Hóa](https://baotanglichsu.vn/vi/Articles/1508/49884/gia-tri-di-vat-djan-nam-giao-thoi-ho-o-thanh-hoa.html) — Mở đầu, phần khai quật 2004 và di vật. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Citadel of the Ho Dynasty — Outstanding Universal Value](https://whc.unesco.org/en/list/1358/) — Outstanding Universal Value: ba thành phần và dấu tích Nam Giao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
 ### ly-place-den-do
 
 Đền Đô, còn gọi đền Lý Bát Đế, là nơi thờ các vua Lý ở Đình Bảng. Khu đền hiện nay đã qua nhiều lần xây dựng và phục hồi; đây là một địa điểm tưởng niệm để tìm hiểu về triều đại, không phải kinh đô của nhà Lý.
@@ -1830,7 +2535,7 @@ Loại: evidence. Trạng thái: Đang biên soạn.
 - Đối chiếu bản in và thông tin thư mục của các trích đoạn sách/Toàn thư; xác định nguồn phụ thuộc chung.
 - Nghiên cứu sâu đê điều, văn học, kiến trúc, đời sống dân thường, quan hệ khu vực; hiện chỉ tóm lược phần có căn cứ.
 - Bổ sung các vai trò Thượng hoàng, niên hiệu và tuổi thọ bằng nguồn cụ thể; không tự lấy từ trí nhớ.
-- Lý có mười chương bản đầu, Trần giữ chín chương. Các thời kỳ ngoài hai bộ này chủ yếu có khung điều hướng hoặc phần nối chuyển triều; không công bố tất cả triều đại đã hoàn chỉnh.
+- Lý có mười chương, Trần giữ chín chương, Hồ có tám chương bản đầu. Các thời kỳ ngoài ba bộ này chủ yếu có khung điều hướng; không công bố tất cả triều đại đã hoàn chỉnh.
 - Geometry lịch sử, tuyến hành quân và định vị Hải Ấp/Đông Bộ Đầu/Bạch Đằng chưa đủ căn cứ.
 
 Kiểm tra tự động không chứng minh lịch sử đúng; người biên tập phải rà từng liên kết hỗ trợ thực tế.

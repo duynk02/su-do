@@ -1,5 +1,5 @@
 import type { MediaAsset } from "../schema";
-import { personMediaAssets, lyIllustrationAssets } from "../person-media";
+import { personMediaAssets, illustrationAssets } from "../person-media";
 
 export const mediaAssets: MediaAsset[] = [
   {
@@ -14,5 +14,5 @@ export const mediaAssets: MediaAsset[] = [
     note: "Ảnh hiện vật 2021.182; không xác định chắc riêng triều vua. Nhãn Period của bảo tàng ghi ‘Tran or Ly Dynasty’.",
   },
   ...personMediaAssets,
-  ...lyIllustrationAssets,
+  ...illustrationAssets,
 ];

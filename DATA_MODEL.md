@@ -39,7 +39,9 @@ Hồ sơ chuẩn nằm trong `shared/people.ts` và các module nhân vật đư
 
 Ảnh nhân vật đăng ký từ `public/images/people/provenance.json` qua `person-media.ts`, tạo đồng thời MediaAsset và Source. `Person.mediaAssetId` chọn hình đại diện cho phần đầu hồ sơ; `kind` phân biệt ảnh tượng, ảnh di tích, tranh, hiện vật và tái dựng. Nguồn có thể là Commons, trang cơ quan hoặc báo chí; `publisher`/`sourceId`/`readLocation` trong catalog ghi đúng nơi đăng. `credit` là dòng ghi công ngắn để không gán cơ quan đăng thành họa sĩ. Audit kiểm tra ảnh trỏ đúng nguồn/người, có hồ sơ quyền, alt và kích thước; `licenseUrl` có thể trống khi chưa rõ giấy phép, không gán giấy phép mở. Ảnh không dùng thay bằng chứng cho nhận định lịch sử.
 
-Catalog nhà Lý bổ sung tại `public/images/people/ly/provenance.json`, gồm `assets` cho hồ sơ và `illustrations` cho bài đọc. Hai catalog được tổng hợp cùng lớp; không cần thêm nhánh nhân vật trong component để hiện hình. Chiêu Hoàng vẫn dùng asset cũ và cùng Person ID. `shared/ly-early-people.ts`/`ly-late-people.ts` lưu tiểu sử mới; các cập nhật hồ sơ giao thời được hợp nhất vào bản ghi chuẩn thay vì nhân bản.
+Catalog nhà Lý bổ sung tại `public/images/people/ly/provenance.json`, gồm `assets` cho hồ sơ và `illustrations` cho bài đọc. Các catalog được tổng hợp cùng lớp; không cần thêm nhánh nhân vật trong component để hiện hình. Chiêu Hoàng vẫn dùng asset cũ và cùng Person ID. `shared/ly-early-people.ts`/`ly-late-people.ts` lưu tiểu sử mới; các cập nhật hồ sơ giao thời được hợp nhất vào bản ghi chuẩn thay vì nhân bản.
+
+Bộ Hồ đăng ký tại `periods/ho/`, với `reforms.ts`, `people-war.ts`, `chapters.ts`, `places.ts` và sự kiện chuyển triều chuẩn trong `transition.ts`. Hồ sơ mới ở `shared/ho-people.ts`; cập nhật Quý Ly nối vào hồ sơ cũ. Catalog `public/images/people/ho/provenance.json` đi qua cùng adapter ảnh. Sự kiện `nha-ho-1400` giữ ID và phạm vi Trần/Hồ dù chuyển nơi khai báo; các liên kết cũ không cần đổi.
 
 ## Trình bày quan hệ
 

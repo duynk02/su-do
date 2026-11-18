@@ -1,5 +1,8 @@
 import type { Source } from "./schema";
-import { personMediaSources, lyIllustrationSources } from "./person-media";
+import { personMediaSources, illustrationSources } from "./person-media";
+import { hoReformSources } from "./periods/ho/reforms";
+import { hoPlaceSources } from "./periods/ho/places";
+import { hoPersonWarSources } from "./periods/ho/people-war";
 import { lyEarlySources } from "./periods/ly/early";
 import { lyLateSources } from "./periods/ly/late";
 import { lyPlaceSources } from "./periods/ly/places";
@@ -11,7 +14,10 @@ const source = (s: Omit<Source, "accessed" | "edition">): Source => ({
 });
 export const sources: Source[] = [
   ...personMediaSources,
-  ...lyIllustrationSources,
+  ...illustrationSources,
+  ...hoReformSources,
+  ...hoPlaceSources,
+  ...hoPersonWarSources,
   ...lyEarlySources,
   ...lyLateSources,
   ...lyPlaceSources,
@@ -25,7 +31,7 @@ export const sources: Source[] = [
     type: "chronology",
     upstream: "Đại Việt sử ký toàn thư, Bản kỷ, quyển V–VIII",
     readLocation:
-      "V tờ 34a (1274); VI tờ 9a–10b (1300); VII tờ 38a (1371); VIII tờ 37b–38b (1400–1401).",
+      "V tờ 34a (1274); VI tờ 9a–10b (1300); VII tờ 38a (1371); VIII tờ 26a–29b (1396–1397), 37b–46a (1400–1404).",
     limits:
       "Bản chuyển dạng có lỗi đánh máy, chưa xác nhận đủ ấn bản và dịch giả. Dẫn số quyển/tờ của sử liệu, không dùng số trang PDF thay thế; lời bình sử quan không coi là dữ kiện trung lập.",
   }),
@@ -109,7 +115,7 @@ export const sources: Source[] = [
     upstream:
       "Thế thứ các triều vua Việt Nam của Nguyễn Khắc Thuần; trước đây đã đọc bản PDF chuyển dạng tại thuviensach.vn",
     readLocation:
-      "Chương 4, phần I–II: quốc hiệu và chín vua Lý; Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13.",
+      "Chương 4, phần I–II: quốc hiệu và chín vua Lý; Chương 5, phần II – Thế thứ các vua thời Trần, mục 1–13; Chương 6, phần I.a–b: Hồ Quý Ly và Hồ Hán Thương.",
     limits:
       "Đã đọc bản chuyển dạng tại Đại học Cần Thơ và bản PDF trước đó, chưa đối chiếu bản in. Hai bản chuyển dạng là cùng một công trình, không tính là hai nguồn độc lập. Các niên đại giữ độ chính xác năm; mốc Thượng hoàng Nhân Tông 1293–1299 trong sách được phân biệt với thời gian còn mang tôn hiệu đến khi mất năm 1308. Các biến thể Hiện/Hiệu, Nhung/Ngung, An/Án được lưu cho tìm kiếm.",
   }),
@@ -463,7 +469,8 @@ export const sources: Source[] = [
     url: "https://whc.unesco.org/en/list/1358/maps/",
     type: "geography",
     upstream: null,
-    readLocation: "Bảng: 1358-001 Inner Citadel, N20 4 41.00 E105 36 17.00",
+    readLocation:
+      "Bảng: 1358-001 Inner Citadel, N20 4 41.00 E105 36 17.00; 1358-003 Nam Giao Altar, N20 2 44 E105 37 15.99.",
     limits: "Tọa độ di tích hiện đại, không phải polygon lãnh thổ của nhà Hồ.",
   }),
   source({

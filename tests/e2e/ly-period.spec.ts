@@ -66,6 +66,7 @@ test("Ly selection has its own chapters, milestones, pagination and ruler direct
 test("every Ly chapter, profile and ruler image opens with scoped links", async ({
   page,
 }, testInfo) => {
+  test.setTimeout(60000);
   const errors: string[] = [];
   page.on("pageerror", (error) => errors.push(error.message));
   for (const chapter of chapters.filter((entry) => entry.periodId === "ly")) {

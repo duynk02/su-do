@@ -13,6 +13,10 @@ import {
 import { statusLabels } from "../src/data/schema";
 const illustrated = people.filter((person) => person.mediaAssetId);
 const rulers = tenures.filter((tenure) => tenure.role === "reigning");
+const illustratedPeriodNames = periods
+  .filter((period) => rulers.some((ruler) => ruler.periodId === period.id))
+  .map((period) => period.name.replace(/^Nhà /, ""))
+  .join("–");
 
 const registry = [
   "# Danh mục nguồn đã đọc",
@@ -49,6 +53,9 @@ const audit = [
   "- Nhân Tông–Thần Tông: giữ năm Đinh Mùi 1127 theo quy ước nguồn Việt; niên hiệu Thiên Thuận từ 1128. Dương Hoán là con Sùng Hiền hầu, được Nhân Tông nhận nuôi, không vẽ thành cha đẻ–con. Cao Tông đăng cơ 1175, Trinh Phù từ 1176; Huệ Tông đăng cơ 1210, Kiến Gia từ 1211.",
   "- Tô Hiến Thành: không gán năm sinh 1102 hoặc đỗ khoa 1138 khi nghiên cứu Hán Nôm còn lưu ý giới hạn chứng cứ. Đỗ Anh Vũ được trình bày qua vai trò và sự kiện sử chép, không lặp nhãn đạo đức của sử quan.",
   "- Nam quốc sơn hà: không khẳng định Lý Thường Kiệt là tác giả; giữ dị bản, tác giả chưa xác định và phân biệt chuyện thần đọc thơ với diễn biến chiến tranh. Gia thế Lý Công Uẩn, chuyện thác sinh của Thần Tông và vụ hóa hổ Lê Văn Thịnh không được dùng làm dữ kiện siêu nhiên đã chứng minh.",
+  "- Nhà Hồ: Hán Thương nhận ngôi cuối năm 1400, niên hiệu Thiệu Thành bắt đầu 1401; tách vai trò vua và Thượng hoàng. Huy Ninh là mẹ Hán Thương, chưa có căn cứ coi bà là mẹ Nguyên Trừng. Việc Quý Ly/Hán Thương bị bắt năm 1407 không xác định năm mất.",
+  "- Cải cách Hồ: tiền giấy/hạn điền khởi đầu dưới nhà Trần; hạn nô không phải giải phóng toàn bộ người lệ thuộc. Kho thường bình 1401 và quy chế thi viết chữ/toán 1404 được trình bày cùng trở ngại thực thi sử chép. Không lấy mục tiêu chính sách hoặc lời ca ngợi của bài tổng quan làm bằng chứng thành công.",
+  "- Đa Bang: giữ năm đầu 1407 theo nghiên cứu quân sự và ghi cách đặt trận ở cuối năm Bính Tuất của Toàn thư; không tự chuyển ngày âm. Các lần bắt giữ ở Chỉ Chỉ, Kỳ La, Cao Vọng không gộp vào một tọa độ. Không dựng giai thoại ải Nam Quan hoặc cho rằng Nguyên Trừng phát minh súng đầu tiên thế giới.",
   "- Trần Thừa: tách vai trò Thượng hoàng và miếu hiệu truy tôn khỏi trị vì. Thứ tự anh/em với Trần Tự Khánh khác nguồn; không dựng thứ bậc.",
   "- Nhân Tông: dùng 1278 theo Thế thứ và Trung tâm Bảo tồn Di sản Thăng Long; bài biên niên ghi 1279. Không tự giải thích dị biệt bằng lịch khi chưa khảo cứu.",
   "- Nhân Tông: Thế thứ ghi thời gian Thượng hoàng trước xuất gia 1293–1299, trong khi Việt Nam sử lược còn gọi Nhân Tông Thượng hoàng lúc mất năm 1308. Vai trò 1293–1308 là thời gian mang tôn hiệu; không đồng nhất với trực tiếp điều hành chính sự. Ngày mất 1/11 trong bài di sản khác 3/11 trong Thế thứ; hồ sơ chỉ ghi năm 1308.",
@@ -83,7 +90,7 @@ const audit = [
   "- Đối chiếu bản in và thông tin thư mục của các trích đoạn sách/Toàn thư; xác định nguồn phụ thuộc chung.",
   "- Nghiên cứu sâu đê điều, văn học, kiến trúc, đời sống dân thường, quan hệ khu vực; hiện chỉ tóm lược phần có căn cứ.",
   "- Bổ sung các vai trò Thượng hoàng, niên hiệu và tuổi thọ bằng nguồn cụ thể; không tự lấy từ trí nhớ.",
-  "- Lý có mười chương bản đầu, Trần giữ chín chương. Các thời kỳ ngoài hai bộ này chủ yếu có khung điều hướng hoặc phần nối chuyển triều; không công bố tất cả triều đại đã hoàn chỉnh.",
+  "- Lý có mười chương, Trần giữ chín chương, Hồ có tám chương bản đầu. Các thời kỳ ngoài ba bộ này chủ yếu có khung điều hướng; không công bố tất cả triều đại đã hoàn chỉnh.",
   "- Geometry lịch sử, tuyến hành quân và định vị Hải Ấp/Đông Bộ Đầu/Bạch Đằng chưa đủ căn cứ.",
   "",
   "Kiểm tra tự động không chứng minh lịch sử đúng; người biên tập phải rà từng liên kết hỗ trợ thực tế.",
@@ -137,9 +144,9 @@ writeFileSync(
   [
     "# Hình minh họa nhân vật",
     "",
-    `${illustrated.length}/${people.length} hồ sơ có hình; ${rulers.filter((ruler) => people.find((person) => person.id === ruler.personId)?.mediaAssetId).length}/${rulers.length} người giữ ngôi trong các bộ Lý–Trần có hình.`,
+    `${illustrated.length}/${people.length} hồ sơ có hình; ${rulers.filter((ruler) => people.find((person) => person.id === ruler.personId)?.mediaAssetId).length}/${rulers.length} người giữ ngôi trong các bộ ${illustratedPeriodNames} có hình.`,
     "",
-    "Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, thông tin tra cứu tại public/images/people/provenance.json và public/images/people/ly/provenance.json.",
+    "Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, các catalog provenance.json nằm trong public/images/people/ và các thư mục thời kỳ bên trong.",
     "",
     "| Nhân vật | Loại hình | Tệp ảnh |",
     "|---|---|---|",

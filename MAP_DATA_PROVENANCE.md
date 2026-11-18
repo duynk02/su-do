@@ -22,6 +22,7 @@ Tọa độ từ bảng di sản UNESCO, đổi DMS sang độ thập phân theo
 | Kiếp Bạc | cùng bảng, component 002 | Điểm đền tưởng niệm; không phải chiến trường Bạch Đằng |
 | Yên Tử / chùa Lân | cùng bảng, component 003 | Điểm chùa Lân, không đại diện toàn dãy Yên Tử |
 | Tây Đô | [1358/maps](https://whc.unesco.org/en/list/1358/maps/), component 001 | Nội thành di tích hiện nay |
+| Đàn Nam Giao, Tây Đô | cùng bảng, component 003, N20 2 44 E105 37 15.99 | Điểm khu di tích đàn tế; không phục dựng từng công trình nghi lễ |
 
 Chỉ chép số tọa độ thực tế, không sao chép bản đồ/geometry ranh khu di sản của UNESCO. Không đặt tọa độ cho Hải Ấp, Đông Bộ Đầu hoặc chiến trường Bạch Đằng. Chúng nằm trong danh sách văn bản với trạng thái tương đối.
 
@@ -38,6 +39,8 @@ Các điểm sau chỉ đại diện khu di tích hiện nay. Tọa độ tham k
 | Đền Đô | `[105.96028, 21.10722]` | [Lý Bát Đế Temple](https://en.wikipedia.org/wiki/L%C3%BD_B%C3%A1t_%C4%90%E1%BA%BF_Shrine) |
 
 Không dùng điểm trung tâm Tràng An để gán cho Hoa Lư; không đồng nhất Đền Đô với kinh đô hoặc ngôi mộ cụ thể. Như Nguyệt chỉ lưu không gian ven sông Cầu, Vân Đồn là hệ thống nhiều bến, nên cả hai giữ `coordinates: null` và nằm trong danh sách văn bản. Thăng Long dùng chung điểm UNESCO đã có, bắt đầu liên hệ từ mốc dời đô 1010.
+
+Bộ Hồ dùng lại điểm Tây Đô và thêm Nam Giao theo bảng UNESCO. Đa Bang, Hàm Tử và các địa danh bắt giữ họ Hồ tại Kỳ La/Cao Vọng giữ tọa độ null; không đặt một điểm giả định cho chuỗi bắt người ở nhiều nơi. Thăng Long/Đông Đô là hồ sơ dùng chung, chỉ xuất hiện sau chuyển kinh đô khi được bài đọc giữ làm điểm tham chiếu lịch sử.
 
 `Place.mapLabel` chứa vị trí nhãn cho khung rộng/hẹp; chỉ phục vụ trình bày và không làm thay đổi tọa độ tư liệu. Đã tách nhãn Văn Miếu khỏi nút Lớp bản đồ và kiểm tra ở desktop/mobile.
 

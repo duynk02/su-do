@@ -3,10 +3,12 @@ import { familyRelationships } from "../families";
 import { rulerRows } from "./people";
 import { lyEarlyRelationships, lyEarlyTenures } from "../periods/ly/early";
 import { lyLateRelationships, lyLateTenures } from "../periods/ly/late";
+import { hoRelationships } from "../periods/ho/people-war";
 
 export const relationships: Relationship[] = [
   ...lyEarlyRelationships,
   ...lyLateRelationships,
+  ...hoRelationships,
   ...familyRelationships,
   ...["tran-thua", "tran-tu-khanh", "tran-thi-dung"].map((to) => ({
     id: `rel-ly-${to}`,

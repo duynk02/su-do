@@ -1,8 +1,10 @@
 import catalog from "../../public/images/people/provenance.json";
 import lyCatalog from "../../public/images/people/ly/provenance.json";
+import hoCatalog from "../../public/images/people/ho/provenance.json";
 import type { MediaAsset, Source } from "./schema";
 
-const portraits = [...catalog.assets, ...lyCatalog.assets];
+const portraits = [...catalog.assets, ...lyCatalog.assets, ...hoCatalog.assets];
+const illustrations = [...lyCatalog.illustrations, ...hoCatalog.illustrations];
 export const personMediaAssets: MediaAsset[] = portraits.map((asset) => ({
   id: `image-${asset.personIds[0]}`,
   src: asset.src,
@@ -38,36 +40,32 @@ export const personMediaSources: Source[] = portraits.map((asset) => ({
   limits: `${asset.note} ${asset.changes}`,
 }));
 
-export const lyIllustrationAssets: MediaAsset[] = lyCatalog.illustrations.map(
-  (asset) => ({
-    id: asset.id,
-    src: asset.src,
-    title: asset.title,
-    alt: asset.title,
-    date: asset.date,
-    kind: asset.kind as MediaAsset["kind"],
-    creator: asset.creator,
-    credit: asset.credit,
-    license: asset.license,
-    sourceId: asset.sourceId,
-    note: asset.note,
-    width: asset.width,
-    height: asset.height,
-  }),
-);
-export const lyIllustrationSources: Source[] = lyCatalog.illustrations.map(
-  (asset) => ({
-    id: asset.sourceId,
-    title: asset.title,
-    author: null,
-    publisher: asset.publisher,
-    year: null,
-    edition: null,
-    url: asset.sourceUrl,
-    accessed: asset.accessed,
-    type: "collection",
-    upstream: asset.originalUrl,
-    readLocation: asset.readLocation,
-    limits: `${asset.note} ${asset.changes}`,
-  }),
-);
+export const illustrationAssets: MediaAsset[] = illustrations.map((asset) => ({
+  id: asset.id,
+  src: asset.src,
+  title: asset.title,
+  alt: asset.title,
+  date: asset.date,
+  kind: asset.kind as MediaAsset["kind"],
+  creator: asset.creator,
+  credit: asset.credit,
+  license: asset.license,
+  sourceId: asset.sourceId,
+  note: asset.note,
+  width: asset.width,
+  height: asset.height,
+}));
+export const illustrationSources: Source[] = illustrations.map((asset) => ({
+  id: asset.sourceId,
+  title: asset.title,
+  author: null,
+  publisher: asset.publisher,
+  year: null,
+  edition: null,
+  url: asset.sourceUrl,
+  accessed: asset.accessed,
+  type: "collection",
+  upstream: asset.originalUrl,
+  readLocation: asset.readLocation,
+  limits: `${asset.note} ${asset.changes}`,
+}));

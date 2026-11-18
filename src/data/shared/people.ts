@@ -4,6 +4,7 @@ import { biographies } from "../biographies";
 import { familyPeople } from "../families";
 import { lyPeople } from "./ly-people";
 import { lySharedPersonUpdates } from "./ly-late-people";
+import { hoPeople, hoSharedPersonUpdates } from "./ho-people";
 
 export const rulerRows: [string, string, string, number, number, string?][] = [
   ["tran-canh", "Trần Thái Tông", "Trần Cảnh", 1225, 1258, "1225/1226–1258"],
@@ -217,8 +218,8 @@ for (const [personId, biography] of Object.entries(biographies)) {
 }
 
 people.find((person) => person.id === "tran-canh")!.periodIds = ["ly", "tran"];
-people.push(...lyPeople);
-for (const update of lySharedPersonUpdates) {
+people.push(...lyPeople, ...hoPeople);
+for (const update of [...lySharedPersonUpdates, ...hoSharedPersonUpdates]) {
   const person = people.find((entry) => entry.id === update.personId);
   if (!person)
     throw new Error(`Shared profile has no person: ${update.personId}`);
@@ -234,3 +235,7 @@ people.find((person) => person.id === "thuan-thien")!.periodIds = [
   "ly",
   "tran",
 ];
+for (const id of ["huy-ninh", "kham-thanh", "tran-thieu-de"]) {
+  const person = people.find((entry) => entry.id === id)!;
+  person.periodIds = [...new Set([...person.periodIds, "ho"])];
+}

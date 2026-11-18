@@ -2,7 +2,7 @@
 
 Khám phá Việt Nam qua từng lớp thời gian.
 
-Atlas lịch sử tương tác bằng tiếng Việt. Nhà Lý có 10 chương và chín người giữ ngôi; nhà Trần giữ chín chương cùng phần nối sang Hồ. Các thời kỳ khác có khung đến năm 1900. Nội dung lịch sử đi kèm chú thích nguồn mở được trong trang.
+Atlas lịch sử tương tác bằng tiếng Việt. Nhà Lý có 10 chương, nhà Trần chín chương và nhà Hồ tám chương; các thời kỳ khác có khung đến năm 1900. Nội dung lịch sử đi kèm chú thích nguồn mở được trong trang.
 
 ## Chạy local
 
@@ -50,7 +50,7 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 - `src/data/schema.ts`: các thực thể sử học; `claim-store.ts`: tạo khẳng định/dẫn nguồn; `history.ts`: bộ tổng hợp dữ liệu tĩnh; `sources.ts`: nguồn đã đọc.
 - `src/data/periods/{ly,tran,ho}/`: mỗi bộ có metadata, chương, sự kiện và nhiệm kỳ. `periods/index.ts` là nơi đăng ký bộ nội dung; thêm thời kỳ không cần gắn tên hay số chương vào component.
 - `src/data/shared/`: hồ sơ nhân vật, quan hệ và địa điểm dùng chung theo ID. `Person.periodIds` cho phép một người xuất hiện ở nhiều thời kỳ; Chiêu Hoàng, Trần Cảnh và Hồ Quý Ly không có hồ sơ trùng. `biographies.ts`/`families.ts` giữ các đoạn và nhánh nhà Trần đã biên soạn.
-- `person-media.ts` đọc hai catalog trong `public/images/people/`, gắn hình với hồ sơ chuẩn. 35/43 nhân vật có hình, gồm đủ 22 người giữ ngôi của hai thời Lý–Trần; có thêm hai ảnh di tích trong bài đọc Lý. Tranh, tượng và ảnh tái dựng được phân biệt, không khẳng định là chân dung đương thời. Xem `IMAGE_COVERAGE.md`.
+- `person-media.ts` đọc các catalog trong `public/images/people/`, gắn hình với hồ sơ chuẩn. 39/47 nhân vật có hình, gồm đủ 24 người giữ ngôi Lý–Trần–Hồ. Bài đọc có ảnh di tích, hiện vật và bản tái dựng được ghi rõ loại. Xem `IMAGE_COVERAGE.md`.
 - `src/lib/history.ts`: bộ chọn dữ liệu theo thời kỳ, tìm kiếm không dấu, quy ước thời gian, đọc/ghi URL và ngữ cảnh điều hướng. Liên kết nhà Trần cũ giữ được; trang mặc định vẫn mở bộ Trần.
 - `src/lib/relations-layout.ts`: chọn phạm vi quan hệ theo loại và bố trí phả hệ theo tầng; `src/components/relations.tsx`: bộ lọc Gia đình/Kế vị/Chính trị, thu phóng và mở hồ sơ từ ô nhân vật.
 - Bản đồ SVG dùng d3-geo, tải module và GeoJSON khi cần; không cần WebGL. Đã đọc [tài liệu d3-geo](https://d3js.org/d3-geo) và [Next.js static exports](https://nextjs.org/docs/app/guides/static-exports).
@@ -62,11 +62,11 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 
 ## Giới hạn biên soạn
 
-43 hồ sơ có đoạn giới thiệu; 15 hồ sơ mới về nhà Lý có các mục chi tiết, Chiêu Hoàng được bổ sung bối cảnh lên ngôi và chuyển triều trong cùng hồ sơ cũ. Có phả hệ Thái Tổ–Thái Tông–Thánh Tông–Nhân Tông; nhánh Sùng Hiền hầu–Thần Tông phân biệt cha đẻ với nhận nuôi. Niên đại sống chỉ bổ sung khi nguồn hỗ trợ; năm sinh Nhật Lễ và năm mất Thiếu Đế vẫn chưa rõ.
+47 hồ sơ có đoạn giới thiệu và dẫn nguồn. Ngoài các hồ sơ Lý–Trần, bộ Hồ bổ sung Hán Thương, Nguyên Trừng, Phi Khanh và Nguyễn Trãi giai đoạn đầu, cùng hậu vận Quý Ly. Phả hệ nối Hán Thương với Huy Ninh/Minh Tông và nhánh Khâm Thánh–Thiếu Đế; không suy Huy Ninh là mẹ Nguyên Trừng. Niên đại sống chỉ bổ sung khi nguồn hỗ trợ; năm mất Quý Ly/Hán Thương và Thiếu Đế vẫn chưa xác định trong dữ liệu đang dẫn.
 
 Chưa có biên tập viên/chuyên gia lịch sử duyệt. “Đã đối chiếu nguồn” chỉ nói về việc so sánh nguồn. Chưa có dữ liệu ranh giới lịch sử đủ căn cứ; website không dựng polygon lãnh thổ. Các địa điểm không đủ tọa độ vẫn nằm trong danh sách văn bản.
 
-Lý có 10 chương bản đầu từ 1009 đến 1225/1226, gồm dời đô, luật pháp, quốc hiệu, khoa cử, kháng Tống, giao thương và biến động cuối triều; Trần giữ chín chương. Chiều sâu chưa đồng đều, đặc biệt đời sống dân thường và các chuyên đề kinh tế–xã hội. Những thời kỳ ngoài Lý–Trần chủ yếu là khung hoặc phần nối. Một số nguồn là bài đăng lại/bản chuyển dạng chưa xác nhận ấn bản; giới hạn ghi trong hồ sơ nguồn.
+Lý có 10 chương bản đầu từ 1009 đến 1225/1226; Trần giữ chín chương. Hồ có tám chương từ bối cảnh cuối Trần đến chiến tranh 1406–1407 và hậu vận nhân vật, 15 sự kiện, hai vua cùng vai trò Thượng hoàng riêng. Cải cách được trình bày cả mục tiêu lẫn giới hạn thực thi. Chiều sâu chưa đồng đều; các thời kỳ ngoài Lý–Trần–Hồ chủ yếu là khung. Một số nguồn là bài đăng lại/bản chuyển dạng chưa xác nhận ấn bản; giới hạn ghi trong hồ sơ nguồn.
 
 Thêm nội dung theo `DATA_MODEL.md` và `HISTORICAL_EDITORIAL_POLICY.md`, rồi chạy kiểm tra dữ liệu. Test tự động không chứng minh lịch sử đúng.
 

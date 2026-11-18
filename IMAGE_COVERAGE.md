@@ -1,8 +1,8 @@
 # Hình minh họa nhân vật
 
-35/43 hồ sơ có hình; 22/22 người giữ ngôi trong các bộ Lý–Trần có hình.
+39/47 hồ sơ có hình; 24/24 người giữ ngôi trong các bộ Lý–Trần–Hồ có hình.
 
-Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, thông tin tra cứu tại public/images/people/provenance.json và public/images/people/ly/provenance.json.
+Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, các catalog provenance.json nằm trong public/images/people/ và các thư mục thời kỳ bên trong.
 
 | Nhân vật | Loại hình | Tệp ảnh |
 |---|---|---|
@@ -49,3 +49,7 @@ Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng đ
 | Tô Hiến Thành | Ảnh tượng thờ | [Xem ảnh](public/images/people/ly/to-hien-thanh.jpg) |
 | Đỗ Anh Vũ | Chưa chọn hình phù hợp | — |
 | Sùng Hiền hầu | Chưa chọn hình phù hợp | — |
+| Hồ Hán Thương | Minh họa tái dựng | [Xem ảnh](public/images/people/ho/ho-han-thuong-illustration.png) |
+| Hồ Nguyên Trừng | Tranh minh họa | [Xem ảnh](public/images/people/ho/ho-nguyen-trung-illustration.jpg) |
+| Nguyễn Phi Khanh | Tranh minh họa | [Xem ảnh](public/images/people/ho/nguyen-phi-khanh-illustration.jpg) |
+| Nguyễn Trãi | Tranh minh họa | [Xem ảnh](public/images/people/ho/nguyen-trai-portrait.jpg) |

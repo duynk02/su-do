@@ -143,21 +143,6 @@ export const events: HistoricalEvent[] = [
     precisionNote:
       "Vị trí hôn lễ và ranh giới hai châu Ô, Lý chưa được xác định chắc chắn.",
   },
-  {
-    id: "nha-ho-1400",
-    periodIds: ["tran", "ho"],
-    name: "Chuyển từ Trần sang Hồ",
-    date: date(1400, 1400, "1400"),
-    placeIds: ["tay-do"],
-    personIds: ["ho-quy-ly", "tran-thieu-de"],
-    contextClaimIds: ["ho-reform-dates"],
-    developmentClaimIds: ["tran-ending"],
-    resultClaimIds: [],
-    consequence:
-      "Một chính sách bắt đầu trước năm 1400 nên được đặt trong bối cảnh cuối Trần hay chỉ kể trong nhà Hồ?",
-    consequenceKind: "editorial-question",
-    precisionNote: "",
-  },
 ];
 
 events.push(

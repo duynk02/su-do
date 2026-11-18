@@ -1,14 +1,17 @@
 import { date, type Place } from "../schema";
 import { lyPlaces } from "../periods/ly/places";
+import { hoPlaces } from "../periods/ho/places";
 
 const dms = (d: number, m: number, s: number) => d + m / 60 + s / 3600;
 export const places: Place[] = [
   ...lyPlaces,
+  ...hoPlaces,
   {
     id: "thang-long",
     name: "Thăng Long",
     names: [
       { label: "Khu trung tâm Hoàng thành Thăng Long (di sản hiện nay)" },
+      { label: "Đông Đô", date: date(1397, 1408, "Cuối Trần – thời Hồ") },
     ],
     type: "capital",
     locationType: "representative",
@@ -17,7 +20,7 @@ export const places: Place[] = [
     coordinateMethod: "Đổi DMS sang độ thập phân, không hiệu chỉnh vị trí",
     precision: "Điểm di sản đại diện kinh thành; không định vị điện Thiên An",
     claimIds: ["thang-long"],
-    periodIds: ["ly", "tran"],
+    periodIds: ["ly", "tran", "ho"],
     validFrom: 1010,
     validTo: 1397,
     mapLabel: { regular: [-18, 40], compact: [-18, 60] },
@@ -72,7 +75,7 @@ export const places: Place[] = [
   },
   {
     id: "tay-do",
-    mapLabel: { regular: [20, 12], compact: [20, 12] },
+    mapLabel: { regular: [20, 12], compact: [-18, 60] },
     name: "Tây Đô",
     names: [{ label: "Thành nhà Hồ · Inner Citadel 1358-001" }],
     type: "capital",

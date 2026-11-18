@@ -1,5 +1,6 @@
 import { expect, test } from "@playwright/test";
 import catalog from "../../public/images/people/provenance.json";
+import { people } from "../../src/data/history";
 
 test("sourced profile images load, retain credits and adapt to the reader width", async ({
   page,
@@ -62,7 +63,11 @@ test("character directory exposes the expanded images and opens each profile", a
 }, testInfo) => {
   await page.goto("/?period=tran&view=people&mode=story");
   const directory = page.locator(".person-directory");
-  await expect(directory.locator("img")).toHaveCount(catalog.assets.length);
+  await expect(directory.locator("img")).toHaveCount(
+    people.filter(
+      (person) => person.periodIds.includes("tran") && person.mediaAssetId,
+    ).length,
+  );
   await expect(
     directory.getByRole("button", { name: "Trần Thiếu Đế", exact: true }),
   ).toBeAttached();
