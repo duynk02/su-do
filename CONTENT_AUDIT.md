@@ -810,6 +810,1345 @@ Loại: chronicle. Trạng thái: Đang biên soạn.
 - [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Đầu năm 1407, tờ 1a–3b: rút quân và bị bắt. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Hồ Hán Thương (1401–1407)](https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-han-thuong-1401-1407-.html) — Các đoạn cuối: rút về Thanh Hóa và bị bắt ở vùng Kỳ La. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
+### nd-origins
+
+Trước thời Ngô, Dương Đình Nghệ đã đánh đuổi quân Nam Hán năm 931 và nắm quyền với chức Tiết độ sứ. Năm 937, ông bị thuộc tướng Kiều Công Tiễn giết để đoạt quyền. Ngô Quyền, người từng được giao cai quản Ái Châu và là con rể Đình Nghệ, đưa quân ra chống Công Tiễn.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 18a–19a: các năm 931, 937–938. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Các đoạn bối cảnh 930–938. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bach-dang-context
+
+Kiều Công Tiễn cầu viện Nam Hán khi bị Ngô Quyền tiến đánh. Vua Nam Hán sai con là Hoằng Tháo đưa thủy quân sang; Công Tiễn đã bị giết trước khi đoàn quân ấy tới.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 19a–19b: Mậu Tuất 938. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bach-dang-development
+
+Sử chép Ngô Quyền bố trí cọc ngầm và dựa vào thủy triều trên sông Bạch Đằng. Thuyền nhẹ nhử quân Nam Hán tiến vào khi nước lên; lúc nước rút, quân của ông phản công, khiến đoàn thuyền đối phương mắc trong trận địa.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 19b–20a: kế hoạch và diễn biến trận đánh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Các đoạn thế trận cọc ngầm, nghi binh và thủy triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bach-dang-result
+
+Quân Nam Hán thất bại, Hoằng Tháo tử trận và lực lượng tiếp ứng rút lui. Chiến thắng năm 938 tạo điều kiện để Ngô Quyền xây dựng vương quyền độc lập ở Cổ Loa vào năm sau.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20a–21a: kết quả trận đánh, xưng vương 939. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Đoạn ý nghĩa chiến thắng và định đô 939. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-coronation
+
+Mùa xuân năm 939, Ngô Quyền xưng vương, chọn Cổ Loa làm kinh đô, lập Dương thị làm hoàng hậu và đặt quan chức, nghi lễ, phẩm phục triều đình. Đây là mốc tổ chức vương triều sau chiến thắng Bạch Đằng, khác với năm diễn ra trận đánh.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b–21a: Kỷ Hợi 939. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Đoạn cuối về Cổ Loa và xưng vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-succession-944
+
+Ngô Quyền mất năm 944. Dương Tam Kha, người có quan hệ anh/em với Dương hoàng hậu, nhận việc giúp các con vua nhưng nắm lấy quyền và xưng Bình Vương. Ngô Xương Ngập phải lánh nạn, còn Xương Văn được Tam Kha nhận nuôi.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn. Sự giành quyền gắn với năm 944; niên mục riêng của Tam Kha trong bản Toàn thư bắt đầu Ất Tỵ 945. Nguồn giữ cả cách gọi anh và em của Dương hậu, nên không chọn một thứ bậc chắc chắn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21a–22a: Ngô Quyền mất và Dương Tam Kha. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 66–68: họ Ngô–Dương và biến động quyền lực. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-recovery
+
+Năm 950, Ngô Xương Văn cùng Dương Cát Lợi và Đỗ Cảnh Thạc quay quân về lật đổ Dương Tam Kha. Tam Kha không bị giết mà bị giáng làm Chương Dương công. Niên mục năm 951 ghi Xương Văn xưng Nam Tấn Vương và đón anh về cùng coi chính sự.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 22b–23b: Canh Tuất 950, Tân Hợi 951. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 68: phục hồi vương quyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-shared-rule
+
+Ngô Xương Văn và Ngô Xương Ngập cùng giữ vương quyền từ năm 951, mang hiệu Nam Tấn Vương và Thiên Sách Vương. Xương Ngập mất năm 954; Xương Văn tiếp tục cầm quyền đến khi tử trận năm 965. Giai đoạn 951–954 có hai người cùng trị vì.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 23a–24b: hai vương, năm 954 và 965. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III, phần chính quyền Ngô Vương — Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-fragmentation
+
+Sau khi Ngô Xương Văn mất năm 965, quyền lực trung ương suy yếu và các thủ lĩnh địa phương tranh giữ những vùng khác nhau. Sử gọi giai đoạn phân tranh này là mười hai sứ quân; Ngô Xương Xí giữ Bình Kiều, Trần Lãm giữ Bố Hải Khẩu, còn Đinh Bộ Lĩnh phát triển lực lượng từ Hoa Lư.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 24b–26a: năm 965 và mục Ngô sứ quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 73–75: nguồn gốc và địa bàn các thế lực vùng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-unification
+
+Đinh Bộ Lĩnh liên kết với Trần Lãm rồi tiếp nhận lực lượng của ông, kết hợp thu phục và đánh dẹp các thế lực cát cứ. Năm 968, Bộ Lĩnh lên ngôi hoàng đế, đặt quốc hiệu Đại Cồ Việt và xây dựng kinh đô Hoa Lư.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25b–26a: Trần Lãm và Đinh Bộ Lĩnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 1a–3a: Mậu Thìn 968. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 75–76: quá trình thống nhất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-government
+
+Triều Đinh đặt niên hiệu Thái Bình từ năm 970. Năm 971, sử ghi việc định cấp bậc văn võ và tăng đạo: Nguyễn Bặc làm Định quốc công, Lưu Cơ coi hình án, Lê Hoàn giữ chức Thập đạo tướng quân; Ngô Chân Lưu được ban hiệu Khuông Việt đại sư.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3a–4a: các năm 970–971. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 81–82: tổ chức quan lại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-diplomacy
+
+Đinh Liễn mang tước Nam Việt Vương và giữ vai trò quan trọng trong bang giao với nhà Tống. Ông đi sứ năm 972, trở về năm 973; đến năm 975 được phía Tống gia phong Giao Chỉ Quận Vương. Tước phong trong quan hệ đối ngoại không đồng nghĩa với việc ông thay cha giữ ngôi hoàng đế trong nước.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3a–4b: phong Nam Việt Vương 969, sứ bộ 972–973 và gia phong 975. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-scripture
+
+Các cột kinh Phật do Đinh Liễn cho dựng ở Hoa Lư có niên đại trong khoảng 973–979. Minh văn ghi tên Đinh Khuông Liễn, tước vị, lời cầu chúc và việc cầu siêu; một cột nhắc đến người em đã bị ông làm hại. Những văn bản trên đá bổ sung tiếng nói đương thời cho các ghi chép sử học về sau.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html) — Các mục niên đại, lạc khoản cột 667–Đ26 và tên Đinh Khuông Liễn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 90–91: cột kinh và sinh hoạt Phật giáo. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-succession-978
+
+Năm 978, Đinh Tiên Hoàng lập người con nhỏ Hạng Lang làm thái tử và phong Đinh Toàn làm Vệ Vương. Sử chép Đinh Liễn, người con trưởng từng cùng cha gây dựng lực lượng, bất bình và sai giết Hạng Lang vào mùa xuân năm 979.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 4b–5b: Mậu Dần 978 và mùa xuân Kỷ Mão 979. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html) — Đoạn lạc khoản cầu siêu cho em trai. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-crisis-979
+
+Mùa đông năm 979, Đinh Tiên Hoàng và Đinh Liễn cùng bị giết. Toàn thư quy việc sát hại cho nội nhân Đỗ Thích và chép Nguyễn Bặc bắt, giết người này. Hai nhân vật chủ chốt qua đời trong cùng biến cố, sau việc thái tử Hạng Lang bị giết đầu năm, khiến triều đình rơi vào khủng hoảng kế vị.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn. Trình bày theo cách quy trách nhiệm của sử liệu; không đưa điềm sao rơi hoặc giả thuyết âm mưu chưa chứng minh thành dữ kiện.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 5b–7a: vụ giết vua, Liễn và lên ngôi của Toàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 93–95: khủng hoảng vương triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-minority
+
+Đinh Toàn, con Đinh Tiên Hoàng và Dương thái hậu, lên ngôi khi còn nhỏ sau biến cố năm 979. Lê Hoàn nắm quân đội và nhiếp chính. Nhà Đinh kết thúc khi Hoàn được tôn làm vua năm 980; Toàn trở lại tước Vệ Vương.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a: Phế Đế, nhiếp chính; mục Canh Thìn 980: tôn Lê Hoàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b: Dương thị là vợ Tiên Hoàng, mẹ Vệ Vương Toàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-civil-conflict
+
+Trong thời gian Đinh Toàn còn nhỏ và Lê Hoàn nhiếp chính, Nguyễn Bặc, Đinh Điền và Phạm Hạp đem quân chống Hoàn vì lo ngôi vua họ Đinh bị đe dọa. Lực lượng này thất bại: Điền tử trận, Bặc bị bắt rồi giết, Hạp cũng bị bắt. Các sử gia đời sau đánh giá khác nhau về tính chính đáng của hai phía.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn. Nguồn thuật lại xung đột trong đoạn cuối thời Đinh, không xác định cùng một ngày tháng cho mọi nhân vật. Không lặp lời gọi loạn tặc hoặc trung nghĩa như sự phân loại khách quan.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a: hai đường thủy bộ chống Lê Hoàn và kết quả. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 14b–15a: lời bàn khác nhau của Lê Văn Hưu và Ngô Sĩ Liên. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 95–96: xung đột sau biến cố 979. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-overview
+
+Từ vương triều Ngô ở Cổ Loa đến triều Đinh ở Hoa Lư, thế kỷ X chứng kiến việc xây dựng chính quyền độc lập, khủng hoảng kế vị và phân tranh giữa các thế lực vùng. Quốc hiệu Đại Cồ Việt có từ năm 968; nền quân chủ được củng cố qua tổ chức triều đình, ngoại giao và những mạng lưới tôn giáo. Việc một triều đại ra đời không làm chấm dứt ngay các xung đột quyền lực.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b–26a: vương quyền và phân tranh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 2b–8a: quốc hiệu, bộ máy và xung đột. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Chương II, trang in 66–96. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-quyen
+
+Ngô Quyền là người chỉ huy chiến thắng Bạch Đằng năm 938 và người mở đầu vương triều Ngô. Từng làm tướng của Dương Đình Nghệ ở Ái Châu, ông tiến đánh Kiều Công Tiễn rồi chống quân Nam Hán. Năm 939, ông xưng vương và định đô ở Cổ Loa, tổ chức triều đình riêng. Ông mất năm 944; việc kế vị sau đó dẫn tới biến động giữa hai họ Ngô và Dương.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 19a–22a: Bạch Đằng, Tiền Ngô Vương và Tam Kha. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Tiểu sử và đoạn định đô Cổ Loa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-quyen-family
+
+Toàn thư ghi Ngô Quyền là con châu mục Ngô Mân, người Đường Lâm. Ông làm thuộc tướng của Dương Đình Nghệ, được gả con gái và giao quản Ái Châu. Mối gắn bó giữa quân sự và hôn nhân nối họ Ngô với gia đình đang đứng đầu chính quyền tự chủ trước năm 938.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b: thân thế và quan hệ với Đình Nghệ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-quyen-dates
+
+Bản Toàn thư đang dẫn ghi khoảng đời 898–944, còn bài tổng hợp của Bảo tàng Lịch sử Quốc gia dùng 897–944. Cả hai đều đặt năm mất ở 944; mốc 938 là chiến thắng, còn 939 là năm xưng vương. Các mốc này cần được đọc riêng thay vì gộp thành một ngày lập triều.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20a–21a: niên đại và xưng vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Dòng niên đại mở đầu và đoạn cuối. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-duong-dinh-nghe
+
+Dương Đình Nghệ là thủ lĩnh từ Ái Châu đã đánh đuổi quân Nam Hán khỏi Đại La năm 931, rồi tự xưng Tiết độ sứ. Ngô Quyền từng làm tướng và là con rể của ông. Năm 937, thuộc tướng Kiều Công Tiễn giết Đình Nghệ để chiếm quyền; biến cố ấy dẫn tới cuộc tiến quân của Ngô Quyền và cuộc can thiệp của Nam Hán năm 938.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 18a–20b: các năm 931, 937 và thân thế Ngô Quyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Các đoạn Dương Đình Nghệ và Kiều Công Tiễn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-duong-dinh-nghe-position
+
+Đình Nghệ dùng danh hiệu Tiết độ sứ sau khi đẩy lùi lực lượng Nam Hán. Ngô Quyền tiếp nối cuộc đấu tranh giữ quyền tự chủ nhưng đến năm 939 chuyển sang xưng vương. Đình Nghệ vì thế xuất hiện trong câu chuyện mở đầu thời Ngô, dù ông đã mất trước khi vương triều được lập.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 18a–21a: Đình Nghệ và Ngô Quyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-duong-dinh-nghe-name
+
+Tư liệu có cả cách viết Dương Đình Nghệ và Dương Diên Nghệ. Chú thích của bản Toàn thư đang dùng nêu sự khác nhau giữa các bộ sử và khả năng nhầm nét chữ; hồ sơ gộp hai cách gọi vào cùng một người.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Chú thích 219 về chữ Đình và Diên. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-kieu-cong-tien
+
+Kiều Công Tiễn là thuộc tướng đã giết Dương Đình Nghệ năm 937 để đoạt chức Tiết độ sứ. Khi Ngô Quyền đưa quân từ Ái Châu ra đánh, ông cầu cứu Nam Hán. Công Tiễn bị giết trước khi quân cứu viện đến; đoàn thủy quân do Hoằng Tháo chỉ huy sau đó vẫn tiến vào Bạch Đằng và bị đánh bại.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 19a–20a: Đinh Dậu 937, Mậu Tuất 938. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ngô Quyền và chiến thắng Bạch Đằng năm 938](https://baotanglichsu.vn/VI/Articles/3098/13934/ngo-quyen-va-chien-thang-bach-djang-nam-938.html) — Các đoạn bối cảnh cuộc xâm lược lần thứ hai. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-kieu-cong-tien-context
+
+Việc cầu viện khiến tranh chấp quyền lực tại Đại La gắn với ý đồ can thiệp của Nam Hán. Toàn thư tách hai diễn biến: Ngô Quyền trừ Công Tiễn trước, rồi chuẩn bị đánh đoàn quân sang sau. Công Tiễn không phải người trực tiếp chỉ huy quân Nam Hán trong trận Bạch Đằng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 19a–19b: Công Tiễn đã chết khi Hoằng Tháo tiến vào. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-duong-hau-ngo
+
+Dương hoàng hậu nhà Ngô là con gái Dương Đình Nghệ, được gả cho Ngô Quyền và được lập làm hoàng hậu năm 939. Bà thuộc nhánh gia đình nối họ Dương với hai người con nối nghiệp họ Ngô là Xương Ngập và Xương Văn. Dương Tam Kha là anh hoặc em của bà theo những cách ghi được Toàn thư lưu lại; đây là quan hệ giúp giải thích vì sao ông được giao giúp các con vua.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b–22a: gả con gái, lập Dương thị, Tam Kha. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III, phần chính quyền Ngô Vương — Tiền Ngô Vương và Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-duong-hau-ngo-distinction
+
+Sau khi Ngô Quyền mất, Dương Tam Kha giữ quyền còn các con vua ở những hoàn cảnh khác nhau: Xương Ngập lánh nạn, Xương Văn được nhận nuôi, Nam Hưng và Càn Hưng còn nhỏ theo Dương quốc mẫu. Quan hệ thân tộc gần gũi không ngăn được tranh chấp vương quyền.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b–22a: Dương quốc mẫu và các con Ngô Quyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-duong-tam-kha
+
+Dương Tam Kha là người trong gia đình Dương hoàng hậu, được Ngô Quyền giao giúp các con trước lúc mất. Ông nắm quyền và xưng Bình Vương, khiến Xương Ngập phải chạy trốn; Xương Văn được ông nhận làm con nuôi. Năm 950, Xương Văn cùng các tướng quay quân lật đổ ông. Tam Kha được tha chết, giáng làm Chương Dương công và cấp thực ấp.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b–23a: toàn mục Dương Tam Kha. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 66–68: chuyển quyền sau 944. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-xuong-ngap
+
+Ngô Xương Ngập là con trưởng của Ngô Quyền. Sau khi cha mất và Dương Tam Kha chiếm quyền, ông trốn đến Trà Hương nhờ Phạm Lệnh Công che chở. Năm 951, người em Xương Văn đón ông về cùng coi việc nước; ông xưng Thiên Sách Vương. Xương Ngập mất năm 954, kết thúc giai đoạn hai anh em cùng giữ vương quyền.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b–24b: chạy trốn, trở về và năm mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-xuong-ngap-exile
+
+Sử chép Phạm Lệnh Công nhiều lần che giấu Xương Ngập khi Tam Kha sai người truy tìm. Việc ông trở về chỉ diễn ra sau khi Xương Văn đã lật đổ Tam Kha; đó không phải một lần kế vị diễn ra liên tục ngay từ năm 944.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b–23b: Phạm Lệnh Công và phục hồi họ Ngô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-xuong-van
+
+Ngô Xương Văn là con thứ của Ngô Quyền, từng được Dương Tam Kha nhận nuôi. Ông cùng các tướng lật đổ Tam Kha năm 950, rồi xưng Nam Tấn Vương năm 951 và mời anh là Xương Ngập cùng trị vì. Sau khi anh mất năm 954, Xương Văn tiếp tục giữ ngôi. Năm 965, ông bị trúng tên và tử trận khi đi đánh hai thôn Đường, Nguyễn ở Thái Bình theo địa danh sử cũ.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 22b–25a: Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-xuong-van-last
+
+Cái chết của Xương Văn làm triều đình Cổ Loa mất người đứng đầu có khả năng chi phối các thế lực vùng. Những lực lượng địa phương đã tồn tại trong thời Ngô tiếp tục phân tranh. Tên Thái Bình trong sử liệu về trận cuối đời ông không tự động tương đương tỉnh Thái Bình hiện nay.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 24b–25b và chú thích 230 về hai thôn Đường, Nguyễn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 68–69: biến cố 965. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-xuong-xi
+
+Ngô Xương Xí là con Ngô Xương Ngập và thuộc thế hệ cháu của Ngô Quyền. Sau khi Ngô Xương Văn mất, ông giữ vùng Bình Kiều và được kể trong danh sách mười hai sứ quân. Một số sách gọi ông là người nối nghiệp họ Ngô, nhưng phạm vi quyền lực thực tế chỉ là một thế lực địa phương trong giai đoạn phân tranh.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25a–25b: Ngô sứ quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — Hậu Ngô Vương và danh sách 12 sứ quân, mục 01. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-ngo-xuong-xi-role
+
+Xương Xí giúp nối phả hệ từ Ngô Quyền qua Xương Ngập tới giai đoạn cuối thời Ngô. Trong Toàn thư, ông nằm ở mục sứ quân bên cạnh các thủ lĩnh khác; không có một niên hiệu hay khoảng trị vì toàn quốc riêng được xác nhận trong đoạn này.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25a–26a: cấu trúc mục Ngô sứ quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — danh sách 12 sứ quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-bo-linh
+
+Đinh Tiên Hoàng, thường gọi Đinh Bộ Lĩnh, là người thống nhất các thế lực sứ quân và mở đầu triều Đinh. Ông xuất thân từ gia đình Đinh Công Trứ, gây dựng lực lượng ở Hoa Lư và liên kết với Trần Lãm. Năm 968, ông xưng hoàng đế, đặt quốc hiệu Đại Cồ Việt, định đô Hoa Lư; niên hiệu Thái Bình được dùng từ 970. Năm 979, ông và người con trưởng Đinh Liễn cùng bị giết, để lại ngôi vua cho Đinh Toàn còn nhỏ.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 1a–7a: thân thế, 968, 970 và biến cố 979. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III, phần triều Đinh — Đinh Tiên Hoàng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-bo-linh-origins
+
+Cha của Bộ Lĩnh là Đinh Công Trứ, từng làm tướng cho Dương Đình Nghệ rồi giữ chức ở Hoan Châu. Bộ Lĩnh lớn lên trong môi trường hào trưởng ở Hoa Lư. Việc đi theo Trần Lãm giúp ông tiếp nhận thêm lực lượng; quan hệ này được sử chép là nhận làm con nuôi, khác với huyết thống của gia đình họ Đinh.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 1a: Đinh Công Trứ và mẹ họ Đàm. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25b–26a: Trần Minh Công nhận Bộ Lĩnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-lien
+
+Đinh Liễn là con trưởng của Đinh Tiên Hoàng, từng cùng cha gây dựng lực lượng và được phong Nam Việt Vương. Ông đảm nhiệm bang giao với nhà Tống, đồng thời cho dựng các cột kinh Phật ở Hoa Lư. Việc Hạng Lang được chọn làm thái tử dẫn tới xung đột giữa các con vua; sử chép Liễn sai giết người em này năm 979. Cuối năm ấy, Liễn cùng cha bị sát hại.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3a–6a: tước Nam Việt Vương, bang giao và các vụ giết năm 979. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html) — Niên đại cột kinh và tên Đinh Khuông Liễn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-hang-lang
+
+Đinh Hạng Lang là người con nhỏ của Đinh Tiên Hoàng được lập làm thái tử năm 978. Sự lựa chọn này đặt ông vào vị trí kế vị trước người anh Đinh Liễn, vốn có công cùng cha và giữ vai trò đối ngoại. Toàn thư chép Liễn sai giết Hạng Lang vào mùa xuân năm 979. Vụ việc là một mắt xích quan trọng trong khủng hoảng của hoàng gia trước khi vua và Liễn cùng bị giết cuối năm.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 4b–6a: lập thái tử và các biến cố 978–979. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-hang-lang-pillars
+
+Bài giới thiệu cột kinh của cơ quan văn hóa Ninh Bình liên hệ người em được nhắc trong lời cầu siêu của Đinh Khuông Liễn với Hạng Lang. Lạc khoản bộc lộ cách người dựng cột giải thích hành động của mình, vì vậy không thể dùng những lời quy lỗi trong đó như kết luận trung lập về người đã chết.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html) — Bản dịch lạc khoản 667–Đ26 và đoạn giá trị lịch sử văn hóa. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-phe-de
+
+Đinh Phế Đế, tên húy Đinh Toàn, là con Đinh Tiên Hoàng và Dương thái hậu. Ông được đưa lên ngôi sau khi cha và anh Đinh Liễn bị giết năm 979, khi còn rất nhỏ. Lê Hoàn giữ quân đội và nhiếp chính, rồi được tôn làm vua năm 980 trước nguy cơ chiến tranh với nhà Tống. Toàn trở lại tước Vệ Vương và tiếp tục sống trong thời Tiền Lê.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a, mục Canh Thìn 980: vua nhỏ và chuyển ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b: mẹ Vệ Vương Toàn là Dương thị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-phe-de-death
+
+Niên mục năm Tân Sửu 1001 của Toàn thư ghi Vệ Vương Toàn trúng tên chết khi theo Lê Đại Hành đánh Cử Long. Tuy vậy, phần giới thiệu Phế Đế ở đầu cùng bộ sử và bản Thế thứ đang dẫn lại ghi năm 991. Hồ sơ dùng mốc 1001 theo niên mục sự kiện, đồng thời giữ cách ghi 991 để người đọc thấy điểm chưa thống nhất.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn. Không suy từ tuổi thọ theo lối tính truyền thống để tự sửa năm trong các nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 23b: Tân Sửu, Ứng Thiên thứ 8, năm 1001. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a: phần đầu Phế Đế ghi 974–991. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — Đinh Phế Đế: mất Tân Mão 991. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-nguyen-bac
+
+Nguyễn Bặc là công thần của Đinh Tiên Hoàng, được ghi nhận với tước Định quốc công năm 971. Sau vụ sát hại vua và Đinh Liễn năm 979, ông góp phần xử lý Đỗ Thích. Khi Đinh Toàn lên ngôi còn nhỏ, Bặc cùng Đinh Điền và Phạm Hạp đem quân chống Lê Hoàn vì lo quyền lực họ Đinh bị thay thế. Ông thất bại, bị bắt và bị giết.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3b, 6a–8a: chức tước, Đỗ Thích và chống Lê Hoàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Ai là tể tướng đầu tiên trong lịch sử Việt Nam?](https://baotanglichsu.vn/vi/Articles/3098/15741/ai-la-te-tuong-djau-tien-trong-lich-su-viet-nam.html) — Các đoạn Định quốc công 971 và xung đột sau Đinh Tiên Hoàng mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-nguyen-bac-court
+
+Nguyễn Bặc thuộc nhóm giúp Đinh Bộ Lĩnh dựng chính quyền sau thời phân tranh. Tước Định quốc công được chính sử ghi trong đợt xác lập cấp bậc năm 971. Đó là vị trí trong triều đình nhà Đinh, khác với các danh xưng tôn vinh được truyền lại ở đền thờ về sau.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3b: định cấp bậc năm 971. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 75, 81–82: công thần và quan lại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-dien
+
+Đinh Điền là công thần trong lực lượng của Đinh Bộ Lĩnh và giữ chức Ngoại giáp ở triều Đinh. Sau biến cố năm 979, ông cùng Nguyễn Bặc, Phạm Hạp chống Lê Hoàn, người đang nắm quân đội và nhiếp chính cho Đinh Toàn. Cuộc tiến quân không thành; Toàn thư chép Điền bị giết tại trận. Vai trò của ông làm rõ sự chia rẽ trong chính những người từng cùng gây dựng triều Đinh.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a: Ngoại giáp và cuộc xung đột. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 75, 82, 95–96: lực lượng công thần và chống Lê Hoàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-dinh-dien-office
+
+Công trình Lịch sử Việt Nam xếp Đinh Điền trong nhóm tướng giúp Bộ Lĩnh xây dựng lực lượng và mô tả chức Ngoại giáp phụ trách quân bên ngoài. Tư liệu hiện dùng không đủ để khẳng định quan hệ cha con hay anh em ruột giữa ông với Đinh Tiên Hoàng chỉ từ việc cùng họ Đinh.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 75, 81–82: tướng lĩnh và chức Ngoại giáp. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-tran-lam
+
+Trần Lãm, còn gọi Trần Minh Công, là thủ lĩnh ở Bố Hải Khẩu trong thời phân tranh sau nhà Ngô. Đinh Bộ Lĩnh cùng con là Liễn đến nương tựa; Toàn thư chép Lãm nhận Bộ Lĩnh làm con nuôi và giao quân. Sau khi Lãm mất, Bộ Lĩnh tiếp tục phát triển lực lượng để thống nhất các thế lực địa phương.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25b–26a: Trần Minh Công và Đinh Bộ Lĩnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — danh sách 12 sứ quân, mục 02. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-bio-tran-lam-alliance
+
+Vai trò của Trần Lãm cho thấy quá trình thống nhất không chỉ gồm những trận đánh giữa hai phía. Liên kết, tiếp nhận quân và sự quy phục của các thủ lĩnh cũng giúp Đinh Bộ Lĩnh mở rộng quyền lực. Quan hệ nhận nuôi được ghi ở đây không thay cha đẻ của Bộ Lĩnh là Đinh Công Trứ.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25b–26a: nhận nuôi, giao quân và Phạm Phòng Át hàng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 75–76: liên minh và thu phục. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-ngo-court-result
+
+Vương quyền được đặt tại Cổ Loa với nghi lễ và quan chức riêng. Ngô Quyền giữ ngôi đến năm 944; những ghi chép hiện dùng không cho phép tái dựng đầy đủ sơ đồ từng cơ quan hoặc vị trí từng cung điện thời Ngô.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b–21a: xưng vương, đặt trăm quan và năm mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-ngo-succession-result
+
+Dòng kế vị dự định của họ Ngô bị gián đoạn. Sự phân tán của các con Ngô Quyền và việc các tướng nắm lực lượng riêng làm cho tranh chấp ở triều đình gắn với quyền lực địa phương.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b–23a: các con Ngô Quyền và tướng dưới Tam Kha. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 66–68: xáo trộn triều đình. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-ngo-recovery-result
+
+Vương quyền họ Ngô được phục hồi dưới hai người con của Ngô Quyền. Đồng trị không loại bỏ khác biệt quyền lực: sử chép quan hệ giữa Thiên Sách Vương và Nam Tấn Vương nảy sinh hiềm khích trước khi Xương Ngập mất năm 954.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 23b–24b: hai vương và quan hệ trong chính sự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-fragmentation-result
+
+Không một thủ lĩnh riêng lẻ nào ngay lập tức thay triều đình Cổ Loa kiểm soát toàn bộ các vùng. Đinh Bộ Lĩnh dần giành ưu thế qua liên minh và quân sự, rồi xưng hoàng đế năm 968.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25a–26a: các sứ quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 1a–2b: thống nhất và xưng đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-state-result
+
+Hoa Lư trở thành trung tâm chính trị của nhà Đinh. Đế hiệu và quốc hiệu được xác lập từ 968, còn niên hiệu Thái Bình xuất hiện từ 970; ba yếu tố ấy không cùng bắt đầu tại một mốc.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 2b–3a: Mậu Thìn 968 và Canh Ngọ 970. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-government-result
+
+Quan lại văn võ và chức vụ tăng đạo cùng hiện diện trong triều đình. Các vị trí của Lê Hoàn, Nguyễn Bặc và giới tăng sĩ cho thấy nhiều nhóm cùng tham gia bộ máy, đồng thời giúp giải thích vì sao việc vua mất có thể dẫn đến tranh chấp giữa các công thần.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3b–4a, 7a–8a: quan chức và nhiếp chính. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 81–82: công thần và cao tăng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-diplomacy-context
+
+Sau khi lập triều, nhà Đinh duy trì giao thiệp với nhà Tống đang mở rộng quyền lực ở phía bắc. Đinh Liễn được cha phong Nam Việt Vương năm 969 và trở thành nhân vật đảm nhiệm những sứ bộ quan trọng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3a–4a: các năm 969–973. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-diplomacy-result
+
+Phía Tống ban chức tước cho cả Bộ Lĩnh và Liễn theo khuôn khổ bang giao của mình. Trong khi ấy, triều đình Hoa Lư vẫn dùng đế hiệu và quốc hiệu Đại Cồ Việt trong nước; cần phân biệt hai ngữ cảnh khi đọc các danh hiệu.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 2b–4b: đế hiệu ở Hoa Lư và sắc phong từ Tống. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-scripture-context
+
+Phật giáo có chỗ đứng trong đời sống và triều đình Đại Cồ Việt. Bên cạnh chức vụ tăng đạo trong sử chép, những cột kinh đá còn lại ở Hoa Lư là một loại bằng chứng vật chất và chữ viết của chính thế kỷ X.
+
+Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3b: chức tăng đạo. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html) — Các mục hiện vật nguyên gốc và minh văn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-scripture-result
+
+Minh văn bổ sung tên đệm Khuông của Đinh Liễn và cho biết cách người dựng cột cầu phúc, cầu siêu. Các cột có nhiều niên đại nên không thể coi mọi văn bản đều phản ánh cùng một biến cố gia đình hoặc cùng một mục đích.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Những giá trị nổi bật của Bảo vật quốc gia – Sưu tập cột kinh Phật thời Đinh ở Bảo tàng Ninh Bình](https://vhtt.ninhbinh.gov.vn/vi/di-san-van-hoa/nhung-gia-tri-noi-bat-cua-bao-vat-quoc-gia-suu-tap-cot-kinh-phat-thoi-dinh-o-bao-tang-ninh-binh-1263.html) — Niên đại 973–979, tên Đinh Khuông Liễn và bản dịch lạc khoản. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-civil-result
+
+Sau khi phe Nguyễn Bặc–Đinh Điền thất bại, Lê Hoàn tiếp tục giữ quyền nhiếp chính và điều khiển quân đội. Việc chuyển ngôi năm 980 diễn ra trên nền khủng hoảng kế vị, chia rẽ trong triều và áp lực quân sự từ nhà Tống.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a và mục 980: nội chiến, tin quân Tống và tôn vua. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 95–96: cục diện sau biến cố. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-family-dinh-nghe-daughter-claim
+
+Dương hoàng hậu của Ngô Quyền là con gái Dương Đình Nghệ.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b: Đình Nghệ gả con gái cho Ngô Quyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-family-dinh-nghe-tam-kha-claim
+
+Dương Tam Kha là con Dương Đình Nghệ theo phần khảo cứu về gia đình Ngô–Dương.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 67: Tam Kha là con trai Đình Nghệ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Chú thích 225 dẫn Việt sử tiêu án về Tam Kha. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-marriage-ngo-quyen-duong-hau-claim
+
+Ngô Quyền lấy con gái Dương Đình Nghệ và lập Dương thị làm hoàng hậu năm 939.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b–21a: hôn nhân và hoàng hậu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-father-ngo-quyen-ngo-xuong-ngap-claim
+
+Ngô Xương Ngập là con trưởng của Ngô Quyền.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b–23b: các con và Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-father-ngo-quyen-ngo-xuong-van-claim
+
+Ngô Xương Văn là con thứ của Ngô Quyền.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b–23b: các con và Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-mother-duong-hau-ngo-xuong-ngap-claim
+
+Dương hoàng hậu nhà Ngô là mẹ của Ngô Xương Ngập.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — Tiền Ngô Vương, Dương Bình Vương và Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-mother-duong-hau-ngo-xuong-van-claim
+
+Dương hoàng hậu nhà Ngô là mẹ của Ngô Xương Văn.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — Tiền Ngô Vương, Dương Bình Vương và Hậu Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-sibling-ngo-brothers-claim
+
+Ngô Xương Ngập và Ngô Xương Văn là hai anh em; năm 951, Văn đón anh về cùng coi việc nước.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 23b: Tân Hợi 951. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-family-xuong-ngap-xuong-xi-claim
+
+Ngô Xương Xí là con của Thiên Sách Vương Ngô Xương Ngập, được Thế thứ liệt kê ở mục sứ quân Bình Kiều.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương III — danh sách 12 sứ quân, mục 01. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-adoption-tam-kha-xuong-van-claim
+
+Dương Tam Kha nhận Ngô Xương Văn làm con nuôi khi nắm vương quyền; không phải cha đẻ của Xương Văn.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21b và 22b: nhận nuôi, tha tội khi bị lật đổ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-ngo-quyen-dinh-nghe-service-claim
+
+Ngô Quyền làm tướng và được Dương Đình Nghệ giao quản Ái Châu trước khi dựng vương triều Ngô.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 20b: tiểu sử Tiền Ngô Vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-tam-kha-takeover-claim
+
+Sau khi Ngô Quyền mất năm 944, Dương Tam Kha chiếm quyền và xưng Bình Vương. Đây không phải việc cha truyền ngôi cho con.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 21a–22a: Ngô Quyền mất và Tam Kha. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-succession-tam-kha-xuong-van-claim
+
+Ngô Xương Văn lật đổ Dương Tam Kha năm 950 và xưng Nam Tấn Vương trong niên mục 951.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 22b–23b: 950 và 951. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-co-rule-claim
+
+Từ năm 951 đến năm 954, Nam Tấn Vương Ngô Xương Văn và Thiên Sách Vương Ngô Xương Ngập cùng giữ vương quyền.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 23b–24b: cùng coi việc nước và Xương Ngập mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-lam-bo-linh-claim
+
+Toàn thư chép Trần Lãm nhận Đinh Bộ Lĩnh làm con nuôi và giao cho coi quân. Cha đẻ Bộ Lĩnh là Đinh Công Trứ, không phải Trần Lãm.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Ngoại kỷ V, từ Dương Đình Nghệ đến cuối thời Ngô](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-9) — Tờ 25b–26a: Trần Minh Công. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 1a: Đinh Công Trứ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-father-bo-linh-dinh-lien-claim
+
+Đinh Liễn là con của Đinh Tiên Hoàng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3a–7a: các con và kế vị triều Đinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-father-bo-linh-dinh-hang-lang-claim
+
+Đinh Hạng Lang là con của Đinh Tiên Hoàng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3a–7a: các con và kế vị triều Đinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-father-bo-linh-dinh-phe-de-claim
+
+Đinh Toàn là con của Đinh Tiên Hoàng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 3a–7a: các con và kế vị triều Đinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-sibling-lien-hang-lang-claim
+
+Đinh Liễn là anh của Hạng Lang; xung đột ngôi thái tử kết thúc bằng việc Liễn sai giết người em năm 979 theo Toàn thư.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 5a–5b: mùa xuân 979. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-succession-bo-linh-toan-claim
+
+Đinh Toàn lên ngôi sau khi Đinh Tiên Hoàng và Đinh Liễn cùng bị giết năm 979.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 6a–7a: cuối 979 và Phế Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-bo-linh-nguyen-bac-claim
+
+Nguyễn Bặc là công thần trong lực lượng và triều đình của Đinh Bộ Lĩnh.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 75, 81–82: tướng lĩnh và quan lại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-bo-linh-dinh-dien-claim
+
+Đinh Điền là công thần trong lực lượng và triều đình của Đinh Bộ Lĩnh.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Lịch sử Việt Nam, tập 2: Từ thế kỷ X đến thế kỷ XIV](https://thuvientinh.quangngai.gov.vn/wp-content/uploads/2020/12/001-192.pdf) — Trang in 75, 81–82: tướng lĩnh và quan lại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-toan-nguyen-bac-claim
+
+Nguyễn Bặc chống Lê Hoàn khi lo quyền nhiếp chính đe dọa ngôi vua của Đinh Toàn.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a: động cơ và cuộc xung đột. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-toan-dinh-dien-claim
+
+Đinh Điền chống Lê Hoàn khi lo quyền nhiếp chính đe dọa ngôi vua của Đinh Toàn.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a: động cơ và cuộc xung đột. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-against-hoan-nguyen-bac-claim
+
+Nguyễn Bặc cùng các quan khác đem quân chống Lê Hoàn rồi thất bại trong giai đoạn cuối thời Đinh.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a: thủy bộ chống Lê Hoàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### nd-political-against-hoan-dinh-dien-claim
+
+Đinh Điền cùng các quan khác đem quân chống Lê Hoàn rồi thất bại trong giai đoạn cuối thời Đinh.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7a–8a: thủy bộ chống Lê Hoàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-accession-context
+
+Sau khi Đinh Tiên Hoàng và Đinh Liễn bị giết năm 979, Đinh Toàn còn nhỏ lên ngôi. Lê Hoàn giữ quyền nhiếp chính trong lúc triều đình chia rẽ; nhà Tống chuẩn bị tiến quân, khiến việc tổ chức chỉ huy trở thành vấn đề cấp bách.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Bản kỷ I, tờ 7b–10a: Phế Đế, nhiếp chính và chuẩn bị của nhà Tống. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Các đoạn từ biến cố 979 đến đề nghị của Phạm Cự Lạng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-accession-development
+
+Năm 980, Phạm Cự Lạng cùng các tướng đề nghị tôn Lê Hoàn lên ngôi trước khi xuất quân. Toàn thư chép Dương thái hậu chấp thuận và cho khoác áo long cổn lên Lê Hoàn; Đinh Toàn bị giáng làm Vệ vương. Cuộc thay ngôi đưa người đang nắm quân đội lên đứng đầu triều đình.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 9b–10a: Phạm Cự Lạng, Dương hậu và áo long cổn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Lê Hoàn được tôn lập năm Canh Thìn 980. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-accession-result
+
+Nhà Tiền Lê bắt đầu năm 980. Lê Hoàn tiếp tục dùng quốc hiệu Đại Cồ Việt và đóng đô ở Hoa Lư; thay đổi dòng vua không đồng nghĩa với việc đặt quốc hiệu hoặc kinh đô mới.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn nhà Tiền Lê thành lập, quốc hiệu và kinh đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 13a–13b: chức vụ thời Đinh và định đô Hoa Lư. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-war-981-context
+
+Nhà Tống muốn khai thác biến động trong triều Đinh để đưa Đại Cồ Việt vào vòng kiểm soát. Sau khi lên ngôi, Lê Hoàn vừa chuẩn bị quân đội vừa dùng thư từ ngoại giao để ứng phó; chiến tranh diễn ra năm 981, sau cuộc chuyển ngôi năm 980.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 9a–12b: kế hoạch nhà Tống và thư qua lại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Mùa xuân năm 981 — Kháng chiến chống quân Tống lần thứ nhất thắng lợi](https://baotanglichsu.vn/vi/Articles/2002/68137/mua-xuan-nam-981-khang-chien-chong-quan-tong-lan-thu-nhat-thang-loi.html) — Các đoạn chuẩn bị 980 và tiến công mùa xuân 981. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-war-981-development
+
+Quân Tống tiến theo các đường thủy và bộ; sử cũ nhắc tới Bạch Đằng, Lạng Sơn và Tây Kết. Lê Hoàn trực tiếp chỉ huy chống giữ. Hầu Nhân Bảo bị giết, các cánh quân Tống không đạt được mục tiêu; vị trí và trình tự một số trận đánh còn được giải thích khác nhau trong các tài liệu.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 14a–15b: các cánh quân Tống, Hầu Nhân Bảo và việc rút quân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Mùa xuân năm 981 — Kháng chiến chống quân Tống lần thứ nhất thắng lợi](https://baotanglichsu.vn/vi/Articles/2002/68137/mua-xuan-nam-981-khang-chien-chong-quan-tong-lan-thu-nhat-thang-loi.html) — Các đoạn Bạch Đằng, Bình Lỗ và kết thúc chiến tranh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn thuật trận 981 theo một cách đặt địa điểm khác. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-war-981-result
+
+Cuộc tiến công của nhà Tống thất bại, nền tự chủ của Đại Cồ Việt được giữ vững. Quan hệ giữa hai bên sau chiến tranh dần trở lại qua sứ bộ và phong tước; thắng lợi quân sự và hoạt động ngoại giao là hai phần nối tiếp của quá trình bảo vệ chính quyền độc lập.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b và các mục bang giao tiếp theo. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Mùa xuân năm 981 — Kháng chiến chống quân Tống lần thứ nhất thắng lợi](https://baotanglichsu.vn/vi/Articles/2002/68137/mua-xuan-nam-981-khang-chien-chong-quan-tong-lan-thu-nhat-thang-loi.html) — Đoạn kết quả quân Tống rút về và quan hệ đối ngoại. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-champa-982-context
+
+Sau chiến tranh với nhà Tống, triều đình Hoa Lư tiếp tục phải xử lý quan hệ với Champa ở phía nam. Toàn thư ghi một sứ bộ do Lê Hoàn cử đi bị phía Champa giữ lại; sử Việt đặt việc này trong bối cảnh chiến dịch năm 982.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Mục Nhâm Ngọ 982, tờ 16a–16b: sứ Từ Mục, Ngô Tử Canh và việc đánh Chiêm Thành. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn sứ bộ bị giữ và chiến dịch 982. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-champa-982-development
+
+Năm 982, Lê Hoàn đích thân chỉ huy chiến dịch đánh Champa. Nguồn sử Việt thuật việc vua Champa tử trận, kinh thành bị phá và nhiều người cùng tài sản bị đưa về. Đây là một cuộc chiến gây tổn thất cho phía Champa, cần được nhìn cả từ những hệ quả đối với cư dân và quan hệ hai nước.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 16a–16b: chiến dịch và những người bị bắt. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn năm 982. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-champa-982-result
+
+Chiến dịch giúp triều Tiền Lê thể hiện sức mạnh ở phía nam, nhưng quan hệ với Champa còn tiếp tục qua xung đột, sứ bộ và những nhóm người qua lại. Không thể lấy riêng cuộc tiến quân năm 982 để suy ra một đường biên giới mới đã được xác định.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 16a–18a: chiến dịch 982, việc Lưu Kế Tông và sứ bộ những năm sau. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-tich-dien-context
+
+Sản xuất nông nghiệp là nền tảng nuôi sống cư dân và cung cấp nguồn lực cho triều đình. Bên cạnh tổ chức quân đội và cung điện, thời Lê Hoàn còn được sử liệu ghi lại qua việc cày tịch điền, khơi sông và mở đường.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn hoạt động xây dựng, nông nghiệp, đường sá. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Hoàn, nhà vua đầu tiên cày tịch điền](https://dsvh.gov.vn/Upload/files/Tap%20chi%20DSVH/So%2020/2013_Le%20Hoan%20nha%20vua%20dau%20tien%20cay%20tich%20dien.pdf) — Trang đầu: ý nghĩa khuyến nông của tịch điền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-tich-dien-development
+
+Mùa xuân năm 987 theo Toàn thư, Lê Hoàn cày ruộng tịch điền ở núi Đọi. Việc nhà vua trực tiếp xuống ruộng vừa là nghi lễ của vương quyền vừa thể hiện sự quan tâm tới nông nghiệp; Việt sử lược cũng ghi sự kiện nhưng đếm năm niên hiệu khác.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 18a: Đinh Hợi 987, tịch điền ở núi Đọi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Hoàn, nhà vua đầu tiên cày tịch điền](https://dsvh.gov.vn/Upload/files/Tap%20chi%20DSVH/So%2020/2013_Le%20Hoan%20nha%20vua%20dau%20tien%20cay%20tich%20dien.pdf) — Trang đầu: so sánh ghi chép 987 giữa Việt sử lược và Toàn thư. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-tich-dien-result
+
+Các triều sau còn tiếp tục nghi thức tịch điền với địa điểm và cách tổ chức khác nhau. Lễ hội Đọi Sơn ngày nay gợi nhớ một truyền thống lâu dài; hình ảnh phục dựng giúp hình dung nghi lễ nhưng không phải bằng chứng về toàn bộ nghi thức thời Lê Hoàn.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Lê Hoàn, nhà vua đầu tiên cày tịch điền](https://dsvh.gov.vn/Upload/files/Tap%20chi%20DSVH/So%2020/2013_Le%20Hoan%20nha%20vua%20dau%20tien%20cay%20tich%20dien.pdf) — Trang cuối: tịch điền thời Lý và ý nghĩa khuyến nông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-diplomacy-context
+
+Giữ nền tự chủ còn cần giao tiếp với các nước lân bang. Trong triều Tiền Lê, những tăng sĩ thông hiểu chữ Hán và văn chương như Pháp Thuận, Khuông Việt tham gia văn thư, cố vấn và tiếp sứ, bên cạnh các chức vụ chính thức của triều đình.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html) — Mục 1: giao việc văn hàn cho Pháp Thuận. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Trang 15–16 và phần bài từ tiễn sứ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-diplomacy-development
+
+Toàn thư đặt cuộc đón sứ Tống Lý Giác vào năm 987: Pháp Thuận tham gia đón tiếp và đối đáp văn chương, còn Khuông Việt được vua giao soạn bài từ tiễn sứ. Cùng một chuyến đi sứ cho thấy nhiều người đảm nhiệm những phần khác nhau của hoạt động bang giao.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 18a–19a: Thuận đón Giác, Khuông Việt xem thơ và làm bài hát tiễn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html) — Mục 1: so sánh tên Lý Giác/Nguyễn Giác. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Phần đối chiếu bài từ điệu Nguyễn lang quy. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-diplomacy-result
+
+Văn chương trở thành một phương tiện giao tiếp chính trị của triều đình Hoa Lư. Những ghi chép về cuộc tiếp sứ đồng thời bảo lưu dấu tích sáng tác chữ Hán sớm; cách chép tên sứ thần và văn bản thơ, từ có dị biệt giữa các truyền bản.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html) — Phần so sánh bản dịch và chú thích về tên sứ thần. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Tóm tắt và phần khảo dị bài từ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-succession-1005-context
+
+Lê Hoàn có nhiều con trai được phong vương. Long Việt được lập làm thái tử năm 1004, nhưng sau khi vua cha mất năm 1005, các hoàng tử vẫn tranh giành quyền lực; việc đã có người được chọn kế vị không bảo đảm chuyển ngôi yên ổn.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Mục 1004 và tờ 24b–26a về việc Đại Hành mất, tranh ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Lê Trung Tông, được lập thái tử 1004. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-succession-1005-development
+
+Trong năm 1005, Long Việt lên ngôi giữa cuộc tranh chấp của các anh em. Toàn thư chép ông chỉ giữ ngôi ba ngày rồi bị Long Đĩnh, người em cùng mẹ, giết. Long Đĩnh tiếp tục đánh các vương chống đối để củng cố ngôi vua.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 25b–27b: Trung Tông, Long Đĩnh và các vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Trung Tông và Lê Ngọa Triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-succession-1005-result
+
+Lê Long Đĩnh là người giữ ngôi cuối cùng của nhà Tiền Lê, trị vì từ 1005 đến 1009. Chuỗi ba đời vua vì vậy gồm Lê Hoàn, Lê Long Việt và Lê Long Đĩnh; thời gian cầm quyền của họ rất khác nhau.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Ba đời vua 980–1009. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Các mục Đại Hành, Trung Tông và Ngọa Triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-institutions-context
+
+Sau tranh chấp kế vị, Long Đĩnh vừa đối phó những lực lượng chống đối vừa tổ chức lại triều đình. Những hoạt động ấy hiện diện trong sử cũ bên cạnh nhiều lời phê phán về cách ông giành và sử dụng quyền lực.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 27a–28a: đánh các vương và sửa quan chế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-institutions-development
+
+Toàn thư ghi năm 1006, Lê Long Đĩnh sửa quan chế và triều phục của quan văn, quan võ cùng tăng đạo theo thể thức nhà Tống. Việc học một số hình thức tổ chức từ bên ngoài diễn ra trong một triều đình vẫn giữ chính quyền riêng.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 27b, mục Bính Ngọ 1006: quan chế và triều phục. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-institutions-result
+
+Ghi chép này cho thấy những hoạt động tổ chức nhà nước dưới thời Long Đĩnh, dù triều đại ngắn ngủi. Nó không đủ để đánh giá kết quả thực thi của toàn bộ quan chế; cũng không xóa bỏ các biến cố bạo lực được ghi trong cùng nguồn.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 27b–30b: quan chế, bang giao và cách cai trị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-scriptures-context
+
+Bang giao thời Long Đĩnh không chỉ có việc xin phong tước. Triều đình còn quan tâm tới kinh sách và quan hệ Phật giáo; các sứ bộ là một con đường đưa văn bản từ nhà Tống về Đại Cồ Việt.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 28b–29a: sứ bộ và xin kinh Đại Tạng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-scriptures-development
+
+Năm 1007 theo Toàn thư, Lê Long Đĩnh sai em là Minh Xưởng cùng một viên chưởng thư ký sang nhà Tống, trong đó có việc xin kinh Đại Tạng. Cùng năm, nhà Tống phong ông làm Giao Chỉ quận vương và ban tên Chí Trung.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 28b–29a, mục Đinh Mùi 1007: sứ bộ, kinh và sắc phong. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-scriptures-result
+
+Đến mục năm 1009, Toàn thư ghi Minh Xưởng từ nhà Tống trở về và xin được kinh Đại Tạng. Đây là một dấu vết giao lưu văn hóa cuối thời Tiền Lê; ghi chép ấy chưa đủ để xác định số bộ kinh nhận được hoặc gán một hiện vật hiện còn thành chính bản của sứ bộ này.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 28b–29b: xin kinh năm 1007 và Minh Xưởng về năm 1009. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-dynasty-ending
+
+Năm 1009, Lê Long Đĩnh mất khi người con nối còn nhỏ. Lý Công Uẩn, đang giữ quyền chỉ huy quân bảo vệ cung đình, được tôn lên ngôi với sự ủng hộ của Đào Cam Mộc và Vạn Hạnh. Nhà Lý bắt đầu ngay tại Hoa Lư, trước cuộc dời đô năm 1010.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 30b–34b: Long Đĩnh mất, Công Uẩn, Cam Mộc và Vạn Hạnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần I: Công Uẩn lên ngôi 1009, dời đô 1010. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-buddhist-participation
+
+Khuông Việt và Pháp Thuận cho thấy tăng sĩ có thể tham gia việc nước qua học thức, văn thư và ngoại giao. Hành trạng của họ được lưu trong cả chính sử và Thiền uyển tập anh; những lời kể linh ứng trong truyền thống Phật giáo cần được đọc riêng với hoạt động chính trị có thể đối chiếu.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html) — Mục 1: việc nước, văn hàn và tiếp sứ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Trang 12–16: vai trò dưới các vương triều và lớp truyền thuyết. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-dai-hanh-summary
+
+Lê Đại Hành, tên húy Lê Hoàn, là vị vua mở đầu nhà Tiền Lê. Từ chức Thập đạo tướng quân dưới triều Đinh, ông giữ quyền nhiếp chính khi Đinh Toàn còn nhỏ rồi được tôn lên ngôi năm 980. Ông tiếp tục đóng đô tại Hoa Lư, lãnh đạo cuộc kháng chiến chống Tống năm 981 và chiến dịch đánh Champa năm 982. Trong thời gian trị vì đến năm 1005, triều đình mở rộng bang giao, quan tâm nông nghiệp và tổ chức đất nước; sau khi ông mất, tranh chấp kế vị làm hoàng tộc phân hóa.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Hoàn: niên đại và thời gian giữ ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Các đoạn sự nghiệp quân sự, chuyển ngôi, nông nghiệp và bang giao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-dai-hanh-origin
+
+Sử cũ ghi Lê Hoàn xuất thân ở Ái Châu, sớm mồ côi và được một người cùng họ nhận nuôi. Ông phục vụ nhà Đinh rồi nắm lực lượng quân sự quan trọng. Sau biến cố 979, quyền nhiếp chính của ông gặp sự phản đối của Nguyễn Bặc, Đinh Điền và Phạm Hạp. Việc được tôn lập năm 980 vì thế vừa gắn với nhu cầu chống quân Tống vừa là kết quả một cuộc tranh chấp quyền lực trong nước.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 13a–13b: thân thế và chức vụ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 8a–10a: nhiếp chính, khởi binh và tôn lập. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-dai-hanh-title
+
+Lê Hoàn mất năm 1005. Danh xưng Đại Hành trở thành tên gọi quen thuộc của ông, nhưng chính Toàn thư có lời bàn rằng đây vốn là cách gọi hoàng đế mới qua đời trước khi định thụy. Vì thế không nên mặc nhiên hiểu Đại Hành là một miếu hiệu được xác lập giống Thái Tổ hay Thái Tông. Các con tranh ngôi sau khi ông mất, mở đầu biến động kế vị năm 1005.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 24b–26a và lời bàn Lê Văn Hưu về danh xưng Đại Hành. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Hoàn và Lê Trung Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-trung-tong-summary
+
+Lê Trung Tông, tên húy Lê Long Việt, là con Lê Hoàn và người được sử cũ gọi là Chi hậu Diệu Nữ. Ông được chọn làm thái tử năm 1004. Sau khi Lê Hoàn mất, các anh em tranh giành quyền lực; trong năm 1005, Long Việt lên ngôi nhưng theo Toàn thư chỉ được ba ngày thì bị người em cùng mẹ là Long Đĩnh giết. Thời gian trị vì rất ngắn khiến ông không kịp đặt niên hiệu riêng, nhưng vẫn là một người giữ ngôi thực sự trong chuỗi vua Tiền Lê.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Trung Tông: mẹ, năm sinh, thái tử và ba ngày giữ ngôi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 25b–26a: Trung Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-trung-tong-ly-cong-uan
+
+Toàn thư thuật rằng khi Long Việt bị giết, các bề tôi bỏ chạy, còn người giữ quân điện tiền Lý Công Uẩn ôm thi thể vua mà khóc. Sau đó Long Đĩnh vẫn bổ dụng Công Uẩn. Chi tiết này cho thấy Công Uẩn đã có vị trí trong triều Tiền Lê trước khi lên ngôi năm 1009; đó là quan hệ phục vụ triều đình, không phải chứng cứ về huyết thống với hoàng gia.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 26a: Trung Tông bị giết, Công Uẩn và chức Tứ sương quân phó chỉ huy sứ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-long-dinh-summary
+
+Lê Long Đĩnh là con Lê Hoàn, em cùng mẹ của Lê Long Việt. Ông giành ngôi năm 1005 sau khi Trung Tông bị giết, rồi trị vì đến năm 1009. Dưới thời ông, sử cũ ghi việc sửa quan chế, thay triều phục và cử sứ xin kinh Đại Tạng từ nhà Tống. Ông cũng được biết đến qua tên gọi Ngọa Triều và nhiều lời phê phán trong sử sách. Khi ông mất, Lý Công Uẩn được tôn lên ngôi, kết thúc nhà Tiền Lê.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Ngọa Triều: tên, cha mẹ, thời gian trị vì. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 26b–34b: Long Đĩnh, quan chế, sứ bộ và chuyển triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-long-dinh-historiography
+
+Toàn thư gọi Long Đĩnh là Ngọa Triều và giải thích tên gọi bằng một câu chuyện về bệnh khiến vua nằm coi chầu. Nguồn còn lưu nhiều lời lên án đạo đức và các chuyện về hình phạt. Những ghi chép ấy là một phần hình ảnh nhân vật do sử quan truyền lại; chúng không đủ để xác lập chẩn đoán y khoa, cũng không nên thay thế việc xem xét từng hoạt động chính trị được ghi trong cùng thời gian.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 30a–31a: hành vi, cách gọi Ngọa Triều và lời bình sử quan. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-duong-hau-summary
+
+Dương Vân Nga là tên gọi quen thuộc của Dương hậu, người vợ của Đinh Tiên Hoàng và là mẹ Đinh Toàn. Khi con lên ngôi còn nhỏ sau biến cố 979, bà giữ ngôi thái hậu. Năm 980, bà chấp thuận việc tôn Lê Hoàn lên làm hoàng đế trong bối cảnh quân Tống chuẩn bị tiến đánh. Toàn thư ghi đến năm 982, Lê Hoàn lập bà làm Đại Thắng Minh hoàng hậu. Vai trò của bà nối hai triều đại và gắn trực tiếp với cuộc chuyển giao quyền lực tại Hoa Lư.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7b–10a: Phế Đế và vai trò Dương thái hậu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b–16a: Dương thị, vợ Tiên Hoàng, mẹ Toàn và lập hậu 982. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-duong-hau-two-courts
+
+Bản kỷ ghi rõ hai mối liên hệ: Dương hậu từng là vợ Đinh Tiên Hoàng và sau đó được Lê Hoàn lập làm hoàng hậu. Sử quan đời sau phê phán cuộc hôn nhân này theo quan niệm đạo đức đương thời. Có thể nhận diện hành động chính trị năm 980 từ ghi chép ấy mà không cần biến lời phê phán thành kết luận về phẩm hạnh hoặc tự đoán tâm tư của bà.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b–16a: việc lập hậu và lời bàn Ngô Sĩ Liên. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-duong-hau-names
+
+Trong đoạn chính sử đang dẫn, nhân vật được gọi là Dương thị hoặc Dương thái hậu. Tên Vân Nga được dùng ở đây theo cách gọi quen thuộc trong các bài giới thiệu hiện nay. Các đoạn nguồn này không xác định cha mẹ của bà; vì thế hồ sơ không nối bà với Dương Tam Kha hoặc Dương Đình Nghệ chỉ dựa vào cùng họ Dương. Bà cũng không được gán làm mẹ Long Việt hay Long Đĩnh, vì sử cũ ghi mẹ hai vua là Chi hậu Diệu Nữ.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b–16a: Dương thị; tờ 25b–26b: mẹ Long Việt, Long Đĩnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn dùng tên Dương Vân Nga. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-pham-cu-lang-summary
+
+Phạm Cự Lạng, còn được gọi là Phạm Cự Lượng, là tướng có vai trò nổi bật trong việc đưa Lê Hoàn lên ngôi năm 980. Toàn thư ghi khi triều đình chuẩn bị chống quân Tống, ông được chọn làm đại tướng quân rồi cùng các tướng đề nghị tôn người đang giữ quyền chỉ huy quân đội làm hoàng đế. Sự tham gia của ông cho thấy cuộc thay ngôi không chỉ là quyết định của Dương thái hậu mà còn có sự thúc đẩy của lực lượng quân sự.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 9b–10a: Phạm Cự Lạng và đề nghị tôn lập. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn cuộc họp bàn xuất quân và đề nghị của Phạm Cự Lạng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-pham-cu-lang-army
+
+Lập luận được sử cũ thuật lại của Phạm Cự Lạng đặt việc chỉ huy, thưởng công và xử phạt trong chiến tranh bên cạnh tình trạng vua nhỏ. Đây là lời nói được người biên soạn chính sử ghi lại, không phải biên bản đối thoại đương thời. Dù vậy, việc ông cùng các tướng xuất hiện ở Nội phủ là chi tiết quan trọng để hiểu vai trò chính trị của quân đội Hoa Lư.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 9b–10a: lời đề nghị và phản ứng quân sĩ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-pham-cu-lang-family
+
+Chú giải của bản Toàn thư được dẫn ghi Phạm Hạp, người cùng Nguyễn Bặc và Đinh Điền chống Lê Hoàn, là anh của Phạm Cự Lạng. Nếu theo ghi chép này, hai anh em đã có lựa chọn chính trị khác nhau. Chi tiết ấy nhắc rằng quan hệ ruột thịt không tự động đồng nghĩa với cùng phe trong các biến động cuối thời Đinh.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Chú thích 271 về Phạm Cự Lạng, dẫn Đại Việt sử ký tiền biên. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-phap-thuan-summary
+
+Đỗ Pháp Thuận là một thiền sư được ghi nhận có tài văn chương và tham gia việc nước trong buổi đầu nhà Tiền Lê. Theo Thiền uyển tập anh, Lê Hoàn kính trọng ông và giao việc văn thư. Toàn thư ghi ông tham gia đón sứ Tống năm 987, còn truyền thống Phật giáo lưu bài Quốc tộ như lời đáp khi vua hỏi về vận nước. Hình ảnh Pháp Thuận cho thấy học thức của tăng sĩ có vị trí trong đời sống chính trị và ngoại giao thế kỷ X.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html) — Mục 1: hành trạng, năm sinh/mất, văn hàn và Quốc tộ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 18a–18b và chú thích 294: pháp sư Thuận đón sứ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-phap-thuan-quoc-to
+
+Bài Quốc tộ được Thiền uyển tập anh gắn với câu hỏi của Lê Hoàn về vận nước, đặt sự yên ổn và việc giảm đao binh ở trung tâm lời khuyên. Văn bản có giá trị trong lịch sử tư tưởng và văn học; nguồn đang dẫn không đủ để ấn định một ngày hoặc một năm sáng tác chính xác. Các giả thuyết về quê quán Pháp Thuận cũng cần phân biệt với dữ kiện chắc chắn.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html) — Mục 1: Quốc tộ, hành trạng và phần bàn về quê quán. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-khuong-viet-summary
+
+Khuông Việt, tên Ngô Chân Lưu, là tăng sĩ nổi bật dưới triều Đinh và Tiền Lê, còn sống đến đầu thời Lý. Thiền uyển tập anh ghi ông được Đinh Tiên Hoàng phong chức và ban hiệu Khuông Việt. Dưới triều Lê Hoàn, ông tiếp tục tham gia việc triều đình; Toàn thư kể việc ông xem thơ của sứ Tống và được giao làm bài từ tiễn sứ năm 987. Ông mất năm 1011, trong khi năm sinh vẫn có những cách giải thích khác nhau giữa các văn bản và nghiên cứu.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Trang 12–16: hành trạng và tranh luận năm sinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 18b–19a, chú thích 298: Khuông Việt và bài tiễn sứ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-khuong-viet-dinh
+
+Khuông Việt được ghi là người có học thức được Đinh Tiên Hoàng mời vào triều, phong Tăng thống và ban hiệu vào năm Thái Bình thứ hai. Tên hiệu mang ý nghĩa giúp nước Việt, thể hiện sự gắn bó giữa một tăng sĩ và vương quyền. Việc ông tiếp tục xuất hiện trong hoạt động triều Lê Hoàn cho thấy nhân sự có thể đi qua một cuộc thay đổi dòng vua.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Trang 14–16: chức Tăng thống, danh hiệu và tham gia việc nước. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-khuong-viet-dates
+
+Thiền uyển tập anh đặt việc Khuông Việt viên tịch vào năm Thuận Thiên thứ hai, tức 1011. Những con số về tuổi thọ và năm sinh không thống nhất; nghiên cứu còn bàn lại cả cách đọc một số chữ trong truyền bản. Hồ sơ vì vậy không chọn một năm sinh duy nhất, cũng không vẽ quan hệ huyết thống cụ thể với Ngô Quyền chỉ từ các giả thuyết gia phả được dẫn lại.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Trang 13–15: các phương án tuổi thọ, năm sinh và chú thích gia phả. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-van-hanh-summary
+
+Vạn Hạnh là thiền sư ở vùng Cổ Pháp, có quan hệ gần gũi với Lý Công Uẩn và tham gia đời sống chính trị cuối thời Tiền Lê, đầu thời Lý. Sử cũ thuật việc ông khuyến khích Công Uẩn nhận ngôi năm 1009; ông được nhìn nhận là một trong những người tôn phò triều đại mới, bên cạnh Đào Cam Mộc và các quan trong triều. Năm sinh của ông chưa rõ; năm mất có hai cách ghi 1018 và 1025 trong những truyền bản, hiệu đính và nghiên cứu khác nhau.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 31a–33a: Vạn Hạnh và Công Uẩn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ II, phần Lý Thái Tổ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-12) — Tờ 1a–1b: Vạn Hạnh với Công Uẩn thời nhỏ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Như giọt sương đọng trên đầu ngọn cỏ](https://www.khoavanhoc-ngonngu.edu.vn/nghien-cuu/v%C4%83n-h%E1%BB%8Dc-vi%E1%BB%87t-nam/8031-nh%C6%B0-gi%E1%BB%8Dt-s%C6%B0%C6%A1ng-%C4%91%E1%BB%8Dng-tr%C3%AAn-%C4%91%E1%BA%A7u-ng%E1%BB%8Dn-c%E1%BB%8F.html) — Mục 2: hành trạng và bất đồng năm mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-van-hanh-courts
+
+Nghiên cứu về Vạn Hạnh ghi nhận vai trò cố vấn của ông dưới thời Lê Hoàn. Với Lý Công Uẩn, sử liệu đặt ông trong mạng lưới Phật giáo Cổ Pháp từ trước cuộc thay ngôi. Mối liên hệ giữa thiền sư và người giữ quân điện tiền là một phần bối cảnh giúp giải thích việc các tăng sĩ hiện diện bên cạnh quan lại trong quá trình nhà Lý hình thành.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Như giọt sương đọng trên đầu ngọn cỏ](https://www.khoavanhoc-ngonngu.edu.vn/nghien-cuu/v%C4%83n-h%E1%BB%8Dc-vi%E1%BB%87t-nam/8031-nh%C6%B0-gi%E1%BB%8Dt-s%C6%B0%C6%A1ng-%C4%91%E1%BB%8Dng-tr%C3%AAn-%C4%91%E1%BA%A7u-ng%E1%BB%8Dn-c%E1%BB%8F.html) — Mục 2: cố vấn triều Tiền Lê, Cổ Pháp và tôn phò Công Uẩn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ II, phần Lý Thái Tổ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-12) — Tờ 1a–1b: Khánh Văn, Vạn Hạnh và Công Uẩn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-van-hanh-oracles
+
+Toàn thư kể vai trò Vạn Hạnh thông qua những lời khuyên và chuyện sấm báo họ Lý thay họ Lê. Những câu chuyện ấy cho thấy cách sử sách diễn đạt tính chính danh của cuộc chuyển triều. Có thể ghi nhận sự ủng hộ chính trị của Vạn Hạnh mà không coi chữ sấm, điềm lạ hoặc dự đoán linh nghiệm là nguyên nhân siêu nhiên đã được chứng minh.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 31a–33a: sấm, lời khuyên của Vạn Hạnh và đối thoại Công Uẩn–Cam Mộc. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-van-hanh-death
+
+Một số bản nghiên cứu dùng năm 1018, gắn với cách hiệu đính Thiền uyển tập anh của Trần Văn Giáp. Nguyễn Công Lý đối chiếu lại với Việt sử lược và mục Thuận Thiên thứ mười sáu trong Toàn thư để chọn năm 1025. Hồ sơ giữ rõ hai phương án và nguồn lập luận, không tự quyết định một ngày mất hoặc quy đổi một ngày âm lịch thành ngày dương lịch.
+
+Loại: interpretation. Trạng thái: Đã đối chiếu nguồn.
+
+- [Như giọt sương đọng trên đầu ngọn cỏ](https://www.khoavanhoc-ngonngu.edu.vn/nghien-cuu/v%C4%83n-h%E1%BB%8Dc-vi%E1%BB%87t-nam/8031-nh%C6%B0-gi%E1%BB%8Dt-s%C6%B0%C6%A1ng-%C4%91%E1%BB%8Dng-tr%C3%AAn-%C4%91%E1%BA%A7u-ng%E1%BB%8Dn-c%E1%BB%8F.html) — Mục 2: lập luận 1018 và 1025. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ II, phần Lý Thái Tổ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-12) — Tờ 10a, mục Ất Sửu 1025: sư Vạn Hạnh mất. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-cam-moc-summary
+
+Đào Cam Mộc là quan giữ chức Chi hậu cuối thời Tiền Lê, có vai trò trực tiếp trong việc tôn Lý Công Uẩn lên ngôi năm 1009. Theo Toàn thư, sau khi Long Đĩnh mất, ông khuyên Công Uẩn nhận ngôi và vận động các quan cùng suy tôn. Sang thời Lý, ông được phong Nghĩa Tín hầu và kết hôn với công chúa An Quốc, con gái trưởng của Lý Thái Tổ. Ông mất năm 1015, được truy tặng Thái sư Á vương.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 32b–34b: Chi hậu Cam Mộc, tôn lập, phong hầu và hôn nhân. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ II, phần Lý Thái Tổ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-12) — Mục Ất Mão 1015: Đào Cam Mộc chết, tặng Thái sư Á vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-cam-moc-accession
+
+Khi ngôi vua để lại cho người con còn nhỏ của Long Đĩnh, Đào Cam Mộc đã khuyến khích Công Uẩn nhận ngôi rồi bàn với các quan để tổ chức suy tôn. Cách thuật của sử cũ nhấn mạnh vai trò vận động và quyết định của con người trong triều đình. Những lời đối thoại dài là lời được sử gia truyền lại, không phải biên bản cuộc họp năm 1009.
+
+Loại: interpretation. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 32b–33b: khuyên Công Uẩn và vận động khanh sĩ, trăm quan. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-bio-cam-moc-ly
+
+Toàn thư ghi Lý Thái Tổ gả công chúa An Quốc cho Đào Cam Mộc và phong ông làm Nghĩa Tín hầu. Quan hệ hôn nhân với công chúa được ghi riêng với việc ông ủng hộ tôn lập nhà vua; không thể từ sự gắn bó chính trị mà suy thành quan hệ cha con. Khi ông mất năm 1015, tước Thái sư Á vương là sự truy tặng sau khi qua đời.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 34b: gả An Quốc và phong Nghĩa Tín hầu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ II, phần Lý Thái Tổ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-12) — Tờ 6b–7a, mục 1015: mất và truy tặng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-dinh-duong-marriage-claim
+
+Dương hậu là vợ Đinh Tiên Hoàng và mẹ Đinh Toàn. Quan hệ này được Toàn thư ghi lại khi thuật việc Lê Hoàn lập bà làm hoàng hậu năm 982.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b–16a: Dương thị, vợ Tiên Hoàng và mẹ Vệ vương Toàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-duong-toan-claim
+
+Dương thái hậu là mẹ đẻ của Đinh Toàn. Khi Toàn lên ngôi sau biến cố 979, bà trở thành thái hậu; bà sau đó chấp thuận việc tôn Lê Hoàn năm 980.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b: Dương thị là mẹ Vệ vương Toàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 7b–10a: vua nhỏ và thái hậu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-le-duong-marriage-claim
+
+Toàn thư ghi năm 982 Lê Hoàn lập Dương thị, nguyên là hoàng thái hậu nhà Đinh, làm Đại Thắng Minh hoàng hậu. Đây là mốc lập hậu được sử chép, không dùng để suy một ngày cưới chính xác.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 15b–16a, Nhâm Ngọ 982. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-le-trung-tong-parent-claim
+
+Lê Long Việt là con Lê Hoàn, mẹ là Chi hậu Diệu Nữ theo Toàn thư và Thế thứ; không gán Dương hậu làm mẹ Long Việt.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 25b: Trung Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Trung Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-le-long-dinh-parent-claim
+
+Lê Long Đĩnh là con Lê Hoàn, em cùng mẹ của Lê Long Việt. Nguồn Thế thứ ghi mẹ hai người là Chi hậu Diệu Nữ.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 25b–26b: Trung Tông và Long Đĩnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Trung Tông và Lê Ngọa Triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-le-brothers-claim
+
+Long Việt và Long Đĩnh là anh em cùng mẹ; quan hệ ruột thịt không ngăn được cuộc tranh chấp kế vị năm 1005.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 25b–26a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Trung Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-dinh-le-succession-claim
+
+Năm 980, Lê Hoàn được tôn lên ngôi, còn Đinh Toàn bị giáng làm Vệ vương. Đây là chuyển giao từ nhà Đinh sang nhà Tiền Lê, không phải quan hệ cha con.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 10a: tôn Lê Hoàn và giáng Vệ vương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Hoàn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-hoan-viet-succession-claim
+
+Long Việt giữ ngôi sau khi Lê Hoàn mất năm 1005, giữa lúc các hoàng tử tranh quyền.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 24b–26a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Trung Tông. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-viet-dinh-succession-claim
+
+Toàn thư chép Long Đĩnh giết Long Việt rồi lên ngôi năm 1005. Cạnh kế vị này chỉ trình tự giữ ngôi, không biểu thị một cuộc truyền ngôi tự nguyện.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 26a–26b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 3, phần V — Thế thứ triều Tiền Lê: Mục Lê Ngọa Triều. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-le-ly-succession-claim
+
+Sau khi Long Đĩnh mất năm 1009, Lý Công Uẩn được tôn lên ngôi. Cuộc chuyển từ nhà Tiền Lê sang nhà Lý diễn ra ở Hoa Lư.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 30b–34b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần I: mở đầu triều Lý 1009. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-pham-hoan-claim
+
+Phạm Cự Lạng cùng các tướng đề nghị tôn Lê Hoàn lên ngôi trước khi xuất quân chống Tống năm 980.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 9b–10a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn Phạm Cự Lạng đề nghị tôn lập. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-duong-hoan-claim
+
+Dương thái hậu chấp thuận đề nghị của các tướng và cho khoác áo long cổn lên Lê Hoàn trong cuộc thay ngôi năm 980.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, triều Đinh và chuyển sang nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-10) — Tờ 10a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Lê Đại Hành (941–1005), vị vua đầu tiên của nhà Tiền Lê](https://baotanglichsu.vn/VI/Articles/3098/14759/le-djai-hanh-941-1005-vi-vua-djau-tien-cua-nha-tien-le.html) — Đoạn Dương thái hậu chấp thuận. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-phap-thuan-hoan-claim
+
+Pháp Thuận được Lê Hoàn giao việc văn hàn và tham gia tiếp sứ; ông là một tăng sĩ giúp việc triều đình, không phải thành viên hoàng tộc.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đỗ Pháp Thuận — một tăng sĩ tiêu biểu thời Tiền Lê](https://tapchinghiencuuphathoc.vn/do-phap-thuan-mot-tang-si-tieu-bieu-thoi-tien-le.html) — Mục 1: văn hàn, tiếp sứ và việc nước. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 18a–18b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-khuong-viet-dinh-claim
+
+Thiền uyển tập anh ghi Khuông Việt được Đinh Tiên Hoàng phong làm Tăng thống và ban hiệu. Quan hệ này là chức vụ và sự cộng tác trong việc nước.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Trang 14–16: chức Tăng thống và danh hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-khuong-viet-hoan-claim
+
+Lê Hoàn giao Khuông Việt xem thơ sứ Tống và soạn bài từ tiễn sứ, theo mục năm 987 của Toàn thư.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 18b–19a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Khuông Việt Quốc sư đối với đất nước trong buổi đầu độc lập tự chủ và văn bản bài từ khúc điệu Nguyễn lang quy](https://journal.hcmue.edu.vn/index.php/hcmuejos/article/download/278/270) — Phần về văn bản tiễn Lý Giác. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-long-dinh-cong-uan-claim
+
+Long Đĩnh bổ dụng Lý Công Uẩn sau biến cố Trung Tông năm 1005. Cuối triều Tiền Lê, Công Uẩn giữ chức Tả thân vệ điện tiền chỉ huy sứ.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 26a và 32a–32b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Lý Thái Tổ hoàng đế](https://www.nomfoundation.org/nom-project/history-of-greater-vietnam/Fulltext/29-Thai-To-Hoang-De?uiLang=en) — Bản kỷ II, tờ 1a–1b: chức vụ của Công Uẩn dưới thời Tiền Lê. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-van-hanh-cong-uan-claim
+
+Vạn Hạnh khuyến khích Lý Công Uẩn nhận ngôi; mối quan hệ này thể hiện sự tôn phò và cố vấn, không xác nhận huyết thống giữa hai người.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 31a–33a: Vạn Hạnh và lời khuyên Công Uẩn. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần I: Vạn Hạnh và Cam Mộc tôn phò 1009. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-cam-moc-cong-uan-claim
+
+Đào Cam Mộc khuyên Lý Công Uẩn nhận ngôi và vận động các quan tổ chức suy tôn năm 1009.
+
+Loại: chronicle. Trạng thái: Đã đối chiếu nguồn.
+
+- [Đại Việt sử ký toàn thư — Bản kỷ I, kỷ nhà Tiền Lê](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-11) — Tờ 32b–33b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 4, phần I: Cam Mộc và Vạn Hạnh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### tl-rel-van-hanh-hoan-claim
+
+Nghiên cứu về Vạn Hạnh ghi nhận thiền sư tham gia cố vấn dưới thời Lê Hoàn; những chuyện dự đoán chiến tranh trong hành trạng không được coi là bằng chứng tiên tri.
+
+Loại: chronicle. Trạng thái: Đang biên soạn.
+
+- [Như giọt sương đọng trên đầu ngọn cỏ](https://www.khoavanhoc-ngonngu.edu.vn/nghien-cuu/v%C4%83n-h%E1%BB%8Dc-vi%E1%BB%87t-nam/8031-nh%C6%B0-gi%E1%BB%8Dt-s%C6%B0%C6%A1ng-%C4%91%E1%BB%8Dng-tr%C3%AAn-%C4%91%E1%BA%A7u-ng%E1%BB%8Dn-c%E1%BB%8F.html) — Mục 2: Vạn Hạnh dưới triều Tiền Lê. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
 ### reign-tran-canh
 
 Trần Thái Tông (Trần Cảnh): ở ngôi 1225/1226–1258.
@@ -2521,6 +3860,22 @@ Loại: evidence. Trạng thái: Đã đối chiếu nguồn.
 
 - [Giá trị di vật Đàn Nam Giao thời Hồ ở Thanh Hóa](https://baotanglichsu.vn/vi/Articles/1508/49884/gia-tri-di-vat-djan-nam-giao-thoi-ho-o-thanh-hoa.html) — Mở đầu, phần khai quật 2004 và di vật. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Citadel of the Ho Dynasty — Outstanding Universal Value](https://whc.unesco.org/en/list/1358/) — Outstanding Universal Value: ba thành phần và dấu tích Nam Giao. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### early-place-co-loa
+
+Sau chiến thắng Bạch Đằng, Ngô Quyền chọn Cổ Loa làm nơi đóng đô. Đây là một trung tâm chính trị có lịch sử lâu đời trước thời Ngô, với hệ thống thành đất và hào nước. Việc chọn lại Cổ Loa nối triều đình mới với một không gian kinh đô cũ, trong khi các dấu tích hiện thấy thuộc nhiều thời kỳ khác nhau.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [The Complex of Co Loa Ancient Citadel](https://whc.unesco.org/en/tentativelists/7056/) — Description; Authenticity: vai trò Cổ Loa và quyết định định đô của Ngô Quyền. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+
+### early-place-hoa-lu
+
+Hoa Lư là kinh đô của nhà Đinh, nhà Tiền Lê và những năm đầu thời Lý, từ năm 968 đến khi dời đô năm 1010. Núi đá vôi, sông ngòi và các đoạn tường thành tạo thành không gian phòng thủ của kinh đô. Những nền kiến trúc được khai quật giúp tìm hiểu nơi ở và làm việc của triều đình; các đền thờ vua còn lại là công trình tưởng niệm đã được xây dựng, tu sửa ở những thời kỳ sau.
+
+Loại: evidence. Trạng thái: Đang biên soạn.
+
+- [Trang An Landscape Complex — Annex 4: Hoa Lu Ancient Capital](https://whc.unesco.org/document/140195) — Annex 4, trang in 127–129: niên đại kinh đô, Underground palace và Natural citadels. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ly-place-den-do
 

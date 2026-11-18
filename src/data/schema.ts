@@ -112,6 +112,7 @@ export interface RoleTenure {
   polityId?: string;
   personId: string;
   role: "reigning" | "retired" | "minister";
+  roleLabel?: string;
   label: string;
   date: HistoricalDate;
   claimIds: string[];

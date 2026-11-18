@@ -1,8 +1,8 @@
 # Hình minh họa nhân vật
 
-39/47 hồ sơ có hình; 24/24 người giữ ngôi trong các bộ Lý–Trần–Hồ có hình.
+55/71 hồ sơ có hình; 33/33 người giữ ngôi trong các bộ Ngô · Đinh · Tiền Lê–Lý–Trần–Hồ có hình.
 
-Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, các catalog provenance.json nằm trong public/images/people/ và các thư mục thời kỳ bên trong.
+Hình gồm tranh/tượng minh họa nhân vật và ảnh di tích liên quan khi chưa tìm được hình nhân vật đủ căn cứ. Giữ đúng loại hình; ảnh di tích không được gọi thành chân dung. Không dùng hình để xác nhận diện mạo đương thời. Ảnh lưu cục bộ, các catalog provenance.json nằm trong public/images/people/ và các thư mục thời kỳ bên trong.
 
 | Nhân vật | Loại hình | Tệp ảnh |
 |---|---|---|
@@ -53,3 +53,27 @@ Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng đ
 | Hồ Nguyên Trừng | Tranh minh họa | [Xem ảnh](public/images/people/ho/ho-nguyen-trung-illustration.jpg) |
 | Nguyễn Phi Khanh | Tranh minh họa | [Xem ảnh](public/images/people/ho/nguyen-phi-khanh-illustration.jpg) |
 | Nguyễn Trãi | Tranh minh họa | [Xem ảnh](public/images/people/ho/nguyen-trai-portrait.jpg) |
+| Ngô Quyền | Tranh minh họa | [Xem ảnh](public/images/people/ngo-dinh-tien-le/ngo-quyen.jpg) |
+| Dương Đình Nghệ | Tranh minh họa | [Xem ảnh](public/images/people/ngo-dinh-tien-le/duong-dinh-nghe.jpg) |
+| Kiều Công Tiễn | Chưa chọn hình phù hợp | — |
+| Dương hoàng hậu nhà Ngô | Chưa chọn hình phù hợp | — |
+| Dương Tam Kha | Tranh minh họa | [Xem ảnh](public/images/people/ngo-dinh-tien-le/duong-tam-kha.jpg) |
+| Ngô Xương Ngập | Ảnh tượng thờ | [Xem ảnh](public/images/people/ngo-dinh-tien-le/ngo-xuong-ngap.jpg) |
+| Ngô Xương Văn | Ảnh di tích | [Xem ảnh](public/images/people/ngo-dinh-tien-le/ngo-xuong-van.jpg) |
+| Ngô Xương Xí | Chưa chọn hình phù hợp | — |
+| Đinh Tiên Hoàng | Tranh minh họa | [Xem ảnh](public/images/people/ngo-dinh-tien-le/dinh-bo-linh.jpg) |
+| Đinh Liễn | Ảnh tượng thờ | [Xem ảnh](public/images/people/ngo-dinh-tien-le/dinh-lien.jpg) |
+| Đinh Hạng Lang | Chưa chọn hình phù hợp | — |
+| Đinh Phế Đế | Ảnh tượng thờ | [Xem ảnh](public/images/people/ngo-dinh-tien-le/dinh-phe-de.jpg) |
+| Nguyễn Bặc | Ảnh tượng thờ | [Xem ảnh](public/images/people/ngo-dinh-tien-le/nguyen-bac.jpg) |
+| Đinh Điền | Ảnh tượng thờ | [Xem ảnh](public/images/people/ngo-dinh-tien-le/dinh-dien.jpg) |
+| Trần Lãm | Chưa chọn hình phù hợp | — |
+| Lê Đại Hành | Tranh minh họa | [Xem ảnh](public/images/people/ngo-dinh-tien-le/le-dai-hanh.jpg) |
+| Lê Trung Tông | Ảnh di tích | [Xem ảnh](public/images/people/ngo-dinh-tien-le/le-trung-tong.jpg) |
+| Lê Long Đĩnh | Ảnh tượng thờ | [Xem ảnh](public/images/people/ngo-dinh-tien-le/le-long-dinh.jpg) |
+| Dương Vân Nga | Ảnh tượng thờ | [Xem ảnh](public/images/people/ngo-dinh-tien-le/duong-van-nga.jpg) |
+| Phạm Cự Lạng | Chưa chọn hình phù hợp | — |
+| Đỗ Pháp Thuận | Tranh minh họa | [Xem ảnh](public/images/people/ngo-dinh-tien-le/do-phap-thuan.jpg) |
+| Khuông Việt | Tranh minh họa | [Xem ảnh](public/images/people/ngo-dinh-tien-le/ngo-chan-luu.jpg) |
+| Vạn Hạnh | Chưa chọn hình phù hợp | — |
+| Đào Cam Mộc | Chưa chọn hình phù hợp | — |

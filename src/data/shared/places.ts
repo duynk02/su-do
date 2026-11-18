@@ -1,9 +1,11 @@
 import { date, type Place } from "../schema";
 import { lyPlaces } from "../periods/ly/places";
 import { hoPlaces } from "../periods/ho/places";
+import { earlyPlaces } from "../periods/ngo-dinh-tien-le/places";
 
 const dms = (d: number, m: number, s: number) => d + m / 60 + s / 3600;
 export const places: Place[] = [
+  ...earlyPlaces,
   ...lyPlaces,
   ...hoPlaces,
   {

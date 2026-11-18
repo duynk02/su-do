@@ -1318,6 +1318,14 @@ button {
   color: var(--muted);
   line-height: 1.7;
 }
+.ruler-dynasty-heading {
+  margin: 28px 0 12px;
+  color: var(--muted);
+  font: 500 21px var(--serif);
+}
+.ruler-dynasty-heading:first-child {
+  margin-top: 16px;
+}
 .ruler-list button {
   display: flex;
   width: 100%;

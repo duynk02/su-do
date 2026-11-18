@@ -5,6 +5,8 @@ import { familyPeople } from "../families";
 import { lyPeople } from "./ly-people";
 import { lySharedPersonUpdates } from "./ly-late-people";
 import { hoPeople, hoSharedPersonUpdates } from "./ho-people";
+import { ngoDinhPeople } from "../periods/ngo-dinh-tien-le/ngo-dinh";
+import { tienLePeople } from "../periods/ngo-dinh-tien-le/tien-le";
 
 export const rulerRows: [string, string, string, number, number, string?][] = [
   ["tran-canh", "Trần Thái Tông", "Trần Cảnh", 1225, 1258, "1225/1226–1258"],
@@ -218,7 +220,8 @@ for (const [personId, biography] of Object.entries(biographies)) {
 }
 
 people.find((person) => person.id === "tran-canh")!.periodIds = ["ly", "tran"];
-people.push(...lyPeople, ...hoPeople);
+people.push(...lyPeople, ...hoPeople, ...ngoDinhPeople, ...tienLePeople);
+people.find((person) => person.id === "ly-thai-to")!.periodIds = ["the-ky-x", "ly"];
 for (const update of [...lySharedPersonUpdates, ...hoSharedPersonUpdates]) {
   const person = people.find((entry) => entry.id === update.personId);
   if (!person)

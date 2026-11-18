@@ -2,6 +2,7 @@ import { date, type Period, type PeriodContent } from "../schema";
 import { tranContent } from "./tran";
 import { lyContent } from "./ly";
 import { hoContent } from "./ho";
+import { earlyContent } from "./ngo-dinh-tien-le";
 
 const pendingPeriods: Period[] = [
   {
@@ -13,16 +14,6 @@ const pendingPeriods: Period[] = [
     dynastyIds: [],
     claimIds: [],
     summary: "Nội dung thời dựng nước và Bắc thuộc đang được biên soạn.",
-  },
-  {
-    id: "the-ky-x",
-    name: "Ngô · Đinh · Tiền Lê",
-    date: date(939, 1009, "Thế kỷ X–đầu XI"),
-    status: "unwritten",
-    polityIds: [],
-    dynastyIds: [],
-    claimIds: [],
-    summary: "Nội dung về Ngô, Đinh và Tiền Lê đang được biên soạn.",
   },
   {
     id: "minh-lam-son",
@@ -90,6 +81,7 @@ const pendingPeriods: Period[] = [
 ];
 
 export const periodContents: PeriodContent[] = [
+  earlyContent,
   lyContent,
   tranContent,
   hoContent,

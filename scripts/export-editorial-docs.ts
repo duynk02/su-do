@@ -146,7 +146,7 @@ writeFileSync(
     "",
     `${illustrated.length}/${people.length} hồ sơ có hình; ${rulers.filter((ruler) => people.find((person) => person.id === ruler.personId)?.mediaAssetId).length}/${rulers.length} người giữ ngôi trong các bộ ${illustratedPeriodNames} có hình.`,
     "",
-    "Hình đã chọn thể hiện nhân vật hoặc được bài nguồn dùng để minh họa nhân vật; nhãn tranh/tượng được giữ trong hồ sơ. Không dùng làm bằng chứng về diện mạo. Ảnh lưu cục bộ, các catalog provenance.json nằm trong public/images/people/ và các thư mục thời kỳ bên trong.",
+    "Hình gồm tranh/tượng minh họa nhân vật và ảnh di tích liên quan khi chưa tìm được hình nhân vật đủ căn cứ. Giữ đúng loại hình; ảnh di tích không được gọi thành chân dung. Không dùng hình để xác nhận diện mạo đương thời. Ảnh lưu cục bộ, các catalog provenance.json nằm trong public/images/people/ và các thư mục thời kỳ bên trong.",
     "",
     "| Nhân vật | Loại hình | Tệp ảnh |",
     "|---|---|---|",

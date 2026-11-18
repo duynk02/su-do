@@ -4,6 +4,7 @@ import { Fragment } from "react";
 
 import {
   citations,
+  dynasties,
   events,
   mediaAssets,
   people,
@@ -118,29 +119,33 @@ function RulerList({
 }) {
   const periodTenures = tenuresForPeriod(periodId);
   if (!periodTenures.length) return null;
+  const reigning = periodTenures.filter((tenure) => tenure.role === "reigning");
+  const hasSeveralDynasties = new Set(reigning.map((tenure) => tenure.dynastyId)).size > 1;
   return (
     <section className="ruler-section">
-      <div className="section-label">Chuỗi ngôi vua</div>
+      <div className="section-label">Người giữ ngôi</div>
       <div className="ruler-list">
-        {periodTenures
-          .filter((t) => t.role === "reigning")
-          .map((t, i) => (
-            <button
-              key={t.id}
-              onClick={() => actions.onPerson(t.personId)}
-            >
+        {reigning.map((t, i) => (
+          <Fragment key={t.id}>
+            {hasSeveralDynasties && t.dynastyId !== reigning[i - 1]?.dynastyId && (
+              <h3 className="ruler-dynasty-heading">
+                {dynasties.find((dynasty) => dynasty.id === t.dynastyId)?.name}
+              </h3>
+            )}
+            <button onClick={() => actions.onPerson(t.personId)}>
               <span className="ruler-index">
                 {String(i + 1).padStart(2, "0")}
               </span>
               <span>
-                {t.label.replace("Hoàng đế · ", "")}
+                {t.label.replace(/^(Hoàng đế|Vua|Vương) · /, "")}
                 <small>
                   {people.find((p) => p.id === t.personId)?.personalName}
                 </small>
               </span>
               <time>{t.date.label}</time>
             </button>
-          ))}
+          </Fragment>
+        ))}
       </div>
       {periodTenures.some((tenure) => tenure.role === "retired") && (
         <>
@@ -520,9 +525,9 @@ function PersonReader({
           {roles.map((t) => (
             <div key={t.id} className={t.role}>
               <span>
-                {t.role === "reigning"
+                {t.roleLabel ?? (t.role === "reigning"
                   ? "Hoàng đế trị vì"
-                  : "Thái thượng hoàng"}
+                  : t.role === "retired" ? "Thái thượng hoàng" : t.label)}
               </span>
               <time>{t.date.label}</time>
               <button
