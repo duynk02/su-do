@@ -430,7 +430,7 @@ export const biographies: Record<Person["id"], BiographyProfile> = {
     relatedClaimIds: ["transition"],
   },
   "tran-thi-dung": {
-    title: "Thái hậu cuối Lý · Linh Từ quốc mẫu",
+    title: "Thái hậu cuối thời Lý · Linh Từ quốc mẫu",
     summary: {
       text: "Trần Thị Dung là con Trần Lý, anh em với Trần Thừa và Trần Tự Khánh. Bà là mẹ Lý Chiêu Hoàng và giữ vị trí Thái hậu trong giai đoạn cuối triều Lý. Quan hệ hoàng tộc đặt bà vào trung tâm việc kiểm soát cung đình; bà cùng Trần Thủ Độ tham gia quá trình dẫn tới hôn nhân của Chiêu Hoàng với Trần Cảnh và việc chuyển ngôi sang nhà Trần.",
       refs: [

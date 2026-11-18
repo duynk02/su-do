@@ -94,7 +94,7 @@ export const places: Place[] = [
     id: "hai-ap",
     name: "Hải Ấp",
     names: [
-      { label: "Không gian hoạt động của họ Trần trong tư liệu cuối Lý" },
+      { label: "Không gian hoạt động của họ Trần trong tư liệu cuối thời Lý" },
     ],
     type: "regional",
     locationType: "uncertain",
