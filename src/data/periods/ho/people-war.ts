@@ -27,7 +27,7 @@ export const hoPersonWarSources: Source[] = [
   source({
     id: "ho-annals-viii",
     title:
-      "Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ",
+      "Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ",
     publisher: "Việt Nam Thư Quán — bản chuyển dạng",
     url: "https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24",
     type: "chronology",

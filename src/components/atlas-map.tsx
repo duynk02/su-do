@@ -584,7 +584,7 @@ export default function AtlasMap({
         )}
         {modern && (
           <p className="modern-notice">
-            Đang bật: Tham chiếu hiện đại · không phải ranh giới thời Trần.
+            Đang bật: Tham chiếu địa lý hiện đại.
           </p>
         )}
         {selected && (

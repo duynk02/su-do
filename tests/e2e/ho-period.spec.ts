@@ -11,7 +11,7 @@ test("Ho has its own chapters, two emperors and a separate retired role", async 
     await page.locator(".period-button").filter({ hasText: "Nhà Hồ" }).click();
   await expect(
     page.getByRole("heading", {
-      name: "Từ cuối Trần đến quốc hiệu Đại Ngu",
+      name: "Từ cuối thời Trần đến quốc hiệu Đại Ngu",
       exact: true,
     }),
   ).toBeVisible();

@@ -209,7 +209,7 @@ export const hoPeople: Person[] = [
     summaryClaimIds: [
       passage(
         "ho-bio-phi-khanh-summary",
-        "Nguyễn Phi Khanh vốn tên Nguyễn Ứng Long, là nhà nho và nhà thơ sống qua cuối Trần và thời Hồ. Ông là cha Nguyễn Trãi; gia đình có quan hệ với Trần Nguyên Đán qua cuộc hôn nhân với Trần Thị Thái. Năm 1401, Hồ Hán Thương bổ dụng ông làm Hàn lâm học sĩ, mở ra quãng thời gian ông tham gia chính quyền nhà Hồ.",
+        "Nguyễn Phi Khanh vốn tên Nguyễn Ứng Long, là nhà nho và nhà thơ sống qua cuối thời Trần và thời Hồ. Ông là cha Nguyễn Trãi; gia đình có quan hệ với Trần Nguyên Đán qua cuộc hôn nhân với Trần Thị Thái. Năm 1401, Hồ Hán Thương bổ dụng ông làm Hàn lâm học sĩ, mở ra quãng thời gian ông tham gia chính quyền nhà Hồ.",
         [
           [
             "ho-phi-khanh-research",
@@ -228,7 +228,7 @@ export const hoPeople: Person[] = [
     ],
     biographySections: [
       {
-        title: "Từ khoa bảng cuối Trần đến làm quan nhà Hồ",
+        title: "Từ khoa bảng cuối thời Trần đến làm quan nhà Hồ",
         claimIds: [
           passage(
             "ho-bio-phi-khanh-career",
@@ -300,7 +300,7 @@ export const hoPeople: Person[] = [
     summaryClaimIds: [
       passage(
         "ho-bio-trai-summary",
-        "Nguyễn Trãi, hiệu Ức Trai, là con Nguyễn Phi Khanh và Trần Thị Thái, cháu ngoại Trần Nguyên Đán. Năm 1400, ông đỗ Thái học sinh trong khoa thi đầu triều Hồ rồi tham gia bộ máy quan lại. Quãng đời đầu ấy gắn ông với sự thay đổi từ Trần sang Hồ và với biến cố chiến tranh năm 1407.",
+        "Nguyễn Trãi, hiệu Ức Trai, là con Nguyễn Phi Khanh và Trần Thị Thái, cháu ngoại Trần Nguyên Đán. Năm 1400, ông đỗ Thái học sinh trong khoa thi đầu triều Hồ rồi tham gia bộ máy quan lại. Quãng đời đầu ấy gắn ông với sự chuyển đổi từ nhà Trần sang nhà Hồ và với biến cố chiến tranh năm 1407.",
         [
           [
             "ho-trai-museum",

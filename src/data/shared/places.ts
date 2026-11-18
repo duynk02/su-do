@@ -11,7 +11,7 @@ export const places: Place[] = [
     name: "Thăng Long",
     names: [
       { label: "Khu trung tâm Hoàng thành Thăng Long (di sản hiện nay)" },
-      { label: "Đông Đô", date: date(1397, 1408, "Cuối Trần – thời Hồ") },
+      { label: "Đông Đô", date: date(1397, 1408, "Cuối thời Trần – thời Hồ") },
     ],
     type: "capital",
     locationType: "representative",

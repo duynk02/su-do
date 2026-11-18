@@ -46,7 +46,7 @@ export const tranContent: PeriodContent = {
       "tran-ending",
     ],
     summary:
-      "Triều Trần hình thành khi thế lực họ Trần đã gia tăng trong triều đình cuối Lý. Việc Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh mở ra một cơ chế quyền lực có cả vua và Thái thượng hoàng. Ba cuộc kháng chiến trong thế kỷ XIII là những dấu mốc nổi bật, bên cạnh đời sống nông nghiệp, khoa cử và Phật giáo Trúc Lâm. Cuối thế kỷ XIV, quyền lực chuyển dần sang Hồ Quý Ly; năm 1400 mở đầu triều Hồ.",
+      "Triều Trần hình thành khi thế lực họ Trần đã gia tăng trong triều đình cuối thời Lý. Việc Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh mở ra một cơ chế quyền lực có cả vua và Thái thượng hoàng. Ba cuộc kháng chiến trong thế kỷ XIII là những dấu mốc nổi bật, bên cạnh đời sống nông nghiệp, khoa cử và Phật giáo Trúc Lâm. Cuối thế kỷ XIV, quyền lực chuyển dần sang Hồ Quý Ly; năm 1400 mở đầu triều Hồ.",
   },
   chapters,
   events,

@@ -6,7 +6,7 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 |---|---|
 | Period | Khung thời kỳ biên tập; có thể gồm nhiều chính quyền và thời gian chồng lấn |
 | Polity | Chính quyền/thực thể chính trị, độc lập với tên triều |
-| Dynasty | Triều đại, trỏ Polity; phiên bản này dùng Đại Việt cho phạm vi cuối Lý đang biên soạn, không khẳng định quốc hiệu này áp dụng cho toàn bộ đầu triều Lý |
+| Dynasty | Triều đại, trỏ Polity; phiên bản này dùng Đại Việt cho phạm vi cuối thời Lý đang biên soạn, không khẳng định quốc hiệu này áp dụng cho toàn bộ đầu triều Lý |
 | Person | ID duy nhất; tên húy, miếu hiệu, niên hiệu, niên đại sống, tên thường gọi, đoạn giới thiệu và các phần tiểu sử trỏ Claim; ảnh trỏ MediaAsset |
 | RoleTenure | Giữ một chức vị trong một khoảng thời gian; vua và thượng hoàng có thể chồng lấn |
 | Relationship | Cạnh có hướng với loại cha/mẹ–con, hôn nhân, anh/em, kế vị hoặc chính trị; không suy ra các cạnh khác |
@@ -26,7 +26,7 @@ Các interface TypeScript tại `src/data/schema.ts`. Nội dung và liên kết
 - Khoảng `[start,end)`, điểm đơn `start === end`. Độ chính xác năm không dùng để khẳng định đúng ngày chuyển vai trò.
 - `original` lưu cách ghi trong nguồn, `calendar` lưu hệ lịch hoặc tình trạng chưa biết, `precision` phân biệt ngày/tháng/năm/khoảng.
 - Chỉ có `normalized` khi có `conversion.method` và `conversion.sourceId`. Không dùng JavaScript Date để đổi niên đại cổ.
-- Các Period có thể giao nhau: cuối Lý–đầu Trần, Tây Sơn–cuối Lê. Không suy sự kế vị duy nhất từ thứ tự mảng.
+- Các Period có thể giao nhau: cuối thời Lý–đầu thời Trần, thời Tây Sơn–cuối thời Lê. Không suy sự kế vị duy nhất từ thứ tự mảng.
 - Ranh 1901 nội bộ dùng cho phạm vi đọc bao gồm năm 1900, không phải năm kết thúc nhà Nguyễn. Mốc cổ đại là khung biên tập, không phải ngày lập quốc.
 
 ## Tiểu sử nhân vật

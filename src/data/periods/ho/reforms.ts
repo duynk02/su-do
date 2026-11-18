@@ -118,7 +118,7 @@ export const hoReformClaimIds: Record<string, string> = {
   ),
   daiNgu: register(
     "ho-dai-ngu-name",
-    "Năm 1400, Hồ Quý Ly lên ngôi, đặt niên hiệu Thánh Nguyên và quốc hiệu Đại Ngu. Tây Đô là kinh đô của triều đại mới; việc xây dựng trung tâm này đã bắt đầu từ cuối Trần.",
+    "Năm 1400, Hồ Quý Ly lên ngôi, đặt niên hiệu Thánh Nguyên và quốc hiệu Đại Ngu. Tây Đô là kinh đô của triều đại mới; việc xây dựng trung tâm này đã bắt đầu từ cuối thời Trần.",
     [
       chronicle("tờ 36b–37a: chuyển triều và quốc hiệu"),
       ["ho-chronology", "Tiêu đề và mục Hồ Quý Ly"],
@@ -194,7 +194,7 @@ export const hoReformClaimIds: Record<string, string> = {
 
   landContext: register(
     "ho-land-context",
-    "Ruộng đất và gia nô là những nguồn lực gắn với thế lực của quý tộc cuối Trần. Chính sách hạn điền điều chỉnh quyền chiếm hữu ruộng tư, khác với hạn nô là chính sách điều chỉnh việc giữ người lệ thuộc.",
+    "Ruộng đất và gia nô là những nguồn lực gắn với thế lực của quý tộc cuối thời Trần. Chính sách hạn điền điều chỉnh quyền chiếm hữu ruộng tư, khác với hạn nô là chính sách điều chỉnh việc giữ người lệ thuộc.",
     [
       [
         "ho-socio-economic-study",
@@ -376,7 +376,7 @@ export const hoReformClaimIds: Record<string, string> = {
   ),
   educationPolicy: register(
     "ho-local-schools-policy",
-    "Năm 1397, triều đình ra chiếu đặt học quan và cấp ruộng phục vụ việc học ở một số phủ, lộ. Đây là chủ trương mở rộng cơ sở giáo dục địa phương từ cuối Trần, trước khi nhà Hồ thành lập.",
+    "Năm 1397, triều đình ra chiếu đặt học quan và cấp ruộng phục vụ việc học ở một số phủ, lộ. Đây là chủ trương mở rộng cơ sở giáo dục địa phương từ cuối thời Trần, trước khi nhà Hồ thành lập.",
     [
       chronicle("tờ 30a–30b: học quan, học điền và tiến cử học trò"),
       ["ho-education-heritage", "Đoạn chiếu tháng 5 năm Đinh Sửu"],

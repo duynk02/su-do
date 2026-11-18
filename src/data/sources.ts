@@ -88,7 +88,7 @@ export const sources: Source[] = [
     readLocation:
       "Các mục về Liễu–Thuận Thiên, Thái Tông–Thuận Thiên, Nhân Tông–Bảo Thánh.",
     limits:
-      "Tiêu đề và lời đánh giá là cách trình bày của nguồn; chỉ dùng các quan hệ đã đối chiếu với Toàn thư/Thế thứ. Không sử dụng nhánh cuối Trần hoặc suy đoán đời tư từ bài này.",
+      "Tiêu đề và lời đánh giá là cách trình bày của nguồn; chỉ dùng các quan hệ đã đối chiếu với Toàn thư/Thế thứ. Không sử dụng nhánh cuối thời Trần hoặc suy đoán đời tư từ bài này.",
   }),
   source({
     id: "thieu-de-court",

@@ -88,7 +88,7 @@ Loại: chronicle. Trạng thái: Đang biên soạn.
 
 ### thu-do
 
-Trần Thủ Độ giữ chức Điện tiền chỉ huy sứ cuối Lý, nắm lực lượng bảo vệ cung đình và tham gia tổ chức chuyển ngôi. Chức vụ và ảnh hưởng chính trị cần được đọc riêng với ngôi vua của Trần Cảnh.
+Trần Thủ Độ giữ chức Điện tiền chỉ huy sứ cuối thời Lý, nắm lực lượng bảo vệ cung đình và tham gia tổ chức chuyển ngôi. Chức vụ và ảnh hưởng chính trị cần được đọc riêng với ngôi vua của Trần Cảnh.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
@@ -656,7 +656,7 @@ Hồ Hán Thương là con Hồ Quý Ly và công chúa Huy Ninh, cháu ngoại 
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Bản kỷ VIII, tờ 38b–39a: nhường ngôi, mẹ Hán Thương, niên hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Bản kỷ VIII, tờ 38b–39a: nhường ngôi, mẹ Hán Thương, niên hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b: Hồ Hán Thương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Đầu năm Đinh Hợi 1407, tờ 3a–3b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
@@ -666,7 +666,7 @@ Hán Thương là em Hồ Nguyên Trừng nhưng được chọn làm người k
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 36b: chọn thái tử; tờ 38b–39a: Huy Ninh, Khâm Thánh và thư sang Minh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 36b: chọn thái tử; tờ 38b–39a: Huy Ninh, Khâm Thánh và thư sang Minh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b: con thứ Quý Ly, em Nguyên Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-han-thuong-government
@@ -675,7 +675,7 @@ Dưới thời Hán Thương, triều đình tiếp tục những thay đổi v�
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Tân Tỵ 1401, tờ 39a–40b: hộ tịch, bổ dụng Phi Khanh; mục Nhâm Ngọ 1402: đường thiên lý. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Tân Tỵ 1401, tờ 39a–40b: hộ tịch, bổ dụng Phi Khanh; mục Nhâm Ngọ 1402: đường thiên lý. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-han-thuong-end
 
@@ -702,7 +702,7 @@ Dù là con cả, Nguyên Trừng không phải người nhận ngôi khi Quý L
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Giáp Tuất 1394, tờ 24b: Lê Nguyên Trừng làm Phán tư sự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Giáp Tuất 1394, tờ 24b: Lê Nguyên Trừng làm Phán tư sự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Cuộc đời của Hồ Nguyên Trừng — tóm tắt bài nghiên cứu](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-45_khxh_24022021-tt.pdf) — Tóm tắt: chức vụ trước và sau khi nhà Hồ thành lập. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.b: Hán Thương là em Nguyên Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
@@ -727,12 +727,12 @@ Loại: interpretation. Trạng thái: Đang biên soạn.
 
 ### ho-bio-phi-khanh-summary
 
-Nguyễn Phi Khanh vốn tên Nguyễn Ứng Long, là nhà nho và nhà thơ sống qua cuối Trần và thời Hồ. Ông là cha Nguyễn Trãi; gia đình có quan hệ với Trần Nguyên Đán qua cuộc hôn nhân với Trần Thị Thái. Năm 1401, Hồ Hán Thương bổ dụng ông làm Hàn lâm học sĩ, mở ra quãng thời gian ông tham gia chính quyền nhà Hồ.
+Nguyễn Phi Khanh vốn tên Nguyễn Ứng Long, là nhà nho và nhà thơ sống qua cuối thời Trần và thời Hồ. Ông là cha Nguyễn Trãi; gia đình có quan hệ với Trần Nguyên Đán qua cuộc hôn nhân với Trần Thị Thái. Năm 1401, Hồ Hán Thương bổ dụng ông làm Hàn lâm học sĩ, mở ra quãng thời gian ông tham gia chính quyền nhà Hồ.
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 28–29 và 34: tên cũ, gia đình, đường làm quan. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Tân Tỵ 1401, tờ 40a–40b: bổ dụng Hàn lâm học sĩ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Tân Tỵ 1401, tờ 40a–40b: bổ dụng Hàn lâm học sĩ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Nguyen Trai — a national hero, world cultural celebrity (1380–1442)](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html) — Đầu bài: Nguyễn Phi Khanh và Trần Thị Thái là cha mẹ Nguyễn Trãi. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-phi-khanh-career
@@ -742,7 +742,7 @@ Nguyễn Ứng Long đỗ khoa thi năm 1374 nhưng con đường được bổ 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 29 và 34: khoa 1374, tên Phi Khanh, cha con ra làm quan. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38a: Nguyễn Trãi đỗ; tờ 40a–40b: Phi Khanh được bổ dụng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38a: Nguyễn Trãi đỗ; tờ 40a–40b: Phi Khanh được bổ dụng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-phi-khanh-poetry
 
@@ -764,12 +764,12 @@ Loại: chronicle. Trạng thái: Đang biên soạn.
 
 ### ho-bio-trai-summary
 
-Nguyễn Trãi, hiệu Ức Trai, là con Nguyễn Phi Khanh và Trần Thị Thái, cháu ngoại Trần Nguyên Đán. Năm 1400, ông đỗ Thái học sinh trong khoa thi đầu triều Hồ rồi tham gia bộ máy quan lại. Quãng đời đầu ấy gắn ông với sự thay đổi từ Trần sang Hồ và với biến cố chiến tranh năm 1407.
+Nguyễn Trãi, hiệu Ức Trai, là con Nguyễn Phi Khanh và Trần Thị Thái, cháu ngoại Trần Nguyên Đán. Năm 1400, ông đỗ Thái học sinh trong khoa thi đầu triều Hồ rồi tham gia bộ máy quan lại. Quãng đời đầu ấy gắn ông với sự chuyển đổi từ nhà Trần sang nhà Hồ và với biến cố chiến tranh năm 1407.
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Nguyen Trai — a national hero, world cultural celebrity (1380–1442)](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html) — Đầu bài: thân thế, khoa thi 1400, làm quan nhà Hồ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Canh Thìn 1400, tờ 38a: danh sách người đỗ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Canh Thìn 1400, tờ 38a: danh sách người đỗ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Nguyễn Trãi với các thế hệ người Việt Nam](https://hannom.vass.gov.vn/web/tchn/data/0204v.htm) — Mục Nguyễn Trãi với các thế hệ người Việt Nam, đoạn mở đầu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-trai-family-study
@@ -780,7 +780,7 @@ Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Nguyen Trai — a national hero, world cultural celebrity (1380–1442)](https://baotanglichsu.vn/en/Articles/3183/68497/nguyen-trai-a-national-hero-world-cultural-celebrity-1380-1442.html) — Đoạn thân thế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 34: cha con cùng ra làm quan thời Hồ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1400, tờ 38a: khoa thái học sinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1400, tờ 38a: khoa thái học sinh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-trai-office
 
@@ -789,7 +789,7 @@ Sau khi đỗ, Nguyễn Trãi giữ chức Chính chưởng Ngự sử đài dư
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Nguyễn Trãi với các thế hệ người Việt Nam](https://hannom.vass.gov.vn/web/tchn/data/0204v.htm) — Mục Nguyễn Trãi với các thế hệ người Việt Nam: đỗ 1400, chức Chính chưởng Ngự sử đài. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1401, tờ 40a–40b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1401, tờ 40a–40b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Nhà nho Nguyễn Phi Khanh với khát vọng thực hiện lý tưởng hành đạo giúp đời](https://hnmu.edu.vn/upload/user/tin-bai/tap-chi/tckh-so-9-kh-xa-hoi-va-giao-duc-dh-thu-do-10-2016.pdf) — Trang in 28–29: biến cố 1407. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-quy-ly-retired-rule
@@ -798,7 +798,7 @@ Cuối năm 1400, Hồ Quý Ly nhường ngôi cho Hán Thương và tự xưng 
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Canh Thìn 1400, tờ 38b: cùng coi chính sự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Canh Thìn 1400, tờ 38b: cùng coi chính sự. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Phần đầu thời Hồ: nhường ngôi, giữ vai trò Thượng hoàng và tổ chức quốc phòng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-bio-quy-ly-defeat
@@ -1045,7 +1045,7 @@ Loại: chronicle. Trạng thái: Đang biên soạn.
 
 ### bio-tran-nghe-tong
 
-Trần Nghệ Tông, tên húy Trần Phủ, là con Trần Minh Tông. Ông lên ngôi năm 1370 sau khi cùng các thành viên hoàng tộc lật đổ Dương Nhật Lễ. Năm 1372, Nghệ Tông truyền ngôi cho em là Trần Kính, tức Trần Duệ Tông, rồi giữ vai trò Thái thượng hoàng đến năm 1394. Ảnh hưởng của ông kéo dài qua nhiều đời vua cuối Trần.
+Trần Nghệ Tông, tên húy Trần Phủ, là con Trần Minh Tông. Ông lên ngôi năm 1370 sau khi cùng các thành viên hoàng tộc lật đổ Dương Nhật Lễ. Năm 1372, Nghệ Tông truyền ngôi cho em là Trần Kính, tức Trần Duệ Tông, rồi giữ vai trò Thái thượng hoàng đến năm 1394. Ảnh hưởng của ông kéo dài qua nhiều đời vua cuối thời Trần.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
@@ -1991,7 +1991,7 @@ Loại: interpretation. Trạng thái: Đang biên soạn.
 
 ### ho-dai-ngu-name
 
-Năm 1400, Hồ Quý Ly lên ngôi, đặt niên hiệu Thánh Nguyên và quốc hiệu Đại Ngu. Tây Đô là kinh đô của triều đại mới; việc xây dựng trung tâm này đã bắt đầu từ cuối Trần.
+Năm 1400, Hồ Quý Ly lên ngôi, đặt niên hiệu Thánh Nguyên và quốc hiệu Đại Ngu. Tây Đô là kinh đô của triều đại mới; việc xây dựng trung tâm này đã bắt đầu từ cuối thời Trần.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
@@ -2061,7 +2061,7 @@ Loại: interpretation. Trạng thái: Đang biên soạn.
 
 ### ho-land-context
 
-Ruộng đất và gia nô là những nguồn lực gắn với thế lực của quý tộc cuối Trần. Chính sách hạn điền điều chỉnh quyền chiếm hữu ruộng tư, khác với hạn nô là chính sách điều chỉnh việc giữ người lệ thuộc.
+Ruộng đất và gia nô là những nguồn lực gắn với thế lực của quý tộc cuối thời Trần. Chính sách hạn điền điều chỉnh quyền chiếm hữu ruộng tư, khác với hạn nô là chính sách điều chỉnh việc giữ người lệ thuộc.
 
 Loại: interpretation. Trạng thái: Đang biên soạn.
 
@@ -2224,7 +2224,7 @@ Loại: evidence. Trạng thái: Đang biên soạn.
 
 ### ho-local-schools-policy
 
-Năm 1397, triều đình ra chiếu đặt học quan và cấp ruộng phục vụ việc học ở một số phủ, lộ. Đây là chủ trương mở rộng cơ sở giáo dục địa phương từ cuối Trần, trước khi nhà Hồ thành lập.
+Năm 1397, triều đình ra chiếu đặt học quan và cấp ruộng phục vụ việc học ở một số phủ, lộ. Đây là chủ trương mở rộng cơ sở giáo dục địa phương từ cuối thời Trần, trước khi nhà Hồ thành lập.
 
 Loại: evidence. Trạng thái: Đang biên soạn.
 
@@ -2311,7 +2311,7 @@ Nhà Minh dựa vào vấn đề chuyển ngôi Trần–Hồ và người tự 
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Bính Tuất 1406, tờ 50a–50b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục Bính Tuất 1406, tờ 50a–50b. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn quan hệ bang giao trước cuộc tiến công 1406. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-war-invasion-development
@@ -2320,7 +2320,7 @@ Cuối năm 1406, quân Minh do Trương Phụ và Mộc Thạnh chỉ huy tiế
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1406, tờ 52b–53a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1406, tờ 52b–53a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn hai cánh quân tiến qua Lạng Sơn, Hà Giang và phòng tuyến Đa Bang–Đông Đô. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-war-invasion-result
@@ -2329,7 +2329,7 @@ Cuộc đối đầu đã trở thành một cuộc chiến tranh xâm lược v
 
 Loại: interpretation. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Các mục 1406 về Thiêm Bình và việc quân Minh tiến vào. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Các mục 1406 về Thiêm Bình và việc quân Minh tiến vào. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Đại Việt sử ký toàn thư — Bản kỷ IX, phần đầu năm 1407](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-25) — Mục 1407, tờ 2b–3a: thiết lập các ty cai trị. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Phân tích bối cảnh và mục tiêu chiến tranh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
@@ -2340,7 +2340,7 @@ Loại: interpretation. Trạng thái: Đang biên soạn.
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn hệ thống phòng thủ và cứ điểm Đa Bang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1405–1406, tờ 49b, 52b–53a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1405–1406, tờ 49b, 52b–53a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-war-da-bang-development
 
@@ -2349,7 +2349,7 @@ Loại: chronicle. Trạng thái: Đang biên soạn.
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Lịch sử tư tưởng quân sự Việt Nam — tập 1, phần kháng chiến chống Minh của nhà Hồ](https://tulieuvankien.dangcongsan.vn/van-kien-tu-lieu-ve-dang/book/sach-chinh-tri/lich-su-tu-tuong-quan-su-viet-nam-tap-1-tu-the-ky-iii-tr-cn-den-the-ky-xv-324) — Các đoạn 19–21/1/1407: đánh thành Đa Bang. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Cuối năm Bính Tuất, tờ 53b–54a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Cuối năm Bính Tuất, tờ 53b–54a. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-war-da-bang-result
 
@@ -2442,7 +2442,7 @@ Hồ Quý Ly trực tiếp giữ ngôi vua trong năm 1400, rồi cuối năm �
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b–39a: nhường ngôi, cùng coi chính sự và niên hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b–39a: nhường ngôi, cùng coi chính sự và niên hiệu. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 - [Thế thứ các triều vua Việt Nam](https://se.ctu.edu.vn/hoat-dong-su/tu-lieu-lich-su/677-the-thu-cac-trieu-vua-viet-nam.html) — Chương 6, phần I.a–b: tháng 12/1400 đến 1407. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-family-quy-ly-han-thuong-claim
@@ -2451,7 +2451,7 @@ Hồ Hán Thương là con Hồ Quý Ly và công chúa Huy Ninh, con gái Trầ
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: mẹ Hán Thương là Huy Ninh, sinh Khâm Thánh và Hán Thương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: mẹ Hán Thương là Huy Ninh, sinh Khâm Thánh và Hán Thương. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-family-quy-ly-nguyen-trung-claim
 
@@ -2468,7 +2468,7 @@ Công chúa Huy Ninh là mẹ của Hồ Hán Thương và Khâm Thánh hoàng h
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: con cái Huy Ninh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: con cái Huy Ninh. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-sibling-nguyen-trung-han-thuong-claim
 
@@ -2485,7 +2485,7 @@ Khâm Thánh hoàng hậu và Hồ Hán Thương là con của Hồ Quý Ly vớ
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: con cái Huy Ninh; đối chiếu hồ sơ Khâm Thánh và Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 38b: con cái Huy Ninh; đối chiếu hồ sơ Khâm Thánh và Thiếu Đế. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-family-phi-khanh-trai-claim
 
@@ -2503,7 +2503,7 @@ Trong thời Hán Thương giữ ngôi, Nguyên Trừng là Tả tướng quốc
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
 - [Nhà kỹ nghệ, nhà văn Hồ Nguyên Trừng](https://daibieunhandan.vn/nha-ky-nghe-nha-van-ho-nguyen-trung-10014451.html) — Đoạn mở đầu và cuộc kháng chiến. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1405–1406: Tả tướng quốc Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Mục 1405–1406: Tả tướng quốc Trừng. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-political-han-thuong-phi-khanh-claim
 
@@ -2511,7 +2511,7 @@ Năm 1401, Hồ Hán Thương bổ dụng Nguyễn Phi Khanh làm Hàn lâm họ
 
 Loại: chronicle. Trạng thái: Đang biên soạn.
 
-- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 40a–40b, mùa đông tháng 12 năm Tân Tỵ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
+- [Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24) — Tờ 40a–40b, mùa đông tháng 12 năm Tân Tỵ. Phạm vi: Hỗ trợ phần nội dung được nêu trong khẳng định; không mở rộng sang các chi tiết ngoài vị trí dẫn.
 
 ### ho-place-nam-giao
 

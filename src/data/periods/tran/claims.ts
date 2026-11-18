@@ -66,7 +66,7 @@ claim(
 );
 claim(
   "thu-do",
-  "Trần Thủ Độ giữ chức Điện tiền chỉ huy sứ cuối Lý, nắm lực lượng bảo vệ cung đình và tham gia tổ chức chuyển ngôi. Chức vụ và ảnh hưởng chính trị cần được đọc riêng với ngôi vua của Trần Cảnh.",
+  "Trần Thủ Độ giữ chức Điện tiền chỉ huy sứ cuối thời Lý, nắm lực lượng bảo vệ cung đình và tham gia tổ chức chuyển ngôi. Chức vụ và ảnh hưởng chính trị cần được đọc riêng với ngôi vua của Trần Cảnh.",
   [
     [
       "ly-transition",

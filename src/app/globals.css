@@ -1352,11 +1352,6 @@ button {
   white-space: nowrap;
   color: var(--muted);
 }
-.ruler-list .exception-ruler {
-  border-left: 2px solid #9c895f;
-  padding-left: 8px;
-  background: #efeee4;
-}
 .retired-heading {
   margin-top: 25px;
 }

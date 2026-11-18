@@ -2,6 +2,12 @@
 
 Giai đoạn hiện tại: đã có bộ Lý, Trần và Hồ trên khung dữ liệu theo thời kỳ. Bản local xuất tĩnh; chưa push hoặc triển khai công khai. Database/CMS, góp ý và dashboard vẫn dành cho giai đoạn sau khi phần lớn các triều đại được biên soạn.
 
+## Điều chỉnh câu chữ và danh sách vua · 18/11/2026
+
+- Viết đầy đủ “cuối thời Lý”, “cuối thời Trần”, “đầu thời Hồ” trong tiêu đề, mục lục, tổng quan, tiểu sử, chú thích và nhãn thời gian; chuyển triều ghi rõ “từ nhà … sang nhà …”. Quy ước được lưu trong HISTORICAL_EDITORIAL_POLICY.md để áp dụng khi mở rộng các thời kỳ sau. Giữ nguyên ID, đường dẫn và nhan đề gốc của nguồn.
+- Bỏ cờ emphasis gắn riêng cho Dương Nhật Lễ, thuộc tính trong schema và CSS tương ứng. Các dòng vua cùng kiểu trình bày; Nhật Lễ vẫn nằm giữa Dụ Tông và Nghệ Tông. Nhãn lớp tham chiếu địa lý hiện đại dùng được cho mọi thời kỳ.
+- Build/TypeScript, audit và 28 unit test đạt. 12 ca Playwright liên quan đạt trên desktop/mobile qua lượt chạy chính và chạy lại hai ca dùng nhãn bản đồ mới. Đã so sánh nền, viền và căn lề ba dòng Dụ Tông–Nhật Lễ–Nghệ Tông trên cả hai viewport; các giá trị giống nhau. Ảnh kiểm tra tại docs/screenshots/atlas-* và ruler-list-*.
+
 ## Kết quả hiện tại
 
 - Nhà Lý: 10 chương, 23 nhân vật liên quan, 14 sự kiện, chín người giữ ngôi. Nhà Trần: giữ chín chương, 30 nhân vật liên quan, 18 sự kiện, 13 người giữ ngôi; hai hồ sơ mới và ba sự kiện cải cách giao thời được dùng chung với bộ Hồ.

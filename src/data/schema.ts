@@ -110,7 +110,6 @@ export interface RoleTenure {
   periodId: string;
   dynastyId?: string;
   polityId?: string;
-  emphasis?: boolean;
   personId: string;
   role: "reigning" | "retired" | "minister";
   label: string;

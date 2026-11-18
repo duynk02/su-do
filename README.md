@@ -66,7 +66,7 @@ Bộ kiểm tra này mô phỏng công cụ con trỏ chèn `data-cc-prev-cursor
 
 Chưa có biên tập viên/chuyên gia lịch sử duyệt. “Đã đối chiếu nguồn” chỉ nói về việc so sánh nguồn. Chưa có dữ liệu ranh giới lịch sử đủ căn cứ; website không dựng polygon lãnh thổ. Các địa điểm không đủ tọa độ vẫn nằm trong danh sách văn bản.
 
-Lý có 10 chương bản đầu từ 1009 đến 1225/1226; Trần giữ chín chương. Hồ có tám chương từ bối cảnh cuối Trần đến chiến tranh 1406–1407 và hậu vận nhân vật, 15 sự kiện, hai vua cùng vai trò Thượng hoàng riêng. Cải cách được trình bày cả mục tiêu lẫn giới hạn thực thi. Chiều sâu chưa đồng đều; các thời kỳ ngoài Lý–Trần–Hồ chủ yếu là khung. Một số nguồn là bài đăng lại/bản chuyển dạng chưa xác nhận ấn bản; giới hạn ghi trong hồ sơ nguồn.
+Lý có 10 chương bản đầu từ 1009 đến 1225/1226; Trần giữ chín chương. Hồ có tám chương từ bối cảnh cuối thời Trần đến chiến tranh 1406–1407 và hậu vận nhân vật, 15 sự kiện, hai vua cùng vai trò Thượng hoàng riêng. Cải cách được trình bày cả mục tiêu lẫn giới hạn thực thi. Chiều sâu chưa đồng đều; các thời kỳ ngoài Lý–Trần–Hồ chủ yếu là khung. Một số nguồn là bài đăng lại/bản chuyển dạng chưa xác nhận ấn bản; giới hạn ghi trong hồ sơ nguồn.
 
 Thêm nội dung theo `DATA_MODEL.md` và `HISTORICAL_EDITORIAL_POLICY.md`, rồi chạy kiểm tra dữ liệu. Test tự động không chứng minh lịch sử đúng.
 

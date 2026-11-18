@@ -172,7 +172,7 @@ people.push(
     name: "Hồ Quý Ly",
     contextYear: 1400,
     aliases: ["Lê Quý Ly"],
-    title: "Người nắm quyền cuối Trần, lập nhà Hồ",
+    title: "Người nắm quyền cuối thời Trần, lập nhà Hồ",
     summaryClaimIds: ["ho-reform-dates", "tran-ending"],
     eventIds: ["nha-ho-1400"],
   },

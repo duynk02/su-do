@@ -4,7 +4,7 @@ test.beforeEach(async ({ page }) => {
   await page.goto("/");
   await expect(
     page.getByRole("heading", {
-      name: "Cuối Lý, một trật tự đổi thay",
+      name: "Cuối thời Lý, một trật tự đổi thay",
       exact: true,
     }),
   ).toBeVisible();
@@ -188,7 +188,7 @@ test("year without territory data stays useful, and modern boundaries are opt in
   await expect(modern).not.toBeChecked();
   await modern.check();
   await expect(page.locator(".modern-notice")).toContainText(
-    "Tham chiếu hiện đại",
+    "Tham chiếu địa lý hiện đại",
   );
   await modern.uncheck();
   await expect(page.locator(".modern-notice")).toHaveCount(0);
@@ -221,7 +221,7 @@ test("map failure leaves readable content and a text alternative", async ({
     await page.getByRole("button", { name: "Bài đọc", exact: true }).click();
   await expect(
     page.getByRole("heading", {
-      name: "Cuối Lý, một trật tự đổi thay",
+      name: "Cuối thời Lý, một trật tự đổi thay",
       exact: true,
     }),
   ).toBeVisible();

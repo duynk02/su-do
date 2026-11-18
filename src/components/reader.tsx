@@ -128,7 +128,6 @@ function RulerList({
             <button
               key={t.id}
               onClick={() => actions.onPerson(t.personId)}
-              className={t.emphasis ? "exception-ruler" : ""}
             >
               <span className="ruler-index">
                 {String(i + 1).padStart(2, "0")}

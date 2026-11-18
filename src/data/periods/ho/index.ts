@@ -20,7 +20,7 @@ export const hoContent: PeriodContent = {
       "ho-war-capture-result",
     ],
     summary:
-      "Nhà Hồ được lập năm 1400 với quốc hiệu Đại Ngu, đặt kinh đô tại Tây Đô. Hồ Quý Ly truyền ngôi cho Hồ Hán Thương ngay cuối năm ấy và tiếp tục cùng coi chính sự trên ngôi Thái thượng hoàng. Những cải cách về tiền tệ, ruộng đất, nhân lực và việc học đã bắt đầu từ cuối Trần, rồi được tiếp tục dưới triều mới với kết quả không đồng đều. Cuộc tiến công của nhà Minh năm 1406 và các thất bại quân sự năm 1407 kết thúc sự cai trị của nhà Hồ, nhưng cuộc đời và di sản của nhiều nhân vật còn tiếp tục sau đó.",
+      "Nhà Hồ được lập năm 1400 với quốc hiệu Đại Ngu, đặt kinh đô tại Tây Đô. Hồ Quý Ly truyền ngôi cho Hồ Hán Thương ngay cuối năm ấy và tiếp tục cùng coi chính sự trên ngôi Thái thượng hoàng. Những cải cách về tiền tệ, ruộng đất, nhân lực và việc học đã bắt đầu từ cuối thời Trần, rồi được tiếp tục dưới triều mới với kết quả không đồng đều. Cuộc tiến công của nhà Minh năm 1406 và các thất bại quân sự năm 1407 kết thúc sự cai trị của nhà Hồ, nhưng cuộc đời và di sản của nhiều nhân vật còn tiếp tục sau đó.",
     overviewFacts: [
       { label: "Quốc hiệu", value: "Đại Ngu", claimIds: [reform.daiNgu] },
       {

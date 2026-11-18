@@ -6,7 +6,7 @@ export const chapters: StoryChapter[] = [
     periodId: "tran",
     anchorYear: 1225,
     number: "01",
-    title: "Cuối Lý, một trật tự đổi thay",
+    title: "Cuối thời Lý, một trật tự đổi thay",
     question: "Vì sao quyền lực dần chuyển về tay họ Trần?",
     date: date(1200, 1226, "Đầu thế kỷ XIII"),
     placeIds: ["thang-long", "hai-ap"],
@@ -207,7 +207,7 @@ export const chapters: StoryChapter[] = [
         { date: "1397", label: "Hạn điền" },
         { date: "1400", label: "Chuyển triều" },
       ],
-      caption: "Chính sách bắt đầu dưới cuối Trần → tiếp nối sang nhà Hồ",
+      caption: "Chính sách bắt đầu từ cuối thời Trần → tiếp tục dưới triều Hồ",
     },
     takeaway:
       "Ranh giới triều đại giúp định hướng thời gian; các quá trình chính trị và xã hội có thể đi qua ranh giới đó.",

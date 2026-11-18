@@ -502,7 +502,7 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Nguồn bài đăng lại: Bài đăng lại từ cinet.gov.vn; cuối bài ghi Theo TH.
 - Giới hạn: Bài giới thiệu khảo cổ được đăng lại, chưa đọc báo cáo khai quật đầy đủ. Dấu tích nền và hiện vật không tự cho phép phục dựng toàn bộ nghi lễ hoặc kiến trúc nguyên trạng.
 
-## ho-annals-viii — Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối Trần và thời Hồ
+## ho-annals-viii — Đại Việt sử ký toàn thư — Bản kỷ VIII, các mục cuối thời Trần và thời Hồ
 
 - URL: [mở nguồn](https://thuvien.vietnamthuquan.eu/TacPham/dai-viet-su-ky-toan-thu-2585/chuong-24)
 - Tác giả: chưa xác nhận. Cơ quan/nhà xuất bản: Việt Nam Thư Quán — bản chuyển dạng.
@@ -970,7 +970,7 @@ Tạo từ `src/data/sources.ts` bằng `npx tsx scripts/export-editorial-docs.t
 - Loại: museum. Truy cập: 2026-11-17.
 - Vị trí thực sự đọc: Các mục về Liễu–Thuận Thiên, Thái Tông–Thuận Thiên, Nhân Tông–Bảo Thánh..
 - Nguồn bài đăng lại: Bài phổ thông dẫn quan hệ trong hoàng tộc.
-- Giới hạn: Tiêu đề và lời đánh giá là cách trình bày của nguồn; chỉ dùng các quan hệ đã đối chiếu với Toàn thư/Thế thứ. Không sử dụng nhánh cuối Trần hoặc suy đoán đời tư từ bài này.
+- Giới hạn: Tiêu đề và lời đánh giá là cách trình bày của nguồn; chỉ dùng các quan hệ đã đối chiếu với Toàn thư/Thế thứ. Không sử dụng nhánh cuối thời Trần hoặc suy đoán đời tư từ bài này.
 
 ## thieu-de-court — Trần Thiếu Đế [1398–1400]
 

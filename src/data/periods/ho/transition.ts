@@ -4,7 +4,7 @@ import { date, type HistoricalEvent } from "../../schema";
 export const hoTransitionEvent: HistoricalEvent = {
   id: "nha-ho-1400",
   periodIds: ["tran", "ho"],
-  name: "Chuyển từ Trần sang Hồ",
+  name: "Chuyển từ nhà Trần sang nhà Hồ",
   date: date(1400, 1400, "1400"),
   placeIds: ["tay-do"],
   personIds: ["ho-quy-ly", "tran-thieu-de"],
@@ -12,7 +12,7 @@ export const hoTransitionEvent: HistoricalEvent = {
   developmentClaimIds: ["tran-ending"],
   resultClaimIds: [],
   consequence:
-    "Một chính sách bắt đầu trước năm 1400 nên được đặt trong bối cảnh cuối Trần hay chỉ kể trong nhà Hồ?",
+    "Một chính sách bắt đầu trước năm 1400 nên được đặt trong bối cảnh cuối thời Trần hay chỉ kể trong nhà Hồ?",
   consequenceKind: "editorial-question",
   precisionNote: "",
 };

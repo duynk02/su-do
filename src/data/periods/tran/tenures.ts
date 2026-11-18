@@ -9,7 +9,6 @@ export const tenures: RoleTenure[] = rulerRows.map(
     periodId: "tran",
     dynastyId: "tran-dynasty",
     polityId: "dai-viet",
-    emphasis: id === "duong-nhat-le",
     role: "reigning",
     label: `Hoàng đế · ${name}`,
     date: date(start, end, label ?? `${start}–${end}`),

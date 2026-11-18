@@ -247,7 +247,7 @@ export const biographies: Record<Person["id"], BiographyProfile> = {
     title: "Hoàng đế Đại Việt · Thái thượng hoàng",
     life: "1321–1394",
     summary: {
-      text: "Trần Nghệ Tông, tên húy Trần Phủ, là con Trần Minh Tông. Ông lên ngôi năm 1370 sau khi cùng các thành viên hoàng tộc lật đổ Dương Nhật Lễ. Năm 1372, Nghệ Tông truyền ngôi cho em là Trần Kính, tức Trần Duệ Tông, rồi giữ vai trò Thái thượng hoàng đến năm 1394. Ảnh hưởng của ông kéo dài qua nhiều đời vua cuối Trần.",
+      text: "Trần Nghệ Tông, tên húy Trần Phủ, là con Trần Minh Tông. Ông lên ngôi năm 1370 sau khi cùng các thành viên hoàng tộc lật đổ Dương Nhật Lễ. Năm 1372, Nghệ Tông truyền ngôi cho em là Trần Kính, tức Trần Duệ Tông, rồi giữ vai trò Thái thượng hoàng đến năm 1394. Ảnh hưởng của ông kéo dài qua nhiều đời vua cuối thời Trần.",
       refs: genealogy("Trần Nghệ Tông"),
     },
     sections: [
@@ -417,7 +417,7 @@ export const biographies: Record<Person["id"], BiographyProfile> = {
     relatedClaimIds: ["date-disagreement"],
   },
   "tran-thu-do": {
-    title: "Người tổ chức việc chuyển từ Lý sang Trần",
+    title: "Người tổ chức việc chuyển từ nhà Lý sang nhà Trần",
     summary: {
       text: "Trần Thủ Độ giữ chức Điện tiền chỉ huy sứ dưới triều Lý và nắm lực lượng bảo vệ cung đình. Ông cùng những người trong họ Trần tổ chức việc kết hôn giữa Lý Chiêu Hoàng và Trần Cảnh, rồi chuyển giao ngôi vua. Quyền lực của ông gắn với bộ máy cung đình và việc hình thành triều Trần, trong khi người trực tiếp nhận ngôi hoàng đế là Trần Cảnh.",
       refs: [
@@ -522,7 +522,7 @@ export const biographies: Record<Person["id"], BiographyProfile> = {
     },
   },
   "ho-quy-ly": {
-    title: "Người nắm quyền cuối Trần · người lập nhà Hồ",
+    title: "Người nắm quyền cuối thời Trần · người lập nhà Hồ",
     summary: {
       text: "Hồ Quý Ly, còn mang họ Lê trong một giai đoạn, là nhân vật nắm quyền lực ngày càng lớn vào cuối triều Trần. Ông thúc đẩy các chính sách như tiền giấy năm 1396 và hạn điền năm 1397, trước khi thay ngôi nhà Trần năm 1400. Triều Hồ được thành lập với quốc hiệu Đại Ngu, đặt kinh đô ở Tây Đô.",
       refs: [
